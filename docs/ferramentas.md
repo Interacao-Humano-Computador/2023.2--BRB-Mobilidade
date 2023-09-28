@@ -10,3 +10,10 @@
 | <img src="https://i.pinimg.com/736x/3c/01/4a/3c014a1bf0cd1f1f2afe8f1d777c3f7a.jpg" width=60>   | Discord, ferramenta usada para a comunicação do grupo. |
 | <img src="https://i.pinimg.com/564x/60/b9/04/60b904c289a5efab59301fbede03dc84.jpg" width=60>   | VSCode, ferramenta usada para edição da documentação. |
 | <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150" width=60>   | Docsify, ferramenta usada para geração de documentação. |
+
+
+## Histórico de versão
+
+| Versão | Data       | Modificação                             | Autor                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |
+|    1.0   |   28/09/2023   |   Declaração de Ferramentas |  Amanda Abreu|
