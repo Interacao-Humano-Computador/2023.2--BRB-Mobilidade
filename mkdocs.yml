@@ -12,14 +12,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: #191717
-      accent: #8ECDDD
+      primary: #003e7e
+      accent: #003e7e
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: #191717
-      accent: #8ECDDD
+      primary: #003e7e
+      accent: #003e7e
   font:
     text: Roboto
   language: pt
