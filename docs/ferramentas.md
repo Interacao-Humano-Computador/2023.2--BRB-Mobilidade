@@ -1,6 +1,4 @@
-# Planejamento Inicial
-
-## Ferramentas utilizadas ao longo do Projeto
+# Ferramentas utilizadas ao longo do Projeto
 
 | Ferramentas   | Titulo                |
 |--------------|-----------------------|

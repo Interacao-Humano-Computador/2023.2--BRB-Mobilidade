@@ -36,7 +36,13 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento: ferramentas.md , metodologia.md
+  - Planejamento: 
+    - Ferramentas: ferramentas.md
+    - Cronograma: cronogramas.md
+    - Heat- Map: heat.md
+    - Sites Avaliados: lista_Site.md
+    - Processo de Design: process_des.md
+    - Site Escolhido: site.md
 
 markdown_extensions:
   - attr_list
