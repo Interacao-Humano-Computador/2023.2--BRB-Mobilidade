@@ -7,3 +7,8 @@ De acordo com o Heat Map Estabelecido utilizando a ferramenta Excel, foi estabel
 
 <div align= "center">Figura 1: Heat Map <div\>
 
+## Histórico de versão
+
+| Versão | Data       | Modificação                             | Autor                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |
+|    1.0   |   28/09/2023   |   Declaração de Heat Map |  Juan Pablo|
