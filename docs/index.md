@@ -1,17 +1,29 @@
-# Trabalho de IHC
+<h1 align="center"> <b>BRB MOBILIDADE - 2023.2<b> </h1>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Sobre o projeto
+Repositório de projeto da disciplina de Interação-Humano-COmputador. Grupo 05
 
-## Commands
+## Documentação
+A documentação do projeto está disponivel nesse <a href="#" target= "_blank">link</a>.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Integrantes
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Matrícula | Nome                            | GitHub |                                                       Foto                                                       |
+| :-------: | ------------------------------- | -------------- | :------------------------------------------------------------------------------------------------------------: |
+| 211030925 | Amanda Gonçalves S. Abreu | Amandaaaaabreu |  [<img src="https://avatars.githubusercontent.com/u/103958998?v=4" width=50>](https://github.com/Amandaaaaabreu)  |
+| 211030291 | Arthur Rodrigues Sousa  | arthurrsousa |  [https://avatars.githubusercontent.com/u/98758376?v=4](https://github.com/arthurrsousa)  |
+| 211030943 | Artur Jackson Leal Fontinele | artur-jack |   [<img src="https://avatars.githubusercontent.com/u/100738244?v=4" width=50>](https://github.com/artur-jack)   |
+| 211031691 | Fause Carlos Mascarenhas Lustosa Junior | FauseSkyWalker |  [<img src="https://avatars.githubusercontent.com/u/90693864?v=4" width=50>](https://github.com/FauseSkyWalker)     |
+| 222032810 | Felipe Aguiar Hansen | FHansen98 | [<img src="https://avatars.githubusercontent.com/u/101905345?v=4" width=50>](https://github.com/FHansen98) |
+| 211041043 | Juan Pablo Ricarte de Barros | Juan-Ricarte |  [<img src="https://avatars.githubusercontent.com/u/96394878?s=400&u=27ff6b6723f8799ff7b1046f24cc352d02f378fe&v=4" width=50>](https://github.com/Juan-Ricarte)  |
+| 202023888 | Lucas Andrade Lobão | lucaslobao-18| [<img src = "https://avatars.githubusercontent.com/u/83256558?v=4" width=50>] (https://github.com/lucaslobao-18)|
+
+
+## Histórico de versão
+
+| Versão | Data       | Modificação                             | Autor                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |
+|    1.0   |   28/09/2023   |   Iniciando Documentação |  Amanda Abreu, Arthur Rodrigues e Juan Pablo |
+
+
