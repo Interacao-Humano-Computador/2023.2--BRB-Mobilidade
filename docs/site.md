@@ -37,8 +37,8 @@ A Figura 1 ilustra a página inicial do sítio eletrônico.
 
 [2] Plataforma BRB Mobilidade: <https://mobilidade.brb.com.br>. 
 
-## Histórico de Versão
+## Histórico de versão
 
-| Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
-| :------: | :--------: |:-------------------: | :-----------: | :-----:          |
-| 1.0    | 28/09/2023 | Declaração do Site Selecioando | Juan Pablo  | Amanda Abreu |
+| Versão | Data       | Modificação                             | Autor                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |
+|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo|
