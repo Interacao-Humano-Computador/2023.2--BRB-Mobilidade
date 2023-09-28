@@ -36,7 +36,7 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento: ferramentas.md
+  - Planejamento: ferramentas.md , metodologia.md
 
 markdown_extensions:
   - attr_list
