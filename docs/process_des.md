@@ -33,17 +33,17 @@ A engenharia de Usabilidade,construída por Jakob Nielsen é um conjunto de ativ
 
 - Adotar designs paralelos
 
--Adotar o design participativo
+- Adotar o design participativo
 
--Design Coordenado da Interface
+- Design Coordenado da Interface
 
--Aplicação de Diretrizes e Análise Heurística:
+- Aplicação de Diretrizes e Análise Heurística:
 
--Prototipagem
+- Prototipagem
 
--Realizar testes Empíricos:
+- Realizar testes Empíricos:
 
--Design Iterativo:
+- Design Iterativo:
 
 
 ### Engenharia de Usabilidade de Mayhew
