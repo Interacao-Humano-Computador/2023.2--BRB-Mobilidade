@@ -7,3 +7,5 @@ De acordo com o Heat Map Estabelecido utilizando a ferramenta Excel, foi estabel
 <div align= "center">Figura 1: Heat Map <div\>
 
 
+## Bibliografia
+

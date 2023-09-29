@@ -31,14 +31,15 @@ A Figura 1 ilustra a página inicial do sítio eletrônico.
 <p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB MOBILIDADE. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
-## Bibliografia
-
-[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-
-[2] Plataforma BRB Mobilidade: <https://mobilidade.brb.com.br>. 
 
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |
 |    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo|
+
+## Bibliografia
+
+[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+[2] Plataforma BRB Mobilidade: <https://mobilidade.brb.com.br>. 
