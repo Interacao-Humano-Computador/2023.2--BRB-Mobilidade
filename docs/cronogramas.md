@@ -13,3 +13,5 @@
 | 22/11 | Relato dos resultados do Protótipo de Papel| 23/11
 | 27/11 | Relato dos resultados| 28/11
 | 06/12 | Apresentação projeto final| 07/12 - 19/12
+
+## Bibliografia
