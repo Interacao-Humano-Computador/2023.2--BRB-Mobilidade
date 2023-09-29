@@ -30,21 +30,6 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 |    1.1   |   29/09/2023   |   Declaração de Ferramentas |  Amanda Abreu|
 
 ## Bibliografia
-* 
-* https://i.pinimg.com/564x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg
-* https://i.pinimg.com/564x/f9/a6/12/f9a6129b0d10fd385e85a8cc50e25e15.jpg
-* https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg
-  
-  
-  
-  
-  
-  
-  
-
-
-
-<br> <br>
 
 * [https://i.pinimg.com/564x/e6/85/55/e685555d3879dd2407d668086ee7208a.jpg](https://i.pinimg.com/564x/e6/85/55/e685555d3879dd2407d668086ee7208a.jpg)
 * [https://i.pinimg.com/564x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg](https://i.pinimg.com/564x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg)
