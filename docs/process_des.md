@@ -1,5 +1,38 @@
 # Processo de Design
 
-![Heat Map](assets/Processo de desing.png)
+## Introdução
 
-Após analisarmos os Processos de Design mais utilizados, nós optamos por utilizar o Ciclo de Vida em Estrela para nortear o desenvolvimento do projeto. O fato de ele ser centrado em avaliações constantes e permitir uma flexibilidade na ordem em que as atividades são realizadas foi algo que nos chamou atenção, diferente da Engenharia de Usabilidade de Mayhew por exemplo, que tem ali a ordem das atividades bem definidas, um pouco mais "engessado". Nesse sentido, não seria um problema em si o processo trazer as atividades bem definidas e ordenadas, entretanto, nós queremos um pouco mais de liberdade para tomar decisões sobre a ordem e execução das atividades.
+## Modelos
+
+### Ciclo de Vida Simples
+
+
+### Design Contextual;
+
+
+### Design Baseado em Cenários;
+
+
+### Design Centrado na Comunicação;
+
+
+### Ciclo de Vida em Estrela;
+
+
+### Engenharia de Usabilidade de Nielsen;
+
+
+### Engenharia de Usabilidade de Mayhew
+
+## Modelo ultilizado
+
+O modelo escolhido pelo grupo para ser utilizado no projeto foi o ciclo de vida de Mayhew, tendo em vista que o principal motivo da disciplina Interação Humano-computador é a aprendizagem, esse modelo proporciona isso, por ser bastante completo e deixar bem exemplificado como funciona o processo por um todo.
+
+O ciclo também foi escolhido por ser uma opção ideal para equipe que possuem pouco experiência neste tipo de trabalho além de ser o ciclo de vida mais completo em relação aos seus processos , que são iterativos, o que proporciona um contínuo processo de melhoria durante o desenvolvimento 
+
+### Bibliografia
+
+<!-- - BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
+</div> -->
+
+> BARBOSA, Simone; DINIZ, Bruno. **Interação Humano - Computador**, Editora Elsevier, Rio de Janeiro, 2010.
