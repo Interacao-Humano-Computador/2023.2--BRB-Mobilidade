@@ -38,7 +38,7 @@ nav:
   - Início: index.md
   - Planejamento: 
     - Ferramentas: ferramentas.md
-    - Cronograma planejado: cronogramas_planejado.md
+    - Cronograma planejado: cronogramas.md
     - Cronograma executado: cronograma_executado.md
     - Heat- Map: heat.md
     - Sites Avaliados: lista_Site.md
