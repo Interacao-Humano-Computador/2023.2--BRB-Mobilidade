@@ -1,4 +1,3 @@
-# 2023.2-Grupo05
 
 # BRB MOBILIDADE - 2023.2
 Repositório de projeto da disciplina de Interação-Humano-Computador. Grupo 05
