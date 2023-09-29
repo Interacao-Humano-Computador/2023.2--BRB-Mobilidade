@@ -13,7 +13,7 @@ Esse site foi projetado para ajudar contribuintes e empresas a entender e cumpri
 ## [Inep](https://www.gov.br/inep/pt-br)
 O site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) é uma plataforma online do governo brasileiro que disponibiliza informações e serviços relacionados à educação. Suas principais funcionalidades incluem a divulgação de resultados de avaliações, consulta de notas, inscrição em exames, acesso a dados educacionais, pesquisas, informações sobre o Censo Escolar, legislação educacional, provas anteriores, notícias e orientações. <br>
 É uma ferramenta essencial para estudantes, educadores e pesquisadores interessados no sistema educacional brasileiro.
-## [Ines](https://www.gov.br/ines/pt-br)
+## [INES](https://www.gov.br/ines/pt-br)
 O site do INES (Instituto Nacional de Educação de Surdos) é uma plataforma online que oferece informações e recursos relacionados à educação e inclusão de surdos no Brasil. Suas funcionalidades incluem informações institucionais, detalhes sobre serviços e programas, documentação e normativas, recursos para surdos, notícias e eventos, acesso à Língua Brasileira de Sinais (Libras), informações de contato e ênfase na acessibilidade. O site visa apoiar a comunidade surda e promover a inclusão por meio de recursos educacionais e informativos acessíveis.
 ## [Receita Federal](https://www.gov.br/receitafederal/pt-br)
 O site da Receita Federal é uma plataforma online oferecida pela agência governamental responsável pela administração de impostos federais em um país. Suas funcionalidades incluem informações tributárias, acesso a documentos e formulários, calculadoras de impostos, consulta de situação fiscal, acompanhamento de restituições, serviços online para transações fiscais, publicações e notícias econômicas, informações sobre programas de incentivo fiscal e recursos educacionais. É uma ferramenta fundamental para que contribuintes e empresas cumpram obrigações fiscais e obtenham informações relacionadas a impostos e finanças governamentais.
@@ -35,4 +35,13 @@ O site da Escola de Música de Brasília é uma plataforma online dedicada a for
 |    1.1  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu|
 
 ## Bibliografia
+* [https://www.gov.br/ines/pt-br](https://www.gov.br/ines/pt-br)
+* [https://www.gov.br/receitafederal/pt-br](https://www.gov.br/receitafederal/pt-br)
+* [https://www.gov.br/inep/pt-br](https://www.gov.br/inep/pt-br)
+* [Mhttps://www.gov.br/fazenda/pt-br](https://www.gov.br/fazenda/pt-br)
+* [https://sae.digital](https://sae.digital)
+* [http://www.memorialjk.com.br](http://www.memorialjk.com.br)
+* [https://www.escolademusicadebrasilia.com](https://www.escolademusicadebrasilia.com)
+
+
 
