@@ -20,18 +20,18 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 1: Cronograma com as principais entregas do semestre (Fonte: autor, 2023).</p>
 </div>
 
-## Entrega 1
+## Cronograma Entrega 1
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| [Sites avaliados]() | 30/08 - 01/09 | Todos | 02/09 | Todos |
-| [Site selecionado]() | 04/09 | Todos | 05/09 | Todos |
+| [Sites avaliados](lista_Site.md) | 30/08 - 01/09 | Todos | 02/09 | Todos |
+| [Site selecionado](site.md) | 04/09 | Todos | 05/09 | Todos |
 | [Heatmap](heat.md) | 02/09 | Todos | 02/09 | Todos |
-| [Ferramentas]() | 02/09 | Todos | 03/09 | Amanda |
-| [Processos de Design]() | 22/09 | Lucas e Fause | 23/09 | Artur Jackson |
+| [Ferramentas](ferramentas.md) | 02/09 | Todos | 03/09 | Amanda |
+| [Processos de Design](process_des.md) | 22/09 | Lucas e Fause | 23/09 | Artur Jackson |
 | Criação do GitPage | 16/09 | Felipe | 17/09  | Lucas |
 | [Documentar Equipe]() | 16/09 | Arthur Sousa, Amanda e Juan | 17/09 | Fause |
-| [Cronograma]() | 21/09 | Arthur Sousa e Artur Jackson | 22/09 | Juan |
+| [Cronograma](cronogramas.md) | 21/09 | Arthur Sousa e Artur Jackson | 22/09 | Juan |
 | [Gravação da apresentação]() | 28/09 | Todos | 28/09 | Todos |
 | Edição da apresentação | 29/09 | Todos | 29/09 - 01/10 | Todos |
 
@@ -39,7 +39,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 2: Cronograma da Entrega 1 (Fonte: autor, 2023).</p>
 </div>
 
-## Entrega 2
+## Cronograma Entrega 2
 
 | Atividade | Período para desenvolvimento | Autores| Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
@@ -54,7 +54,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 3: Cronograma da Entrega 2 (Fonte: autor, 2023).</p>
 </div>
 
-## Entrega 3
+## Cronograma Entrega 3
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
@@ -69,7 +69,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 4: Cronograma da Entrega 3 (Fonte: autor, 2023).</p>
 </div>
 
-## Entrega 4
+## Cronograma Entrega 4
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
@@ -84,17 +84,97 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 5: Cronograma da Entrega 4 (Fonte: autor, 2023).</p>
 </div>
 
-## Entrega 5
+## Cronograma Entrega 5
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| [ Relatar os resultados do Story Board]() | 31/10 - 04/11 | Felipe e Fause | 04/11 | Lucas |
-| [ Relatar a análise de tarefas]() | 31/10 - 04/11 | Arthur Sousa e Artur Jackson | 04/11 | Felipe |
-| [ Planejar a avaliação do protótipo de papel]() | 31/10 - 04/11 | Amanda e Juan | 04/11 | Artur Jackson |
-| [ Planejar o relato dos resultados da avaliação do protótipo de papel]() | 31/10 - 04/11 | Lucas e Fause | 04/11 | Amanda |
-| [ Gravação da apresentação]() | 04/11 - 06/10 | Todos | 06/11 | Todos |
+| [Relatar os resultados do Story Board]() | 31/10 - 04/11 | Felipe e Fause | 04/11 | Lucas |
+| [Relatar a análise de tarefas]() | 31/10 - 04/11 | Arthur Sousa e Artur Jackson | 04/11 | Felipe |
+| [Planejar a avaliação do protótipo de papel]() | 31/10 - 04/11 | Amanda e Juan | 04/11 | Artur Jackson |
+| [Planejar o relato dos resultados da avaliação do protótipo de papel]() | 31/10 - 04/11 | Lucas e Fause | 04/11 | Amanda |
+| [Gravação da apresentação]() | 04/11 - 06/10 | Todos | 06/11 | Todos |
 | Edição da apresentação | 06/11 - 07/11 | Todos | 07/11 | Todos |
 
 <div style="text-align: center">
     <p> Tabela 6: Cronograma da Entrega 5 (Fonte: autor, 2023).</p>
 </div>
+
+
+## Cronograma Entrega 6.1
+
+| Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|-----------|
+| [Verificação dos artefatos da Etapa 1]() | 09/11 - 11/11 | Juan e Lucas | 11/11 - 12/11 | Arthur Sousa |
+| [Verificação dos artefatos da Etapa 2]() | 09/11 - 11/11 | Artur Jackson e Amanda | 11/11 - 12/11 | Arthur Sousa |
+| [Verificação dos artefatos da Etapa 3]() | 09/11 - 11/11 | Felipe | 11/11 - 12/11 | Lucas |
+| [Verificação dos artefatos da Etapa 4]() | 09/11 - 11/11 | Fause | 11/11 - 12/11 | Arthur Sousa |
+| [Verificação dos artefatos da Etapa 5]() | 09/11 - 11/11 | Lucas Gobbi e Igor Penha | 11/11 - 12/11 | Fause |
+| [Gravação da apresentação]() | 11/11 - 13/11 | Todos | 13/11 | Todos |
+| 9. Edição da apresentação | 13/11 - 14/11 | Todos | 14/11 | Todos |
+
+<div style="text-align: center">
+    <p> Tabela 7: Cronograma da Entrega 6.1 (Fonte: autor, 2023).</p>
+</div>
+
+## Cronograma Entrega 7
+
+| Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
+| ----------- | :---------: | --------- | :---------: | ----------- |
+| [Relato dos resultados do Protótipo de Papel]() | 16/11 - 18/11 | Arthur Sousa e Amanda | 18/11 - 19/11 | Juan | 
+| [Planejamento da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Juan e Fause | 18/11 - 19/11 | Amanda | 
+| [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Artur Jackson, Felipe e Lucas | 18/11 - 19/11 | Arthur Sousa | 
+| [Gravação da apresentação]() | 19/11 - 20/11 | Todos | 20/11 | Todos | 
+| 6. Edição da apresentação | 21/11 | Todos | 21/11 | Todos |
+
+<div style="text-align: center">
+    <p> Tabela 8: Cronograma da Entrega 7 (Fonte: autor, 2023).</p>
+</div>
+
+## Cronograma Entrega 8
+
+| Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
+| ----------- | :---------: | --------- | :---------: | ----------- |
+| [Relato dos resultados da avaliação do protótipo de alta fidelidade]() | 23/11 - 24/11 | Todos | 24/11 | Arthur Sousa | 
+| [Gravação da apresentação]() | 25/11 - 26/11 | Todos | 26/11 | Todos |
+| Edição da apresentação | 26/11 | Todos | 26/11 | Todos |
+
+<div style="text-align: center">
+    <p> Tabela 9: Cronograma da Entrega 8 (Fonte: autor, 2023).</p>
+</div>
+
+## Cronograma Entrega 6.2
+
+| Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
+|-----------|------------------|---------|-----------|-----------|
+| [Verificação dos artefatos da Etapa 1]() | 28/11 | Felipe | 29/11 | Arthur Sousa |
+| [Verificação dos artefatos da Etapa 2]() | 28/11 | Fause | 29/11 | Amanda |
+| [Verificação dos artefatos da Etapa 3]() | 28/11 | Juan | 29/11 | Felipe |
+| [Verificação dos artefatos da Etapa 4]() | 28/11 | Amanda | 29/11 | Artur Jackson |
+| [Verificação dos artefatos da Etapa 5]() | 28/11 | Arthur Sousa | 29/11 | Juan |
+| [Verificação dos artefatos da Etapa 7]() | 28/11 | Artur Jackson | 29/11 | Lucas |
+| [Gravação da apresentação]() | 29/11 | Todos | 29/11 | Todos |
+| Edição da apresentação | 29/11 | Todos | 29/11 | Todos |
+
+<div style="text-align: center">
+    <p> Tabela 10: Cronograma da Entrega 6.2 (Fonte: autor, 2023).</p>
+</div>
+
+## Cronograma Entrega final
+
+| Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
+| ----------- | :---------: | --------- | :---------: | ----------- |
+| Correção dos artefatos | 30/11 - 03/12 | Todos | 03/11 | Arthur Sousa | 
+| Criação do documento final | 30/11 - 03/12 | Todos | 03/11 | Felipe | 
+| Gravação da apresentação | 03/11 - 04/11 | Todos | 04/11 | Todos | 
+| Edição da apresentação | 04/11 - 05/11 | Todos | 05/11 | Todos |
+
+<div style="text-align: center">
+    <p> Tabela 11: Cronograma da Entrega final (Fonte: autor, 2023).</p>
+</div>
+
+
+## Histórico de versão
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan](https://github.com/Juan-Ricarte)|
