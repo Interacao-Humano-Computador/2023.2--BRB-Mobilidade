@@ -20,3 +20,9 @@ Cronograma que descreve todas as atividades já realizadas, com suas datas e aut
 <div style="text-align: center">
     <p> Tabela 1: Cronograma do Ponto de Controle 1 (Fonte: autor, 2023).</p>
 </div>
+
+## Histórico de versão
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan](https://github.com/Juan-Ricarte)|
