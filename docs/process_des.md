@@ -75,7 +75,7 @@ O ciclo também foi escolhido por ser uma opção ideal para equipe que possuem 
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   28/09/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)| --------------- |
-|    1.0   |   28/09/2023   |   Adicionado alguns ciclos de vida e o modelo escolhido |  [Fause Carlos](https://github.com/FauseSkyWalker)| ------------ |
+|    1.0   |   28/09/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)|------------------|
+|    1.0   |   28/09/2023   |   Adicionado alguns ciclos de vida e o modelo escolhido |  [Fause Carlos](https://github.com/FauseSkyWalker)|------------------|
 
 ## Bibliografia

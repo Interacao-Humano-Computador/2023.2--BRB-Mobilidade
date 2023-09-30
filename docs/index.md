@@ -1,7 +1,7 @@
 <h1 align="center"> <b>BRB MOBILIDADE - 2023.2<b> </h1>
 
 ## Sobre o projeto
-Repositório de projeto da disciplina de Interação-Humano-COmputador. Grupo 05
+Repositório de projeto da disciplina de Interação-Humano-Computador. Grupo 05
 
 ## Documentação
 A documentação do projeto está disponivel nesse <a href="#" target= "_blank">link</a>.
@@ -22,8 +22,9 @@ A documentação do projeto está disponivel nesse <a href="#" target= "_blank">
 
 ## Histórico de versão
 
-| Versão | Data       | Modificação                             | Autor                         |
-| ------ | ---------- | --------------------------------------- | ----------------------------- |
-|    1.0   |   28/09/2023   |   Iniciando Documentação |  Amanda Abreu, Arthur Rodrigues e Juan Pablo |
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
+|    1.0   |   28/09/2023   |   Iniciando Documentação |  Amanda Abreu, Arthur Rodrigues e Juan Pablo |------------------|
+|    1.1   |   29/09/2023   |   Correção ortografia |  Felipe Hansen |------------------|
 
 

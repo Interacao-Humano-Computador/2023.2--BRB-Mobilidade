@@ -34,9 +34,9 @@ A Figura 1 ilustra a página inicial do sítio eletrônico.
 
 ## Histórico de versão
 
-| Versão | Data       | Modificação                             | Autor                         |
-| ------ | ---------- | --------------------------------------- | ----------------------------- |
-|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo|
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
+|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo|------------------|
 
 ## Bibliografia
 

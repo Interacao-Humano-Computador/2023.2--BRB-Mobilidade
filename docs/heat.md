@@ -15,7 +15,7 @@ De acordo com o Heat Map Estabelecido utilizando a ferramenta Excel, foi estabel
 
 ## Historico de versão
 
-| Versão | Data       | Modificação                             | Autor                         |
-| ------ | ---------- | --------------------------------------- | ----------------------------- |
-|    1.0  |   28/09/2023   |   Site selecionado |  Juan Pablo|
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
+|    1.0  |   28/09/2023   |   Site selecionado |  Juan Pablo|------------------|
 

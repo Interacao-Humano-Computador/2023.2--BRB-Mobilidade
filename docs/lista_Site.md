@@ -83,8 +83,8 @@ O site da Escola de Música de Brasília é uma plataforma online dedicada a for
 
 ## Historico de versão
 
-| Versão | Data       | Modificação                             | Autor                         |
-| ------ | ---------- | --------------------------------------- | ----------------------------- |
-|    1.0  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu|
-|    1.1  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu|
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
+|    1.0  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu|------------------|
+|    1.1  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu|------------------|
 

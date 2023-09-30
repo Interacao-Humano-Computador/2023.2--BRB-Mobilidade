@@ -24,10 +24,10 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 
 ## Histórico de versão
 
-| Versão | Data       | Modificação                             | Autor                         |
-| ------ | ---------- | --------------------------------------- | ----------------------------- |
-|    1.0   |   28/09/2023   |   Declaração de Ferramentas |  Amanda Abreu|
-|    1.1   |   29/09/2023   |   Declaração de Ferramentas |  Amanda Abreu|
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
+|    1.0   |   28/09/2023   |   Declaração de Ferramentas |  Amanda Abreu|------------------|
+|    1.1   |   29/09/2023   |   Declaração de Ferramentas |  Amanda Abreu|------------------|
 
 ## Bibliografia
 
