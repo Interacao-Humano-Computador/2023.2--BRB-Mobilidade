@@ -4,8 +4,18 @@ De acordo com o Heat Map Estabelecido utilizando a ferramenta Excel, foi estabel
 
 
 ![Heat Map](assets/heat.jpg)
-<div align= "center">Figura 1: Heat Map <div\>
+<div style= "text-align: center">
+<p>Figura 1: Heat Map</p> 
+</div>
 
 
 ## Bibliografia
+
+
+
+## Historico de versão
+
+| Versão | Data       | Modificação                             | Autor                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |
+|    1.0  |   28/09/2023   |   Site selecionado |  Juan Pablo|
 
