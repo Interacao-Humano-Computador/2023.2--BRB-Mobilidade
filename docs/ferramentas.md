@@ -13,7 +13,7 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 | <img src="https://i.pinimg.com/564x/9c/d5/00/9cd500ccd6f558737c0d7f40773ec592.jpg" width=60>   | YouTube, ferramenta usada para postar as gravações solicitadas. |
 | <img src="https://i.pinimg.com/736x/3c/01/4a/3c014a1bf0cd1f1f2afe8f1d777c3f7a.jpg" width=60>   | Discord, ferramenta usada para a comunicação do grupo. |
 | <img src="https://i.pinimg.com/564x/60/b9/04/60b904c289a5efab59301fbede03dc84.jpg" width=60>   | VSCode, ferramenta usada para edição da documentação. |
-| <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150" width=60>   | Docsify, ferramenta usada para geração de documentação. |
+| <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150" width=60>   | Mkdocs, ferramenta usada para geração de documentação. |
 | <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png" width=60>   | Trello, ferramenta usada para organização da equipe e do projeto. |
 | <img src="https://1000logos.net/wp-content/uploads/2023/01/Google-Docs-logo.png" width=60>   | Google Docs, ferramenta usada para o planejamento e documentação da ata. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width=60>   | Google Chrome, navegador utilizados para avaliar os sites . |
