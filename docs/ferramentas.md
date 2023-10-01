@@ -36,7 +36,6 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 * [https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg](https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg)
 * [https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg](https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg)
 * [https://i.pinimg.com/736x/3c/01/4a/3c014a1bf0cd1f1f2afe8f1d777c3f7a.jpg](https://i.pinimg.com/736x/3c/01/4a/3c014a1bf0cd1f1f2afe8f1d777c3f7a.jpg)
-* [https://i.pinimg.com/564x/60/b9/04/60b904c289a5efab59301fbede03dc84.jpg](hhttps://i.pinimg.com/564x/60/b9/04/60b904c289a5efab59301fbede03dc84.jpg)
 * [https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150)
 * [https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png](https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png)
 * [https://1000logos.net/wp-content/uploads/2023/01/Google-Docs-logo.png](https://1000logos.net/wp-content/uploads/2023/01/Google-Docs-logo.png)
