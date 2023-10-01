@@ -12,6 +12,10 @@ Ciclo de vida simplificado que gira em torno de 4 atividades básicas (Identific
 
 ![Image title](assets/simples.png)
 
+Figura 1: Diagram do ciclo de vida simples
+
+Fonte: Barbosa e silva 2010
+
 ### Design Contextual;
 O design contextual é um método de design de Interação Humano-Computador (IHC) que se concentra na compreensão profunda das necessidades dos usuários por meio de uma análise detalhada do contexto de uso. Esse processo envolve várias etapas, incluindo investigação contextual, modelagem do trabalho, consolidação de dados, redesenho do trabalho, projeto da interface do usuário, prototipagem e teste com os usuários. Na investigação contextual, os designers buscam conhecer os usuários, suas necessidades e como eles realizam suas tarefas diárias no ambiente de trabalho. Essas informações são cruciais para informar o processo de design. A partir disso, são desenvolvidos modelos de trabalho que representam o trabalho de cada usuário investigado, e esses modelos são consolidados para criar um conjunto de dados corporativos que orienta o projeto de IHC.
 
@@ -19,6 +23,11 @@ O design contextual é um método de design de Interação Humano-Computador (IH
 O design baseado em cenários utiliza histórias ou cenários para representar as atividades dos usuários e orientar todas as etapas do desenvolvimento de uma solução. Esses cenários são narrativas simples sobre como as pessoas realizam tarefas, escritas em linguagem natural, o que facilita a participação de todos os envolvidos no sistema no processo de design. Ao escrever, revisar e discutir esses cenários, a equipe de design e os usuários têm a oportunidade de explorar como a tecnologia existente afeta as atividades dos usuários e como o sistema em desenvolvimento pode influenciá-las. Os cenários também estimulam a criatividade, permitindo que a equipe explore diferentes caminhos e ideias alternativas. Esse processo é iterativo e inclui a análise do problema, a concepção da solução de IHC, a prototipagem e a avaliação da solução proposta.
 
 ![Image title](assets/baseado.png)
+
+
+Figura 2: Diagram do ciclo Baseado em Cenários
+
+Fonte: Barbosa e silva 2010
 
 ### Design Centrado na Comunicação;
 O design centrado na comunicação abrange três atividades principais: análise do usuário, domínio e contexto de uso, projeto de interação e interface, e avaliação da solução projetada. Ele enfatiza a importância de antecipar as dúvidas dos usuários durante a interação e projetar a interface de forma a evitar ou resolver essas dúvidas. Além disso, destaca a necessidade de projetar a conversa entre usuário e sistema, representando-a adequadamente na interface. Embora os usuários desempenhem um papel fundamental nas atividades de análise e avaliação, a responsabilidade de elaborar a metacomunicação e a solução de IHC está sobre os designers, com base nas informações obtidas com a participação dos usuários ao longo do processo.
@@ -28,6 +37,11 @@ O design centrado na comunicação abrange três atividades principais: análise
 Este modelo, desenvolvido por Hix e Hartson, não possui uma ordem padronizada ao iniciar as atividades, dessa maneira é possível iniciar o processo a partir de qualquer ponta da estrela, isso dependendo de qual sistema está sendo analisado. Tem como principal objetivo a avaliação, que está localizada no centro do diagrama, reforçando a necessidade desta etapa durante todo o processo
 
 ![Image title](assets/estrela.jpg)
+
+Figura 3: Diagram do  Ciclo de Vida em Estrela
+
+Fonte: Barbosa e silva 2010
+
 ### Engenharia de Usabilidade de Nielsen;
 
 A engenharia de Usabilidade,construída por Jakob Nielsen é um conjunto de atividades que são necessárias durante o ciclo de vida do produto, mais especificamente no começo do projeto.Sendo então as atividades:
@@ -65,6 +79,10 @@ Já a engenharia de Usabilidade, Desenvolvida por Deborah Mayhew, é uma soluç�
 - Já a instalação são coletados as opiniões e feedbacks dos usuários, dessa forma criando um parâmetro para melhoria em versões futuras
 
 ![Image title](assets/MayHew.png)
+
+Figura 4: Diagram da Engenharia de Usabilidade de Mayhew
+
+Fonte: Barbosa e silva 2010
 
 ## Modelo ultilizado
 
