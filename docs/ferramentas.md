@@ -26,8 +26,8 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0   |   28/09/2023   |   Declaração de Ferramentas |  Amanda Abreu|------------------|
-|    1.1   |   29/09/2023   |   Declaração de Ferramentas |  Amanda Abreu|------------------|
+|    1.0   |   28/09/2023   |   Declaração de Ferramentas |  Amanda Abreu | [Artur Jackson](https://github.com/artur-jack) |
+|    1.1   |   29/09/2023   |   Declaração de Ferramentas |  Amanda Abreu | [Artur Jackson](https://github.com/artur-jack) |
 
 ## Bibliografia
 

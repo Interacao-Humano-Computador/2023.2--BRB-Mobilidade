@@ -36,7 +36,7 @@ A Figura 1 ilustra a página inicial do sítio eletrônico.
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo|------------------|
+|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo| Todos |
 
 ## Bibliografia
 
