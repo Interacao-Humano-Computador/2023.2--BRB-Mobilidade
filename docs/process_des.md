@@ -72,12 +72,6 @@ O modelo escolhido pelo grupo para ser utilizado no projeto foi o ciclo de vida 
 
 O ciclo também foi escolhido por ser uma opção ideal para equipe que possuem pouco experiência neste tipo de trabalho além de ser o ciclo de vida mais completo em relação aos seus processos , que são iterativos, o que proporciona um contínuo processo de melhoria durante o desenvolvimento 
 
-### Bibliografia
-
-<!-- - BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
-</div> -->
-
-> BARBOSA, Simone; DINIZ, Bruno. **Interação Humano - Computador**, Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de versão
 
@@ -88,3 +82,8 @@ O ciclo também foi escolhido por ser uma opção ideal para equipe que possuem 
 |    1.1   |   30/09/2023   |   Adicionado a introdução  e o ciclo de vida simples até o centrado a comunicação |  [Lucas Lobão](https://github.com/lucaslobao-18)|[Fause Carlos](https://github.com/FauseSkyWalker)|
 
 ## Bibliografia
+
+<!-- - BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
+</div> -->
+
+> BARBOSA, Simone; DINIZ, Bruno. **Interação Humano - Computador**, Editora Elsevier, Rio de Janeiro, 2010.
