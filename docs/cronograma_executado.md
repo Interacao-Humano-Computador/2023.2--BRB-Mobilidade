@@ -14,8 +14,8 @@ Cronograma que descreve todas as atividades já realizadas, com suas datas e aut
 | Criação do GitPage | 16/09 | Felipe | 17/09  | Lucas |
 | [Documentar Equipe](index.md) | 16/09 | Arthur Sousa, Amanda e Juan | 17/09 | Fause |
 | [Cronograma](cronogramas.md) | 29/09 | Arthur Sousa e Artur Jackson | 29/09 | Juan |
-| [Gravação da apresentação]() | 01/09 | Todos | 01/09 | Todos |
-| Edição da apresentação | 01/09 | Todos | 29/09 - 01/10 | Todos |
+| [Gravação da apresentação]() | 01/10 | Todos | 01/10 | Todos |
+| Edição da apresentação | 01/10 | Todos | 29/09 - 01/10 | Todos |
 
 <div style="text-align: center">
     <p> Tabela 1: Cronograma do Ponto de Controle 1 (Fonte: autor, 2023).</p>
