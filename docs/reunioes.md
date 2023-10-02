@@ -19,4 +19,4 @@ O vídeo da reunião está disponivel nesse <a href="https://unbbr.sharepoint.co
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0   |   29/09/2023   |   Declaração das Atas de Reunião |  Felipe Hansen |------------------|
+|    1.0   |   29/09/2023   |   Declaração das Atas de Reunião |  Felipe Hansen |Amanda Abreu|
