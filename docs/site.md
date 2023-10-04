@@ -60,7 +60,9 @@ Dentre os sítios analisados de forma individual, o escolhido foi o "[BRB Mobili
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo| Todos |
+|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo| Amanda Abreu |
+|    2.0   |   04/10/2023   |   Declaração do Site Selecionado |  Juan Pablo| Amanda Abreu |
+
 
 ## Bibliografia
 
