@@ -6,9 +6,14 @@ O objetivo deste tópico é apresentar uma análise dos sites considerados, com 
 
 Antes de chegarmos à conclusão de que o Brb Mobilidade era a opção mais adequada, o grupo apresentou alguns outros sites que também poderiam ser relevantes. Abaixo há uma lista de todos os sites que foram avaliados. 
 
-## [Ministério da Fazenda](https://www.gov.br/fazenda/pt-br)
-O site da Fazenda é uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  <br>
+## [GOV](https://www.gov.br/fazenda/pt-br)
+O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  <br>
 Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes.
+O site foi avaliado de acordo com o método de inspeção heurística,abaixo adcionamos alguns:
+- Ajuda e documentação
+- Controle e liberdade do usuário
+- Reconhecimento em vez de memorização
+- Prevenção de erros
 
 ![Ministério da Fazenda](assets/minis%20fazenda.png)
 
@@ -21,6 +26,11 @@ Esse site foi projetado para ajudar contribuintes e empresas a entender e cumpri
 ## [Inep](https://www.gov.br/inep/pt-br)
 O site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) é uma plataforma online do governo brasileiro que disponibiliza informações e serviços relacionados à educação. Suas principais funcionalidades incluem a divulgação de resultados de avaliações, consulta de notas, inscrição em exames, acesso a dados educacionais, pesquisas, informações sobre o Censo Escolar, legislação educacional, provas anteriores, notícias e orientações. <br>
 É uma ferramenta essencial para estudantes, educadores e pesquisadores interessados no sistema educacional brasileiro.
+O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns:
+- Controle e Liberdade do Usuário
+- Prevenção de Erros
+- Reconhecimento, Diagnóstico e Recuperação de Erros
+- Ajuda e Documentação 
 
 ![Inep](assets/inep.png)
 
@@ -29,19 +39,16 @@ O site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio T
 </div>
 
 
-## [Ines](https://www.gov.br/ines/pt-br)
-O site do INES (Instituto Nacional de Educação de Surdos) é uma plataforma online que oferece informações e recursos relacionados à educação e inclusão de surdos no Brasil. Suas funcionalidades incluem informações institucionais, detalhes sobre serviços e programas, documentação e normativas, recursos para surdos, notícias e eventos, acesso à Língua Brasileira de Sinais (Libras), informações de contato e ênfase na acessibilidade. O site visa apoiar a comunidade surda e promover a inclusão por meio de recursos educacionais e informativos acessíveis.
-
-![Ines](assets/INES.png)
-
-<div style= "text-align: center">
-<p>Figura 3: Ines</p>
-</div>
 
 
 ## [Receita Federal](https://www.gov.br/receitafederal/pt-br)
-O site da Receita Federal é uma plataforma online oferecida pela agência governamental responsável pela administração de impostos federais em um país. Suas funcionalidades incluem informações tributárias, acesso a documentos e formulários, calculadoras de impostos, consulta de situação fiscal, acompanhamento de restituições, serviços online para transações fiscais, publicações e notícias econômicas, informações sobre programas de incentivo fiscal e recursos educacionais. É uma ferramenta fundamental para que contribuintes e empresas cumpram obrigações fiscais e obtenham informações relacionadas a impostos e finanças governamentais.
-
+O site da Receita Federal é uma plataforma online oferecida pela agência governamental responsável pela administração de impostos federais em um país. Suas funcionalidades incluem informações tributárias, acesso a documentos e formulários, calculadoras de impostos, consulta de situação fiscal, acompanhamento de restituições, serviços online para transações fiscais, publicações e notícias econômicas, informações sobre programas de incentivo fiscal e recursos educacionais. É uma ferramenta fundamental para que contribuintes e empresas cumpram obrigações fiscais e obtenham informações relacionadas a impostos e finanças governamentais. <br>
+O site foi avaliado de acordo com os 10 método de inspeção heurística, abaixo adicionamos alguns:
+- Flexibilidade e Eficiência de Uso
+- Design Estético e Minimalista
+- Consistência e Padronização
+- Controle e Liberdade do Usuário
+ 
 ![Receita Federal](assets/receita%20federal.png)
 
 <div style= "text-align: center">
@@ -50,7 +57,13 @@ O site da Receita Federal é uma plataforma online oferecida pela agência gover
 
 
 ## [SAE](https://sae.digital)
-O site do SAE (Sistema de Apoio ao Estudante) é uma plataforma online usada por instituições educacionais para fornecer suporte e serviços aos estudantes. Suas funcionalidades incluem matrícula, acompanhamento acadêmico, apoio financeiro, comunicação, recursos educacionais, serviços de saúde, agendamento de atendimentos, gerenciamento de documentos e suporte técnico. O objetivo é melhorar a experiência dos estudantes, simplificando processos e fornecendo informações relevantes para o sucesso acadêmico. As funcionalidades podem variar de acordo com a instituição.
+O site do SAE (Sistema de Apoio ao Estudante) é uma plataforma online usada por instituições educacionais para fornecer suporte e serviços aos estudantes. Suas funcionalidades incluem matrícula, acompanhamento acadêmico, apoio financeiro, comunicação, recursos educacionais, serviços de saúde, agendamento de atendimentos, gerenciamento de documentos e suporte técnico. O objetivo é melhorar a experiência dos estudantes, simplificando processos e fornecendo informações relevantes para o sucesso acadêmico. As funcionalidades podem variar de acordo com a instituição. <br>
+O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns:
+- Reconhecimento, Diagnóstico e Recuperação de Erros
+- Prevenção de Erros
+- Visibilidade do Status do Sistema
+- Ajuda e Documentação 
+   
 
 ![SAE](assets/sae.png)
 
@@ -61,6 +74,11 @@ O site do SAE (Sistema de Apoio ao Estudante) é uma plataforma online usada por
 
 ## [Memorial JK](http://www.memorialjk.com.br)
 O site do Memorial JK é a plataforma online oficial dedicada à preservação da memória e legado do ex-presidente brasileiro Juscelino Kubitschek. Suas funcionalidades incluem fornecer informações históricas sobre a vida de Juscelino Kubitschek, possibilitar o agendamento de visitas ao Memorial, apresentar exposições virtuais, divulgar eventos e atividades culturais, fornecer informações de contato, apoiar pesquisas, exibir galerias de fotos e contar a história do próprio Memorial JK. Suas funcionalidades podem variar com o tempo e de acordo com a gestão do Memorial. 
+O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns:
+- Visibilidade do estado do sistema
+- Consistência e padronização
+- Projeto estético e minimalista
+- Ajuda e documentação
 
 ![Memorial JK](assets/memorial%20jk.png)
 
