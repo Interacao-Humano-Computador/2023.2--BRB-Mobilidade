@@ -44,6 +44,7 @@ nav:
     - Sites Avaliados: lista_Site.md
     - Processo de Design: process_des.md
     - Site Escolhido: site.md
+  - Encontros: reunioes.md
 
 markdown_extensions:
   - attr_list
