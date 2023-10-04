@@ -15,15 +15,8 @@ Após a seleção individual, as sugestões foram debatidas pelo grupo, consider
 
 ## BRB MOBILIDADE
 
-Dentre os sítios analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atenders aos usuários do cartão de mobilidade no transporte úblico do Distrito Federal com o inutito de unificar o processo de bilhetagem, constando algumas falhas:
+Dentre os sítios analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atenders aos usuários do cartão de mobilidade no transporte úblico do Distrito Federal com o inutito de unificar o processo de bilhetagem.
 
-- Condição do sistema
-- Autonomia e liberdade do usuário
-- Adaptabilidade e eficácia na utilização
-- Aparência visual e abordagem minimalista do design
-- Assistência e informações de suporte
-
-A Figura 1 ilustra a página inicial do sítio eletrônico.
 
 ![Imagem do BRB Mobilidade](assets/brb.png)
 
@@ -31,12 +24,44 @@ A Figura 1 ilustra a página inicial do sítio eletrônico.
 <p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB MOBILIDADE. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
+## Problemas Encontrados:
+
+- Aparência visual e abordagem minimalista do design
+![Aparência visual do BRB Mobilidade](assets/troca.png)
+<div style="text-align: center">
+<p>Figura 2 - Aba "troca de Instituição" - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+</div>
+
+- Autonomia e liberdade do usuário:
+![Autonomia](assets/erro.png)
+<div style="text-align: center">
+<p>Figura 3 - Usuário não autenticado - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+</div>
+
+
+- Adaptabilidade e eficácia na utilização e Acessibilidade:
+![acessibilidade](assets/libras.png)
+<div style="text-align: center">
+<p>Figura 4 - Acessibilidade - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+</div>
+
+
+
+- Assistência e informações de suporte:
+![erro sem assistência](assets/erro2.png)
+<div style="text-align: center">
+<p>Figura 5 - Assistência e suporte de erros - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+</div>
+
+
+
 
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo|------------------|
+|    1.0   |   28/09/2023   |   Declaração do Site Selecionado |  Juan Pablo|Amanda Abreu|
+|    2.0   |   04/10/2023   |   Declaração do Site Selecionado |  Juan Pablo|Amanda Abreu|
 
 ## Bibliografia
 
