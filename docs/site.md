@@ -15,13 +15,13 @@ Após a seleção individual, as sugestões foram debatidas pelo grupo, consider
 
 ## BRB MOBILIDADE
 
-Dentre os sítios analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atenders aos usuários do cartão de mobilidade no transporte úblico do Distrito Federal com o inutito de unificar o processo de bilhetagem.
+Dentre os sítios analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atender aos usuários do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem.
 
 
 ![Imagem do BRB Mobilidade](assets/brb.png)
 
 <div style="text-align: center">
-<p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB MOBILIDADE. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+<p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 ## Problemas Encontrados:
@@ -42,7 +42,7 @@ Dentre os sítios analisados de forma individual, o escolhido foi o "[BRB Mobili
 - Adaptabilidade e eficácia na utilização e Acessibilidade:
 ![acessibilidade](assets/libras.png)
 <div style="text-align: center">
-<p>Figura 4 - Acessibilidade - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+<p>Figura 4 - Acessibilidade e Adaptabilidade- BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 
