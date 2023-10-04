@@ -8,7 +8,7 @@ Antes de chegarmos à conclusão de que o Brb Mobilidade era a opção mais adeq
 
 ## [GOV](https://www.gov.br/fazenda/pt-br)
 O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  <br>
-Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes.
+Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes. <br>
 O site foi avaliado de acordo com o método de inspeção heurística,abaixo adcionamos alguns: <br>
 - Ajuda e documentação <br>
 - Controle e liberdade do usuário <br>
@@ -73,7 +73,7 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 
 
 ## [Memorial JK](http://www.memorialjk.com.br)
-O site do Memorial JK é a plataforma online oficial dedicada à preservação da memória e legado do ex-presidente brasileiro Juscelino Kubitschek. Suas funcionalidades incluem fornecer informações históricas sobre a vida de Juscelino Kubitschek, possibilitar o agendamento de visitas ao Memorial, apresentar exposições virtuais, divulgar eventos e atividades culturais, fornecer informações de contato, apoiar pesquisas, exibir galerias de fotos e contar a história do próprio Memorial JK. Suas funcionalidades podem variar com o tempo e de acordo com a gestão do Memorial. 
+O site do Memorial JK é a plataforma online oficial dedicada à preservação da memória e legado do ex-presidente brasileiro Juscelino Kubitschek. Suas funcionalidades incluem fornecer informações históricas sobre a vida de Juscelino Kubitschek, possibilitar o agendamento de visitas ao Memorial, apresentar exposições virtuais, divulgar eventos e atividades culturais, fornecer informações de contato, apoiar pesquisas, exibir galerias de fotos e contar a história do próprio Memorial JK. Suas funcionalidades podem variar com o tempo e de acordo com a gestão do Memorial.  <br>
 O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns: <br>
 - Visibilidade do estado do sistema <br>
 - Consistência e padronização <br>
