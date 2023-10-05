@@ -9,7 +9,7 @@ Antes de chegarmos à conclusão de que o Brb Mobilidade era a opção mais adeq
 ## [GOV](https://www.gov.br/fazenda/pt-br)
 O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  <br>
 Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes. <br>
-O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
 - Ajuda e documentação <br>
 - Controle e liberdade do usuário <br>
 - Reconhecimento em vez de memorização <br>
@@ -26,7 +26,7 @@ O site foi avaliado de acordo com o método de inspeção heurística, abaixo ad
 ## [Inep](https://www.gov.br/inep/pt-br)
 O site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) é uma plataforma online do governo brasileiro que disponibiliza informações e serviços relacionados à educação. Suas principais funcionalidades incluem a divulgação de resultados de avaliações, consulta de notas, inscrição em exames, acesso a dados educacionais, pesquisas, informações sobre o Censo Escolar, legislação educacional, provas anteriores, notícias e orientações. <br>
 É uma ferramenta essencial para estudantes, educadores e pesquisadores interessados no sistema educacional brasileiro.<br>
-O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
 - Controle e Liberdade do Usuário <br>
 - Prevenção de Erros <br>
 - Reconhecimento, Diagnóstico e Recuperação de Erros <br>
@@ -43,7 +43,7 @@ O site foi avaliado de acordo com o método de inspeção heurística, abaixo ad
 
 ## [Receita Federal](https://www.gov.br/receitafederal/pt-br)
 O site da Receita Federal é uma plataforma online oferecida pela agência governamental responsável pela administração de impostos federais em um país. Suas funcionalidades incluem informações tributárias, acesso a documentos e formulários, calculadoras de impostos, consulta de situação fiscal, acompanhamento de restituições, serviços online para transações fiscais, publicações e notícias econômicas, informações sobre programas de incentivo fiscal e recursos educacionais. É uma ferramenta fundamental para que contribuintes e empresas cumpram obrigações fiscais e obtenham informações relacionadas a impostos e finanças governamentais. <br>
-O site foi avaliado de acordo com os 10 método de inspeção heurística, abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
 - Flexibilidade e Eficiência de Uso <br>
 - Design Estético e Minimalista <br>
 - Consistência e Padronização <br>
@@ -58,7 +58,7 @@ O site foi avaliado de acordo com os 10 método de inspeção heurística, abaix
 
 ## [SAE](https://sae.digital)
 O site do SAE (Sistema de Apoio ao Estudante) é uma plataforma online usada por instituições educacionais para fornecer suporte e serviços aos estudantes. Suas funcionalidades incluem matrícula, acompanhamento acadêmico, apoio financeiro, comunicação, recursos educacionais, serviços de saúde, agendamento de atendimentos, gerenciamento de documentos e suporte técnico. O objetivo é melhorar a experiência dos estudantes, simplificando processos e fornecendo informações relevantes para o sucesso acadêmico. As funcionalidades podem variar de acordo com a instituição. <br>
-O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
 - Reconhecimento, Diagnóstico e Recuperação de Erros <br>
 - Prevenção de Erros <br>
 - Visibilidade do Status do Sistema <br>
@@ -74,7 +74,7 @@ O site foi avaliado de acordo com o método de inspeção heurística, abaixo ad
 
 ## [Memorial JK](http://www.memorialjk.com.br)
 O site do Memorial JK é a plataforma online oficial dedicada à preservação da memória e legado do ex-presidente brasileiro Juscelino Kubitschek. Suas funcionalidades incluem fornecer informações históricas sobre a vida de Juscelino Kubitschek, possibilitar o agendamento de visitas ao Memorial, apresentar exposições virtuais, divulgar eventos e atividades culturais, fornecer informações de contato, apoiar pesquisas, exibir galerias de fotos e contar a história do próprio Memorial JK. Suas funcionalidades podem variar com o tempo e de acordo com a gestão do Memorial.  <br>
-O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
 - Visibilidade do estado do sistema <br>
 - Consistência e padronização <br>
 - Projeto estético e minimalista <br>
@@ -104,7 +104,7 @@ O site foi avaliado de acordo com os 10 método de inspeção heurística, abaix
 ## [BRB Mobilidade](https://mobilidade.brb.com.br/passelivre/)
 
 Dentre os sites analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atender aos usuários do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem. <br>
-O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
 - Visibilidade do estado do sistema <br>
 - Consistência e padronização <br>
 - Projeto estético e minimalista <br>
