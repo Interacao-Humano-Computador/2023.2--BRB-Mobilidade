@@ -8,7 +8,7 @@ Dito isso, iremos explicar brevemente sobre alguns desses processos mais conheci
 ## Modelos
 
 ### Ciclo de Vida Simples
-Ciclo de vida simplificado(1) que gira em torno de 4 atividades básicas (Identificar necessidades e definir requisitos, (re)design, construir uma versão interativa, avaliar). Elas são executadas em sequência mas não há impedimento para retornar à fase anterior caso seja necessário. Esse é um processo simples, o que pode dificultar um pouco o entendimento pela falta de detalhamento das fases.
+Ciclo de vida simplificado (1) que gira em torno de 4 atividades básicas (Identificar necessidades e definir requisitos, (re)design, construir uma versão interativa, avaliar). Elas são executadas em sequência mas não há impedimento para retornar à fase anterior caso seja necessário. Esse é um processo simples, o que pode dificultar um pouco o entendimento pela falta de detalhamento das fases.
 
 ![Image title](assets/simples.png)
 
@@ -20,7 +20,7 @@ Fonte: Barbosa e silva 2010
 O design contextual é um método de design de Interação Humano-Computador (IHC) que se concentra na compreensão profunda das necessidades dos usuários por meio de uma análise detalhada do contexto de uso. Esse processo envolve várias etapas, incluindo investigação contextual, modelagem do trabalho, consolidação de dados, redesenho do trabalho, projeto da interface do usuário, prototipagem e teste com os usuários. Na investigação contextual, os designers buscam conhecer os usuários, suas necessidades e como eles realizam suas tarefas diárias no ambiente de trabalho. Essas informações são cruciais para informar o processo de design. A partir disso, são desenvolvidos modelos de trabalho que representam o trabalho de cada usuário investigado, e esses modelos são consolidados para criar um conjunto de dados corporativos que orienta o projeto de IHC.
 
 ### Design Baseado em Cenários;
-O design baseado em cenários(2) utiliza histórias ou cenários para representar as atividades dos usuários e orientar todas as etapas do desenvolvimento de uma solução. Esses cenários são narrativas simples sobre como as pessoas realizam tarefas, escritas em linguagem natural, o que facilita a participação de todos os envolvidos no sistema no processo de design. Ao escrever, revisar e discutir esses cenários, a equipe de design e os usuários têm a oportunidade de explorar como a tecnologia existente afeta as atividades dos usuários e como o sistema em desenvolvimento pode influenciá-las. Os cenários também estimulam a criatividade, permitindo que a equipe explore diferentes caminhos e ideias alternativas. Esse processo é iterativo e inclui a análise do problema, a concepção da solução de IHC, a prototipagem e a avaliação da solução proposta.
+O design baseado em cenários (2) utiliza histórias ou cenários para representar as atividades dos usuários e orientar todas as etapas do desenvolvimento de uma solução. Esses cenários são narrativas simples sobre como as pessoas realizam tarefas, escritas em linguagem natural, o que facilita a participação de todos os envolvidos no sistema no processo de design. Ao escrever, revisar e discutir esses cenários, a equipe de design e os usuários têm a oportunidade de explorar como a tecnologia existente afeta as atividades dos usuários e como o sistema em desenvolvimento pode influenciá-las. Os cenários também estimulam a criatividade, permitindo que a equipe explore diferentes caminhos e ideias alternativas. Esse processo é iterativo e inclui a análise do problema, a concepção da solução de IHC, a prototipagem e a avaliação da solução proposta.
 
 ![Image title](assets/baseado.png)
 
@@ -34,7 +34,7 @@ O design centrado na comunicação abrange três atividades principais: análise
 
 ### Ciclo de Vida em Estrela;
 
-O Ciclo de Vida em Estrela(3), desenvolvido por Hix e Hartson, não possui uma ordem padronizada ao iniciar as atividades, dessa maneira é possível iniciar o processo a partir de qualquer ponta da estrela, isso dependendo de qual sistema está sendo analisado. Tem como principal objetivo a avaliação, que está localizada no centro do diagrama, reforçando a necessidade desta etapa durante todo o processo
+O Ciclo de Vida em Estrela (3), desenvolvido por Hix e Hartson, não possui uma ordem padronizada ao iniciar as atividades, dessa maneira é possível iniciar o processo a partir de qualquer ponta da estrela, isso dependendo de qual sistema está sendo analisado. Tem como principal objetivo a avaliação, que está localizada no centro do diagrama, reforçando a necessidade desta etapa durante todo o processo
 
 ![Image title](assets/estrela.jpg)
 
@@ -70,7 +70,7 @@ A engenharia de Usabilidade,construída por Jakob Nielsen é um conjunto de ativ
 
 ### Engenharia de Usabilidade de Mayhew
 
-Já a engenharia de Usabilidade, Desenvolvida por Deborah Mayhew(4), é uma solução iterativa, por meio de um ciclo de vida com visão holística, sendo então dividida em tres principais etapas
+Já a engenharia de Usabilidade, Desenvolvida por Deborah Mayhew (4), é uma solução iterativa, por meio de um ciclo de vida com visão holística, sendo então dividida em tres principais etapas
 
 - Análise de requisitos: Nesta etapa é feita uma análise dos perfis do usuário para definir quais serão as metas de usabilidade,além da análise de tarefas, possibilidades e as limitações que são encontradas nas plataformas  de execução do sistema
 
