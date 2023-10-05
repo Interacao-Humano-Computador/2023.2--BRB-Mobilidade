@@ -9,7 +9,7 @@ Antes de chegarmos à conclusão de que o Brb Mobilidade era a opção mais adeq
 ## [GOV](https://www.gov.br/fazenda/pt-br)
 O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  <br>
 Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes. <br>
-O site foi avaliado de acordo com o método de inspeção heurística,abaixo adcionamos alguns: <br>
+O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
 - Ajuda e documentação <br>
 - Controle e liberdade do usuário <br>
 - Reconhecimento em vez de memorização <br>
@@ -18,7 +18,7 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adc
 ![Ministério da Fazenda](assets/minis%20fazenda.png)
 
 <div style= "text-align: center">
-<p>Figura 1: Ministério da Fazenda</p> 
+<p>Figura 1: Ministério da Fazenda (Fonte: https://www.gov.br/fazenda/pt-br)</p> 
 </div>
 
 
@@ -26,7 +26,7 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adc
 ## [Inep](https://www.gov.br/inep/pt-br)
 O site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) é uma plataforma online do governo brasileiro que disponibiliza informações e serviços relacionados à educação. Suas principais funcionalidades incluem a divulgação de resultados de avaliações, consulta de notas, inscrição em exames, acesso a dados educacionais, pesquisas, informações sobre o Censo Escolar, legislação educacional, provas anteriores, notícias e orientações. <br>
 É uma ferramenta essencial para estudantes, educadores e pesquisadores interessados no sistema educacional brasileiro.
-O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
 - Controle e Liberdade do Usuário <br>
 - Prevenção de Erros <br>
 - Reconhecimento, Diagnóstico e Recuperação de Erros <br>
@@ -35,7 +35,7 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 ![Inep](assets/inep.png)
 
 <div style= "text-align: center">
-<p>Figura 2: Inep</p>
+<p>Figura 2: Inep (Fonte: https://www.gov.br/inep/pt-br)</p>
 </div>
 
 
@@ -52,13 +52,13 @@ O site foi avaliado de acordo com os 10 método de inspeção heurística, abaix
 ![Receita Federal](assets/receita%20federal.png)
 
 <div style= "text-align: center">
-<p>Figura 4: Receita Federal</p>
+<p>Figura 4: Receita Federal (Fonte: https://www.gov.br/receitafederal/pt-br)</p>
 </div>
 
 
 ## [SAE](https://sae.digital)
 O site do SAE (Sistema de Apoio ao Estudante) é uma plataforma online usada por instituições educacionais para fornecer suporte e serviços aos estudantes. Suas funcionalidades incluem matrícula, acompanhamento acadêmico, apoio financeiro, comunicação, recursos educacionais, serviços de saúde, agendamento de atendimentos, gerenciamento de documentos e suporte técnico. O objetivo é melhorar a experiência dos estudantes, simplificando processos e fornecendo informações relevantes para o sucesso acadêmico. As funcionalidades podem variar de acordo com a instituição. <br>
-O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
 - Reconhecimento, Diagnóstico e Recuperação de Erros <br>
 - Prevenção de Erros <br>
 - Visibilidade do Status do Sistema <br>
@@ -68,13 +68,13 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 ![SAE](assets/sae.png)
 
 <div style= "text-align: center">
-<p>Figura 5: SAE</p>
+<p>Figura 5: SAE (Fonte: https://sae.digital)</p>
 </div>
 
 
 ## [Memorial JK](http://www.memorialjk.com.br)
 O site do Memorial JK é a plataforma online oficial dedicada à preservação da memória e legado do ex-presidente brasileiro Juscelino Kubitschek. Suas funcionalidades incluem fornecer informações históricas sobre a vida de Juscelino Kubitschek, possibilitar o agendamento de visitas ao Memorial, apresentar exposições virtuais, divulgar eventos e atividades culturais, fornecer informações de contato, apoiar pesquisas, exibir galerias de fotos e contar a história do próprio Memorial JK. Suas funcionalidades podem variar com o tempo e de acordo com a gestão do Memorial.  <br>
-O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
 - Visibilidade do estado do sistema <br>
 - Consistência e padronização <br>
 - Projeto estético e minimalista <br>
@@ -83,7 +83,7 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 ![Memorial JK](assets/memorial%20jk.png)
 
 <div style= "text-align: center">
-<p>Figura 6: Memorial JK</p>
+<p>Figura 6: Memorial JK (Fonte: http://www.memorialjk.com.br)</p>
 </div>
 
 
@@ -98,13 +98,13 @@ O site foi avaliado de acordo com os 10 método de inspeção heurística, abaix
 ![Escola de Música](assets/escola%20de%20musica.png)
 
 <div style= "text-align: center">
-<p>Figura 7: Escola de Música</p>
+<p>Figura 7: Escola de Música (Fonte: https://www.escolademusicadebrasilia.com)</p>
 </div>
 
 ## [BRB Mobilidade](https://mobilidade.brb.com.br/passelivre/)
 
 Dentre os sites analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atender aos usuários do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem. <br>
-O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns: <br>
+O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
 - Visibilidade do estado do sistema <br>
 - Consistência e padronização <br>
 - Projeto estético e minimalista <br>
@@ -114,7 +114,7 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 ![Imagem do BRB Mobilidade](assets/brb.png)
 
 <div style="text-align: center">
-<p>Figura 1 -  BRB Mobilidade.</p>
+<p>Figura 8 -  BRB Mobilidade. (Fonte: https://mobilidade.brb.com.br/passelivre/)</p>
 </div>
 
 
@@ -125,12 +125,13 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
 |    1.0  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu| Felipe |
 |    1.1  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu| Fause |
+|    1.2  |   04/10/2023   |   Heurísticas dos sites avaliados |  Amanda Abreu| Juan |
 
 ## Bibliografia
-* [https://www.gov.br/ines/pt-br](https://www.gov.br/ines/pt-br)
+* [https://brbnovo.brb.com.br/mobilidade/](https://brbnovo.brb.com.br/mobilidade/)
+* [https://sae.digital](https://sae.digital)
+* [https://www.escolademusicadebrasilia.com](https://www.escolademusicadebrasilia.com)
 * [https://www.gov.br/receitafederal/pt-br](https://www.gov.br/receitafederal/pt-br)
 * [https://www.gov.br/inep/pt-br](https://www.gov.br/inep/pt-br)
-* [Mhttps://www.gov.br/fazenda/pt-br](https://www.gov.br/fazenda/pt-br)
-* [https://sae.digital](https://sae.digital)
+* [Mhttps://www.gov.br/pt-br](https://www.gov.br/pt-br)
 * [http://www.memorialjk.com.br](http://www.memorialjk.com.br)
-* [https://www.escolademusicadebrasilia.com](https://www.escolademusicadebrasilia.com)
