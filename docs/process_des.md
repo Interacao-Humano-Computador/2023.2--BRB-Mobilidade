@@ -10,11 +10,11 @@ Dito isso, iremos explicar brevemente sobre alguns desses processos mais conheci
 ### Ciclo de Vida Simples
 Ciclo de vida simplificado (1) que gira em torno de 4 atividades básicas (Identificar necessidades e definir requisitos, (re)design, construir uma versão interativa, avaliar). Elas são executadas em sequência mas não há impedimento para retornar à fase anterior caso seja necessário. Esse é um processo simples, o que pode dificultar um pouco o entendimento pela falta de detalhamento das fases.
 
-![Image title](assets/simples.png)
 
-Figura 1: Diagram do ciclo de vida simples
-
-Fonte: Barbosa e silva 2010
+<div style="text-align: center">
+    <img src="../assets/simples.png">
+    <p>Figura 1: Diagram do ciclo de vida simples (Fonte: Barbosa e Silva 2010)</p>
+</div>
 
 ### Design Contextual;
 O design contextual é um método de design de Interação Humano-Computador (IHC) que se concentra na compreensão profunda das necessidades dos usuários por meio de uma análise detalhada do contexto de uso. Esse processo envolve várias etapas, incluindo investigação contextual, modelagem do trabalho, consolidação de dados, redesenho do trabalho, projeto da interface do usuário, prototipagem e teste com os usuários. Na investigação contextual, os designers buscam conhecer os usuários, suas necessidades e como eles realizam suas tarefas diárias no ambiente de trabalho. Essas informações são cruciais para informar o processo de design. A partir disso, são desenvolvidos modelos de trabalho que representam o trabalho de cada usuário investigado, e esses modelos são consolidados para criar um conjunto de dados corporativos que orienta o projeto de IHC.
@@ -22,12 +22,10 @@ O design contextual é um método de design de Interação Humano-Computador (IH
 ### Design Baseado em Cenários;
 O design baseado em cenários (2) utiliza histórias ou cenários para representar as atividades dos usuários e orientar todas as etapas do desenvolvimento de uma solução. Esses cenários são narrativas simples sobre como as pessoas realizam tarefas, escritas em linguagem natural, o que facilita a participação de todos os envolvidos no sistema no processo de design. Ao escrever, revisar e discutir esses cenários, a equipe de design e os usuários têm a oportunidade de explorar como a tecnologia existente afeta as atividades dos usuários e como o sistema em desenvolvimento pode influenciá-las. Os cenários também estimulam a criatividade, permitindo que a equipe explore diferentes caminhos e ideias alternativas. Esse processo é iterativo e inclui a análise do problema, a concepção da solução de IHC, a prototipagem e a avaliação da solução proposta.
 
-![Image title](assets/baseado.png)
-
-
-Figura 2: Diagram do ciclo Baseado em Cenários
-
-Fonte: Barbosa e silva 2010
+<div style="text-align: center">
+    <img src="../assets/baseado.png">
+    <p>Figura 2: Diagrama do Ciclo Baseado em Cenários (Fonte: Barbosa e Silva 2010)</p>
+</div>
 
 ### Design Centrado na Comunicação;
 O design centrado na comunicação abrange três atividades principais: análise do usuário, domínio e contexto de uso, projeto de interação e interface, e avaliação da solução projetada. Ele enfatiza a importância de antecipar as dúvidas dos usuários durante a interação e projetar a interface de forma a evitar ou resolver essas dúvidas. Além disso, destaca a necessidade de projetar a conversa entre usuário e sistema, representando-a adequadamente na interface. Embora os usuários desempenhem um papel fundamental nas atividades de análise e avaliação, a responsabilidade de elaborar a metacomunicação e a solução de IHC está sobre os designers, com base nas informações obtidas com a participação dos usuários ao longo do processo.
@@ -38,9 +36,9 @@ O Ciclo de Vida em Estrela (3), desenvolvido por Hix e Hartson, não possui uma 
 
 ![Image title](assets/estrela.jpg)
 
-Figura 3: Diagram do  Ciclo de Vida em Estrela
-
-Fonte: Barbosa e silva 2010
+<div style="text-align: center">
+    <p>Figura 3: Diagram do  Ciclo de Vida em Estrela (Fonte: Barbosa e Silva 2010)</p>
+</div>
 
 ### Engenharia de Usabilidade de Nielsen;
 
@@ -80,9 +78,9 @@ Já a engenharia de Usabilidade, Desenvolvida por Deborah Mayhew (4), é uma sol
 
 ![Image title](assets/MayHew.png)
 
-Figura 4: Diagram da Engenharia de Usabilidade de Mayhew
-
-Fonte: The Usability Engineering Lifecycle, MayHew
+<div style="text-align: center">
+    <p>Figura 4: Diagram da Engenharia de Usabilidade de Mayhew (Fonte: The Usability Engineering Lifecycle, MayHew)</p>
+</div>
 
 ## Modelo ultilizado
 
