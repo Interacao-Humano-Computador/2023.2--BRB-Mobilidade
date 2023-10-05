@@ -3,7 +3,7 @@
 Repositório de projeto da disciplina de Interação-Humano-Computador. Grupo 05
 
 ## Documentação
-A documentação do projeto está disponivel nesse <a href="https://interacao-humano-computador.github.io/2023.2-Grupo05/" target= "_blank">link</a>.
+A documentação do projeto está disponivel nesse <a href="https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/" target= "_blank">link</a>.
 
 # Sobre o projeto
 O BRB Mobilidade foi selecionado para ser avaliado dentro da Disciplina de Interação-Humano-Computador.
