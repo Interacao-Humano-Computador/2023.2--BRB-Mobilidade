@@ -114,7 +114,7 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 ![Imagem do BRB Mobilidade](assets/brb.png)
 
 <div style="text-align: center">
-<p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+<p>Figura 1 -  BRB Mobilidade.</p>
 </div>
 
 
