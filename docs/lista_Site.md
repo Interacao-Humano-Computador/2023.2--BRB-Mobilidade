@@ -88,13 +88,33 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 
 
 ## [Escola de Música de Brasília](https://www.escolademusicadebrasilia.com)
-O site da Escola de Música de Brasília é uma plataforma online dedicada a fornecer informações e serviços relacionados à instituição. Suas funcionalidades comuns incluem detalhes sobre a escola, cursos oferecidos, eventos musicais, processos de inscrição, recursos para alunos, perfis dos professores, notícias e atualizações, galeria de mídia, informações de contato e perguntas frequentes. No entanto, as características específicas podem variar dependendo da escola e de suas atualizações. É recomendável visitar o site oficial da Escola de Música de Brasília para obter informações precisas e atualizadas sobre seus serviços e recursos.
-<br>
+O site da Escola de Música de Brasília é uma plataforma online dedicada a fornecer informações e serviços relacionados à instituição. Suas funcionalidades comuns incluem detalhes sobre a escola, cursos oferecidos, eventos musicais, processos de inscrição, recursos para alunos, perfis dos professores, notícias e atualizações, galeria de mídia, informações de contato e perguntas frequentes. No entanto, as características específicas podem variar dependendo da escola e de suas atualizações. É recomendável visitar o site oficial da Escola de Música de Brasília para obter informações precisas e atualizadas sobre seus serviços e recursos.<br>
+O site foi avaliado de acordo com os 10 método de inspeção heurística, abaixo adicionamos alguns: <br>
+- Flexibilidade e Eficiência de Uso <br>
+- Design Estético e Minimalista <br>
+- Consistência e Padronização <br>
+- Controle e Liberdade do Usuário <br>
 
 ![Escola de Música](assets/escola%20de%20musica.png)
 
 <div style= "text-align: center">
 <p>Figura 7: Escola de Música</p>
+</div>
+
+## [BRB Mobilidade](https://mobilidade.brb.com.br/passelivre/)
+
+Dentre os sites analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atender aos usuários do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem. <br>
+O site foi avaliado de acordo com o método de inspeção heurística,abaixo adicionamos alguns: <br>
+- Visibilidade do estado do sistema <br>
+- Consistência e padronização <br>
+- Projeto estético e minimalista <br>
+- Ajuda e documentação <br>
+
+
+![Imagem do BRB Mobilidade](assets/brb.png)
+
+<div style="text-align: center">
+<p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 

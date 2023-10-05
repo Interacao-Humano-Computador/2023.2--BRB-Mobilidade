@@ -1,4 +1,4 @@
-# Sítio selecionado 
+# Site selecionado 
 
 ## Introdução
 
