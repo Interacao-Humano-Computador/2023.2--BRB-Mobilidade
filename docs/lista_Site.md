@@ -25,7 +25,7 @@ O site foi avaliado de acordo com o método de inspeção heurística, abaixo ad
 
 ## [Inep](https://www.gov.br/inep/pt-br)
 O site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) é uma plataforma online do governo brasileiro que disponibiliza informações e serviços relacionados à educação. Suas principais funcionalidades incluem a divulgação de resultados de avaliações, consulta de notas, inscrição em exames, acesso a dados educacionais, pesquisas, informações sobre o Censo Escolar, legislação educacional, provas anteriores, notícias e orientações. <br>
-É uma ferramenta essencial para estudantes, educadores e pesquisadores interessados no sistema educacional brasileiro.
+É uma ferramenta essencial para estudantes, educadores e pesquisadores interessados no sistema educacional brasileiro.<br>
 O site foi avaliado de acordo com o método de inspeção heurística, abaixo adicionamos alguns: <br>
 - Controle e Liberdade do Usuário <br>
 - Prevenção de Erros <br>
