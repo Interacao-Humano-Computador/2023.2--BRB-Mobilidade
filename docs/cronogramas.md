@@ -24,16 +24,16 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| [Sites avaliados](lista_Site.md) | 30/08 - 01/09 | Todos | 02/09 | Todos |
-| [Site selecionado](site.md) | 04/09 | Todos | 05/09 | Todos |
-| [Heatmap](heat.md) | 02/09 | Todos | 02/09 | Todos |
-| [Ferramentas](ferramentas.md) | 02/09 | Todos | 03/09 | Amanda |
+| [Sites avaliados](lista_Site.md) | 30/08 - 01/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Site selecionado](site.md) | 04/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 05/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Heatmap](heat.md) | 02/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Ferramentas](ferramentas.md) | 02/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/09 | Amanda |
 | [Processos de Design](process_des.md) | 22/09 | Lucas e Fause | 23/09 | Artur Jackson |
 | Criação do GitPage | 16/09 | Felipe | 17/09  | Lucas |
 | [Documentar Equipe]() | 16/09 | Arthur Sousa, Amanda e Juan | 17/09 | Fause |
 | [Cronograma](cronogramas.md) | 21/09 | Arthur Sousa e Artur Jackson | 22/09 | Juan |
-| [Gravação da apresentação]() | 28/09 | Todos | 28/09 | Todos |
-| Edição da apresentação | 29/09 | Todos | 29/09 - 01/10 | Todos |
+| [Gravação da apresentação]() | 28/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 28/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 29/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/09 - 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 2: Cronograma da Entrega 1 (Fonte: autor, 2023).</p>
@@ -47,8 +47,8 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 | [Criação das personas]() | 03/10 - 11/10 | Artur Jackson e Fause | 11/10 - 12/10 | Lucas |
 | [Análise das tarefas do usuário (técnicas HTA e CTT)]() | 03/10 - 11/10 | Arthur Sousa | 11/10 - 12/10 | Felipe |
 | [Aspectos éticos de pesquisa envolvendo pessoas]() | 03/10 - 11/10 | Felipe e Juan | 11/10 - 12/10 | Arthur Sousa |
-| [Gravação da apresentação]() | 12/10 | Todos | 13/10 - 14/10 | Todos |
-| Edição da apresentação | 13/10 - 14/10 | Todos | 14/10 | Todos |
+| [Gravação da apresentação]() | 12/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 13/10 - 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 13/10 - 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 3: Cronograma da Entrega 2 (Fonte: autor, 2023).</p>
@@ -62,8 +62,8 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 | [Determinar as metas de usabilidade]() | 17/10 - 20/10 | Juan e Artur Jackson | 20/10 | Arthur Sousa |
 | [Criar o guia de estilo]() | 17/10 - 20/10 | Lucas | 20/10 | Felipe |
 | [Determinar as características da plataforma para o projeto]() | 17/10 - 20/10 | Amanda e Felipe | 20/10 | Fause |
-| [Gravação da apresentação]() | 21/10 - 22/10| Todos | 22/10 | Todos |
-| Edição da apresentação | 22/10| Todos | 22/10 | Todos |
+| [Gravação da apresentação]() | 21/10 - 22/10| Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 22/10| Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 4: Cronograma da Entrega 3 (Fonte: autor, 2023).</p>
@@ -77,8 +77,8 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 | [Planejar o relato dos resultados da avaliação do Story Board]() | 24/10 - 27/10 | Amanda e Artur Jackson | 27/10 - 28/10 | Arthur Sousa |
 | [Planejar a avaliação da Análise de Tarefas]() | 24/10 - 27/10 | Fause e Felipe | 27/10 - 28/10 | Lucas |
 | [Planejar o retato dos resultados da avaliação da Análise de Tarefas]() | 24/10 - 27/10 | Juan | 27/10 - 28/10 | Felipe |
-| [Gravação da apresentação]() | 28/10 - 29/10 | Todos | 29/10 | Todos |
-| Edição da apresentação | 29/10 | Todos | 29/10 | Todos |
+| [Gravação da apresentação]() | 28/10 - 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 5: Cronograma da Entrega 4 (Fonte: autor, 2023).</p>
@@ -92,8 +92,8 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 | [Relatar a análise de tarefas]() | 31/10 - 04/11 | Arthur Sousa e Artur Jackson | 04/11 | Felipe |
 | [Planejar a avaliação do protótipo de papel]() | 31/10 - 04/11 | Amanda e Juan | 04/11 | Artur Jackson |
 | [Planejar o relato dos resultados da avaliação do protótipo de papel]() | 31/10 - 04/11 | Lucas e Fause | 04/11 | Amanda |
-| [Gravação da apresentação]() | 04/11 - 06/10 | Todos | 06/11 | Todos |
-| Edição da apresentação | 06/11 - 07/11 | Todos | 07/11 | Todos |
+| [Gravação da apresentação]() | 04/11 - 06/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 06/11 - 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 6: Cronograma da Entrega 5 (Fonte: autor, 2023).</p>
@@ -109,8 +109,8 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 | [Verificação dos artefatos da Etapa 3]() | 09/11 - 11/11 | Felipe | 11/11 - 12/11 | Lucas |
 | [Verificação dos artefatos da Etapa 4]() | 09/11 - 11/11 | Fause | 11/11 - 12/11 | Arthur Sousa |
 | [Verificação dos artefatos da Etapa 5]() | 09/11 - 11/11 | Lucas Gobbi e Igor Penha | 11/11 - 12/11 | Fause |
-| [Gravação da apresentação]() | 11/11 - 13/11 | Todos | 13/11 | Todos |
-| 9. Edição da apresentação | 13/11 - 14/11 | Todos | 14/11 | Todos |
+| [Gravação da apresentação]() | 11/11 - 13/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 13/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| 9. Edição da apresentação | 13/11 - 14/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 7: Cronograma da Entrega 6.1 (Fonte: autor, 2023).</p>
@@ -123,8 +123,8 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 | [Relato dos resultados do Protótipo de Papel]() | 16/11 - 18/11 | Arthur Sousa e Amanda | 18/11 - 19/11 | Juan | 
 | [Planejamento da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Juan e Fause | 18/11 - 19/11 | Amanda | 
 | [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Artur Jackson, Felipe e Lucas | 18/11 - 19/11 | Arthur Sousa | 
-| [Gravação da apresentação]() | 19/11 - 20/11 | Todos | 20/11 | Todos | 
-| 6. Edição da apresentação | 21/11 | Todos | 21/11 | Todos |
+| [Gravação da apresentação]() | 19/11 - 20/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 20/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 
+| 6. Edição da apresentação | 21/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 21/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 8: Cronograma da Entrega 7 (Fonte: autor, 2023).</p>
@@ -134,9 +134,9 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
-| [Relato dos resultados da avaliação do protótipo de alta fidelidade]() | 23/11 - 24/11 | Todos | 24/11 | Arthur Sousa | 
-| [Gravação da apresentação]() | 25/11 - 26/11 | Todos | 26/11 | Todos |
-| Edição da apresentação | 26/11 | Todos | 26/11 | Todos |
+| [Relato dos resultados da avaliação do protótipo de alta fidelidade]() | 23/11 - 24/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 24/11 | Arthur Sousa | 
+| [Gravação da apresentação]() | 25/11 - 26/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 26/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 26/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 26/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 9: Cronograma da Entrega 8 (Fonte: autor, 2023).</p>
@@ -152,8 +152,8 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 | [Verificação dos artefatos da Etapa 4]() | 28/11 | Amanda | 29/11 | Artur Jackson |
 | [Verificação dos artefatos da Etapa 5]() | 28/11 | Arthur Sousa | 29/11 | Juan |
 | [Verificação dos artefatos da Etapa 7]() | 28/11 | Artur Jackson | 29/11 | Lucas |
-| [Gravação da apresentação]() | 29/11 | Todos | 29/11 | Todos |
-| Edição da apresentação | 29/11 | Todos | 29/11 | Todos |
+| [Gravação da apresentação]() | 29/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 29/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 10: Cronograma da Entrega 6.2 (Fonte: autor, 2023).</p>
@@ -163,10 +163,10 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
-| Correção dos artefatos | 30/11 - 03/12 | Todos | 03/11 | Arthur Sousa | 
-| Criação do documento final | 30/11 - 03/12 | Todos | 03/11 | Felipe | 
-| Gravação da apresentação | 03/11 - 04/11 | Todos | 04/11 | Todos | 
-| Edição da apresentação | 04/11 - 05/11 | Todos | 05/11 | Todos |
+| Correção dos artefatos | 30/11 - 03/12 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/11 | Arthur Sousa | 
+| Criação do documento final | 30/11 - 03/12 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/11 | Felipe | 
+| Gravação da apresentação | 03/11 - 04/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 04/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 
+| Edição da apresentação | 04/11 - 05/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 05/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 11: Cronograma da Entrega final (Fonte: autor, 2023).</p>
