@@ -14,7 +14,7 @@ Cronograma que descreve todas as atividades já realizadas, com suas datas e aut
 | Criação do GitPage | 16/09 | Felipe | 17/09  | Arthur Sousa |
 | [Documentar Equipe](index.md) | 16/09 | Arthur Sousa, Amanda e Juan | 17/09 | Arthur Sousa |
 | [Cronograma](cronogramas.md) | 29/09 | Arthur Sousa e Artur Jackson | 29/09 | Juan |
-| [Gravação da apresentação]() | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://www.youtube.com/watch?v=rn-6kxlx5rc) | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/09 - 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">

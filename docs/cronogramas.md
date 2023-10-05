@@ -32,7 +32,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 | Criação do GitPage | 16/09 | Felipe | 17/09  | Lucas |
 | [Documentar Equipe]() | 16/09 | Arthur Sousa, Amanda e Juan | 17/09 | Fause |
 | [Cronograma](cronogramas.md) | 21/09 | Arthur Sousa e Artur Jackson | 22/09 | Juan |
-| [Gravação da apresentação]() | 28/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 28/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://www.youtube.com/watch?v=rn-6kxlx5rc) | 28/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 28/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 29/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/09 - 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
