@@ -123,8 +123,8 @@ O site foi avaliado de acordo com o método de inspeção heurística,abaixo adi
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu| Todos |
-|    1.1  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu| Todos |
+|    1.0  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu| Felipe |
+|    1.1  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu| Fause |
 
 ## Bibliografia
 * [https://www.gov.br/ines/pt-br](https://www.gov.br/ines/pt-br)
