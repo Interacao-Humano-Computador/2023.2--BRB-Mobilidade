@@ -82,7 +82,7 @@ Já a engenharia de Usabilidade, Desenvolvida por Deborah Mayhew (4), é uma sol
 
 Figura 4: Diagram da Engenharia de Usabilidade de Mayhew
 
-Fonte: Barbosa e silva 2010
+Fonte: The Usability Engineering Lifecycle, MayHew
 
 ## Modelo ultilizado
 
