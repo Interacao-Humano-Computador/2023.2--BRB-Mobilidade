@@ -11,7 +11,7 @@ O BRB Mobilidade foi selecionado para ser avaliado dentro da Disciplina de Inter
 ## Integrantes
 
 
-| Matrícula | Nome                            | GitHub |                                                       Foto                                                       |
+| Nome                            | GitHub |                                                       Foto                                                       |
 | :-------: | ------------------------------- | -------------- | :------------------------------------------------------------------------------------------------------------: |
 | Amanda Gonçalves S. Abreu | Amandaaaaabreu |  [<img src="https://avatars.githubusercontent.com/u/103958998?v=4" width=50>](https://github.com/Amandaaaaabreu)  |
 | Arthur Rodrigues Sousa  | arthurrsousa |  [<img src="https://avatars.githubusercontent.com/u/98758376?v=4" width=50>](https://github.com/arthurrsousa)  |
