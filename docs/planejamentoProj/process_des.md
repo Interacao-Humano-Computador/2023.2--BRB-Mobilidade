@@ -12,8 +12,8 @@ Ciclo de vida simplificado (1) que gira em torno de 4 atividades básicas (Ident
 
 
 <div style="text-align: center">
-    <img src="../assets/simples.png">
-    <p>Figura 1: Diagram do ciclo de vida simples (Fonte: Barbosa e Silva 2010)</p>
+    <img src="../../assets/simples.png">
+    <p>Figura 1: Diagrama do ciclo de vida simples (Fonte: Barbosa e Silva 2010)</p>
 </div>
 
 ### Design Contextual;
@@ -23,7 +23,7 @@ O design contextual é um método de design de Interação Humano-Computador (IH
 O design baseado em cenários (2) utiliza histórias ou cenários para representar as atividades dos usuários e orientar todas as etapas do desenvolvimento de uma solução. Esses cenários são narrativas simples sobre como as pessoas realizam tarefas, escritas em linguagem natural, o que facilita a participação de todos os envolvidos no sistema no processo de design. Ao escrever, revisar e discutir esses cenários, a equipe de design e os usuários têm a oportunidade de explorar como a tecnologia existente afeta as atividades dos usuários e como o sistema em desenvolvimento pode influenciá-las. Os cenários também estimulam a criatividade, permitindo que a equipe explore diferentes caminhos e ideias alternativas. Esse processo é iterativo e inclui a análise do problema, a concepção da solução de IHC, a prototipagem e a avaliação da solução proposta.
 
 <div style="text-align: center">
-    <img src="../assets/baseado.png">
+    <img src="../../assets/baseado.png">
     <p>Figura 2: Diagrama do Ciclo Baseado em Cenários (Fonte: Barbosa e Silva 2010)</p>
 </div>
 
@@ -34,10 +34,9 @@ O design centrado na comunicação abrange três atividades principais: análise
 
 O Ciclo de Vida em Estrela (3), desenvolvido por Hix e Hartson, não possui uma ordem padronizada ao iniciar as atividades, dessa maneira é possível iniciar o processo a partir de qualquer ponta da estrela, isso dependendo de qual sistema está sendo analisado. Tem como principal objetivo a avaliação, que está localizada no centro do diagrama, reforçando a necessidade desta etapa durante todo o processo
 
-![Image title](assets/estrela.jpg)
-
 <div style="text-align: center">
-    <p>Figura 3: Diagram do  Ciclo de Vida em Estrela (Fonte: Barbosa e Silva 2010)</p>
+    <img src="../../assets/estrela.jpg">
+    <p>Figura 3: Diagrama do  Ciclo de Vida em Estrela (Fonte: Barbosa e Silva 2010)</p>
 </div>
 
 ### Engenharia de Usabilidade de Nielsen;
@@ -76,10 +75,9 @@ Já a engenharia de Usabilidade, Desenvolvida por Deborah Mayhew (4), é uma sol
 
 - Já a instalação são coletados as opiniões e feedbacks dos usuários, dessa forma criando um parâmetro para melhoria em versões futuras
 
-![Image title](assets/MayHew.png)
-
 <div style="text-align: center">
-    <p>Figura 4: Diagram da Engenharia de Usabilidade de Mayhew (Fonte: The Usability Engineering Lifecycle, MayHew)</p>
+    <img src="../../assets/MayHew.png">
+    <p>Figura 4: Diagrama da Engenharia de Usabilidade de Mayhew (Fonte: The Usability Engineering Lifecycle, MayHew)</p>
 </div>
 
 ## Modelo ultilizado

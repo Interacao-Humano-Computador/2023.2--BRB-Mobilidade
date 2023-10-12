@@ -21,10 +21,9 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
   
 - Prevenção de erros: O domínio possui um erro gravíssimo que tira a confiança do usuário em relação à sua segurança.
 
-![Ministério da Fazenda](assets/minis%20fazenda.png)
-
 <div style= "text-align: center">
-<p>Figura 1: Ministério da Fazenda (Fonte: https://www.gov.br/fazenda/pt-br)</p> 
+    <img src="../../assets/minis%20fazenda.png">
+    <p>Figura 1: Ministério da Fazenda (Fonte: https://www.gov.br/fazenda/pt-br)</p> 
 </div>
 
 
@@ -42,10 +41,10 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
   
 - Ajuda e Documentação: O site não oferece uma documentação 100% atualizada. 
 
-![Inep](assets/inep.png)
 
 <div style= "text-align: center">
-<p>Figura 2: Inep (Fonte: https://www.gov.br/inep/pt-br)</p>
+    <img src="../../assets/inep.png">
+    <p>Figura 2: Inep (Fonte: https://www.gov.br/inep/pt-br)</p>
 </div>
 
 
@@ -68,10 +67,9 @@ visual coerente com o que é utilizado em sites governamentais.
  
 - Controle e Liberdade do Usuário: O usuário não tem total liberdade para naevgar ao site ou realizar alguma pesquisa sem está logado. 
  
-![Receita Federal](assets/receita%20federal.png)
-
 <div style= "text-align: center">
-<p>Figura 4: Receita Federal (Fonte: https://www.gov.br/receitafederal/pt-br)</p>
+    <img src="../../assets/receita%20federal.png">
+    <p>Figura 4: Receita Federal (Fonte: https://www.gov.br/receitafederal/pt-br)</p>
 </div>
 
 
@@ -88,10 +86,10 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 - Ajuda e Documentação: O site oferece uma seção de ajuda e documentação para os usuários. Os visitantes podem encontrar informações sobre os recursos oferecidos pelo site. assim como seus métodos de acesso.
 
    
-![SAE](assets/sae.png)
 
 <div style= "text-align: center">
-<p>Figura 5: SAE (Fonte: https://sae.digital)</p>
+    <img src="../../assets/sae.png">
+    <p>Figura 5: SAE (Fonte: https://sae.digital)</p>
 </div>
 
 
@@ -117,10 +115,9 @@ em alguns momentos pode desanimar o usuário a explorar outras abas do site.
 - Ajuda e documentação: Não há presença de documentação auxiliar de fácil acesso. 
 
 
-![Memorial JK](assets/memorial%20jk.png)
-
 <div style= "text-align: center">
-<p>Figura 6: Memorial JK (Fonte: http://www.memorialjk.com.br)</p>
+    <img src="../../assets/memorial%20jk.png">
+    <p>Figura 6: Memorial JK (Fonte: http://www.memorialjk.com.br)</p>
 </div>
 
 
@@ -143,10 +140,9 @@ uma abaixo da outra, fazendo com que a página tenha uma extensa faixa de
 rolagem, o que tornar a experiência um pouco cansativa
 
 
-![Escola de Música](assets/escola%20de%20musica.png)
-
 <div style= "text-align: center">
-<p>Figura 7: Escola de Música (Fonte: https://www.escolademusicadebrasilia.com)</p>
+    <img src="../../assets/escola%20de%20musica.png">
+    <p>Figura 7: Escola de Música (Fonte: https://www.escolademusicadebrasilia.com)</p>
 </div>
 
 
@@ -173,10 +169,10 @@ para os usuários.
   
 
 
-![Imagem do BRB Mobilidade](assets/brb.png)
 
 <div style="text-align: center">
-<p>Figura 8 -  BRB Mobilidade. (Fonte: https://mobilidade.brb.com.br/passelivre/)</p>
+    <img src="../../assets/brb.png">
+    <p>Figura 8 -  BRB Mobilidade. (Fonte: https://mobilidade.brb.com.br/passelivre/)</p>
 </div>
 
 
