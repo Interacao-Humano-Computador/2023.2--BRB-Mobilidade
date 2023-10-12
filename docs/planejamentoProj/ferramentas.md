@@ -1,8 +1,8 @@
 # Ferramentas utilizadas ao longo do Projeto
 
 ## Introdução
-No decorrer deste projeto, é fundamental destacar as ferramentas que estarão desempenhando um papel fundamental em nossa jornada de desenvolvimento. Abaixo listaremos as ferramentas que irá nos auxiliar na comunicação do grupo, na gestão de tarefas, na alocação e criação de documentos, e no desenvolvimento.
 
+No decorrer deste projeto, é fundamental destacar as ferramentas que estarão desempenhando um papel fundamental em nossa jornada de desenvolvimento. Abaixo listaremos as ferramentas que irá nos auxiliar na comunicação do grupo, na gestão de tarefas, na alocação e criação de documentos, e no desenvolvimento.
 
 | Ferramentas   | Titulo                |
 |--------------|-----------------------|
@@ -18,9 +18,9 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 | <img src="https://1000logos.net/wp-content/uploads/2023/01/Google-Docs-logo.png" width=60>   | Google Docs, ferramenta usada para o planejamento e documentação da ata. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width=60>   | Google Chrome, navegador utilizados para avaliar os sites . |
 
-
 <br>
 É importante ressaltar que essas são apenas algumas das ferramentas que utilizaremos ao longo do projeto. À medida que avançamos, avaliaremos continuamente as necessidades da equipe e do projeto, adaptando nossas escolhas de ferramentas para garantir uma execução eficaz e eficiente.
+
 
 ## Histórico de versão
 
@@ -28,6 +28,7 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
 |    1.0   |   28/09/2023   |   Declaração de Ferramentas |  Amanda Abreu | [Artur Jackson](https://github.com/artur-jack) |
 |    1.1   |   29/09/2023   |   Declaração de Ferramentas |  Amanda Abreu | [Artur Jackson](https://github.com/artur-jack) |
+
 
 ## Bibliografia
 

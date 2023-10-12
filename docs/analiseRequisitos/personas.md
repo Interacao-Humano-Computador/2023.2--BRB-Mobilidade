@@ -1,5 +1,6 @@
 # Personas
 
+
 ### Eduardo Cardoso
 |                      |                      |
 | :------------------  | :------------------  |
@@ -11,6 +12,7 @@
 | **Status**          | Persona Primária.     |
 | **Tarefas**         | Faz o cadastro das informações no site e retira o cartão. |
 | **Relacionamentos** | Eduardo compartilha ocasionalmente com um pequeno grupo de amigos notícias sobre transporte público  |
+
 
 ### Luciana Costa
 |                      |                      |

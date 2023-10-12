@@ -22,7 +22,6 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 </div>
 
 
-
 ## [Inep](https://www.gov.br/inep/pt-br)
 O site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) é uma plataforma online do governo brasileiro que disponibiliza informações e serviços relacionados à educação. Suas principais funcionalidades incluem a divulgação de resultados de avaliações, consulta de notas, inscrição em exames, acesso a dados educacionais, pesquisas, informações sobre o Censo Escolar, legislação educacional, provas anteriores, notícias e orientações. <br>
 É uma ferramenta essencial para estudantes, educadores e pesquisadores interessados no sistema educacional brasileiro.<br>
@@ -37,8 +36,6 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 <div style= "text-align: center">
 <p>Figura 2: Inep (Fonte: https://www.gov.br/inep/pt-br)</p>
 </div>
-
-
 
 
 ## [Receita Federal](https://www.gov.br/receitafederal/pt-br)
@@ -64,7 +61,6 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 - Visibilidade do Status do Sistema <br>
 - Ajuda e Documentação <br>
    
-
 ![SAE](assets/sae.png)
 
 <div style= "text-align: center">
@@ -101,6 +97,7 @@ O site foi avaliado de acordo com os 10 método de inspeção heurística, abaix
 <p>Figura 7: Escola de Música (Fonte: https://www.escolademusicadebrasilia.com)</p>
 </div>
 
+
 ## [BRB Mobilidade](https://mobilidade.brb.com.br/passelivre/)
 
 Dentre os sites analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atender aos usuários do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem. <br>
@@ -110,13 +107,11 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 - Projeto estético e minimalista <br>
 - Ajuda e documentação <br>
 
-
 ![Imagem do BRB Mobilidade](assets/brb.png)
 
 <div style="text-align: center">
 <p>Figura 8 -  BRB Mobilidade. (Fonte: https://mobilidade.brb.com.br/passelivre/)</p>
 </div>
-
 
 
 ## Historico de versão
@@ -126,6 +121,7 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 |    1.0  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu| Felipe |
 |    1.1  |   29/09/2023   |   Lista de sites avaliados |  Amanda Abreu| Fause |
 |    1.2  |   04/10/2023   |   Heurísticas dos sites avaliados |  Amanda Abreu| Juan |
+
 
 ## Bibliografia
 * [https://brbnovo.brb.com.br/mobilidade/](https://brbnovo.brb.com.br/mobilidade/)

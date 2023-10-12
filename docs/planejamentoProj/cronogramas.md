@@ -2,6 +2,7 @@
 
 Este cronograma foi criado à partir das datas definidas pelo professor no Plano de Ensino do semestre 2023.2
 
+
 ## Datas importantes
 
 | Data de entrega| Atividade  | Data de apresentação |
@@ -19,6 +20,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 <div style="text-align: center">
     <p> Tabela 1: Cronograma com as principais entregas do semestre (Fonte: autor, 2023).</p>
 </div>
+
 
 ## Cronograma Entrega 1
 
@@ -39,6 +41,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 2: Cronograma da Entrega 1 (Fonte: autor, 2023).</p>
 </div>
 
+
 ## Cronograma Entrega 2
 
 | Atividade | Período para desenvolvimento | Autores| Período de revisão | Revisores |
@@ -53,6 +56,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 <div style="text-align: center">
     <p> Tabela 3: Cronograma da Entrega 2 (Fonte: autor, 2023).</p>
 </div>
+
 
 ## Cronograma Entrega 3
 
@@ -69,6 +73,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 4: Cronograma da Entrega 3 (Fonte: autor, 2023).</p>
 </div>
 
+
 ## Cronograma Entrega 4
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
@@ -83,6 +88,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 <div style="text-align: center">
     <p> Tabela 5: Cronograma da Entrega 4 (Fonte: autor, 2023).</p>
 </div>
+
 
 ## Cronograma Entrega 5
 
@@ -116,6 +122,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 7: Cronograma da Entrega 6.1 (Fonte: autor, 2023).</p>
 </div>
 
+
 ## Cronograma Entrega 7
 
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
@@ -130,6 +137,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 8: Cronograma da Entrega 7 (Fonte: autor, 2023).</p>
 </div>
 
+
 ## Cronograma Entrega 8
 
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
@@ -141,6 +149,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 <div style="text-align: center">
     <p> Tabela 9: Cronograma da Entrega 8 (Fonte: autor, 2023).</p>
 </div>
+
 
 ## Cronograma Entrega 6.2
 
@@ -158,6 +167,7 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 <div style="text-align: center">
     <p> Tabela 10: Cronograma da Entrega 6.2 (Fonte: autor, 2023).</p>
 </div>
+
 
 ## Cronograma Entrega final
 

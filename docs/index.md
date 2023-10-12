@@ -1,13 +1,15 @@
 <h1 align="center"> <b>BRB MOBILIDADE - 2023.2<b> </h1>
 
+
 ## Sobre o projeto
 Repositório de projeto da disciplina de Interação-Humano-Computador. Grupo 05
+
 
 ## Documentação
 A documentação do projeto está disponivel nesse <a href="#" target= "_blank">link</a>.
 
-## Integrantes
 
+## Integrantes
 
 | Nome                            | GitHub         | Foto                                                       |
 | ------------------------------- | --------------- | ---------------------------------------------------------- |
@@ -20,12 +22,9 @@ A documentação do projeto está disponivel nesse <a href="#" target= "_blank">
 | Lucas Andrade Lobão             | lucaslobao-18   | [<img src="https://avatars.githubusercontent.com/u/83256558?v=4" width=50>](https://github.com/lucaslobao-18) |
 
 
-
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
 |    1.0   |   28/09/2023   |   Iniciando Documentação |  Amanda Abreu, Arthur Rodrigues e Juan Pablo | [Arthur Sousa](https://github.com/arthurrsousa) |
 |    1.1   |   29/09/2023   |   Correção ortografia |  Felipe Hansen | [Arthur Sousa](https://github.com/arthurrsousa) |
-
-

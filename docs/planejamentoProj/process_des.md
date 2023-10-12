@@ -97,6 +97,7 @@ O ciclo também foi escolhido por ser uma opção ideal para equipe que possuem 
 |    1.0   |   28/09/2023   |   Adicionado ciclo de vida estrela até o ciclo de MayHew e o modelo escolhido |  [Fause Carlos](https://github.com/FauseSkyWalker)|[Lucas Lobão](https://github.com/lucaslobao-18)|
 |    1.1   |   30/09/2023   |   Adicionado a introdução  e o ciclo de vida simples até o centrado a comunicação |  [Lucas Lobão](https://github.com/lucaslobao-18)|[Fause Carlos](https://github.com/FauseSkyWalker)|
 
+
 ## Bibliografia
 
 <!-- - BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
