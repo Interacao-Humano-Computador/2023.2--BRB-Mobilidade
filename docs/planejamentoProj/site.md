@@ -15,8 +15,7 @@ Após a seleção individual, as sugestões foram debatidas pelo grupo, consider
 
 ## BRB MOBILIDADE
 
-Dentre os sítios analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atender aos usuários do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem.
-
+Entre os diferentes sites que foram analisados individualmente, optamos por focar no "[BRB Mobilidade](https://mobilidade.brb.com.br)", um recurso online de acesso gratuito. Este site foi originalmente concebido com a finalidade de atender às necessidades de utilizadores do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem. O principal público-alvo compreende estudantes e trabalhadores que regularmente utilizam o transporte público. É importante destacar que a presença de estudantes da Universidade de Brasília (UnB) entre os utilizadores desse serviço é notável, tornando esses usuários facilmente identificáveis.
 
 <div style="text-align: center">
     <img src="../../assets/brb.png">

@@ -1,6 +1,8 @@
 # Cronograma Planejado 
 
-Este cronograma foi criado à partir das datas definidas pelo professor no Plano de Ensino do semestre 2023.2
+## Introdução
+
+O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das datas definidas pelo professor da disciplina no Plano de Ensino do semestre 2023.2.
 
 
 ## Datas importantes

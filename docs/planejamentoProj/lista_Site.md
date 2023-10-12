@@ -1,10 +1,10 @@
 # Sites Avaliados
 
-# Introdução
+## Introdução
 
-O objetivo deste tópico é apresentar uma análise dos sites considerados, com o propósito de destacar as características que levaram à escolha do Brb Mobilidade. Para essa decisão, utilizamos as Heurísticas de Nielsen a fim de identificar o site que melhor atendia às necessidades da disciplina.
+Um dos objetivos do projeto é apresentar uma análise dos sites considerados, com o propósito de destacar as características que levaram à escolha do Brb Mobilidade. Para essa decisão, utilizamos as Heurísticas de Nielsen a fim de identificar o site que melhor atendia às necessidades da disciplina.
 
-Antes de chegarmos à conclusão de que o Brb Mobilidade era a opção mais adequada, o grupo apresentou alguns outros sites que também poderiam ser relevantes. Abaixo há uma lista de todos os sites que foram avaliados. 
+Antes de chegarmos à conclusão de que o BRB Mobilidade era a opção mais adequada, o grupo apresentou alguns outros sites que também poderiam ser relevantes. Abaixo há uma lista de todos os sites que foram avaliados. 
 
 ## [GOV](https://www.gov.br/fazenda/pt-br)
 O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  

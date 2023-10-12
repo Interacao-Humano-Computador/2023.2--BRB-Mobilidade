@@ -1,7 +1,8 @@
 # Processo de Design
 
 ## Introdução
-O processo de design é uma abordagem sistemática para abordar problemas e desenvolver soluções. Apesar de existirem várias formas de abordar um problema de IHC, geralmente, os processos de design giram em torno de 3 etapas básicas: análise da situação atual (identificação do problema), síntese de uma intervenção (proposta de solução), e avaliação da intervenção projetada ou já aplicada. Essas atividades podem ser executadas de forma interativa, permitindo refinamentos sucessivos do problema e da solução. O objetivo do processo de design é chegar a uma solução satisfatória para o problema identificado.
+
+No desenvolvimento do projeto, o processo de design foi uma abordagem sistemática que abordou problemas e desenvolveu soluções. Apesar de existirem várias formas de abordar um problema de IHC, geralmente, os processos de design giram em torno de 3 etapas básicas: análise da situação atual (identificação do problema), síntese de uma intervenção (proposta de solução), e avaliação da intervenção projetada ou já aplicada. Essas atividades podem ser executadas de forma interativa, permitindo refinamentos sucessivos do problema e da solução. O objetivo do processo de design é chegar a uma solução satisfatória para o problema identificado.
 
 Dito isso, iremos explicar brevemente sobre alguns desses processos mais conhecidos
 
