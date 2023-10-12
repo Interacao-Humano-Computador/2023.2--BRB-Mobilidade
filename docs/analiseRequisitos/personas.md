@@ -31,8 +31,18 @@ Personas são personagens fictcios que buscam representar o cliente ideal atrav�
 | **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
 
+
+
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   11/10/2023   |   Criação da página |  [Artur Jackson](https://github.com/artur-jack)| []()|
+|    1.1   |   12/10/2023   |   Adiciona introdução e bibliografia |  [Artur Jackson](https://github.com/artur-jack)| []()|
+
+## Bibliografia
+
+> This Person Doest Not Exist. Acesso em: 11/10/2023. Disponível em: https://this-person-does-not-exist.com/en
+
+> Design thinking : inovação em negócios | Maurício Vianna... [et al.]. -
+Rio de Janeiro : MJV Press, 2012
