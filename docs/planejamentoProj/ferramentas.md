@@ -16,7 +16,8 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 | <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150" width=60>   | Mkdocs, ferramenta usada para geração de documentação. |
 | <img src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png" width=60>   | Trello, ferramenta usada para organização da equipe e do projeto. |
 | <img src="https://1000logos.net/wp-content/uploads/2023/01/Google-Docs-logo.png" width=60>   | Google Docs, ferramenta usada para o planejamento e documentação da ata. |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width=60>   | Google Chrome, navegador utilizados para avaliar os sites . |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width=60>   | Google Chrome, navegador utilizados para avaliar os sites. |
+| <img src="https://infograph.venngage.com/media/v2_img/logo_blue.svg" width=60>   | Venngage, ferramenta usada para criar gráficos. |
 
 <br>
 É importante ressaltar que essas são apenas algumas das ferramentas que utilizaremos ao longo do projeto. À medida que avançamos, avaliaremos continuamente as necessidades da equipe e do projeto, adaptando nossas escolhas de ferramentas para garantir uma execução eficaz e eficiente.
@@ -28,16 +29,27 @@ No decorrer deste projeto, é fundamental destacar as ferramentas que estarão d
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
 |    1.0   |   28/09/2023   |   Declaração de Ferramentas | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Artur Jackson](https://github.com/artur-jack) |
 |    1.1   |   29/09/2023   |   Declaração de Ferramentas | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Artur Jackson](https://github.com/artur-jack) |
+|    2.0   |   29/09/2023   |   Atualiza ferramentas | [Arthur Sousa](https://github.com/arthurrsousa) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
 
 
 ## Bibliografia
 
-* [https://i.pinimg.com/564x/e6/85/55/e685555d3879dd2407d668086ee7208a.jpg](https://i.pinimg.com/564x/e6/85/55/e685555d3879dd2407d668086ee7208a.jpg)
-* [https://i.pinimg.com/564x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg](https://i.pinimg.com/564x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg)
-* [https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg](https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg)
-* [https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg](https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg)
-* [https://i.pinimg.com/736x/3c/01/4a/3c014a1bf0cd1f1f2afe8f1d777c3f7a.jpg](https://i.pinimg.com/736x/3c/01/4a/3c014a1bf0cd1f1f2afe8f1d777c3f7a.jpg)
-* [https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150)
-* [https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png](https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png)
-* [https://1000logos.net/wp-content/uploads/2023/01/Google-Docs-logo.png](https://1000logos.net/wp-content/uploads/2023/01/Google-Docs-logo.png)
-* [https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg](https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg)
+* [Ícone Whatsapp](https://i.pinimg.com/564x/e6/85/55/e685555d3879dd2407d668086ee7208a.jpg)
+
+* [Ícone Figma](https://i.pinimg.com/564x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg)
+
+* [Ícone Teams](https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg)
+
+* [Ícone](https://i.pinimg.com/564x/7f/2d/ec/7f2deca4b7b1b4821d04bc274f6d5952.jpg)
+
+* [Ícone Discord](https://i.pinimg.com/736x/3c/01/4a/3c014a1bf0cd1f1f2afe8f1d777c3f7a.jpg)
+
+* [Ícone Mkdocs](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/37521c65-4bd8-44fb-ac25-f80bbe193828.png?auto=format,compress&size=150)
+
+* [Ícone Trello](https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png)
+
+* [Ícone Google Docs](https://1000logos.net/wp-content/uploads/2023/01/Google-Docs-logo.png)
+
+* [Ícone Google Chrome](https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg)
+
+* [Ícone Vennagage](https://infograph.venngage.com/infographics)
