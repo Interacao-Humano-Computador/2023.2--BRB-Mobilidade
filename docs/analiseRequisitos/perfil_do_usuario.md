@@ -108,7 +108,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 |  Sim, para segunda via de cartão e saldo |
 |  Sim, para conseguir o cartão estudantil|
 |  Sim, para verificar situação do meu cartão do ônibus |
-|Sim, para solicitar o cartão e para solicitar segunda via do cartão  |
+| Sim, para solicitar o cartão e para solicitar segunda via do cartão  |
 | Sim, para solicitar o cartão, para editar informações de cadastro e para solicitar segunda via do cartão  |
 | Sim, aumentar passes, pedir segunda via e conferir dados |
 | Sim, para atualizações cadastrais  |
@@ -193,6 +193,8 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 ## Conclusão 
 
+Com base nas respostas obtidas através das entrevistas podemos concluir que o perfil de usuário que o utiliza o site do BRB Mobilidade seria caracterizado por um público predominantemente masculino, com idades compreendidas entre 21 e 24 anos. Esses usuários frequentes do sistema utilizam o cartão para acesso ao transporte público em Brasília, realizando tarefas como verificação de saldo, solicitação de segunda via e acompanhamento da situação do cartão. Embora não compartilhem informações ou opiniões sobre transporte público em plataformas online, eles demonstram uma preferência por receber notificações em tempo real sobre atualizações ou interrupções nos serviços de transporte público, o que é especialmente útil em uma cidade movimentada como Brasília.
+
 
 ## Histórico de versão
 
@@ -200,7 +202,8 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 | ------ | ---------- |--------------------------------------- |----------------------------- |-----------------------------------|
 |  2.0   | 12/10/2023   | Adicionando introdução | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |
 |  2.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |
-|  2.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |
+|  2.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | 
+|  2.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |--------- |
 
 ## Bibliografia 
 
