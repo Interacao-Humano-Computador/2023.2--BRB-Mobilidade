@@ -8,7 +8,7 @@ Um perfil de usuário é uma coleção de configurações e informações associ
 
 ## Metodologia
 
-Com o objetivo de criar uma descrição detalhada dos atuais e futuros usuários do site BRB Mobilidade, conduzimos entrevistas como fonte de coleta de dados. Essa abordagem nos permite compreender quem são esses usuários, bem como suas necessidades e interesses de forma qualitativa. A definição do perfil do usuário é de extrema importância na análise de requisitos da aplicação, e nossos esforços visam analisar como o BRB Mobilidade atende às expectativas dos usuários. 
+Com o objetivo de criar uma descrição detalhada dos atuais e futuros usuários do site BRB Mobilidade, conduzimos **entrevistas** como fonte de coleta de dados. Essa abordagem nos permite compreender quem são esses usuários, bem como suas necessidades e interesses de forma qualitativa. A definição do perfil do usuário é de extrema importância na análise de requisitos da aplicação, e nossos esforços visam analisar como o BRB Mobilidade atende às expectativas dos usuários. 
 
 É importante ressaltar que existe inúmeros meios para coleta de dados. Além do método de entrevista (realizado pelo grupo) á também outros métodos como grupos de foco, questionários, estudo de campo e etc.
 
@@ -47,7 +47,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 ### 3. Onde você mora ou qual é a sua localização principal?
 
-![Image title](..\assets\grafico2Modaria.png)
+![Image title](../assets/grafico2Modaria.png)
 
 <div style="text-align: center">
     <p>Figura 3: Gráfico de respostas da pergunta 3 (Fonte: autor, 2023)</p>
