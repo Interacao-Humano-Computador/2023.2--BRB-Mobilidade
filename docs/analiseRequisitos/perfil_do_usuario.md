@@ -193,7 +193,14 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 ## Conclusão 
 
-Com base nas respostas obtidas através das entrevistas podemos concluir que o perfil de usuário que o utiliza o site do BRB Mobilidade seria caracterizado por um público predominantemente masculino, com idades compreendidas entre 21 e 24 anos. Esses usuários frequentes do sistema utilizam o cartão para acesso ao transporte público em Brasília, realizando tarefas como verificação de saldo, solicitação de segunda via e acompanhamento da situação do cartão. Embora não compartilhem informações ou opiniões sobre transporte público em plataformas online, eles demonstram uma preferência por receber notificações em tempo real sobre atualizações ou interrupções nos serviços de transporte público, o que é especialmente útil em uma cidade movimentada como Brasília.
+Com base nas respostas obtidas através das entrevistas podemos concluir que o perfil de usuário que o utiliza o site do BRB Mobilidade seria caracterizado por:
+
+- Gênero: masculino 
+- Idade: entre 21 e 24 anos 
+- Localização: Gama 
+- Ocupação: Estudante 
+- Objetivo: 1.Solicitar cartão  2.Editar informações 3.Solicitar segunda via do cartão 
+        
 
 
 ## Histórico de versão
