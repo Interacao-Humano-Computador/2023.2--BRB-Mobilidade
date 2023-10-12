@@ -44,6 +44,9 @@ nav:
     - Sites Avaliados: lista_Site.md
     - Processo de Design: process_des.md
     - Site Escolhido: site.md
+  - Análise de Requisitos:
+    - Perfil do usuário: perfil_do_usuario.md
+    - Personas: personas.md
   - Encontros: reunioes.md
 
 markdown_extensions:
