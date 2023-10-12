@@ -69,3 +69,13 @@ Nome do Participante: __________
 Assinatura do Participante: _________
 
 Data: __/__/___
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   28/09/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|----------------------|
+
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
