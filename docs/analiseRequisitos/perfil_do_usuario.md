@@ -25,7 +25,67 @@ Os resultados das entrevistas foram de bastante importância para o projeto. Dur
 
 Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
-|1. Com que frequência você utiliza o transporte público em Brasília?|
+### 1. Qual a sua idade?
+
+![Image title](../assets/grafico1Idade.png)
+
+<div style="text-align: center">
+    <p>Figura 1: Gráfico de respostas da pergunta 1 (Fonte: autor, 2023)</p>
+</div>
+
+<br>
+
+### 2. Qual é o seu gênero?
+
+![Image title](../assets/grafico7Genero2.png)
+
+<div style="text-align: center">
+    <p>Figura 2: Gráfico de respostas da pergunta 2 (Fonte: autor, 2023)</p>
+</div>
+
+<br>
+
+### 3. Onde você mora ou qual é a sua localização principal?
+
+![Image title](..\assets\grafico2Modaria.png)
+
+<div style="text-align: center">
+    <p>Figura 3: Gráfico de respostas da pergunta 3 (Fonte: autor, 2023)</p>
+</div>
+
+<br>
+
+### 4. Com que frequência você utiliza o transporte público em Brasília?
+
+![Image title](../assets/grafico3FrequenciaUso.png)
+
+<div style="text-align: center">
+    <p>Figura 4: Gráfico de respostas da pergunta 4 (Fonte: autor, 2023)</p>
+</div>
+
+<br>
+
+### 5. Há quanto tempo você reside em Brasília?
+
+![Image title](../assets/grafico5TempoMoradia.png)
+
+<div style="text-align: center">
+    <p>Figura 5: Gráfico de respostas da pergunta 5 (Fonte: autor, 2023)</p>
+</div>
+
+<br>
+
+### 6. Você costuma compartilhar informações ou opiniões sobre transporte público ou mobilidade com outras pessoas nas redes sociais ou em fóruns online?
+
+![Image title](../assets/grafico6CompartilhaInfo.png)
+
+<div style="text-align: center">
+    <p>Figura 6: Gráfico de respostas da pergunta 6 (Fonte: autor, 2023)</p>
+</div>
+
+<br>
+
+| 7. Com que frequência você utiliza o transporte público em Brasília?|
 |:---------------------------------------------------------------:|
 | Todos os dias |
 | Diariamente |
@@ -35,9 +95,15 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 | Todos os dias    |
 | Todos os dias    |
 
+<div style="text-align: center">
+    <p> 
+        Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023).
+    </p>
+</div>
+
 <br>
 
-| 2. Você já utilizou o site do BRB Mobilidade? Se sim, com que finalidade?|
+| 8. Você já utilizou o site do BRB Mobilidade? Se sim, com que finalidade?|
 |:---------------------------------------------------------------:|
 |  Sim, para segunda via de cartão e saldo |
 |  Sim, para conseguir o cartão estudantil|
@@ -47,9 +113,15 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 | Sim, aumentar passes, pedir segunda via e conferir dados |
 | Sim, para atualizações cadastrais  |
 
+<div style="text-align: center">
+    <p> 
+        Tabela 2: Respostas da pergunta 8 (Fonte: autor, 2023).
+    </p>
+</div>
+
 <br>
 
-| 3. Você utiliza algum tipo de benefício tarifário, como descontos para estudantes ou passes mensais, ao utilizar o transporte público?|
+| 9. Você utiliza algum tipo de benefício tarifário, como descontos para estudantes ou passes mensais, ao utilizar o transporte público?|
 |:---------------------------------------------------------------:|
 | Não |
 | Sim, o cartão estudantil me permite passes mensais.|
@@ -59,10 +131,15 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 | Sim, o passe livre para estudante |
 | Sim, o passe livre para estudante |
 
+<div style="text-align: center">
+    <p> 
+        Tabela 3: Respostas da pergunta 9 (Fonte: autor, 2023).
+    </p>
+</div>
+
 <br>
 
-
-|4. Como você avalia a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético?|
+| 10. Como você avalia a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético?|
 |:---------------------------------------------------------------:|
 | Design fácil, a única dificuldade foi pegar o cartão, pois era longe.  |
 |Simples e Direto, só alguns formulários (Um atrás do outro) |
@@ -72,10 +149,15 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 | Diariamente |
 | Diariamente |
 
+<div style="text-align: center">
+    <p> 
+        Tabela 4: Respostas da pergunta 10 (Fonte: autor, 2023).
+    </p>
+</div>
+
 <br>
 
-
-|5. Em relação à sua experiência como usuário do site do BRB, como você percebe a autonomia e liberdade para realizar suas transações e acessar informações? Quais aspectos específicos você considera cruciais para melhorar a sua liberdade e autonomia nesse ambiente virtual?|
+| 11. Em relação à sua experiência como usuário do site do BRB, como você percebe a autonomia e liberdade para realizar suas transações e acessar informações? Quais aspectos específicos você considera cruciais para melhorar a sua liberdade e autonomia nesse ambiente virtual?|
 |:---------------------------------------------------------------:|
 | Não teve dificuldade  |
 |Sinto que não tenho tanta liberdade, visto que vou respondendo formulários seguidos. Gostaria de adicionar local de retirada e ter algum chat online  |
@@ -85,9 +167,15 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 | Diariamente |
 | Diariamente |
 
+<div style="text-align: center">
+    <p> 
+        Tabela 5: Respostas da pergunta 11 (Fonte: autor, 2023).
+    </p>
+</div>
+
 <br>
 
-|6. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?|
+| 12. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?|
 |:---------------------------------------------------------------:|
 | Asa norte, asa sul, plano e gama. |
 |Asa Norte e Gama |
@@ -97,15 +185,22 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 | Gama, plano piloto, Taguatinga |
 | Leste do Gama |
 
+<div style="text-align: center">
+    <p> 
+        Tabela 6: Respostas da pergunta 12 (Fonte: autor, 2023).
+    </p>
+</div>
+
 ## Conclusão 
 
 
 ## Histórico de versão
 
-| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
-| ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
+| Versão | Data       |Modificação                             |Autor                         |Revisores                         |
+| ------ | ---------- |--------------------------------------- |----------------------------- |-----------------------------------|
 |  2.0   | 12/10/2023   | Adicionando introdução | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |
 |  2.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |
+|  2.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |
 
 ## Bibliografia 
 
