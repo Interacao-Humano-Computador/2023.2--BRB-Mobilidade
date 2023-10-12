@@ -25,3 +25,9 @@
 | **Status**          | Persona Primária.     |
 | **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
+
+## Histórico de versão
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   11/10/2023   |   Criação da página |  [Artur Jackson](https://github.com/artur-jack)| []()|
