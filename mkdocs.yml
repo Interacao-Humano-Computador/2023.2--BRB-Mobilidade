@@ -37,18 +37,18 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: 
-    - Ferramentas: ferramentas.md
-    - Cronograma planejado: cronogramas.md
-    - Cronograma executado: cronograma_executado.md
-    - Heat- Map: heat.md
-    - Sites Avaliados: lista_Site.md
-    - Processo de Design: process_des.md
-    - Site Escolhido: site.md
+    - Ferramentas: planejamentoProj/ferramentas.md
+    - Cronograma planejado: planejamentoProj/cronogramas.md
+    - Cronograma executado: planejamentoProj/cronograma_executado.md
+    - Heat- Map: planejamentoProj/heat.md
+    - Sites Avaliados: planejamentoProj/lista_Site.md
+    - Processo de Design: planejamentoProj/process_des.md
+    - Site Escolhido: planejamentoProj/site.md
   - Análise de Requisitos:
-    - Perfil do usuário: perfil_do_usuario.md
-    - Personas: personas.md
-    - Aspectos éticos: aspectos_eticos.md
-    - Análise de tarefas: analise_tarefas.md
+    - Perfil do usuário: analiseRequisitos/perfil_do_usuario.md
+    - Personas: analiseRequisitos/personas.md
+    - Aspectos éticos: analiseRequisitos/aspectos_eticos.md
+    - Análise de tarefas: analiseRequisitos/analise_tarefas.md
   - Encontros: reunioes.md
 
 markdown_extensions:
