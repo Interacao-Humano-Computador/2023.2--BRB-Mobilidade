@@ -1,5 +1,10 @@
 # Personas
 
+## Introdução
+
+Personas são personagens fictcios que buscam representar o cliente ideal através da síntese de comportamentos, motivação, desejos e características significativas sobre o público alvo. Assim, a criação de personas é importante para auxiliar no processo de design direcionando as soluções para o público alvo do produto.
+
+## Personas
 
 ### Eduardo Cardoso
 |                      |                      |
@@ -10,7 +15,7 @@
 | **Gênero**        | Masculino |
 | **Descrição**        | Eduardo tem 21 anos de idade, mora em Brasília e é estudante do ensino superior. Costuma visitar áreas como a Asa Norte e Gama. |
 | **Status**          | Persona Primária.     |
-| **Tarefas**         | Faz o cadastro das informações no site e retira o cartão. |
+| **Tarefas**         | Faz o cadastro das informações no site e retira o cartão. Usufruí de benefícios tarifários, como passes mensais, devido ao status de estudante.|
 | **Relacionamentos** | Eduardo compartilha ocasionalmente com um pequeno grupo de amigos notícias sobre transporte público  |
 
 
@@ -23,7 +28,7 @@
 | **Gênero**        | Feminino |
 | **Descrição**        | Luciana tem 30 anos de idade, mora em taguatinga e é servidora pública. Costuma utilizar o transporte público para se locomover para várias áreas da cidade. |
 | **Status**          | Persona Primária.     |
-| **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. |
+| **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
 
 ## Histórico de versão
