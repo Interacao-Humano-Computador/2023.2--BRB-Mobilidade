@@ -26,5 +26,5 @@ A documentação do projeto está disponivel nesse <a href="#" target= "_blank">
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0   |   28/09/2023   |   Iniciando Documentação |  Amanda Abreu, Arthur Rodrigues e Juan Pablo | [Arthur Sousa](https://github.com/arthurrsousa) |
-|    1.1   |   29/09/2023   |   Correção ortografia |  Felipe Hansen | [Arthur Sousa](https://github.com/arthurrsousa) |
+|    1.0   |   28/09/2023   |   Iniciando Documentação |  [Amanda Abreu](https://github.com/Juan-Ricarte), [Arthur Sousa](https://github.com/arthurrsousa) e [Juan Pablo](https://github.com/Juan-Ricarte) | [Arthur Sousa](https://github.com/arthurrsousa) |
+|    1.1   |   29/09/2023   |   Correção ortografia | [Felipe Hansen](https://github.com/FHansen98) | [Arthur Sousa](https://github.com/arthurrsousa) |

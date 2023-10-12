@@ -187,4 +187,4 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan](https://github.com/Juan-Ricarte)|
+|    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan Pablo](https://github.com/Juan-Ricarte)|

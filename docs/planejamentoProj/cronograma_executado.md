@@ -25,4 +25,4 @@ Cronograma que descreve todas as atividades já realizadas, com suas datas e aut
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan](https://github.com/Juan-Ricarte)|
+|    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan Pablo](https://github.com/Juan-Ricarte)|
