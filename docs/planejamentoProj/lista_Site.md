@@ -118,9 +118,9 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0  |   29/09/2023   |   Lista de sites avaliados | [Amanda Abreu](https://github.com/Juan-Ricarte) | [Felipe Hansen](https://github.com/FHansen98) |
-|    1.1  |   29/09/2023   |   Lista de sites avaliados | [Amanda Abreu](https://github.com/Juan-Ricarte) | [Fause Carlos](https://github.com/FauseSkyWalker) |
-|    1.2  |   04/10/2023   |   Heurísticas dos sites avaliados | [Amanda Abreu](https://github.com/Juan-Ricarte) | [Juan Pablo](https://github.com/Juan-Ricarte) |
+|    1.0  |   29/09/2023   |   Lista de sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
+|    1.1  |   29/09/2023   |   Lista de sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Fause Carlos](https://github.com/FauseSkyWalker) |
+|    1.2  |   04/10/2023   |   Heurísticas dos sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Juan Pablo](https://github.com/Juan-Ricarte) |
 
 
 ## Bibliografia

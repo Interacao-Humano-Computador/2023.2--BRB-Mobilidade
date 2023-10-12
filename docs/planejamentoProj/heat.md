@@ -17,5 +17,5 @@ De acordo com o Heat Map Estabelecido utilizando a ferramenta Excel, foi estabel
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0  |   28/09/2023   |   Site selecionado |  Juan Pablo | Amanda |
+|    1.0  |   28/09/2023   |   Site selecionado |  [Juan Pablo](https://github.com/Juan-Ricarte) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
 
