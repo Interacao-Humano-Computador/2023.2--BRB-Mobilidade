@@ -72,7 +72,7 @@ Data: __/__/___
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   28/09/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|----------------------|
+|    1.0   |   11/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|----------------------|
 
 
 ## Bibliografia
