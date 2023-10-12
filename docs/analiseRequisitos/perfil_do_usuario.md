@@ -3,8 +3,7 @@
 
 ## Introdução
 
-Com o objetivo de criar uma descrição detalhada dos atuais/futuros usuários do site BRB Mobilidade, foram conduzidos estudos para a coleta de seus dados com o intuito de nos ajudar a conhecer quem são e quais seus interesses.
-Para definir o perfil do usuário, que é de extrema importância para a análise de requisitos de uma aplicação, utilizamos como fonte de coleta de dados as entrevistas, pelo fato de termos bastante contato com esses usuários no dia a dia e também porque, com elas, é possível realizar uma análise mais qualitativa dos dados encontrados.
+Com o objetivo de criar uma descrição detalhada dos atuais e futuros usuários do site BRB Mobilidade, conduzimos entrevistas como fonte de coleta de dados. Essa abordagem nos permite compreender quem são esses usuários, bem como suas necessidades e interesses de forma qualitativa. A definição do perfil do usuário é de extrema importância na análise de requisitos da aplicação, e nossos esforços visam analisar como o BRB Mobilidade atende às expectativas dos usuários.
 
 
 ## Histórico de versão
