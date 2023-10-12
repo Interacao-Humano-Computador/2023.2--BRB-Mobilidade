@@ -16,10 +16,10 @@
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  Luciana Costa      |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/luciana.jpeg?raw=true"><p>Imagem 1 Eduardo Cardoso persona</p> |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/luciana.jpeg?raw=true"><p>Imagem 2 Luciana Costa persona</p> |
 | **Idade**        | 30 anos |
 | **Gênero**        | Feminino |
-| **Descrição**        | Luciana tem 30 anos de idade, mora em taguatinga e é servidora pública. Costuma utilizar o transporte pública para se locomover para várias áreas da cidade. |
+| **Descrição**        | Luciana tem 30 anos de idade, mora em taguatinga e é servidora pública. Costuma utilizar o transporte público para se locomover para várias áreas da cidade. |
 | **Status**          | Persona Primária.     |
 | **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
