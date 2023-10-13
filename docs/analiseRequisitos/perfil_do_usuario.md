@@ -199,7 +199,7 @@ Com base nas respostas obtidas através das entrevistas podemos concluir que o p
 - Idade: entre 21 e 24 anos 
 - Localização: Gama 
 - Ocupação: Estudante 
-- Objetivo: 1.Solicitar cartão  2.Editar informações 3.Solicitar segunda via do cartão 
+- Objetivos: 1.Solicitar cartão  2.Editar informações 3.Solicitar segunda via do cartão 
         
 
 
@@ -207,10 +207,10 @@ Com base nas respostas obtidas através das entrevistas podemos concluir que o p
 
 | Versão | Data       |Modificação                             |Autor                         |Revisores                         |
 | ------ | ---------- |--------------------------------------- |----------------------------- |-----------------------------------|
-|  2.0   | 12/10/2023   | Adicionando introdução | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |
-|  2.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |
-|  2.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | 
-|  2.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | --------- |--------- |
+|  2.0   | 12/10/2023   | Adicionando introdução | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Felipe |
+|  2.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Juan|
+|  2.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Lucas |
+|  2.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Artur Jackson |
 
 ## Bibliografia 
 
