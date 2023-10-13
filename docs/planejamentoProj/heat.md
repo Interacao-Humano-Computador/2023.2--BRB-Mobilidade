@@ -12,7 +12,7 @@ De acordo com o Heat Map Estabelecido utilizando a ferramenta Excel, foi estabel
 
 <div style= "text-align: center">
     <img src="../../assets/heat.jpg">
-    <p>Figura 1: Heat Map</p> 
+    <p>Figura 1: Heat Map (Fonte: autor, 2023)</p> 
 </div>
 
 

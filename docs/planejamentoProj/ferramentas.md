@@ -22,23 +22,38 @@ Para o desenvolvimento do projeto, é fundamental destacar as ferramentas que es
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width=60>   | Google Chrome, navegador utilizados para avaliar os sites . |
 | <img src="https://infograph.venngage.com/media/v2_img/logo_blue.svg" width=60>   | Venngage, ferramenta usada para criar gráficos. |
 
+<div style= "text-align: center">
+    <p>Tabela 1: Tabela de ferramentas utilizadas no projeto (Fonte: autor, 2023)</p> 
+</div>
 <br>
 É importante ressaltar que essas são apenas algumas das ferramentas que utilizaremos ao longo do projeto. À medida que avançamos, avaliaremos continuamente as necessidades da equipe e do projeto, adaptando nossas escolhas de ferramentas para garantir uma execução eficaz e eficiente.
 
 ## Referências Bibliográficas
 
 >1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 12 de set. de 2023.
+
 >2. Google Chrome. Disponível em: [https://www.google.pt/intl/pt-PT/chrome/](https://www.google.pt/intl/pt-PT/chrome/). Acesso em: 12 de set. de 2023.
+
 >3. GoogleDocs. Disponível em: [https://www.google.com/intl/pt-BR/docs/about/](https://www.google.com/intl/pt-BR/docs/about/). Acesso em: 12 de set. de 2023.
+
 >4. GooglePlanilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](https://www.google.com/intl/pt-BR/sheets/about/). Acesso em: 12 de set. de 2023.
+
 >5. Discord. Disponível em: [https://discord.com/](https://discord.com/). Acesso em: 12 de set. de 2023.
+
 >6. Figma. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 12 de set. de 2023.
+
 >7. Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 12 de set. de 2023.
+
 >8. Whatsapp. Disponível em: [https://www.whatsapp.com/?lang=pt_br](https://www.whatsapp.com/?lang=pt_br). Acesso em: 12 de set. de 2023.
+
 >9. YouTube. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 12 de set. de 2023.
+
 >10. VisualStudioCode. Disponível em: [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 12 de set. de 2023.
+
 >11. MkDocs. Disponível em: [https://www.mkdocs.org/](https://www.mkdocs.org/). Acesso em: 12 de set. de 2023.
+
 >12. Trello. Disponível em: [https://trello.com/pt-BR](https://trello.com/pt-BR). Acesso em: 18 de set. de 2023.
+
 
 ## Histórico de versão
 
@@ -47,7 +62,7 @@ Para o desenvolvimento do projeto, é fundamental destacar as ferramentas que es
 |    1.0   |   28/09/2023   |   Declaração de Ferramentas | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Artur Jackson](https://github.com/artur-jack) |
 |    1.1   |   29/09/2023   |   Declaração de Ferramentas | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Artur Jackson](https://github.com/artur-jack) |
 |    2.0   |   29/09/2023   |   Atualiza ferramentas | [Arthur Sousa](https://github.com/arthurrsousa) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
-|    2.1   |   13/10/2023   |   Adição das Referências Bibliográficas | [Felipe Hansen](https://github.com/FHansen98) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
+|    2.1   |   13/10/2023   |   Adição das Referências Bibliográficas | [Felipe Hansen](https://github.com/FHansen98) | [Arthur Sousa](https://github.com/arthurrsousa) |
 
 
 ## Bibliografia
