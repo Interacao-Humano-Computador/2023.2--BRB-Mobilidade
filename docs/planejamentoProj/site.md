@@ -19,7 +19,7 @@ Entre os diferentes sites que foram analisados individualmente, optamos por foca
 
 <div style="text-align: center">
     <img src="../../assets/brb.png">
-    <p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+    <p>Figura 1 - Imagem da página inicial do sítio eletrônico - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 

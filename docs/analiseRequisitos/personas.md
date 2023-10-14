@@ -12,7 +12,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  Eduardo Cardoso      |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/eduardo.jpeg?raw=true"><p>Imagem 1 Eduardo Cardoso persona</p> |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/eduardo.jpeg?raw=true"> <p>Figura 1 - Eduardo Cardoso persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p> |
 | **Idade**        | 21 anos |
 | **Gênero**        | Masculino |
 | **Descrição**        | Eduardo tem 21 anos de idade, mora em Brasília e é estudante do ensino superior. Costuma visitar áreas como a Asa Norte e Gama. |
@@ -25,7 +25,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  Luciana Costa      |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/luciana.jpeg?raw=true"><p>Imagem 2 Luciana Costa persona</p> |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/luciana.jpeg?raw=true"><p>Figura 2 - Luciana Costa persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 30 anos |
 | **Gênero**        | Feminino |
 | **Descrição**        | Luciana tem 30 anos de idade, mora em taguatinga e é servidora pública. Costuma utilizar o transporte público para se locomover para várias áreas da cidade. |
@@ -37,7 +37,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  João Santos      |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joao.jpeg?raw=true"><p>Imagem 3 João Santos anti-persona</p> |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joao.jpeg?raw=true"><p>Figura 3 - João Santos persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 52 anos |
 | **Gênero**        | Masculino |
 | **Descrição**        | João tem 52 anos de idade, é um comerciante que possuí sua própia loja no Sudoeste. Tem uma rotina muito ocupada e usa seu própio veículo para se deslocar pela cidade. Não tem muito interesse em questões sobre o transporte público. |
