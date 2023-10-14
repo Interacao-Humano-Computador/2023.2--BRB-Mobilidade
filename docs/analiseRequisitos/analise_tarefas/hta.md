@@ -20,7 +20,7 @@ Clicar em opção “recuperar senha”
 Recuperar Senha
 
 <div style="text-align: center">
-    <img src="/docs/assets/diagramas hta/Diagrama acompanhar cadastro.png">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20acompanhar%20cadastro.png?raw=true">
     <p>Figura 1: Diagrama HTA da tarefa de acompanhar cadastro</p>
 </div>
 
@@ -38,7 +38,7 @@ Adicionar observação
 Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda ou roubo))
 
 <div style="text-align: center">
-    <img src="/docs/assets/diagramas hta/Diagrama 2via.png">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%202via.png?raw=true">
     <p>Figura 2: Diagrama HTA da tarefa de 2°via</p>
 </div>
 
@@ -55,7 +55,7 @@ Anexar documentos (Declaração de matrícula)
 Clicar em Registrar solicitação
 
 <div style="text-align: center">
-    <img src="/docs/assets/diagramas hta/Diagrama extensao de acesso.png">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20extensao%20de%20acesso.png?raw=true">
     <p>Figura 3: Diagrama HTA da tarefa de extensão de acesso</p>
 </div>
 
@@ -72,7 +72,7 @@ Escrever uma observação
 Anexar um documento de comprovação (declaração de passe, declaração de vínculo, grade horária com data)
 
 <div style="text-align: center">
-    <img src="/docs/assets/diagramas hta/Diagrama troca de instituição.png">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20extensao%20de%20acesso.png?raw=true">
     <p>Figura 4: Diagrama HTA da tarefa de troca de instituição</p>
 </div>
 
