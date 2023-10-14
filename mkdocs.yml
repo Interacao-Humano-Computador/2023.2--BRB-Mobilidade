@@ -47,6 +47,7 @@ nav:
   - Análise de Requisitos:
     - Perfil do usuário: analiseRequisitos/perfil_do_usuario.md
     - Personas: analiseRequisitos/personas.md
+    - Cenários: analiseRequisitos/cenario.md
     - Aspectos éticos: analiseRequisitos/aspectos_eticos.md
     - Análise de tarefas:
       - Sobre: analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md
