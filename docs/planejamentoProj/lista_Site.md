@@ -88,6 +88,7 @@ públicos.
 O site do SAE (Sistema de Apoio ao Estudante) é uma plataforma online usada por instituições educacionais para fornecer suporte e serviços aos estudantes. Suas funcionalidades incluem matrícula, acompanhamento acadêmico, apoio financeiro, comunicação, recursos educacionais, serviços de saúde, agendamento de atendimentos, gerenciamento de documentos e suporte técnico. O objetivo é melhorar a experiência dos estudantes, simplificando processos e fornecendo informações relevantes para o sucesso acadêmico. As funcionalidades podem variar de acordo com a instituição. 
 
 O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: 
+
 - Prevenção de Erros 
 
 - Visibilidade do Status do Sistema 
@@ -107,13 +108,21 @@ O site do Memorial JK é a plataforma online oficial dedicada à preservação d
 
 O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: 
 
-- Visibilidade do estado do sistema 
+- Visibilidade do estado do sistema: Em virtude de o sistema não ser muito complexo, sendo um site mais informativo, 
+em geral consegue entregar feedbacks do que está acontecendo para o usuário. 
+Apesar de que em algumas iterações o sistema apresenta um tempo de resposta 
+maior do que o normal.
 
-- Consistência e padronização 
+- Consistência e padronização: As inconsistências encontradas foram que em algumas abas a página se encontra 
+em posições um pouco diferentes. Além de não seguir padrões de acessibilidade 
+definidos pelo W3C. Como não possuir opção de conteúdo não textual, que tornaria
+o conteúdo multimídia acessível e facilitaria a percepção do conteúdo.
 
-- Projeto estético e minimalista 
+- Projeto estético e minimalista:  Projeto estético e minimalista
+O site apresenta um design ultrapassado para atualidade e não minimalista onde 
+em alguns momentos pode desanimar o usuário a explorar outras abas do site.
 
-- Ajuda e documentação 
+- Ajuda e documentação: Não há presença de documentação auxiliar de fácil acesso. 
 
 
 ![Memorial JK](assets/memorial%20jk.png)
