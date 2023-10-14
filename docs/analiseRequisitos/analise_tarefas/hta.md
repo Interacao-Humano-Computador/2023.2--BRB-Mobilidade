@@ -1,10 +1,14 @@
 ### Cadastrar-se
 
-| Objetivos/Operações | Problemas e Recomendações|
-| ------ | ------ | 
-| 0. Fazer cadastro| **input:** formulário de cadastro contendo dados pessoais, endereço, dados estudantis e outros |
-|1. Informar dados pessoais| **plano:** informar cpf, nome, data de nascimento, sexo, nome da mãe, nome do pai, estado civil, documento de identificação, órgão emissor, UF, (nome do responsável, RG, órgão emissor, UF) caso seja um menor, número de telefone|
-
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+|0. Acompanhar cadastro| 1>2 | |
+|1. Login| 1+2 ||
+|1.1 Adicionar CPF|     | |
+|1.2 Adicionar senha|     | |
+|2. Confirmar login|  1/2   | |
+|2.1 Clicar no botão de loga|     | |
+|2.2 Recuperar senha|     | |
 
 ## Metodologia 
 ## Análise de Tarefas
@@ -19,6 +23,18 @@ Clicar em “Logar”
 Clicar em opção “recuperar senha”
 Recuperar Senha
 
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+|0. Acompanhar cadastro| 1>2 | |
+|1. Login| 1+2 ||
+|1.1 Adicionar CPF|     | |
+|1.2 Adicionar senha|     | |
+|2. Confirmar login|  1/2   | |
+|2.1 Clicar no botão de loga|     | |
+|2.2 Recuperar senha|     | |
+
+<br>
+
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20acompanhar%20cadastro.png?raw=true">
     <p>Figura 1: Diagrama HTA da tarefa de acompanhar cadastro</p>
@@ -28,7 +44,7 @@ Recuperar Senha
 
 Na tarefa Segunda via, o usuário possui a possibilidade de realizar um pedido de segunda via do seu benefício de transporte ṕublico, além de conseguir acompanhar o processo de solicitação que foi aberta
 
-o processo de abertura envolve algumas etapas como:
+O processo de abertura envolve algumas etapas como:
 
 Clicar checkbox para aceitar o termo
 Selecionar motivo da solicitação
@@ -36,6 +52,21 @@ Adicionar nome do estudante
 Adicionar email para ctt
 Adicionar observação 
 Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda ou roubo))
+
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+|0. Segunda via |     1/2   | |
+|1.0 Acompanhar solicitações  | 1>2  | |
+|1.1 Posso navegar entre as páginas  |        | |
+|2.0 Nova solicitação|   1>2      | |
+|2.1 Clicar checkbox para aceitar o termo|        | |
+|2.2 Selecionar motivo da solicitação|        | |
+|2.3 Adiciconar nome do estudante|        | |
+|2.4 Adicionar email para contato|        | |
+|2.5 Adicionar observação (opcional)|        | |
+|2.6 Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda ou roubo))|        | |
+|3.0 Confirmar solicitação|    1>2     | |
+|3.1 Clicar em registrar solicitação|        | |
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%202via.png?raw=true">
@@ -54,6 +85,24 @@ Adicionar observação (opcional)
 Anexar documentos (Declaração de matrícula)
 Clicar em Registrar solicitação
 
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+|0. Extensão de acesso| 1/2 ||
+|1. Acompanhar solicitações| 1>2 ||
+|1.1 Navegar entre as páginas|  ||
+|2. Nova solicitação| 1>2 ||
+|2.1 Adicionar dados|1+2 ||
+|2.2 Clicar na checkbox para aceitar o termo|  ||
+|2.3 Selecionar motivo da solicitação|  ||
+|2.4 Adicionar nome do estudante|  ||
+|2.5 Adicionar email para contato|  ||
+|2.6 Adicionar observação|  ||
+|2.7 Adicionar documentos|  ||
+|3. Confirmar solicitação| 1>2 ||
+|3.1 Clicar em Registrar solicitação|  ||
+
+<br>
+
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20extensao%20de%20acesso.png?raw=true">
     <p>Figura 3: Diagrama HTA da tarefa de extensão de acesso</p>
@@ -71,6 +120,21 @@ Selecionar (Série, período, ano)
 Escrever uma observação
 Anexar um documento de comprovação (declaração de passe, declaração de vínculo, grade horária com data)
 
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+|0. Troca de instituição| 1/2 ||
+|1. Nova solicitação| 1>2 ||
+|1.1 Adicionar matrícula|  ||
+|1.2 Adicionar instituição de ensino| ||
+|1.3 Selecionar modalidade| ||
+|1.4 Selecionar curso|  ||
+|1.5 Selecionar série, período e ano|  ||
+|1.6 Escrever uma observação|  ||
+|1.7 Anexar um documento de comprovação (declaração de passe, declaração de vínculo, grade horária com data)|  ||
+|2.0 Acompanhar solicitacão| 1>2 ||
+|2.1 Posso navegar entre as páginas|  ||
+|3.0 Salvar solicitação|  ||
+
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20troca%20de%20institui%C3%A7%C3%A3o.png?raw=true">
     <p>Figura 4: Diagrama HTA da tarefa de troca de instituição</p>
@@ -80,8 +144,9 @@ Anexar um documento de comprovação (declaração de passe, declaração de ví
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   14/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|----------------------|
-|    1.1   |   14/10/2023   |   Adição dos diagramas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | |
+|    1.0   |   14/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|Fause|
+|    1.1   |   14/10/2023   |   Adição dos diagramas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | Felipe |
+|    1.2   |   14/10/2023   |   Adição das tabelas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | Juan |
 
 ## Bibliografia
 
