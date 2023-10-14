@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Para o desenvolvimento do projeto, é fundamental destacar as ferramentas que estarão desempenhando um papel fundamental em nossa jornada de desenvolvimento. Abaixo listaremos as ferramentas que irá nos auxiliar na comunicação do grupo, na gestão de tarefas, na alocação e criação de documentos, e no desenvolvimento.
+Para o desenvolvimento do projeto, é fundamental destacar as ferramentas que estarão desempenhando um papel fundamental em nossa jornada de desenvolvimento. Na tabela 1 foram listadas as ferramentas que irá nos auxiliar na comunicação do grupo, na gestão de tarefas, na alocação e criação de documentos, e no desenvolvimento.
 
 ## Ferramentas utilizadas ao longo do Projeto
 
@@ -53,6 +53,8 @@ Para o desenvolvimento do projeto, é fundamental destacar as ferramentas que es
 >11. MkDocs. Disponível em: [https://www.mkdocs.org/](https://www.mkdocs.org/). Acesso em: 12 de set. de 2023.
 
 >12. Trello. Disponível em: [https://trello.com/pt-BR](https://trello.com/pt-BR). Acesso em: 18 de set. de 2023.
+
+>13. Venngage. Disponível em: [https://pt.venngage.com/](https://pt.venngage.com/). Acesso em: 10 de out. de 2023.
 
 
 ## Histórico de versão

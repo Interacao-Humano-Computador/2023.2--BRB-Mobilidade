@@ -70,11 +70,11 @@ A engenharia de Usabilidade,construída por Jakob Nielsen é um conjunto de ativ
 
 Já a engenharia de Usabilidade, Desenvolvida por Deborah Mayhew (4), é uma solução iterativa, por meio de um ciclo de vida com visão holística, sendo então dividida em tres principais etapas
 
-- Análise de requisitos: Nesta etapa é feita uma análise dos perfis do usuário para definir quais serão as metas de usabilidade,além da análise de tarefas, possibilidades e as limitações que são encontradas nas plataformas  de execução do sistema
+- Análise de requisitos: Nesta etapa é feita uma análise dos perfis do usuário para definir quais serão as metas de usabilidade,além da análise de tarefas, possibilidades e as limitações que são encontradas nas plataformas  de execução do sistema;
 
-- Já a etapa de design, tem como foco analisar e definir qual a melhor solução em ihc que consiga suprir e solucionar as metas de usabilidade. Este processo é desenvolvido em três níveis diferentes, como é visto no diagrama abaixo
+- Já a etapa de design, tem como foco analisar e definir qual a melhor solução em ihc que consiga suprir e solucionar as metas de usabilidade. Este processo é desenvolvido em três níveis diferentes, como é visto no diagrama da figura 4;
 
-- Já a instalação são coletados as opiniões e feedbacks dos usuários, dessa forma criando um parâmetro para melhoria em versões futuras
+- Já a instalação são coletados as opiniões e feedbacks dos usuários, dessa forma criando um parâmetro para melhoria em versões futuras.
 
 <div style="text-align: center">
     <img src="../../assets/MayHew.png" style="width: 92%">

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-As entregas do projeto realizadas até aqui estão detalhadas no cronograma da Tabela 1 e descrevem as atividades já realizadas, com suas datas de desenvolvimento, revisão e autores.
+As entregas do projeto realizadas até aqui estão detalhadas no cronograma da tabela 1 e descrevem as atividades já realizadas, com suas datas de desenvolvimento, revisão e autores.
 
 ## Entrega 1
 
