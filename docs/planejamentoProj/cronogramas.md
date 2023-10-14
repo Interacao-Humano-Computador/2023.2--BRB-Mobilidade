@@ -1,6 +1,8 @@
 # Cronograma Planejado 
 
-Este cronograma foi criado à partir das datas definidas pelo professor no Plano de Ensino do semestre 2023.2
+## Introdução
+
+O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das datas definidas pelo professor da disciplina no Plano de Ensino do semestre 2023.2.
 
 
 ## Datas importantes
@@ -182,6 +184,8 @@ Este cronograma foi criado à partir das datas definidas pelo professor no Plano
     <p> Tabela 11: Cronograma da Entrega final (Fonte: autor, 2023).</p>
 </div>
 
+## Bibliografia
+>SALES, André Barros. Ambientação - Modelo de Cronograma. Aprender 3. Distrito Federal, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>. Acesso em 18 de setembro de 2023.
 
 ## Histórico de versão
 

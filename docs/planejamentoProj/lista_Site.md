@@ -1,30 +1,23 @@
 # Sites Avaliados
 
-# Introdução
+## Introdução
 
-O objetivo deste tópico é apresentar uma análise dos sites considerados, com o propósito de destacar as características que levaram à escolha do Brb Mobilidade. Para essa decisão, utilizamos as Heurísticas de Nielsen a fim de identificar o site que melhor atendia às necessidades da disciplina.
+Um dos objetivos do projeto é apresentar uma análise dos sites considerados, com o propósito de destacar as características que levaram à escolha do BRB Mobilidade. Para essa decisão, utilizamos todas as Heurísticas de Nielsen para avaliar e identificar o site que melhor atendia às necessidades da disciplina.
 
-Antes de chegarmos à conclusão de que o Brb Mobilidade era a opção mais adequada, o grupo apresentou alguns outros sites que também poderiam ser relevantes. Abaixo há uma lista de todos os sites que foram avaliados. 
+Antes de chegarmos à conclusão de que o BRB Mobilidade era a opção mais adequada, o grupo apresentou alguns outros sites que também poderiam ser relevantes. A seguir serão listados todos os sites avaliados. 
 
-## [GOV](https://www.gov.br/fazenda/pt-br)
-O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  
-
-Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes. 
-
-O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: 
-
-- Ajuda e documentação: A informação desejada não é encontrada e nem mesmo pelos mecanismos de ajuda.
-  
-- Controle e liberdade do usuário: O usuário não consegue voltar à página anterior a não ser que utilize o mecanismo do próprio navegador
-  
-- Reconhecimento em vez de memorização: Ao acessar o site, o usuário não tem um caminho lógico que consiga seguir para acessar a área de usuários MEI sem que tenha que lembrar o caminho que percorreu das outras vezes.
-  
-- Prevenção de erros: O domínio possui um erro gravíssimo que tira a confiança do usuário em relação à sua segurança.
-
-![Ministério da Fazenda](assets/minis%20fazenda.png)
+## [GOV](https://www.gov.br/nfse/pt-br)
+O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  <br>
+Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes, dentre elas a emissão de notas fiscais eletrônicas para microempreendedores individuais (MEI). <br>
+O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
+- Ajuda e documentação:  A informação desejada não é encontrada e nem mesmo pelos mecanismos de ajuda. <br>
+- Controle e liberdade do usuário: O usuário não consegue voltar à página anterior a não ser que utilize o mecanismo do próprio navegador <br>
+- Reconhecimento em vez de memorização: Ao acessar o site, o usuário não tem um caminho lógico que consiga seguir para acessar a área de usuários MEI sem que tenha que lembrar o caminho que percorreu das outras vezes. <br>
+- Prevenção de erros: O domínio possui um erro gravíssimo que tira a confiança do usuário em relação à sua segurança. <br>
 
 <div style= "text-align: center">
-<p>Figura 1: Ministério da Fazenda (Fonte: https://www.gov.br/fazenda/pt-br)</p> 
+    <img src="../../assets/minis%20fazenda.png">
+    <p>Figura 1: Site do governo (Fonte: https://www.gov.br/nfse/pt-br)</p> 
 </div>
 
 
@@ -42,10 +35,10 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
   
 - Ajuda e Documentação: O site não oferece uma documentação 100% atualizada. 
 
-![Inep](assets/inep.png)
 
 <div style= "text-align: center">
-<p>Figura 2: Inep (Fonte: https://www.gov.br/inep/pt-br)</p>
+    <img src="../../assets/inep.png">
+    <p>Figura 2: Inep (Fonte: https://www.gov.br/inep/pt-br)</p>
 </div>
 
 
@@ -68,10 +61,9 @@ visual coerente com o que é utilizado em sites governamentais.
  
 - Controle e Liberdade do Usuário: O usuário não tem total liberdade para naevgar ao site ou realizar alguma pesquisa sem está logado. 
  
-![Receita Federal](assets/receita%20federal.png)
-
 <div style= "text-align: center">
-<p>Figura 4: Receita Federal (Fonte: https://www.gov.br/receitafederal/pt-br)</p>
+    <img src="../../assets/receita%20federal.png">
+    <p>Figura 4: Receita Federal (Fonte: https://www.gov.br/receitafederal/pt-br)</p>
 </div>
 
 
@@ -88,10 +80,10 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 - Ajuda e Documentação: O site oferece uma seção de ajuda e documentação para os usuários. Os visitantes podem encontrar informações sobre os recursos oferecidos pelo site. assim como seus métodos de acesso.
 
    
-![SAE](assets/sae.png)
 
 <div style= "text-align: center">
-<p>Figura 5: SAE (Fonte: https://sae.digital)</p>
+    <img src="../../assets/sae.png">
+    <p>Figura 5: SAE (Fonte: https://sae.digital)</p>
 </div>
 
 
@@ -117,10 +109,9 @@ em alguns momentos pode desanimar o usuário a explorar outras abas do site.
 - Ajuda e documentação: Não há presença de documentação auxiliar de fácil acesso. 
 
 
-![Memorial JK](assets/memorial%20jk.png)
-
 <div style= "text-align: center">
-<p>Figura 6: Memorial JK (Fonte: http://www.memorialjk.com.br)</p>
+    <img src="../../assets/memorial%20jk.png">
+    <p>Figura 6: Memorial JK (Fonte: http://www.memorialjk.com.br)</p>
 </div>
 
 
@@ -143,10 +134,9 @@ uma abaixo da outra, fazendo com que a página tenha uma extensa faixa de
 rolagem, o que tornar a experiência um pouco cansativa
 
 
-![Escola de Música](assets/escola%20de%20musica.png)
-
 <div style= "text-align: center">
-<p>Figura 7: Escola de Música (Fonte: https://www.escolademusicadebrasilia.com)</p>
+    <img src="../../assets/escola%20de%20musica.png">
+    <p>Figura 7: Escola de Música (Fonte: https://www.escolademusicadebrasilia.com)</p>
 </div>
 
 
@@ -173,10 +163,10 @@ para os usuários.
   
 
 
-![Imagem do BRB Mobilidade](assets/brb.png)
 
 <div style="text-align: center">
-<p>Figura 8 -  BRB Mobilidade. (Fonte: https://mobilidade.brb.com.br/passelivre/)</p>
+    <img src="../../assets/brb.png">
+    <p>Figura 8 -  BRB Mobilidade. (Fonte: https://mobilidade.brb.com.br/passelivre/)</p>
 </div>
 
 

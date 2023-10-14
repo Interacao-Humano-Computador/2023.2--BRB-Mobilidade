@@ -15,39 +15,38 @@ Após a seleção individual, as sugestões foram debatidas pelo grupo, consider
 
 ## BRB MOBILIDADE
 
-Dentre os sítios analisados de forma individual, o escolhido foi o "[BRB Mobilidade](https://mobilidade.brb.com.br)". Esse é um sítio gratuito, disponível para uso, de forma online na internet, o qual teve seu projeto inicial realizado para atender aos usuários do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem.
-
-![Imagem do BRB Mobilidade](assets/brb.png)
+Entre os diferentes sites que foram analisados individualmente, optamos por focar no "[BRB Mobilidade](https://mobilidade.brb.com.br)", um recurso online de acesso gratuito. Este site foi originalmente concebido com a finalidade de atender às necessidades de utilizadores do cartão de mobilidade no transporte público do Distrito Federal com o inutito de unificar o processo de bilhetagem. O principal público-alvo compreende estudantes e trabalhadores que regularmente utilizam o transporte público. É importante destacar que a presença de estudantes da Universidade de Brasília (UnB) entre os utilizadores desse serviço é notável, tornando esses usuários facilmente identificáveis.
 
 <div style="text-align: center">
-<p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+    <img src="../../assets/brb.png">
+    <p>Figura 1 - Imagem da página inicial do sítio eletrônico BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 
 ## Problemas Encontrados:
 
 - Aparência visual e abordagem minimalista do design
-![Aparência visual do BRB Mobilidade](assets/troca.png)
 <div style="text-align: center">
-<p>Figura 2 - Aba "troca de Instituição" - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+    <img src="../../assets/troca.png">
+    <p>Figura 2 - Aba "troca de Instituição" - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 - Autonomia e liberdade do usuário:
-![Autonomia](assets/erro.png)
 <div style="text-align: center">
-<p>Figura 3 - Usuário não autenticado - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+    <img src="../../assets/erro.png">
+    <p>Figura 3 - Usuário não autenticado - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 - Adaptabilidade e eficácia na utilização e Acessibilidade:
-![acessibilidade](assets/libras.png)
 <div style="text-align: center">
-<p>Figura 4 - Acessibilidade e Adaptabilidade- BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+    <img src="../../assets/libras.png">
+    <p>Figura 4 - Acessibilidade e Adaptabilidade- BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 - Assistência e informações de suporte:
-![erro sem assistência](assets/erro2.png)
 <div style="text-align: center">
-<p>Figura 5 - Assistência e suporte de erros - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+    <img src="../../assets/erro2.png">
+    <p>Figura 5 - Assistência e suporte de erros - BRB Mobilidade. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
 </div>
 
 
