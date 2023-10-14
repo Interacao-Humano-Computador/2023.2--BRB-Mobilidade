@@ -49,7 +49,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  Joel Madaleno   |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joel.jpeg?raw=true"><p>Figura 3 - Joel Madaleno persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joel.jpeg?raw=true"><p>Figura 4 - Joel Madaleno persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 24 anos |
 | **Gênero**        | Masculino|
 | **Descrição**        | Joel tem 24 anos de idade, mora em no Gama há 17 anos e é servidor público na Abin. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial na Asa Sul
@@ -63,7 +63,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  João Santos      |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joao.jpeg?raw=true"><p>Figura 4 - João Santos persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joao.jpeg?raw=true"><p>Figura 5 - João Santos persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 52 anos |
 | **Gênero**        | Masculino |
 | **Descrição**        | João tem 52 anos de idade, é um comerciante que possuí sua própia loja no Sudoeste. Tem uma rotina muito ocupada e usa seu própio veículo para se deslocar pela cidade. Não tem muito interesse em questões sobre o transporte público. |
