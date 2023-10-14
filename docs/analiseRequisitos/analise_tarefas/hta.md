@@ -14,8 +14,6 @@ A Análise Hierárquica de Tarefas (HTA) é uma metodologia usada para analisar 
 |2.1 Clicar no botão de loga|     | |
 |2.2 Recuperar senha|     | |
 
-## Metodologia 
-## Análise de Tarefas
 
 ### Acompanhar cadastro
 
