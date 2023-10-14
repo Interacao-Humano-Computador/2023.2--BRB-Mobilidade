@@ -43,6 +43,17 @@ Eduardo ficou satisfeito, pois coseguiu chegar se o seu castramento já havia si
 
 ### 2° Via
 
+[Eduardo Cardoso](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#eduardo-cardoso) é estudante do ensino superior e costuma visitar áreas como a Asa Norte e Gama, pois precisa ir à universidade.
+
+Ele conseguiu o cartão estudantil, contudo ao deslocar-se para universidade perdeu o cartão dentro do ônibus, notando que havia perdido apenas quando chegou em casa e resolveu tomar uma atitude diante da situação.
+
+Primeiro, Eduardo acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil". Em seguida, foi mostrado a opção de "2° via" que ele clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
+
+Ao clicar no botão de logar, ele conseguiu visualizar a aba de 2°  via e teve que pagar uma taxa de 2° via e fazer um boletim de ocorrência online para poder anexar esses dois arquivos em forma de documento no botão "anexar arquivos". Além disso, teve de colocar o "motivo" que foi a perda do cartão, também, seu nome e e-mail completos com informações no campo observações.
+
+Após essas etapas, ele clicou no botão "Registrar solicitação" e assim conseguiu solicitar uma 2° via do cartão estudantil.
+
+Eduardo ficou satisfeito, pois conseguiu solicitar a 2° via de seu cartão.
 
 
 ### Extensão de Acesso
