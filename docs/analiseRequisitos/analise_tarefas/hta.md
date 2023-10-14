@@ -13,9 +13,8 @@
 ### 2° via
 ### Extensão de Acesso
 ### Troca de Instituição
-### Troca de endereço
-### Alteração de foto
-### Meus acessos
+
+## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
