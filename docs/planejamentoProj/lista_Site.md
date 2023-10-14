@@ -7,13 +7,15 @@ Um dos objetivos do projeto é apresentar uma análise dos sites considerados, c
 Antes de chegarmos à conclusão de que o BRB Mobilidade era a opção mais adequada, o grupo apresentou alguns outros sites que também poderiam ser relevantes. A seguir serão listados todos os sites avaliados. 
 
 ## [GOV](https://www.gov.br/nfse/pt-br)
-O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  <br>
-Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes, dentre elas a emissão de notas fiscais eletrônicas para microempreendedores individuais (MEI). <br>
-O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
-- Ajuda e documentação:  A informação desejada não é encontrada e nem mesmo pelos mecanismos de ajuda. <br>
-- Controle e liberdade do usuário: O usuário não consegue voltar à página anterior a não ser que utilize o mecanismo do próprio navegador <br>
-- Reconhecimento em vez de memorização: Ao acessar o site, o usuário não tem um caminho lógico que consiga seguir para acessar a área de usuários MEI sem que tenha que lembrar o caminho que percorreu das outras vezes. <br>
-- Prevenção de erros: O domínio possui um erro gravíssimo que tira a confiança do usuário em relação à sua segurança. <br>
+O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.   
+
+Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes, dentre elas a emissão de notas fiscais eletrônicas para microempreendedores individuais (MEI). 
+
+O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: 
+- Ajuda e documentação:  A informação desejada não é encontrada e nem mesmo pelos mecanismos de ajuda. 
+- Controle e liberdade do usuário: O usuário não consegue voltar à página anterior a não ser que utilize o mecanismo do próprio navegador 
+- Reconhecimento em vez de memorização: Ao acessar o site, o usuário não tem um caminho lógico que consiga seguir para acessar a área de usuários MEI sem que tenha que lembrar o caminho que percorreu das outras vezes. 
+- Prevenção de erros: O domínio possui um erro gravíssimo que tira a confiança do usuário em relação à sua segurança. 
 
 <div style= "text-align: center">
     <img src="../../assets/minis%20fazenda.png">

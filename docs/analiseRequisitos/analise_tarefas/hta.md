@@ -19,6 +19,10 @@ Clicar em “Logar”
 Clicar em opção “recuperar senha”
 Recuperar Senha
 
+<div style="text-align: center">
+    <img src="/docs/assets/diagramas hta/Diagrama acompanhar cadastro.png">
+    <p>Figura 1: Diagrama HTA da tarefa de acompanhar cadastro</p>
+</div>
 
 ### 2° via
 
@@ -33,6 +37,11 @@ Adicionar email para ctt
 Adicionar observação 
 Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda ou roubo))
 
+<div style="text-align: center">
+    <img src="/docs/assets/diagramas hta/Diagrama 2via.png">
+    <p>Figura 2: Diagrama HTA da tarefa de 2°via</p>
+</div>
+
 ### Extensão de Acesso
 
 A tarefa de extensão de acesso tem como principal objetivo possibilitar que o usuário realiza uma abertura de processo para garantir um aumento na quantidade de acessos mensais, além de ser possível acompanhar o procedimento do processo, o processo de abertura envolve
@@ -44,6 +53,12 @@ Adicionar email para ctt
 Adicionar observação (opcional)
 Anexar documentos (Declaração de matrícula)
 Clicar em Registrar solicitação
+
+<div style="text-align: center">
+    <img src="/docs/assets/diagramas hta/Diagrama extensao de acesso.png">
+    <p>Figura 3: Diagrama HTA da tarefa de extensão de acesso</p>
+</div>
+
 ### Troca de Instituição
 
 A atividade de troca de instituição tem como objetivo permitir que o usuário realize o recadastramento da nova instituição de ensino na qual ele pertence, para realizar este processo são necessários
@@ -56,11 +71,17 @@ Selecionar (Série, período, ano)
 Escrever uma observação
 Anexar um documento de comprovação (declaração de passe, declaração de vínculo, grade horária com data)
 
+<div style="text-align: center">
+    <img src="/docs/assets/diagramas hta/Diagrama troca de instituição.png">
+    <p>Figura 4: Diagrama HTA da tarefa de troca de instituição</p>
+</div>
+
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   28/09/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|----------------------|
+|    1.0   |   14/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|----------------------|
+|    1.1   |   14/10/2023   |   Adição dos diagramas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | |
 
 ## Bibliografia
 
