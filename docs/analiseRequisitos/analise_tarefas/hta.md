@@ -6,12 +6,12 @@ A Análise Hierárquica de Tarefas (HTA) é uma metodologia usada para analisar 
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
-|0. Acompanhar cadastro| 1>2 | |
-|1. Login| 1+2 ||
+|0. Acompanhar cadastro| 1>2 |**input:** formulário de login com CPF e senha         **feedback:** logar no sistema ou retornar mensagem "erro ao logar", usuário ou senha inválidos. **plano:** informar os dados de login e clicar em "logar" |
+|1. Login| 1+2 |**plano:** informar CPF e senha|
 |1.1 Adicionar CPF|     | |
 |1.2 Adicionar senha|     | |
-|2. Confirmar login|  1/2   | |
-|2.1 Clicar no botão de loga|     | |
+|2. Confirmar login|  1/2   | **input:** clique com o mouse **plano:** clicar do botão "logar", ou , "recuperar senha"|
+|2.1 Clicar no botão "logar"| | **feedback:** logar no sistema ou retornr mensagem de erro caso os dados estajam incorretos  | |
 |2.2 Recuperar senha|     | |
 
 
@@ -27,12 +27,12 @@ Recuperar Senha
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
-|0. Acompanhar cadastro| 1>2 | |
-|1. Login| 1+2 ||
+|0. Acompanhar cadastro| 1>2 |**input:** formulário de login com CPF e senha         **feedback:** logar no sistema ou retornar mensagem "erro ao logar", usuário ou senha inválidos. **plano:** informar os dados de login e clicar em "logar" |
+|1. Login| 1+2 |**plano:** informar CPF e senha|
 |1.1 Adicionar CPF|     | |
 |1.2 Adicionar senha|     | |
-|2. Confirmar login|  1/2   | |
-|2.1 Clicar no botão de loga|     | |
+|2. Confirmar login|  1/2   | **input:** clique com o mouse **plano:** clicar do botão "logar", ou , "recuperar senha"|
+|2.1 Clicar no botão "logar"| | **feedback:** logar no sistema ou retornr mensagem de erro caso os dados estajam incorretos  | |
 |2.2 Recuperar senha|     | |
 
 <br>
@@ -57,18 +57,18 @@ Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda o
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
-|0. Segunda via |     1/2   | |
-|1.0 Acompanhar solicitações  | 1>2  | |
-|1.1 Posso navegar entre as páginas  |        | |
-|2.0 Nova solicitação|   1>2      | |
+|0. Segunda via |     1/2   | **input:** formulário para solicitação da segunda via, incluindo anexo do comprovante de pagamento e do boletim de ocorrência. **plano:** escolher entre acompanhar solicitações ou fazer uma nova solicitação |
+|1.0 Acompanhar solicitações  | 1>2  | **feedback:** lista com as solicitações ativas|
+|1.1 Posso navegar entre as páginas  |        |**input:** cliques com o mouse em ícones de navegação |
+|2.0 Nova solicitação|   1>2      |**input:** formulário com os dados da solicitação, aceitar termo, selecionar motivo, nome, email, observações, anexo de documentos. **feedback:** nova solicitação é cadastrada e fica visível na aba "Acompanhar solicitações"|
 |2.1 Clicar checkbox para aceitar o termo|        | |
 |2.2 Selecionar motivo da solicitação|        | |
 |2.3 Adiciconar nome do estudante|        | |
 |2.4 Adicionar email para contato|        | |
 |2.5 Adicionar observação (opcional)|        | |
-|2.6 Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda ou roubo))|        | |
+|2.6 Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda ou roubo))| | **recomendação:** Somente é permitido envio de documentos em formato PDF e/ou arquivos de imagem (JPG,JPEG,GIF,BMP e PNG) de até 2 megabytes      | |
 |3.0 Confirmar solicitação|    1>2     | |
-|3.1 Clicar em registrar solicitação|        | |
+|3.1 Clicar em registrar solicitação|        | **feedback:** cadastrar solicitação ou retorar mensagem de erro caso os dados estajam incorretos|
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%202via.png?raw=true">

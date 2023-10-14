@@ -5,15 +5,11 @@ A análise de tarefas é uma abordagem utilizada para compreender o trabalho dos
 A análise de tarefas pode ser concreta ao avaliar sistemas existentes e mais abstrata no design de sistemas, no contexto do nosso trabalho, estamos analisando um sistema já existente. A coleta de dados para análise de tarefas é sempre uma simulação das tarefas reais devido à diversidade de tarefas realizadas por diferentes pessoas, à limitação da observação e ao impacto da coleta de dados. Além da observação, a análise de tarefas pode envolver entrevistas, questionários e outros métodos.
 
 ## Métodos Utilizados
-Neste trabalho, a análise de tarefas foi realizada utilizando três metodologias: HTA (Análise Hierárquica de Tarefas), KLM (Keystroke-Level Model) e CTT (ConcurTaskTrees). Essas metodologias foram empregadas para compreender e descrever as tarefas dos usuários de forma abrangente e detalhada, permitindo uma análise mais aprofundada sobre o desempenho das tarefas no sistema BRB mobilidade.
+Neste trabalho, a análise de tarefas foi realizada utilizando duas metodologias: HTA (Análise Hierárquica de Tarefas) e CTT (ConcurTaskTrees). Essas metodologias foram empregadas para compreender e descrever as tarefas dos usuários de forma abrangente e detalhada, permitindo uma análise mais aprofundada sobre o desempenho das tarefas no sistema BRB mobilidade.
 
 ### (HTA)
 
 A Análise Hierárquica de Tarefas (HTA) é uma metodologia usada para analisar tarefas complexas descompondo-as em elementos mais simples e hierarquicamente organizados. Essa abordagem visa identificar a estrutura das tarefas, relacionando objetivos gerais a sub-objetivos e ações específicas. A HTA é útil na análise de sistemas interativos, permitindo uma compreensão detalhada das tarefas executadas pelos usuários, o que pode orientar o design de sistemas mais eficazes e usáveis.
-
-### (KLM)
-
-O KLM desagrega uma tarefa em etapas elementares e atribui tempos estimados a cada ação, como pressionar uma tecla ou mover o mouse. Essa abordagem permite prever o tempo necessário para a conclusão de uma tarefa, facilitando a avaliação da eficiência e usabilidade de sistemas de interação. O KLM é particularmente útil para identificar gargalos e melhorias em interfaces de computador.
 
 ### (CTT)
 
