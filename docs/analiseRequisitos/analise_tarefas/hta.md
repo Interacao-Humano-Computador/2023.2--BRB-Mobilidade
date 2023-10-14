@@ -7,10 +7,10 @@ A Análise Hierárquica de Tarefas (HTA) é uma metodologia usada para analisar 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
 |0. Acompanhar cadastro| 1>2 | |
-|1. Login| 1+2 ||
+|1.0 Login| 1+2 ||
 |1.1 Adicionar CPF|     | |
 |1.2 Adicionar senha|     | |
-|2. Confirmar login|  1/2   | |
+|2.0 Confirmar login|  1/2   | |
 |2.1 Clicar no botão de loga|     | |
 |2.2 Recuperar senha|     | |
 
@@ -28,10 +28,10 @@ Recuperar Senha
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
 |0. Acompanhar cadastro| 1>2 | |
-|1. Login| 1+2 ||
+|1.0 Login| 1+2 ||
 |1.1 Adicionar CPF|     | |
 |1.2 Adicionar senha|     | |
-|2. Confirmar login|  1/2   | |
+|2.0 Confirmar login|  1/2   | |
 |2.1 Clicar no botão de loga|     | |
 |2.2 Recuperar senha|     | |
 
@@ -90,9 +90,9 @@ Clicar em Registrar solicitação
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
 |0. Extensão de acesso| 1/2 ||
-|1. Acompanhar solicitações| 1>2 ||
+|1.0 Acompanhar solicitações| 1>2 ||
 |1.1 Navegar entre as páginas|  ||
-|2. Nova solicitação| 1>2 ||
+|2.0 Nova solicitação| 1>2 ||
 |2.1 Adicionar dados|1+2 ||
 |2.2 Clicar na checkbox para aceitar o termo|  ||
 |2.3 Selecionar motivo da solicitação|  ||
