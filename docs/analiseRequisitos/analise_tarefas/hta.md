@@ -13,6 +13,13 @@
 
 Esta atividade permite que o usuário se registre e consiga realizar o cadastro e a criação de sua conta no site e no acesso ao benefício de transporte 
 
+Adicionar login(cpf)
+Adicionar senha
+Clicar em “Logar”
+Clicar em opção “recuperar senha”
+Recuperar Senha
+
+
 ### 2° via
 
 Na tarefa Segunda via, o usuário possui a possibilidade de realizar um pedido de segunda via do seu benefício de transporte ṕublico, além de conseguir acompanhar o processo de solicitação que foi aberta
@@ -20,10 +27,10 @@ Na tarefa Segunda via, o usuário possui a possibilidade de realizar um pedido d
 o processo de abertura envolve algumas etapas como:
 
 Clicar checkbox para aceitar o termo
-Sel motivo da solicitação
-Add nome do estudante
-Add email para ctt
-Add observação (opcional)
+Selecionar motivo da solicitação
+Adicionar nome do estudante
+Adicionar email para ctt
+Adicionar observação 
 Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda ou roubo))
 
 ### Extensão de Acesso
@@ -32,14 +39,23 @@ A tarefa de extensão de acesso tem como principal objetivo possibilitar que o u
 
 Clicar checkbox para aceitar o termo
 Sel motivo da solicitação
-Add nome do estudante
-Add email para ctt
-Add observação (opcional)
+Adicionar nome do estudante
+Adicionar email para ctt
+Adicionar observação (opcional)
 Anexar documentos (Declaração de matrícula)
 Clicar em Registrar solicitação
 ### Troca de Instituição
 
-A atividade de troca de instituição tem como objetivo permitir que o usuário realize o recadastramento da nova instituição de ensino na qual ele pertence 
+A atividade de troca de instituição tem como objetivo permitir que o usuário realize o recadastramento da nova instituição de ensino na qual ele pertence, para realizar este processo são necessários
+
+Adicionar matrícula
+Adicionar instituição de ensino
+Selecionar modalidade 
+Selecionar curso
+Selecionar (Série, período, ano)
+Escrever uma observação
+Anexar um documento de comprovação (declaração de passe, declaração de vínculo, grade horária com data)
+
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
