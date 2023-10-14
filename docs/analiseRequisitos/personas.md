@@ -33,18 +33,29 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
 
-### Joel Madaleno
+### Catarina Marieta
 |                      |                      |
 | :------------------  | :------------------  |
-| **Nome**             |  Joel Madaleno     |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joel.jpeg?raw=true"><p>Figura 3 - Joel Madaleno persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
-| **Idade**        | 24 anos |
-| **Gênero**        | Masculino |
-| **Descrição**        | Joel tem 24 anos de idade, mora em ceilândia e é atendente de telemarketing home office. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial no Gama.
+| **Nome**             |  Catarina Marieta    |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/catarina.jpeg?raw=true"><p>Figura 3 - Catarina Marieta persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
+| **Idade**        | 21 anos |
+| **Gênero**        | Feminino |
+| **Descrição**        | Catarina tem 21 anos de idade, mora em ceilândia e é atendente de telemarketing home office. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial no Gama.
 | **Status**          | Persona Terciária.     |
 | **Tarefas**         | Realiza tarefas como verificar saldo do cartão e solicitar uma segunda via do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. Prefere receber notificações em tempo real sobre atualizações nos serviços de transporte público.  |
 | **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Não compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
 
+### Joel Madaleno
+|                      |                      |
+| :------------------  | :------------------  |
+| **Nome**             |  Joel Madaleno   |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joel.jpeg?raw=true"><p>Figura 3 - Joel Madaleno persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
+| **Idade**        | 24 anos |
+| **Gênero**        | Masculino|
+| **Descrição**        | Joel tem 24 anos de idade, mora em no Gama há 17 anos e é servidor público na Abin. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial na Asa Sul
+| **Status**          | Persona Terciária.     |
+| **Tarefas**         | Realiza tarefas como verificar a situação do cartão de ônibus. Não tem preferência por receber notificações em tempo real sobre atualizações nos serviços de transporte público. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais.|
+| **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Não compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
 
 
 
@@ -69,6 +80,9 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 |    1.0   |   11/10/2023   |   Criação da página |  [Artur Jackson](https://github.com/artur-jack)| [Amanda](https://github.com/Amandaaaaabreu)|
 |    1.1   |   12/10/2023   |   Adiciona introdução e bibliografia |  [Artur Jackson](https://github.com/artur-jack)| [Amanda](https://github.com/Amandaaaaabreu)|
 |    1.2   |   13/10/2023   |   Correções e adição de anti-persona |  [Artur Jackson](https://github.com/artur-jack)| [Amanda](https://github.com/Amandaaaaabreu)|
+|    1.3   |   14/10/2023   |   Correções e adição de persona |  [Juan Pablo](https://github.com/Juan-Ricarte)| [Artur Jackson](https://github.com/artur-jack)|
+
+
 
 ## Bibliografia
 
