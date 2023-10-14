@@ -33,11 +33,26 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
 
+### Joel Madaleno
+|                      |                      |
+| :------------------  | :------------------  |
+| **Nome**             |  Joel Madaleno     |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joel.jpeg?raw=true"><p>Figura 3 - Joel Madaleno persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
+| **Idade**        | 24 anos |
+| **Gênero**        | Masculino |
+| **Descrição**        | Joel tem 24 anos de idade, mora em ceilândia e é atendente de telemarketing home office. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial no Gama.
+| **Status**          | Persona Terciária.     |
+| **Tarefas**         | Realiza tarefas como verificar saldo do cartão e solicitar uma segunda via do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. Prefere receber notificações em tempo real sobre atualizações nos serviços de transporte público.  |
+| **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Não compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
+
+
+
+
 ### João Santos
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  João Santos      |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joao.jpeg?raw=true"><p>Figura 3 - João Santos persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joao.jpeg?raw=true"><p>Figura 4 - João Santos persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 52 anos |
 | **Gênero**        | Masculino |
 | **Descrição**        | João tem 52 anos de idade, é um comerciante que possuí sua própia loja no Sudoeste. Tem uma rotina muito ocupada e usa seu própio veículo para se deslocar pela cidade. Não tem muito interesse em questões sobre o transporte público. |
