@@ -13,13 +13,13 @@ Esse site foi projetado para ajudar contribuintes e empresas a entender e cumpri
 
 O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: 
 
-- Ajuda e documentação 
+- Ajuda e documentação: A informação desejada não é encontrada e nem mesmo pelos mecanismos de ajuda.
   
-- Controle e liberdade do usuário 
+- Controle e liberdade do usuário: O usuário não consegue voltar à página anterior a não ser que utilize o mecanismo do próprio navegador
   
-- Reconhecimento em vez de memorização 
+- Reconhecimento em vez de memorização: Ao acessar o site, o usuário não tem um caminho lógico que consiga seguir para acessar a área de usuários MEI sem que tenha que lembrar o caminho que percorreu das outras vezes.
   
-- Prevenção de erros 
+- Prevenção de erros: O domínio possui um erro gravíssimo que tira a confiança do usuário em relação à sua segurança.
 
 ![Ministério da Fazenda](assets/minis%20fazenda.png)
 
@@ -35,13 +35,12 @@ O site do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio T
 
 O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: 
 
-- Controle e Liberdade do Usuário 
+- Controle e Liberdade do Usuário: O sistema não fornece feedback claro e imediato em resposta às ações dos usuários. 
   
-- Prevenção de Erros 
-  
+- Prevenção de Erros:Não fornece feedback visual imediato quando o usuário executa ações é essencial, por exemplo: mensagem de erro. 
 - Reconhecimento, Diagnóstico e Recuperação de Erros 
   
-- Ajuda e Documentação 
+- Ajuda e Documentação: O site não oferece uma documentação 100% atualizada. 
 
 ![Inep](assets/inep.png)
 
@@ -65,15 +64,7 @@ contato com a internet. Há uma presença um pouco exagerada de símbolos e
 - Consistência e Padronização: O site apresenta uma identidade e um design
 visual coerente com o que é utilizado em sites governamentais.
  
-- Eficiência e flexibilidade do uso: Os serviços oferecidos pelo site são
-eficientes porém não são flexíveis para usuários que apresentem alguma
-deficiência ou dificuldade de acessar a internet pois há uma poluição a ser
-considerada no site e textos bastantes difíceis de se compreender (textos
-técnicos). Além de alguns serviços oferecidos não serem realizados na
-própria página, como o de “Consultar dívidas e Pendências Fiscais” que
-redireciona o usuário para o site da fazenda, site esse que está desatualizado,
-não está padronizado, não é interativo e nem acessível para todos os
-públicos.
+- Eficiência e flexibilidade do uso: Os serviços oferecidos pelo site são eficientes porém não são flexíveis para usuários que apresentem alguma deficiência ou dificuldade de acessar a internet pois há uma poluição a ser considerada no site e textos bastantes difíceis de se compreender (textos técnicos). Além de alguns serviços oferecidos não serem realizados na própria página, como o de “Consultar dívidas e Pendências Fiscais” que redireciona o usuário para o site da fazenda, site esse que está desatualizado, não está padronizado, não é interativo e nem acessível para todos os públicos.
  
 - Controle e Liberdade do Usuário: O usuário não tem total liberdade para naevgar ao site ou realizar alguma pesquisa sem está logado. 
  
@@ -89,11 +80,12 @@ O site do SAE (Sistema de Apoio ao Estudante) é uma plataforma online usada por
 
 O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: 
 
-- Prevenção de Erros 
+- Prevenção de Erros: O site não é projetado de maneira a evitar erros dos usuários. Por exemplo, ao preencher formulários, não aparecem mensagens claras de erro caso haja campos obrigatórios em branco, o que ajudaria os usuários a corrigir problemas facilmente.
 
-- Visibilidade do Status do Sistema 
+- Visibilidade do Status do Sistema: A plataforma possui péssima visibilidade do status do sistema. Ao navegar pelas opções do menu inicial, não fica claro ao usuário que o objetivo foi alcançado, ou se houve algum problema.
 
-- Ajuda e Documentação 
+
+- Ajuda e Documentação: O site oferece uma seção de ajuda e documentação para os usuários. Os visitantes podem encontrar informações sobre os recursos oferecidos pelo site. assim como seus métodos de acesso.
 
    
 ![SAE](assets/sae.png)
@@ -137,13 +129,18 @@ O site da Escola de Música de Brasília é uma plataforma online dedicada a for
 
 O site foi avaliado de acordo com os 10 método de inspeção heurística, abaixo adicionamos alguns: 
 
-- Flexibilidade e Eficiência de Uso 
+- Flexibilidade e Eficiência de Uso: : O site não oferece opções de personalização
+(de uso ou meramente estética).
 
-- Design Estético e Minimalista 
+- Design Estético e Minimalista:  O design do site  não é totalmente limpo e focado no conteúdo
+relevante. A alguns elementos desnecessários na página. 
 
-- Consistência e Padronização 
+- Reconhecimento, Diagnóstico e Recuperação de Erros: A utilização de ícones de link 🔗em algumas palavras e
+elementos do texto mesmo não havendo nenhum link.
 
-- Controle e Liberdade do Usuário 
+- Controle e Liberdade do Usuário: A página possui informações diversas dispostas
+uma abaixo da outra, fazendo com que a página tenha uma extensa faixa de
+rolagem, o que tornar a experiência um pouco cansativa
 
 
 ![Escola de Música](assets/escola%20de%20musica.png)
@@ -159,13 +156,21 @@ Dentre os sites analisados de forma individual, o escolhido foi o "[BRB Mobilida
 
 O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: 
 
-- Visibilidade do estado do sistema 
+- Visibilidade do estado do sistema: O site apresenta uma boa
+visibilidade do status do sistema. Quando os usuários navegam pelo site,
+eles são informados sobre onde estão e como podem acessar diferentes
+seções.
 
-- Consistência e padronização 
+- Consistência e padronização: O site mantém uma aparência consistente em
+todas as páginas, com menus e elementos de navegação localizados nos
+mesmos lugares. Isso ajuda os usuários a se sentirem familiarizados e
+confortáveis ao explorar o site.  
 
-- Projeto estético e minimalista 
+- Projeto estético e minimalista: De certa forma o design é minimalista, mas na tela de cadastro a uma poluição de informações maior que nas telas iniciais. 
 
-- Ajuda e documentação 
+- Ajuda e documentação: O site oferece uma seção de ajuda e documentação
+para os usuários.
+  
 
 
 ![Imagem do BRB Mobilidade](assets/brb.png)
@@ -182,6 +187,7 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 |    1.0  |   29/09/2023   |   Lista de sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
 |    1.1  |   29/09/2023   |   Lista de sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Fause Carlos](https://github.com/FauseSkyWalker) |
 |    1.2  |   04/10/2023   |   Heurísticas dos sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Juan Pablo](https://github.com/Juan-Ricarte) |
+|    1.3  |   14/10/2023   |   Atualizações das Heurísticas dos sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
 
 
 ## Bibliografia
