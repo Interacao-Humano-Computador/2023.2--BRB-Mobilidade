@@ -72,7 +72,7 @@ Escrever uma observação
 Anexar um documento de comprovação (declaração de passe, declaração de vínculo, grade horária com data)
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20extensao%20de%20acesso.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20troca%20de%20institui%C3%A7%C3%A3o.png?raw=true">
     <p>Figura 4: Diagrama HTA da tarefa de troca de instituição</p>
 </div>
 
