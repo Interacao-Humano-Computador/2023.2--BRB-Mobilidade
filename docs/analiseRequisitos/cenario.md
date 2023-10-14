@@ -30,7 +30,7 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 ## Descrição do Cenários
 ### Acompanhar Cadastro
 
-[Eduardo Cardoso](https://github.com/Interacao-Humano-Computador/2023.2-NotaLegal/blob/main/docs/analise%20de%20requisitos/personas.md#persona-primária-1-luiz-economista) é estudante do ensino superior e costuma visitar áreas como a Asa Norte e Gama, pois precisa ir à universidade.
+[Eduardo Cardoso](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#eduardo-cardoso) é estudante do ensino superior e costuma visitar áreas como a Asa Norte e Gama, pois precisa ir à universidade.
 
 Contudo, Eduardo não tinha o cadastro no brb mobilidade para utilizar o passe estudantil, logo precisaria acessar o site para realizar o cadastro e acompanhar o andamento. Preocupado com a situação, pois gastava muito dinheiro com passagens no transprote público, Eduardo resolve checar a situação.
 
