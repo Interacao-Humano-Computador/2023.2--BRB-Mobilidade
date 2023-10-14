@@ -6,7 +6,7 @@ Um dos objetivos do projeto é apresentar uma análise dos sites considerados, c
 
 Antes de chegarmos à conclusão de que o BRB Mobilidade era a opção mais adequada, o grupo apresentou alguns outros sites que também poderiam ser relevantes. A seguir serão listados todos os sites avaliados. 
 
-## [GOV](https://www.gov.br/fazenda/pt-br)
+## [GOV](https://www.gov.br/nfse/pt-br)
 O GOV É uma plataforma online oferecida por uma entidade governamental responsável pelas finanças e receitas públicas em um país. Ele oferece várias funcionalidades, incluindo informações fiscais e tributárias, acesso a documentos e formulários, calculadoras de impostos, consultas, acompanhamento de reembolsos, publicações econômicas, notícias, serviços online, informações sobre programas de incentivo fiscal e recursos educacionais.  <br>
 Esse site foi projetado para ajudar contribuintes e empresas a entender e cumprir obrigações fiscais e regulatórias, além de fornecer informações econômicas relevantes, dentre elas a emissão de notas fiscais eletrônicas para microempreendedores individuais (MEI). <br>
 O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abaixo adicionamos alguns: <br>
@@ -17,7 +17,7 @@ O site foi avaliado de acordo com os 10 métodos de inspeção heurística, abai
 
 <div style= "text-align: center">
     <img src="../../assets/minis%20fazenda.png">
-    <p>Figura 1: Ministério da Fazenda (Fonte: https://www.gov.br/fazenda/pt-br)</p> 
+    <p>Figura 1: Site do governo (Fonte: https://www.gov.br/nfse/pt-br)</p> 
 </div>
 
 

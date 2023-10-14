@@ -6,22 +6,25 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 
 ## Entrega 1
 
-| Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
-|-----------|:------------------:|---------|:-----------:|-----------|
-| [Sites avaliados](lista_Site.md) | 30/08 - 01/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Fause, Felipe, Juan |
-| [Site selecionado](site.md) | 04/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas| 05/09 | Amanda |
-| [Heatmap](heat.md) | 02/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Amanda |
-| [Ferramentas](ferramentas.md) | 02/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/09 | Artur Jackson |
-| [Processos de Design](process_des.md) | 22/09 | Lucas e Fause | 23/09 | Lucas |
-| Criação do GitPage | 16/09 | Felipe | 17/09  | Arthur Sousa |
-| [Documentar Equipe](index.md) | 16/09 | Arthur Sousa, Amanda e Juan | 17/09 | Arthur Sousa |
-| [Cronograma](cronogramas.md) | 29/09 | Arthur Sousa e Artur Jackson | 29/09 | Juan |
-| [Gravação da apresentação](https://www.youtube.com/watch?v=rn-6kxlx5rc) | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
-| Edição da apresentação | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/09 - 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Atividade | Período planejado para desenvolvimento| Data de entrega | Autores | Período de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|-----------|----------------|
+| [Sites avaliados](lista_Site.md) | 30/08 - 01/09 | 30/08 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Fause, Felipe, Juan |
+| [Site selecionado](site.md) | 04/09 | 21/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas| 05/09 | Amanda |
+| [Heatmap](heat.md) | 02/09 | 29/08 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Amanda |
+| [Ferramentas](ferramentas.md) | 02/09 | 01/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/09 | Artur Jackson |
+| [Processos de Design](process_des.md) | 22/09 | 28/09 | Lucas e Fause | 23/09 | Lucas |
+| Criação do GitPage | 16/09 | 26/09 | Felipe | 17/09  | Arthur Sousa |
+| [Documentar Equipe](index.md) | 16/09 | 28/09 | Arthur Sousa, Amanda e Juan | 17/09 | Arthur Sousa |
+| [Cronograma](cronogramas.md) | 29/09 | 29/09 | Arthur Sousa e Artur Jackson | 29/09 | Juan |
+| [Gravação da apresentação](https://www.youtube.com/watch?v=rn-6kxlx5rc) | 01/10 | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 01/10 | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/09 - 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 1: Cronograma do Ponto de Controle 1 (Fonte: autor, 2023).</p>
 </div>
+
+## Bibliografia
+>SALES, André Barros. Ambientação - Modelo de Cronograma. Aprender 3. Distrito Federal, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>. Acesso em 18 de setembro de 2023.
 
 ## Histórico de versão
 
