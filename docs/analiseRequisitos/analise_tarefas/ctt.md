@@ -1,0 +1,3 @@
+### Introdução
+
+O ConcurTaskTrees (CTT) é uma metodologia utilizada para modelar e analisar o comportamento de sistemas interativos, especialmente em situações onde múltiplos agentes ou componentes interagem. O CTT emprega árvores de tarefas concorrentes para representar as ações e decisões dos usuários e sistemas. Essas árvores descrevem as possíveis interações entre os elementos do sistema de forma hierárquica e gráfica, ajudando a compreender como diferentes partes interagem e contribuem para a realização de tarefas.
