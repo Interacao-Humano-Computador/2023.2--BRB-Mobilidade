@@ -115,20 +115,37 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-| 8. Com que frequência você utiliza o transporte público em Brasília?|
-|:---------------------------------------------------------------:|
-| Todos os dias |
-| Diariamente |
-| Todos os dias |
-| 1x na semana |
-| Diariamente |
-| Todos os dias |
-
-<div style="text-align: center">
-    <p> 
-        Tabela 2: Respostas da pergunta 8 (Fonte: autor, 2023).
-    </p>
+<div style="text-align: center; margin: 0 auto;">
+    <table>
+        <tr>
+            <th>8. Com que frequência você utiliza o transporte público em Brasília?</th>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>Diariamente</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>1x na semana</td>
+        </tr>
+        <tr>
+            <td>Diariamente</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+    </table>
+    <div style="text-align: center">
+        <p> 
+            Tabela 2: Respostas da pergunta 8 (Fonte: autor, 2023).
+        </p>
+    </div>
 </div>
+
 
 <br>
 
@@ -148,21 +165,37 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 </div>
 
 <br>
-
-| 10. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?|
-|:---------------------------------------------------------------:|
-| Asa norte, asa sul, plano e gama. |
-| Asa Norte e Gama |
-| Setor sul |
-| Faculdade do gama, park shopping e rodoviária interestadual |
-| Gama, setor de indústria |
-| Gama, plano piloto, Taguatinga |
-
-<div style="text-align: center">
-    <p> 
-        Tabela 4: Respostas da pergunta 10 (Fonte: autor, 2023).
-    </p>
+<div style="text-align: center; margin: 0 auto;">
+    <table>
+        <tr>
+            <th>10. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
+        </tr>
+        <tr>
+            <td>Asa norte, asa sul, plano e gama.</td>
+        </tr>
+        <tr>
+            <td>Asa Norte e Gama</td>
+        </tr>
+        <tr>
+            <td>Setor sul</td>
+        </tr>
+        <tr>
+            <td>Faculdade do gama, park shopping e rodoviária interestadual</td>
+        </tr>
+        <tr>
+            <td>Gama, setor de indústria</td>
+        </tr>
+        <tr>
+            <td>Gama, plano piloto, Taguatinga</td>
+        </tr>
+    </table>
+    <div style="text-align: center">
+        <p> 
+            Tabela 4: Respostas da pergunta 10 (Fonte: autor, 2023).
+        </p>
+    </div>
 </div>
+
 
 <br>
 
@@ -212,7 +245,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-### 13. Na sua experiência ao utilizar o site do BRB Mobilidade, como você classificaria a facilidade de adaptação e acessibilidade? Por favor, avalie de 1 (muito difícil) a 5 (muito fácil) com base na sua experiência recente.
+#### 13. Na sua experiência ao utilizar o site do BRB Mobilidade, como você classificaria a facilidade de adaptação e acessibilidade? Por favor, avalie de 1 (muito difícil) a 5 (muito fácil) com base na sua experiência recente.
 
 ![Gráfico Facilidade](../assets/perfilUsuario/graficoNota1.png)
 
@@ -222,7 +255,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-### 14. Poderia avaliar a eficácia do suporte e das informações disponíveis no site do BRB Mobilidade? Em uma escala de 1 a 5, sendo 1 muito insatisfatório e 5 muito satisfatório, como você classificaria a facilidade de encontrar as informações necessárias e a qualidade do suporte oferecido no site?
+#### 14. Poderia avaliar a eficácia do suporte e das informações disponíveis no site do BRB Mobilidade? Em uma escala de 1 a 5, sendo 1 muito insatisfatório e 5 muito satisfatório, como você classificaria a facilidade de encontrar as informações necessárias e a qualidade do suporte oferecido no site?
 
 ![Gráfico Eficácia](../assets/perfilUsuario/graficoNota2.png)
 
@@ -252,6 +285,8 @@ Essas conclusões são baseadas nas informações coletadas nas entrevistas e fo
 |  1.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Artur Jackson](https://github.com/artur-jack) |
 |  1.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
 |  1.4   | 15/10/2023   | Adicionando últimos gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Juan Pablo](https://github.com/Juan-Ricarte) |
+
+
 ## Bibliografia 
 
 [1] Site do Techopedia: <https://pt.theastrologypage.com/user-profile>
