@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Personas são personagens fictícios que buscam representar o cliente ideal através da síntese de comportamentos, motivação, desejos e características significativas sobre o público alvo. Assim, a criação de personas é importante para auxiliar no processo de design direcionando as soluções para o público alvo do produto.
+Personas são personagens fictícios que buscam representar o cliente ideal através da síntese de comportamentos, motivação, desejos e características significativas sobre o público alvo. Assim, a criação de personas é importante para auxiliar no processo de design direcionando às soluções para o público alvo do produto.
 
 ## Definição das Personas
 
@@ -18,7 +18,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Descrição**        | Eduardo tem 21 anos de idade, mora em Brasília e é estudante do ensino superior. Costuma visitar áreas como a Asa Norte e Gama. |
 | **Status**          | Persona Secundária.     |
 | **Tarefas**         | Faz o cadastro das informações no site e retira o cartão. Usufruí de benefícios tarifários, como passes mensais, devido ao status de estudante.|
-| **Relacionamentos** | Eduardo compartilha ocasionalmente com um pequeno grupo de amigos notícias sobre transporte público  |
+| **Relacionamentos** | Eduardo compartilha ocasionalmente com um pequeno grupo de amigos notícias sobre transporte público.  |
 
 
 ### Luciana Costa
@@ -28,7 +28,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/luciana.jpeg?raw=true"><p>Figura 2 - Luciana Costa persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 30 anos |
 | **Gênero**        | Feminino |
-| **Descrição**        | Luciana tem 30 anos de idade, mora em taguatinga e é servidora pública. Costuma utilizar o transporte público para se locomover para várias áreas da cidade. |
+| **Descrição**        | Luciana tem 30 anos de idade, mora em Taguatinga e é servidora pública. Costuma utilizar o transporte público para se locomover para várias áreas da cidade. |
 | **Status**          | Persona Primária.     |
 | **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
@@ -40,7 +40,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joão-jorge.jpeg?raw=true"><p>Figura 3 - João Jorge persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 22 anos |
 | **Gênero**        | Masculino |
-| **Descrição**        | João Jorge tem 22 anos de idade, mora em ceilândia e estuda no Gama. Costuma utilizar o transporte público diariamente para poder ir à universidade.
+| **Descrição**        | João Jorge tem 22 anos de idade, mora em Ceilândia e estuda no Gama. Costuma utilizar o transporte público diariamente para poder ir à universidade.
 | **Status**          | Persona Primária.     |
 | **Tarefas**         | Realiza tarefas como verificar acessos do cartão, solicitar uma segunda via do cartão , troca de endereço, alteração de foto, extensão de acesso e troca de instituição. Utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. Prefere receber notificações em tempo real sobre atualizações nos serviços de transporte público.  |
 | **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
@@ -52,7 +52,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joel.jpeg?raw=true"><p>Figura 4 - Joel Madaleno persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 24 anos |
 | **Gênero**        | Masculino|
-| **Descrição**        | Joel tem 24 anos de idade, mora em no Gama há 17 anos e é estagiário na Abin. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial na Asa Sul
+| **Descrição**        | Joel tem 24 anos de idade, mora em no Gama há 17 anos e é estagiário na Abin. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial na Asa Sul.|
 | **Status**          | Persona Terciária.     |
 | **Tarefas**         | Realiza tarefas como verificar a situação do cartão de ônibus. Não tem preferência por receber notificações em tempo real sobre atualizações nos serviços de transporte público. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais.|
 | **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Não compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
