@@ -5,20 +5,20 @@ O ConcurTaskTrees (CTT) é uma metodologia utilizada para modelar e analisar o c
 ## Trocar endereço
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas ctt/Trocar_end.drawio.png">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Trocar_end.drawio.png">
     <p>Figura 1: Diagrama CTT da tarefa de trocar endereço do cadastro</p>
 </div>
 
 ## Alteração de foto
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas ctt/Alteracao_foto.drawio.png">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Alteracao_foto.drawio.png">
     <p>Figura 1: Diagrama CTT da tarefa de alterar foto do cadastro</p>
 </div>
 
 ## Meus acessos
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas ctt/Meus_acessos.drawio.png">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Meus_acessos.drawio.png">
     <p>Figura 1: Diagrama CTT da tarefa de visualizar os acessos</p>
 </div>
