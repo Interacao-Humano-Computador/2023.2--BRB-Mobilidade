@@ -4,6 +4,7 @@
 
 As entregas do projeto realizadas até aqui estão detalhadas no cronograma da tabela 1 e descrevem as atividades já realizadas, com suas datas de desenvolvimento, revisão e autores.
 
+
 ## Entrega 1
 
 | Atividade | Período planejado para desenvolvimento| Realizado | Autores | Período de revisão | Revisores |
@@ -33,18 +34,22 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Criação dos cenários](../analiseRequisitos/cenario.md) | 03/10 - 11/10 | 12/10 - 14/10 |Juan | 14/10 | Artur Jackson |
 | [Análise das tarefas do usuário (técnicas HTA e CTT)](../analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md) | 03/10 - 11/10 | 13/10 - 14/10 |Amanda, Artur Jackson, Fause, Felipe e Lucas | 14/10 - 15/10 | Arthur Sousa |
 | [Aspectos éticos de pesquisa envolvendo pessoas](../analiseRequisitos/aspectos_eticos.md) | 03/10 - 11/10 | |Fause | 11/10 - 12/10 | Arthur Sousa |
-| [Gravação da apresentação]() | 12/10 | 15/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 15/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
-| Edição da apresentação | 13/10 - 14/10 | 15/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação]() | 12/10 | 15/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 15/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 13/10 - 14/10 | 15/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 3: Cronograma da Entrega 2 (Fonte: autor, 2023).</p>
+    <p> Tabela 2: Cronograma do Ponto de Controle 2 (Fonte: autor, 2023).</p>
 </div>
 
+
 ## Bibliografia
+
 >SALES, André Barros. Ambientação - Modelo de Cronograma. Aprender 3. Distrito Federal, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>. Acesso em 18 de setembro de 2023.
+
 
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan Pablo](https://github.com/Juan-Ricarte)|
+|    1.0   |   15/10/2023   |   Adicionando cronograma Entrega 2 |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Artur Jackson](https://github.com/artur-jack) |
