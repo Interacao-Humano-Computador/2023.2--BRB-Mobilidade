@@ -2,23 +2,44 @@
 
 O ConcurTaskTrees (CTT) é uma metodologia utilizada para modelar e analisar o comportamento de sistemas interativos, especialmente em situações onde múltiplos agentes ou componentes interagem. O CTT emprega árvores de tarefas concorrentes para representar as ações e decisões dos usuários e sistemas. Essas árvores descrevem as possíveis interações entre os elementos do sistema de forma hierárquica e gráfica, ajudando a compreender como diferentes partes interagem e contribuem para a realização de tarefas.
 
+
 ## Trocar endereço
+
+Nesta tarefa, o usuário tem como objetivo a troca de seu endereço pessoal cadastrado no site do BRB Mobilidade. Para isso, o usuário deve acessar a aba de Troca de Endereço e preencher o formulário com o novo endereço. Após isso, o usuário deve clicar em "Salvar" para que as alterações sejam salvas.
 
 <div style="text-align: center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Trocar_end.drawio.png">
     <p>Figura 1: Diagrama CTT da tarefa de trocar endereço do cadastro</p>
 </div>
 
+
 ## Alteração de foto
+
+Nesta tarefa, o usuário tem como objetivo alterar sua foto de perfil cadastrada no site do BRB Mobilidade. Para isso, o usuário deve acessar a aba de Alteração de Foto, clicar em "Nova solicitação" e anexar a nova foto. Após isso, o usuário deve clicar em "Salvar" para que as alterações sejam salvas.
 
 <div style="text-align: center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Alteracao_foto.drawio.png">
-    <p>Figura 1: Diagrama CTT da tarefa de alterar foto do cadastro</p>
+    <p>Figura 2: Diagrama CTT da tarefa de alterar foto do cadastro</p>
 </div>
+
 
 ## Meus acessos
 
+Nesta tarefa, o usuário tem como objetivo visualizar os acessos do seu cartão. Para isso, o usuário deve acessar a aba de Meus Acessos e, se desejar, informar a abrangência do período dos acessos. Após isso, o usuário deve clicar em "Consultar" para que os acessos sejam exibidos.
+
 <div style="text-align: center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Meus_acessos.drawio.png">
-    <p>Figura 1: Diagrama CTT da tarefa de visualizar os acessos</p>
+    <p>Figura 3: Diagrama CTT da tarefa de visualizar os acessos</p>
 </div>
+
+
+## Histórico de versão
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
+|    1.0   |   15/10/2023   |   Adicionando introdução e diagramas | [Felipe Hansen](https://github.com/FHansen98) | [Arthur Sousa](https://github.com/arthurrsousa) |
+
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
