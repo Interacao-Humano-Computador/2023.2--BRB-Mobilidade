@@ -29,7 +29,8 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | Atividade | Período para desenvolvimento | Autores| Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | [Criação do perfil do Usuário](../analiseRequisitos/perfil_do_usuario.md) | 03/10 - 12/10 | Amanda e Arthur Sousa | 15/10 | Artur Jackson |
-| [Criação das personas](../analiseRequisitos/personas.md) | 03/10 - 11/10 | Artur Jackson e Juan | 11/10 - 12/10 | Lucas |
+| [Criação das personas](../analiseRequisitos/personas.md) | 03/10 - 11/10 | Artur Jackson e Juan | 11/10 - 12/10 | Amanda e Artur Jackson |
+| [Criação dos cenários](../analiseRequisitos/cenarios.md) | 03/10 - 11/10 | Juan | 14/10 | Artur Jackson |
 | [Análise das tarefas do usuário (técnicas HTA e CTT)](../analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md) | 03/10 - 11/10 | Lucas, Juan e Felipe | 11/10 - 12/10 | Arthur Sousa |
 | [Aspectos éticos de pesquisa envolvendo pessoas](../analiseRequisitos/aspectos_eticos.md) | 03/10 - 11/10 | Fause | 11/10 - 12/10 | Arthur Sousa |
 | [Gravação da apresentação]() | 15/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 15/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
