@@ -32,14 +32,14 @@ A metodologia utilizada neste artefato é a de Cenários de Interação, tomando
 
 [Eduardo Cardoso](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#eduardo-cardoso) é estudante do ensino superior e costuma visitar áreas como a Asa Norte e Gama, pois precisa ir à universidade.
 
-Contudo, Eduardo não tinha o cadastro no brb mobilidade para utilizar o passe estudantil, logo precisaria acessar o site para realizar o cadastro e acompanhar o andamento. Preocupado com a situação, pois gastava muito dinheiro com passagens no transprote público, Eduardo resolve checar a situação.
+Contudo, [Eduardo](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#eduardo-cardoso) não tinha o cadastro no brb mobilidade para utilizar o passe estudantil, logo precisaria acessar o site para realizar o cadastro e acompanhar o andamento. Preocupado com a situação, pois gastava muito dinheiro com passagens no transprote público, Eduardo resolve checar a situação.
 
-Primeiro, Eduardo acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil". Em seguida, foi mostrado a opção de "acompanhar cadastro" que ele clicou e foi redirecionado para página em que deveria  digitar CPF e senha para analisar a situação de cadastro.
+Primeiro, [Eduardo](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#eduardo-cardoso) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil". Em seguida, foi mostrado a opção de "acompanhar cadastro" que ele clicou e foi redirecionado para página em que deveria  digitar CPF e senha para analisar a situação de cadastro.
 
 Ao clicar no botão de logar, ele conseguiu visualizar a opção "status" que apareceu aprovado e, também, visualizar os seus dados cadastrais que precisou preencher. 
 
 
-Eduardo ficou satisfeito, pois coseguiu chegar se o seu castramento já havia sido aprovado e o site forneceu essa opção de acordo com o status e nível de aprovação na aba acompanhamento de cadastro.
+[Eduardo](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#eduardo-cardoso) ficou satisfeito, pois coseguiu chegar se o seu castramento já havia sido aprovado e o site forneceu essa opção de acordo com o status e nível de aprovação na aba acompanhamento de cadastro.
 
 ### 2° Via
 
@@ -47,16 +47,28 @@ Eduardo ficou satisfeito, pois coseguiu chegar se o seu castramento já havia si
 
 Ele conseguiu o cartão estudantil, contudo ao deslocar-se para universidade perdeu o cartão dentro do ônibus, notando que havia perdido apenas quando chegou em casa e resolveu tomar uma atitude diante da situação.
 
-Primeiro, Eduardo acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil". Em seguida, foi mostrado a opção de "2° via" que ele clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
+Primeiro, [Eduardo](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#eduardo-cardoso) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil". Em seguida, foi mostrado a opção de "2° via" que ele clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
 
 Ao clicar no botão de logar, ele conseguiu visualizar a aba de 2°  via e teve que pagar uma taxa de 2° via e fazer um boletim de ocorrência online para poder anexar esses dois arquivos em forma de documento no botão "anexar arquivos". Além disso, teve de colocar o "motivo" que foi a perda do cartão, também, seu nome e e-mail completos com informações no campo observações.
 
 Após essas etapas, ele clicou no botão "Registrar solicitação" e assim conseguiu solicitar uma 2° via do cartão estudantil.
 
-Eduardo ficou satisfeito, pois conseguiu solicitar a 2° via de seu cartão.
+[Eduardo](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#eduardo-cardoso) ficou satisfeito, pois conseguiu solicitar a 2° via de seu cartão.
 
 
 ### Extensão de Acesso
+[Luciana Costa](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) é estagiária na empresa EL DORADO voltada ao desenvolvimento WEB que fica no Gama. Em sua rotina, ela precisa pegar 4 ônibus por dia, durante 20 dias no mês, resultando em, pelo menos, 80 acessos mensais.
+
+Contudo, [Luciana](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) só tem 56 acessos liberados de acordo com a aprovação do seu passe estudantil. Sendo assim, ela percebeu que necessitava realizar uma extensão de acesso para que não precisasse pagar por 24 passagens de ônibus até o estágio.
+
+Primeiro, [Luciana](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil".  Em seguida, foi mostrado a opção de "Extensão de Acesso" que ela clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
+
+Ao clicar no botão de logar, ela conseguiu visualizar a aba de extensão de acesso, tendo que aceitar o termo de consentimento, colocar no campo "motivo da solicitação" a opção estágio obrigatório, em seguida, preencheu e-mail e nome completo e, por fim, anexou os documentos que atestam o estágio obrigatório e sua grade. 
+
+Após essas etapas, ela clicou no botão "Registrar solicitação" e assim conseguiu solicitar a extensão de acessos.
+
+[Luciana](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) ficou satisfeita, pois conseguiu realizar o pedido da extensão de acessos.
+
 
 ### Meus Acessos
 
