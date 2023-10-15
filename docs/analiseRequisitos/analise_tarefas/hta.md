@@ -6,13 +6,43 @@ A Análise Hierárquica de Tarefas (HTA) é uma metodologia usada para analisar 
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
-|0. Acompanhar cadastro| 1>2 |**input:** formulário de login com CPF e senha         **feedback:** logar no sistema ou retornar mensagem "erro ao logar", usuário ou senha inválidos. **plano:** informar os dados de login e clicar em "logar" |
-|1. Login| 1+2 |**plano:** informar CPF e senha|
+|0. Cadastre-se| 1>2 |**input:** formulário de login com CPF e senha         **feedback:** logar no sistema ou retornar mensagem "erro ao logar", usuário ou senha inválidos. **plano:** informar os dados de login e clicar em "logar" |
 |1.1 Adicionar CPF|     | |
-|1.2 Adicionar senha|     | |
-|2. Confirmar login|  1/2   | **input:** clique com o mouse **plano:** clicar do botão "logar", ou , "recuperar senha"|
-|2.1 Clicar no botão "logar"| | **feedback:** logar no sistema ou retornr mensagem de erro caso os dados estajam incorretos  | |
-|2.2 Recuperar senha|     | |
+|1.2 Adicionar nome|     | |
+|1.3 Adicionar nome da Mãe|     | |
+|1.4 Adicionar data de nascimento |     | |
+|1.5 Adicionar nome do pai  |     | |
+|1.6 Selecionar estado civil |     | |
+|1.7 Adicionar documento de identificação  |     | |
+|1.8 Adicionar número do documento  |     | |
+|1.9 Selecionar sexo  |     | |
+|1.10 Selecionar orgão emissor  |     | |
+|1.11 Selecionar UF  |     | |
+|2.0 Adicionar nome dos responsáveis    (Caso seja menor de idade)
+ |     | |
+|2.1Adicionar RG dos responsáveis  (Caso seja menor de idade)  |     | |
+|2.2 Selecionar orgão emissor dos responsáveis  (Caso seja menor de idade) |     | |
+|2.3 Selecionar UF dos responsáveis  (Caso seja menor de idade) |     | |
+|3.0 Adicionar número de telefone  |     | |
+|3.1 Adicionar logradouro|     | |
+|3.2 Adicionar n* da residência |     | |
+|3.3 Adicionar bairro|     | |
+|3.4 Adicionar complemento |     | |
+|3.5 Adicionar cidade |     | |
+|4.0 Adicionar matrícula |     | |
+|4.1 Adicionar instituição de ensino |     | |
+|4.2 Selecionar modalidade |     | |
+|4.3 Selecionar curso |     | |
+|4.4 Selecionar (Série, período, ano) |     | |
+|4.5 Anexar todos os documentos comprobatórios (RG, declaração de vínculo, RG do responsável…) |     | |
+|4.6 Adicionar e-mail |     | |
+|5.0 Adicionar nome de login (cpf obrigatoriamente) |     | |
+|5.1 Adicionar senha |     | |
+|5.2 Adicionar confirmação de senha|     | |
+|5.3 Finalizar |     | |
+
+
+
 
 
 ### Acompanhar cadastro

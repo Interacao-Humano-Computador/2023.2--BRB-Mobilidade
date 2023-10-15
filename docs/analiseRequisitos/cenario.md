@@ -70,17 +70,24 @@ Após essas etapas, ela clicou no botão "Registrar solicitação" e assim conse
 [Luciana](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) ficou satisfeita, pois conseguiu realizar o pedido da extensão de acessos.
 
 
+### Meus Acessos
+[Luciana Costa](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) é estagiária na empresa EL DORADO voltada ao desenvolvimento WEB que fica no Gama. Ansiosa, pois havia solicitado a extensão de acesso no site  <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>, resolveu checar se a extensão de acessos que havia feito foi autorizada.
+
+Primeiro, [Luciana](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil".  Em seguida, foi mostrado a opção de "Acompanhe seu cadastro/frequência" que ela clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
+
+Ao clicar no botão de logar, ela conseguiu visualizar a aba de eserviços, clicou em "meus acessos" no menu e conseguiu visulizar que seus acessos tinham sido aumentados de 56 para 88 acessos mensais.
+
+[Luciana](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) ficou satisfeita, pois conseguiu aumentar a quantidade de acessos mensais, tendo solucionado sua demanda e o mais importante: economizar não tendo que pagar as passagens a mais do transporte público que precisaria.
+
 
 
 ### Troca de Instituição
-
 
 ### Troca de Endereço
 
 ### Alteração de Foto
 
 
-### Meus Acessos
 
 
 
