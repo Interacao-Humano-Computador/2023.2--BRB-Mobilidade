@@ -10,7 +10,7 @@ Um perfil de usuário é uma coleção de configurações e informações associ
 
 Com o objetivo de criar uma descrição detalhada dos atuais e futuros usuários do site BRB Mobilidade, conduzimos **entrevistas** como fonte de coleta de dados. Essa abordagem nos permite compreender quem são esses usuários, bem como suas necessidades e interesses de forma qualitativa. A definição do perfil do usuário é de extrema importância na análise de requisitos da aplicação, e nossos esforços visam analisar como o BRB Mobilidade atende às expectativas dos usuários. 
 
-É importante ressaltar que existe inúmeros meios para coleta de dados. Além do método de entrevista (realizado pelo grupo) á também outros métodos como grupos de foco, questionários, estudo de campo e etc.
+É importante ressaltar que existe inúmeros meios para coleta de dados. Além do método de entrevista (realizado pelo grupo), há também outros métodos como grupos de foco, questionários, estudo de campo e etc.
 
 Para realizar as entrevistas para formação do perfil do usuário levamos em conta alguns dados importantes, como: 
 
@@ -23,11 +23,11 @@ Para realizar as entrevistas para formação do perfil do usuário levamos em co
 
 Os resultados das entrevistas foram de bastante importância para o projeto. Durante essas entrevistas os usuários compartilharam suas experiências, pensamentos e opiniões de maneira aberta e franca proporcionando uma visão mais clara sobre o site do BRB Mobilidade.
 
-Abaixo estão algumas perguntas que foram feitas durante a entrevista.
+Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 #### 1. Qual a sua idade?
 
-![Image title](../assets/grafico1Idade.png)
+![Gráfico Idade](../assets/perfilUsuario/grafico1Idade.png)
 
 <div style="text-align: center">
     <p>Figura 1: Gráfico de respostas da pergunta 1 (Fonte: autor, 2023)</p>
@@ -37,7 +37,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 #### 2. Qual é o seu gênero?
 
-![Image title](../assets/grafico7Genero2.png)
+![Gráfico Gênero](../assets/perfilUsuario/grafico7Genero2.png)
 
 <div style="text-align: center">
     <p>Figura 2: Gráfico de respostas da pergunta 2 (Fonte: autor, 2023)</p>
@@ -47,7 +47,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 #### 3. Onde você mora ou qual é a sua localização principal?
 
-![Image title](../assets/grafico2Modaria.png)
+![Gráfico Localização](../assets/perfilUsuario/grafico2Modaria.png)
 
 <div style="text-align: center">
     <p>Figura 3: Gráfico de respostas da pergunta 3 (Fonte: autor, 2023)</p>
@@ -57,7 +57,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 #### 4. Com que frequência você utiliza o transporte público em Brasília?
 
-![Image title](../assets/grafico3FrequenciaUso.png)
+![Gráfico Frequência](../assets/perfilUsuario/grafico3FrequenciaUso.png)
 
 <div style="text-align: center">
     <p>Figura 4: Gráfico de respostas da pergunta 4 (Fonte: autor, 2023)</p>
@@ -67,7 +67,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 #### 5. Há quanto tempo você reside em Brasília?
 
-![Image title](../assets/grafico5TempoMoradia.png)
+![Gráfico Tempo Moradia](../assets/perfilUsuario/grafico5TempoMoradia.png)
 
 <div style="text-align: center">
     <p>Figura 5: Gráfico de respostas da pergunta 5 (Fonte: autor, 2023)</p>
@@ -77,14 +77,12 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 #### 6. Você costuma compartilhar informações ou opiniões sobre transporte público ou mobilidade com outras pessoas nas redes sociais ou em fóruns online?
 
-![Image title](../assets/grafico6CompartilhaInfo.png)
+![Gráfico Compartilha](../assets/perfilUsuario/grafico6CompartilhaInfo.png)
 
 <div style="text-align: center">
     <p>Figura 6: Gráfico de respostas da pergunta 6 (Fonte: autor, 2023)</p>
 </div>
 
-
-<br>
 <br>
 
 <div style="text-align: center; margin: 0 auto;">
@@ -109,27 +107,22 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
         </tr>
         <tr>
             <td>Todos os dias</td>
-        </tr>
-        <tr>
-            <td>Todos os dias</td>
-        </tr>    
+        </tr>   
     </table>
     <caption style="caption-side: bottom;"> Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023)</caption>
 </div>
 
 
 <br>
-<br>
 
-| 8. Você já utilizou o site do BRB Mobilidade? Se sim, com que finalidade?|
+| 8. Com que frequência você utiliza o transporte público em Brasília?|
 |:---------------------------------------------------------------:|
-|  Sim, para segunda via de cartão e saldo |
-|  Sim, para conseguir o cartão estudantil|
-|  Sim, para verificar situação do meu cartão do ônibus |
-| Sim, para solicitar o cartão e para solicitar segunda via do cartão  |
-| Sim, para solicitar o cartão, para editar informações de cadastro e para solicitar segunda via do cartão  |
-| Sim, aumentar passes, pedir segunda via e conferir dados |
-| Sim, para atualizações cadastrais  |
+| Todos os dias |
+| Diariamente |
+| Todos os dias |
+| 1x na semana |
+| Diariamente |
+| Todos os dias |
 
 <div style="text-align: center">
     <p> 
@@ -137,7 +130,6 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
     </p>
 </div>
 
-<br>
 <br>
 
 | 9. Você utiliza algum tipo de benefício tarifário, como descontos para estudantes ou passes mensais, ao utilizar o transporte público?|
@@ -147,8 +139,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 | Não|
 | Sim, o passe livre para estudante.  |
 | Sim, desconto para estudante e o que limita uma passagem |
-| Sim, o passe livre para estudante |
-| Sim, o passe livre para estudante |
+| Sim, o passe livre estudantil |
 
 <div style="text-align: center">
     <p> 
@@ -157,17 +148,15 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 </div>
 
 <br>
-<br>
 
-| 10. Como você avalia a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético?|
+| 10. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?|
 |:---------------------------------------------------------------:|
-| Design fácil, a única dificuldade foi pegar o cartão, pois era longe.  |
-|Simples e Direto, só alguns formulários (Um atrás do outro) |
-| Tem uma aparência ok, poderia ter uma estética mais atual e amigável para o usuário. |
-| Diariamente  |
-| Diariamente |
-| Diariamente |
-| Diariamente |
+| Asa norte, asa sul, plano e gama. |
+| Asa Norte e Gama |
+| Setor sul |
+| Faculdade do gama, park shopping e rodoviária interestadual |
+| Gama, setor de indústria |
+| Gama, plano piloto, Taguatinga |
 
 <div style="text-align: center">
     <p> 
@@ -176,17 +165,15 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 </div>
 
 <br>
-<br>
 
-| 11. Em relação à sua experiência como usuário do site do BRB, como você percebe a autonomia e liberdade para realizar suas transações e acessar informações? Quais aspectos específicos você considera cruciais para melhorar a sua liberdade e autonomia nesse ambiente virtual?|
+| 11. Como você avalia a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético?|
 |:---------------------------------------------------------------:|
-| Não teve dificuldade  |
-|Sinto que não tenho tanta liberdade, visto que vou respondendo formulários seguidos. Gostaria de adicionar local de retirada e ter algum chat online  |
-|  Ter mais informações sobre como esses dados são usados |
-| Diariamente |
-| Diariamente |
-| Diariamente |
-| Diariamente |
+| Design fácil, a única dificuldade foi pegar o cartão, pois era longe.  |
+|Simples e Direto, só alguns formulários (Um atrás do outro) |
+| Tem uma aparência ok, poderia ter uma estética mais atual e amigável para o usuário. |
+| Acho bem interativo e fácil entendimento  |
+| As informações e guia do site é simples e direto |
+| Acho fácil de usar e autoexplicativo. |
 
 <div style="text-align: center">
     <p> 
@@ -194,9 +181,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
     </p>
 </div>
 
-
 <br>
-
 
 <div style="text-align: center; margin: 0 auto;">
     <table>
@@ -221,27 +206,42 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
         <tr>
             <td>Gama, Plano Piloto, Taguatinga</td>
         </tr>
-        <tr>
-            <td>Leste do Gama</td>
-        </tr>
     </table>
     <caption>Tabela 6: Respostas da pergunta 12 (Fonte: autor, 2023)</caption>
 </div>
+
 <br>
+
+### 13. Na sua experiência ao utilizar o site do BRB Mobilidade, como você classificaria a facilidade de adaptação e acessibilidade? Por favor, avalie de 1 (muito difícil) a 5 (muito fácil) com base na sua experiência recente.
+
+![Gráfico Facilidade](../assets/perfilUsuario/graficoNota1.png)
+
+<div style="text-align: center">
+    <p>Figura 7: Gráfico de respostas da pergunta 13 (Fonte: autor, 2023)</p>
+</div>
+
 <br>
+
+### 14. Poderia avaliar a eficácia do suporte e das informações disponíveis no site do BRB Mobilidade? Em uma escala de 1 a 5, sendo 1 muito insatisfatório e 5 muito satisfatório, como você classificaria a facilidade de encontrar as informações necessárias e a qualidade do suporte oferecido no site?
+
+![Gráfico Eficácia](../assets/perfilUsuario/graficoNota2.png)
+
+<div style="text-align: center">
+    <p>Figura 8: Gráfico de respostas da pergunta 14 (Fonte: autor, 2023)</p>
+</div>
+
 
 ## Conclusão 
 
 Com base nas respostas obtidas através das entrevistas podemos concluir que o perfil de usuário que o utiliza o site do BRB Mobilidade seria caracterizado por:
 
-- Gênero: masculino 
-- Idade: entre 21 e 24 anos 
+- Gênero: Masculino 
+- Idade: Entre 21 e 24 anos 
 - Localização: Gama 
 - Ocupação: Estudante 
 - Objetivos: Os principais objetivos dos usuários são solicitar um cartão, editar informações de conta e solicitar uma segunda via do cartão
   
-  Essas conclusões são baseadas nas informações coletadas nas entrevistas e fornecem uma visão geral do perfil típico dos usuários do site BRB Mobilidade. Tenha em mente que essas conclusões são baseadas em dados específicos coletados durante as entrevistas e podem ser usadas para orientar estratégias de design e conteúdo do site para melhor atender às necessidades desse público-alvo.
-
+Essas conclusões são baseadas nas informações coletadas nas entrevistas e fornecem uma visão geral do perfil típico dos usuários do site BRB Mobilidade. Tenha em mente que essas conclusões são baseadas em dados específicos coletados durante as entrevistas e podem ser usadas para orientar estratégias de design e conteúdo do site para melhor atender às necessidades desse público-alvo.
 
 ## Histórico de versão
 
@@ -251,7 +251,7 @@ Com base nas respostas obtidas através das entrevistas podemos concluir que o p
 |  1.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Arthur Sousa](https://github.com/arthurrsousa)|
 |  1.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Artur Jackson](https://github.com/artur-jack) |
 |  1.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
-
+|  1.4   | 15/10/2023   | Adicionando últimos gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Juan Pablo](https://github.com/Juan-Ricarte) |
 ## Bibliografia 
 
 [1] Site do Techopedia: <https://pt.theastrologypage.com/user-profile>
