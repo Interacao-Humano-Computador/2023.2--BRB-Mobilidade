@@ -89,18 +89,18 @@ Clicar em Registrar solicitação
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
-|0. Extensão de acesso| 1/2 ||
-|1.0 Acompanhar solicitações| 1>2 ||
-|1.1 Navegar entre as páginas|  ||
-|2.0 Nova solicitação| 1>2 ||
-|2.1 Adicionar dados|1+2 ||
-|2.2 Clicar na checkbox para aceitar o termo|  ||
+|0. Extensão de acesso| 1/2 |**input:** formulário para solicitação de extensão, incluindo anexo do documento que comprova a necessidade de extensão. **plano:** escolher entre acompanhar solicitações ou fazer uma nova solicitação|
+|1.0 Acompanhar solicitações| 1>2 |**feedback:** lista com as solicitações ativas|
+|1.1 Navegar entre as páginas|  |**input:** cliques com o mouse em ícones de navegação|
+|2.0 Nova solicitação| 1>2 |**input:** formulário com os dados da solicitação, aceitar termo, selecionar motivo, nome, email, observações, anexo de documentos. **feedback:** nova solicitação é cadastrada e fica visível na aba "Acompanhar solicitações"|
+|2.1 Adicionar dados|1+2 |**plano:** adicionar ou selecionar os dados nas caixas de entrada|
+|2.2 Clicar na checkbox para aceitar o termo|  |**recomendação:** a marcar a checkbox é requisito para solicitar a extensão|
 |2.3 Selecionar motivo da solicitação|  ||
 |2.4 Adicionar nome do estudante|  ||
 |2.5 Adicionar email para contato|  ||
 |2.6 Adicionar observação|  ||
 |2.7 Adicionar documentos|  ||
-|3. Confirmar solicitação| 1>2 ||
+|3. Confirmar solicitação| 1>2 |**plano:** clicar no ícone de "Registrar solicitação" **feedback:** Ou o sistema cadastra a nova solicitação, ou o sistema retorna uma mensagem de erro.|
 |3.1 Clicar em Registrar solicitação|  ||
 
 <br>
@@ -124,7 +124,7 @@ Anexar um documento de comprovação (declaração de passe, declaração de ví
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
-|0. Troca de instituição| 1/2 ||
+|0. Troca de instituição| 1/2 |**input:** formulário para solicitação de troca, incluindo anexo do documento que comprova o vínculo com a instituição. **plano:** escolher entre acompanhar solicitações ou fazer uma nova solicitação|
 |1. Nova solicitação| 1>2 ||
 |1.1 Adicionar matrícula|  ||
 |1.2 Adicionar instituição de ensino| ||
