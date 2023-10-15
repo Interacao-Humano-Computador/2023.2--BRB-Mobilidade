@@ -25,7 +25,7 @@ Os resultados das entrevistas foram de bastante importância para o projeto. Dur
 
 Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
-### 1. Qual a sua idade?
+#### 1. Qual a sua idade?
 
 ![Image title](../assets/grafico1Idade.png)
 
@@ -35,7 +35,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 <br>
 
-### 2. Qual é o seu gênero?
+#### 2. Qual é o seu gênero?
 
 ![Image title](../assets/grafico7Genero2.png)
 
@@ -45,7 +45,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 <br>
 
-### 3. Onde você mora ou qual é a sua localização principal?
+#### 3. Onde você mora ou qual é a sua localização principal?
 
 ![Image title](../assets/grafico2Modaria.png)
 
@@ -55,7 +55,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 <br>
 
-### 4. Com que frequência você utiliza o transporte público em Brasília?
+#### 4. Com que frequência você utiliza o transporte público em Brasília?
 
 ![Image title](../assets/grafico3FrequenciaUso.png)
 
@@ -65,7 +65,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 <br>
 
-### 5. Há quanto tempo você reside em Brasília?
+#### 5. Há quanto tempo você reside em Brasília?
 
 ![Image title](../assets/grafico5TempoMoradia.png)
 
@@ -75,7 +75,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 
 <br>
 
-### 6. Você costuma compartilhar informações ou opiniões sobre transporte público ou mobilidade com outras pessoas nas redes sociais ou em fóruns online?
+#### 6. Você costuma compartilhar informações ou opiniões sobre transporte público ou mobilidade com outras pessoas nas redes sociais ou em fóruns online?
 
 ![Image title](../assets/grafico6CompartilhaInfo.png)
 
@@ -83,24 +83,42 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
     <p>Figura 6: Gráfico de respostas da pergunta 6 (Fonte: autor, 2023)</p>
 </div>
 
+
+<br>
 <br>
 
-| 7. Com que frequência você utiliza o transporte público em Brasília?|
-|:---------------------------------------------------------------:|
-| Todos os dias |
-| Diariamente |
-| Todos os dias |
-| Todos os dias |
-| Diariamente |
-| Todos os dias    |
-| Todos os dias    |
-
-<div style="text-align: center">
-    <p> 
-        Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023).
-    </p>
+<div style="text-align: center; margin: 0 auto;">
+    <table>
+        <tr>
+            <th>7. Com que frequência você utiliza o transporte público em Brasília?</th>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>Diariamente</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>Diariamente</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>    
+    </table>
+    <caption style="caption-side: bottom;"> Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023)</caption>
 </div>
 
+
+<br>
 <br>
 
 | 8. Você já utilizou o site do BRB Mobilidade? Se sim, com que finalidade?|
@@ -120,6 +138,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 </div>
 
 <br>
+<br>
 
 | 9. Você utiliza algum tipo de benefício tarifário, como descontos para estudantes ou passes mensais, ao utilizar o transporte público?|
 |:---------------------------------------------------------------:|
@@ -137,6 +156,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
     </p>
 </div>
 
+<br>
 <br>
 
 | 10. Como você avalia a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético?|
@@ -156,6 +176,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
 </div>
 
 <br>
+<br>
 
 | 11. Em relação à sua experiência como usuário do site do BRB, como você percebe a autonomia e liberdade para realizar suas transações e acessar informações? Quais aspectos específicos você considera cruciais para melhorar a sua liberdade e autonomia nesse ambiente virtual?|
 |:---------------------------------------------------------------:|
@@ -173,23 +194,41 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista.
     </p>
 </div>
 
+
 <br>
 
-| 12. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?|
-|:---------------------------------------------------------------:|
-| Asa norte, asa sul, plano e gama. |
-|Asa Norte e Gama |
-|  Setor sul|
-| Faculdade do gama, park shopping e rodoviária interestadual  |
-| Gama, setor de indústria |
-| Gama, plano piloto, Taguatinga |
-| Leste do Gama |
 
-<div style="text-align: center">
-    <p> 
-        Tabela 6: Respostas da pergunta 12 (Fonte: autor, 2023).
-    </p>
+<div style="text-align: center; margin: 0 auto;">
+    <table>
+        <tr>
+            <th>12. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
+        </tr>
+        <tr>
+            <td>Asa Norte, Asa Sul, Plano e Gama.</td>
+        </tr>
+        <tr>
+            <td>Asa Norte e Gama</td>
+        </tr>
+        <tr>
+            <td>Setor Sul</td>
+        </tr>
+        <tr>
+            <td>Faculdade do Gama, Park Shopping e Rodoviária Interestadual</td>
+        </tr>
+        <tr>
+            <td>Gama, Setor de Indústria</td>
+        </tr>
+        <tr>
+            <td>Gama, Plano Piloto, Taguatinga</td>
+        </tr>
+        <tr>
+            <td>Leste do Gama</td>
+        </tr>
+    </table>
+    <caption>Tabela 6: Respostas da pergunta 12 (Fonte: autor, 2023)</caption>
 </div>
+<br>
+<br>
 
 ## Conclusão 
 
@@ -199,18 +238,19 @@ Com base nas respostas obtidas através das entrevistas podemos concluir que o p
 - Idade: entre 21 e 24 anos 
 - Localização: Gama 
 - Ocupação: Estudante 
-- Objetivos: 1.Solicitar cartão  2.Editar informações 3.Solicitar segunda via do cartão 
-        
+- Objetivos: Os principais objetivos dos usuários são solicitar um cartão, editar informações de conta e solicitar uma segunda via do cartão
+  
+  Essas conclusões são baseadas nas informações coletadas nas entrevistas e fornecem uma visão geral do perfil típico dos usuários do site BRB Mobilidade. Tenha em mente que essas conclusões são baseadas em dados específicos coletados durante as entrevistas e podem ser usadas para orientar estratégias de design e conteúdo do site para melhor atender às necessidades desse público-alvo.
 
 
 ## Histórico de versão
 
 | Versão | Data       |Modificação                             |Autor                         |Revisores                         |
 | ------ | ---------- |--------------------------------------- |----------------------------- |-----------------------------------|
-|  2.0   | 12/10/2023   | Adicionando introdução | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Felipe |
-|  2.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Juan|
-|  2.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Lucas |
-|  2.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Artur Jackson |
+|  1.0   | 12/10/2023   | Adicionando introdução | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
+|  1.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Arthur Sousa](https://github.com/arthurrsousa)|
+|  1.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Artur Jackson](https://github.com/artur-jack) |
+|  1.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
 
 ## Bibliografia 
 
