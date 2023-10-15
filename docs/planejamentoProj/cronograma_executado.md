@@ -52,4 +52,4 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan Pablo](https://github.com/Juan-Ricarte)|
-|    1.0   |   15/10/2023   |   Adicionando cronograma Entrega 2 |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Artur Jackson](https://github.com/artur-jack) |
+|    1.1   |   15/10/2023   |   Adicionando cronograma Entrega 2 |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Artur Jackson](https://github.com/artur-jack) |
