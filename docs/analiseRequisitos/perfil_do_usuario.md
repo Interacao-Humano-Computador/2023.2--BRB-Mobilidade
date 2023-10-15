@@ -25,7 +25,7 @@ Os resultados das entrevistas foram de bastante importância para o projeto. Dur
 
 Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
-### 1. Qual a sua idade?
+#### 1. Qual a sua idade?
 
 ![Gráfico Idade](../assets/perfilUsuario/grafico1Idade.png)
 
@@ -35,7 +35,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-### 2. Qual é o seu gênero?
+#### 2. Qual é o seu gênero?
 
 ![Gráfico Gênero](../assets/perfilUsuario/grafico7Genero2.png)
 
@@ -45,7 +45,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-### 3. Onde você mora ou qual é a sua localização principal?
+#### 3. Onde você mora ou qual é a sua localização principal?
 
 ![Gráfico Localização](../assets/perfilUsuario/grafico2Modaria.png)
 
@@ -55,7 +55,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-### 4. Com que frequência você utiliza o transporte público em Brasília?
+#### 4. Com que frequência você utiliza o transporte público em Brasília?
 
 ![Gráfico Frequência](../assets/perfilUsuario/grafico3FrequenciaUso.png)
 
@@ -65,7 +65,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-### 5. Há quanto tempo você reside em Brasília?
+#### 5. Há quanto tempo você reside em Brasília?
 
 ![Gráfico Tempo Moradia](../assets/perfilUsuario/grafico5TempoMoradia.png)
 
@@ -75,7 +75,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-### 6. Você costuma compartilhar informações ou opiniões sobre transporte público ou mobilidade com outras pessoas nas redes sociais ou em fóruns online?
+#### 6. Você costuma compartilhar informações ou opiniões sobre transporte público ou mobilidade com outras pessoas nas redes sociais ou em fóruns online?
 
 ![Gráfico Compartilha](../assets/perfilUsuario/grafico6CompartilhaInfo.png)
 
@@ -85,21 +85,33 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-| 7. Você já utilizou o site do BRB Mobilidade? Se sim, com que finalidade?|
-|:---------------------------------------------------------------:|
-| Sim, para segunda via de cartão e saldo |
-| Sim, para conseguir o cartão estudantil|
-| Sim, para verificar situação do meu cartão do ônibus |
-| Sim, para solicitar o cartão e para solicitar segunda via do cartão  |
-| Sim, para solicitar o cartão, para editar informações de cadastro e para solicitar segunda via do cartão  |
-| Sim, aumentar passes, pedir segunda via e conferir dados |
-| Sim, para atualizações cadastrais  |
-
-<div style="text-align: center">
-    <p> 
-        Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023).
-    </p>
+<div style="text-align: center; margin: 0 auto;">
+    <table>
+        <tr>
+            <th>7. Com que frequência você utiliza o transporte público em Brasília?</th>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>Diariamente</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>
+        <tr>
+            <td>Diariamente</td>
+        </tr>
+        <tr>
+            <td>Todos os dias</td>
+        </tr>   
+    </table>
+    <caption style="caption-side: bottom;"> Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023)</caption>
 </div>
+
 
 <br>
 
@@ -171,19 +183,31 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-| 12. Em relação à sua experiência como usuário do site do BRB, como você percebe a autonomia e liberdade para realizar suas transações e acessar informações? Quais aspectos específicos você considera cruciais para melhorar a sua liberdade e autonomia nesse ambiente virtual?|
-|:---------------------------------------------------------------:|
-| Não teve dificuldade  |
-|Sinto que não tenho tanta liberdade, visto que vou respondendo formulários seguidos. Gostaria de adicionar local de retirada e ter algum chat online  |
-|  Ter mais informações sobre como esses dados são usados |
-| Os botões para acesso rápido e mais uso são cruciais para a autonomia no ambiente virtual  |
-| Boa. Nenhum |
-| Acho ótimo que podemos resolver de forma rápida e fácil, a busca acho crucial para melhora  |
-
-<div style="text-align: center">
-    <p> 
-        Tabela 6: Respostas da pergunta 12 (Fonte: autor, 2023).
-    </p>
+<div style="text-align: center; margin: 0 auto;">
+    <table>
+        <tr>
+            <th>12. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
+        </tr>
+        <tr>
+            <td>Asa Norte, Asa Sul, Plano e Gama.</td>
+        </tr>
+        <tr>
+            <td>Asa Norte e Gama</td>
+        </tr>
+        <tr>
+            <td>Setor Sul</td>
+        </tr>
+        <tr>
+            <td>Faculdade do Gama, Park Shopping e Rodoviária Interestadual</td>
+        </tr>
+        <tr>
+            <td>Gama, Setor de Indústria</td>
+        </tr>
+        <tr>
+            <td>Gama, Plano Piloto, Taguatinga</td>
+        </tr>
+    </table>
+    <caption>Tabela 6: Respostas da pergunta 12 (Fonte: autor, 2023)</caption>
 </div>
 
 <br>
@@ -215,19 +239,19 @@ Com base nas respostas obtidas através das entrevistas podemos concluir que o p
 - Idade: Entre 21 e 24 anos 
 - Localização: Gama 
 - Ocupação: Estudante 
-- Objetivos: 1.Solicitar cartão  2.Editar informações 3.Solicitar segunda via do cartão 
-        
+- Objetivos: Os principais objetivos dos usuários são solicitar um cartão, editar informações de conta e solicitar uma segunda via do cartão
+  
+Essas conclusões são baseadas nas informações coletadas nas entrevistas e fornecem uma visão geral do perfil típico dos usuários do site BRB Mobilidade. Tenha em mente que essas conclusões são baseadas em dados específicos coletados durante as entrevistas e podem ser usadas para orientar estratégias de design e conteúdo do site para melhor atender às necessidades desse público-alvo.
 
 ## Histórico de versão
 
 | Versão | Data       |Modificação                             |Autor                         |Revisores                         |
 | ------ | ---------- |--------------------------------------- |----------------------------- |-----------------------------------|
-|  2.0   | 12/10/2023   | Adicionando introdução | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Felipe |
-|  2.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Juan|
-|  2.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Lucas |
-|  2.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Artur Jackson |
-|  2.4   | 15/10/2023   | Adicionando últimos gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | Artur Jackson |
-
+|  1.0   | 12/10/2023   | Adicionando introdução | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
+|  1.1   | 12/10/2023   | Adicionando perguntas | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Arthur Sousa](https://github.com/arthurrsousa)|
+|  1.2   | 12/10/2023   | Adicionando legendas e gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Artur Jackson](https://github.com/artur-jack) |
+|  1.3   | 12/10/2023   | Adicionando conclusão | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
+|  1.4   | 15/10/2023   | Adicionando últimos gráficos | [Arthur Sousa](https://github.com/arthurrsousa) e [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Juan Pablo](https://github.com/Juan-Ricarte) |
 ## Bibliografia 
 
 [1] Site do Techopedia: <https://pt.theastrologypage.com/user-profile>
