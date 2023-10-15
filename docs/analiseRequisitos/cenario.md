@@ -110,6 +110,15 @@ Após essas etapas, ele clicou no botão "salvar" e , desse modo, conseguiu real
 [João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge) ficou satisfeito, pois conseguiu realizar a troca de endereço evitando, assim, que seu passe estudantil fosse bloqueado.
 
 ### Alteração de Foto
+[Joel Madaleno](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joel-madaleno) tem 24 anos de idade, mora em no Gama há 17 anos e é estagiário na Abin. Ele é muito vaidoso e sua foto no site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> era muito antiga de quando era criança e por isso resolveu trocar. 
+
+Primeiro, [Joel Madaleno](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joel-madaleno)acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil".  Em seguida, foi mostrado a opção de "Acompanhe seu cadastro/frequência" que ele clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
+
+Ao clicar no botão de logar, ele conseguiu visualizar a aba de serviços, clicou em "alteração de foto" no menu e precisou anexar sua foto mais atual para que atualizasse no seu perfil. 
+
+Após essas etapas, ele clicou no botão "salvar" e , desse modo, conseguiu realizar a alteração de sua foto. 
+
+[Joel Madaleno](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joel-madaleno) ficou satisfeito, pois conseguiu realizar a alteração de sua foto do perfil.
 
 
 
@@ -124,3 +133,4 @@ Após essas etapas, ele clicou no botão "salvar" e , desse modo, conseguiu real
 |Versão|Data|Descrição|Autor|Revisor|
 |----|----|---------|-----|-------|
 |1.0|14/10/2023|Adição de cenários|[Juan Pablo](https://github.com/Juan-Ricarte)| [Arthur Sousa](https://github.com/arthurrsousa)|
+|1.1|15/10/2023|Finaliza cenários|[Juan Pablo](https://github.com/Juan-Ricarte)| [Arthur Sousa](https://github.com/arthurrsousa)|
