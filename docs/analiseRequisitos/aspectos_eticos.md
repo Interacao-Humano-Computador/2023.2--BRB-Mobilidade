@@ -17,7 +17,6 @@ A essência é garantir a prevenção de danos esperados da pesquisa, abrangendo
 - Princípio da justiça e equidade:
 O princípio da justiça e equidade na bioética envolve tratar todas as pessoas de forma justa e imparcial, distribuindo recursos e benefícios de maneira equitativa, levando em consideração as necessidades individuais e evitando discriminação. Na prática médica e de pesquisa, isso significa garantir acesso igualitário a cuidados de saúde e assegurar que os benefícios e riscos sejam distribuídos de forma justa, promovendo a igualdade e a justiça.
 
-# Termo de consentimento
 
 ## TERMO DE CONSENTIMENTO PARA ENTREVISTA COM USUÁRIOS
 
@@ -55,23 +54,26 @@ CONTATO:
 
 Se eu tiver alguma dúvida ou preocupação relacionada à pesquisa, posso entrar em contato
 com [SEU NOME OU DADOS DE CONTATO DO PESQUISADOR].
+
 CONSENTIMENTO:
 
 Ao concordar com este termo de consentimento, eu afirmo que li e entendi as informações
 acima e concordo em participar desta entrevista.
 
 ( ) Aceito participar da entrevista
+
 ( ) Não aceito participar da entrevista
 
-Nome do Participante: __________
-Assinatura do Participante: _________
+Nome do Participante: ___________________
+
+Assinatura do Participante: __________________
 
 Data: __ /__ /___
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   11/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|----------------------|
-|    1.1   |   12/10/2023   |   Algumas alterações de conteúdo |  [Lucas Lobão](https://github.com/lucaslobao-18)|----------------------|
+|    1.0   |   11/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)| [Arthur Sousa](https://github.com/arthurrsousa) |
+|    1.1   |   12/10/2023   |   Algumas alterações de conteúdo |  [Lucas Lobão](https://github.com/lucaslobao-18)| [Arthur Sousa](https://github.com/arthurrsousa) |
 
 
 ## Bibliografia
