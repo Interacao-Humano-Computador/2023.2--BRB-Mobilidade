@@ -52,7 +52,6 @@ nav:
     - Análise de tarefas:
       - Sobre: analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md
       - HTA: analiseRequisitos/analise_tarefas/hta.md
-      - KLM: analiseRequisitos/analise_tarefas/klm.md
       - CTT: analiseRequisitos/analise_tarefas/ctt.md
   - Encontros: reunioes.md
 
