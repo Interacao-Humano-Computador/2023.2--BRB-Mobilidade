@@ -82,6 +82,18 @@ Ao clicar no botão de logar, ela conseguiu visualizar a aba de eserviços, clic
 
 
 ### Troca de Instituição
+[João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge)
+é morador de Ceilândia e tem 22 anos. Diariamente, ele precisa ir à universidade que localiza-se no Gama.
+
+Porém, antes da universidade, João Jorge estudava no Plano Piloto em Brasília instituição cadastrada em seu passe estudantil, o que não condiz com sua atual frequência que é em direção ao Gama. Diante da situação, João Jorge resolveu resolvê-la para não ter seu passe estudantil bloqueado.
+
+Primeiro, [João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil".  Em seguida, foi mostrado a opção de "Troca de instituição" que ela clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
+
+Ao clicar no botão de logar, ele conseguiu visualizar a aba de troca de instituição, tendo que preencher sua matrícula no campo "matrícula", instituição de ensino, Campus, Modalidade, Curso e Período e, além disso, anexar o documento que comprove a troca de instituição.
+
+Após essas etapas, ele clicou no botão "salvar" e , desse modo, conseguiu realizar a troca de instituição. 
+
+[João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge) ficou satisfeito, pois conseguiu realizar a troca de instituição evitando, assim, que seu passe estudantil fosse bloqueado.
 
 ### Troca de Endereço
 
