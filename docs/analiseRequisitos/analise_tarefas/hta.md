@@ -42,8 +42,6 @@ A Análise Hierárquica de Tarefas (HTA) é uma metodologia usada para analisar 
 |1.32 Adicionar confirmação de senha|     |**input:** teclado|
 |2. Finalizar |     |**input:** clicar com o mouse no botão "FInalza", **Feedback:** Cadastrar o usuário no sistema ou reportar falha no cadastro|
 
-
-
 ### Acompanhar cadastro
 
 Esta atividade permite que o usuário se registre e consiga realizar o cadastro e a criação de sua conta no site e no acesso ao benefício de transporte 
