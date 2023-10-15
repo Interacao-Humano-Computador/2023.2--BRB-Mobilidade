@@ -75,7 +75,7 @@ Após essas etapas, ela clicou no botão "Registrar solicitação" e assim conse
 
 Primeiro, [Luciana](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil".  Em seguida, foi mostrado a opção de "Acompanhe seu cadastro/frequência" que ela clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
 
-Ao clicar no botão de logar, ela conseguiu visualizar a aba de eserviços, clicou em "meus acessos" no menu e conseguiu visulizar que seus acessos tinham sido aumentados de 56 para 88 acessos mensais.
+Ao clicar no botão de logar, ela conseguiu visualizar a aba de serviços, clicou em "meus acessos" no menu e conseguiu visulizar que seus acessos tinham sido aumentados de 56 para 88 acessos mensais.
 
 [Luciana](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#luciana-costa) ficou satisfeita, pois conseguiu aumentar a quantidade de acessos mensais, tendo solucionado sua demanda e o mais importante: economizar não tendo que pagar as passagens a mais do transporte público que precisaria.
 
@@ -85,9 +85,9 @@ Ao clicar no botão de logar, ela conseguiu visualizar a aba de eserviços, clic
 [João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge)
 é morador de Ceilândia e tem 22 anos. Diariamente, ele precisa ir à universidade que localiza-se no Gama.
 
-Porém, antes da universidade, João Jorge estudava no Plano Piloto em Brasília instituição cadastrada em seu passe estudantil, o que não condiz com sua atual frequência que é em direção ao Gama. Diante da situação, João Jorge resolveu resolvê-la para não ter seu passe estudantil bloqueado.
+Porém, antes da universidade, ele estudava no Plano Piloto em Brasília instituição cadastrada em seu passe estudantil, o que não condiz com sua atual frequência que é em direção ao Gama. Diante da situação, João Jorge resolveu resolvê-la para não ter seu passe estudantil bloqueado.
 
-Primeiro, [João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil".  Em seguida, foi mostrado a opção de "Troca de instituição" que ela clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
+Primeiro, [João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil".  Em seguida, foi mostrado a opção de "Troca de instituição" que ele clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
 
 Ao clicar no botão de logar, ele conseguiu visualizar a aba de troca de instituição, tendo que preencher sua matrícula no campo "matrícula", instituição de ensino, Campus, Modalidade, Curso e Período e, além disso, anexar o documento que comprove a troca de instituição.
 
@@ -96,6 +96,18 @@ Após essas etapas, ele clicou no botão "salvar" e , desse modo, conseguiu real
 [João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge) ficou satisfeito, pois conseguiu realizar a troca de instituição evitando, assim, que seu passe estudantil fosse bloqueado.
 
 ### Troca de Endereço
+[João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge)
+é morador de Ceilândia e tem 22 anos. Diariamente, ele precisa ir à universidade que localiza-se no Gama.
+
+Contudo, ele precisou mudar de endereço, pois antes morava em Ceilândia e, após, conseguir um trabalho, decide ir morar no Riacho Fundo II para ficar mais perto da faculdade e ter mais comodidade e tempo para os estudos. Sendo assim, ele precisa trocar de endereço para que a frequência do seu passe não divirja com seu endereço e seja bloqueado o seu cartão estudantil.
+
+Primeiro, [João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge) acessou o site do <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> e clicou na opção "estudantil".  Em seguida, foi mostrado a opção de "Acompanhe seu cadastro/frequência" que ele clicou e foi redirecionado para página em que deveria  digitar CPF e senha para ter acesso e continuar navegando.
+
+Ao clicar no botão de logar, ele conseguiu visualizar a aba de serviços, clicou em "troca de endereço" no menu e precisou prencher os campos: número do CEP, logradouro, número da residência, bairro, complemento, cidade e anexar o arquivo de comprovante de endereço.
+
+Após essas etapas, ele clicou no botão "salvar" e , desse modo, conseguiu realizar a troca de endereço. 
+
+[João Jorge](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/personas/#joao-jorge) ficou satisfeito, pois conseguiu realizar a troca de endereço evitando, assim, que seu passe estudantil fosse bloqueado.
 
 ### Alteração de Foto
 
