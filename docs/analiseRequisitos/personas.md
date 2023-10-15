@@ -33,14 +33,14 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Tarefas**         | Realiza tarefas como verificar saldo, extensão de acesso, troca de instituição, solicitar uma segunda via do cartão, e verificar a situação do cartão. Utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
 
-### Catarina Marieta
+### João Jorge
 |                      |                      |
 | :------------------  | :------------------  |
-| **Nome**             |  Catarina Marieta    |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/catarina.jpeg?raw=true"><p>Figura 3 - Catarina Marieta persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
-| **Idade**        | 15 anos |
-| **Gênero**        | Feminino |
-| **Descrição**        | Catarina tem 15 anos de idade, mora em ceilândia e estuda em São Sebastião. Costuma utilizar o transporte público diariamente para poder ir à escola.
+| **Nome**             |  João Jorge   |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joão-jorge.jpeg?raw=true"><p>Figura 3 - João Jorge persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
+| **Idade**        | 22 anos |
+| **Gênero**        | Masculino |
+| **Descrição**        | João Jorge tem 22 anos de idade, mora em ceilândia e estuda no Gama. Costuma utilizar o transporte público diariamente para poder ir à universidade.
 | **Status**          | Persona Primária.     |
 | **Tarefas**         | Realiza tarefas como verificar acessos do cartão, solicitar uma segunda via do cartão , troca de endereço, alteração de foto, extensão de acesso e troca de instituição. Utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. Prefere receber notificações em tempo real sobre atualizações nos serviços de transporte público.  |
 | **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
