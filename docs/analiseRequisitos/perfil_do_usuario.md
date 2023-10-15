@@ -85,71 +85,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-<div style="text-align: center; margin: 0 auto;">
-    <table>
-        <tr>
-            <th>7. Com que frequência você utiliza o transporte público em Brasília?</th>
-        </tr>
-        <tr>
-            <td>Todos os dias</td>
-        </tr>
-        <tr>
-            <td>Diariamente</td>
-        </tr>
-        <tr>
-            <td>Todos os dias</td>
-        </tr>
-        <tr>
-            <td>Todos os dias</td>
-        </tr>
-        <tr>
-            <td>Diariamente</td>
-        </tr>
-        <tr>
-            <td>Todos os dias</td>
-        </tr>   
-    </table>
-    <caption style="caption-side: bottom;"> Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023)</caption>
-</div>
-
-
-<br>
-
-<div style="text-align: center; margin: 0 auto;">
-    <table>
-        <tr>
-            <th>8. Com que frequência você utiliza o transporte público em Brasília?</th>
-        </tr>
-        <tr>
-            <td>Todos os dias</td>
-        </tr>
-        <tr>
-            <td>Diariamente</td>
-        </tr>
-        <tr>
-            <td>Todos os dias</td>
-        </tr>
-        <tr>
-            <td>1x na semana</td>
-        </tr>
-        <tr>
-            <td>Diariamente</td>
-        </tr>
-        <tr>
-            <td>Todos os dias</td>
-        </tr>
-    </table>
-    <div style="text-align: center">
-        <p> 
-            Tabela 2: Respostas da pergunta 8 (Fonte: autor, 2023).
-        </p>
-    </div>
-</div>
-
-
-<br>
-
-| 9. Você utiliza algum tipo de benefício tarifário, como descontos para estudantes ou passes mensais, ao utilizar o transporte público?|
+| 7. Você utiliza algum tipo de benefício tarifário, como descontos para estudantes ou passes mensais, ao utilizar o transporte público?|
 |:---------------------------------------------------------------:|
 | Não |
 | Sim, o cartão estudantil me permite passes mensais.|
@@ -160,7 +96,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <div style="text-align: center">
     <p> 
-        Tabela 3: Respostas da pergunta 9 (Fonte: autor, 2023).
+        Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023).
     </p>
 </div>
 
@@ -168,7 +104,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 <div style="text-align: center; margin: 0 auto;">
     <table>
         <tr>
-            <th>10. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
+            <th>8. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
         </tr>
         <tr>
             <td>Asa norte, asa sul, plano e gama.</td>
@@ -191,7 +127,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
     </table>
     <div style="text-align: center">
         <p> 
-            Tabela 4: Respostas da pergunta 10 (Fonte: autor, 2023).
+            Tabela 2: Respostas da pergunta 8 (Fonte: autor, 2023).
         </p>
     </div>
 </div>
@@ -199,7 +135,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <br>
 
-| 11. Como você avalia a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético?|
+| 9. Como você avalia a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético?|
 |:---------------------------------------------------------------:|
 | Design fácil, a única dificuldade foi pegar o cartão, pois era longe.  |
 |Simples e Direto, só alguns formulários (Um atrás do outro) |
@@ -210,7 +146,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <div style="text-align: center">
     <p> 
-        Tabela 5: Respostas da pergunta 11 (Fonte: autor, 2023).
+        Tabela 3: Respostas da pergunta 9(Fonte: autor, 2023).
     </p>
 </div>
 
@@ -219,7 +155,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 <div style="text-align: center; margin: 0 auto;">
     <table>
         <tr>
-            <th>12. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
+            <th>10. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
         </tr>
         <tr>
             <td>Asa Norte, Asa Sul, Plano e Gama.</td>
@@ -240,27 +176,27 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
             <td>Gama, Plano Piloto, Taguatinga</td>
         </tr>
     </table>
-    <caption>Tabela 6: Respostas da pergunta 12 (Fonte: autor, 2023)</caption>
+    <caption>Tabela 4: Respostas da pergunta 10 (Fonte: autor, 2023)</caption>
 </div>
 
 <br>
 
-#### 13. Na sua experiência ao utilizar o site do BRB Mobilidade, como você classificaria a facilidade de adaptação e acessibilidade? Por favor, avalie de 1 (muito difícil) a 5 (muito fácil) com base na sua experiência recente.
+#### 11. Na sua experiência ao utilizar o site do BRB Mobilidade, como você classificaria a facilidade de adaptação e acessibilidade? Por favor, avalie de 1 (muito difícil) a 5 (muito fácil) com base na sua experiência recente.
 
 ![Gráfico Facilidade](../assets/perfilUsuario/graficoNota1.png)
 
 <div style="text-align: center">
-    <p>Figura 7: Gráfico de respostas da pergunta 13 (Fonte: autor, 2023)</p>
+    <p>Figura 7: Gráfico de respostas da pergunta 11 (Fonte: autor, 2023)</p>
 </div>
 
 <br>
 
-#### 14. Poderia avaliar a eficácia do suporte e das informações disponíveis no site do BRB Mobilidade? Em uma escala de 1 a 5, sendo 1 muito insatisfatório e 5 muito satisfatório, como você classificaria a facilidade de encontrar as informações necessárias e a qualidade do suporte oferecido no site?
+#### 12. Poderia avaliar a eficácia do suporte e das informações disponíveis no site do BRB Mobilidade? Em uma escala de 1 a 5, sendo 1 muito insatisfatório e 5 muito satisfatório, como você classificaria a facilidade de encontrar as informações necessárias e a qualidade do suporte oferecido no site?
 
 ![Gráfico Eficácia](../assets/perfilUsuario/graficoNota2.png)
 
 <div style="text-align: center">
-    <p>Figura 8: Gráfico de respostas da pergunta 14 (Fonte: autor, 2023)</p>
+    <p>Figura 8: Gráfico de respostas da pergunta 12 (Fonte: autor, 2023)</p>
 </div>
 
 
