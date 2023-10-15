@@ -17,7 +17,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Gênero**        | Masculino |
 | **Descrição**        | Eduardo tem 21 anos de idade, mora em Brasília e é estudante do ensino superior. Costuma visitar áreas como a Asa Norte e Gama. |
 | **Status**          | Persona Secundária.     |
-| **Tarefas**         | Faz o cadastro das informações no site e retira o cartão. Usufruí de benefícios tarifários, como passes mensais, devido ao status de estudante.|
+| **Tarefas**         | Faz o cadastro das informações no site e retira o cartão e solicita 2° via. Usufruí de benefícios tarifários, como passes mensais, devido ao status de estudante.|
 | **Relacionamentos** | Eduardo compartilha ocasionalmente com um pequeno grupo de amigos notícias sobre transporte público  |
 
 
@@ -26,11 +26,11 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | :------------------  | :------------------  |
 | **Nome**             |  Luciana Costa      |
 | **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/luciana.jpeg?raw=true"><p>Figura 2 - Luciana Costa persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
-| **Idade**        | 30 anos |
+| **Idade**        | 21 anos |
 | **Gênero**        | Feminino |
-| **Descrição**        | Luciana tem 30 anos de idade, mora em taguatinga e é servidora pública. Costuma utilizar o transporte público para se locomover para várias áreas da cidade. |
+| **Descrição**        | Luciana tem 21 anos de idade, mora em taguatinga e é estagiária front end. Costuma utilizar o transporte público para se locomover para várias áreas da cidade. |
 | **Status**          | Persona Primária.     |
-| **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
+| **Tarefas**         | Realiza tarefas como verificar saldo, extensão de acesso, troca de instituição, solicitar uma segunda via do cartão, e verificar a situação do cartão. Utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
 | **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
 
 ### Catarina Marieta
@@ -38,12 +38,12 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | :------------------  | :------------------  |
 | **Nome**             |  Catarina Marieta    |
 | **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/catarina.jpeg?raw=true"><p>Figura 3 - Catarina Marieta persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
-| **Idade**        | 21 anos |
+| **Idade**        | 15 anos |
 | **Gênero**        | Feminino |
-| **Descrição**        | Catarina tem 21 anos de idade, mora em ceilândia e é atendente de telemarketing home office. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial no Gama.
-| **Status**          | Persona Terciária.     |
-| **Tarefas**         | Realiza tarefas como verificar saldo do cartão e solicitar uma segunda via do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. Prefere receber notificações em tempo real sobre atualizações nos serviços de transporte público.  |
-| **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Não compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
+| **Descrição**        | Catarina tem 15 anos de idade, mora em ceilândia e estuda em São Sebastião. Costuma utilizar o transporte público diariamente para poder ir à escola.
+| **Status**          | Persona Primária.     |
+| **Tarefas**         | Realiza tarefas como verificar acessos do cartão, solicitar uma segunda via do cartão , troca de endereço, alteração de foto, extensão de acesso e troca de instituição. Utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. Prefere receber notificações em tempo real sobre atualizações nos serviços de transporte público.  |
+| **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
 
 ### Joel Madaleno
 |                      |                      |
@@ -52,9 +52,9 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 | **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/personas/joel.jpeg?raw=true"><p>Figura 4 - Joel Madaleno persona - Random Face Generator (Fonte: <a href="https://this-person-does-not-exist.com/pt">Random Face.Generator.com </a>)</p>|
 | **Idade**        | 24 anos |
 | **Gênero**        | Masculino|
-| **Descrição**        | Joel tem 24 anos de idade, mora em no Gama há 17 anos e é servidor público na Abin. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial na Asa Sul
-| **Status**          | Persona Terciária.     |
-| **Tarefas**         | Realiza tarefas como verificar a situação do cartão de ônibus. Não tem preferência por receber notificações em tempo real sobre atualizações nos serviços de transporte público. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais.|
+| **Descrição**        | Joel tem 16 anos de idade, mora em no Gama há 6 anos e é estudante do IFB. Costuma utilizar o transporte público para se locomover diariamente
+| **Status**          | Persona Primária.     |
+| **Tarefas**         | Realiza tarefas como verificar a situação do cartão de ônibus e acessos. Não tem preferência por receber notificações em tempo real sobre atualizações nos serviços de transporte público. Utiliza benefícios tarifários, como descontos para estudantes ou passes mensais.|
 | **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Não compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
 
 
@@ -81,6 +81,8 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 |    1.1   |   12/10/2023   |   Adiciona introdução e bibliografia |  [Artur Jackson](https://github.com/artur-jack)| [Amanda](https://github.com/Amandaaaaabreu)|
 |    1.2   |   13/10/2023   |   Correções e adição de anti-persona |  [Artur Jackson](https://github.com/artur-jack)| [Amanda](https://github.com/Amandaaaaabreu)|
 |    1.3   |   14/10/2023   |   Correções e adição de persona |  [Juan Pablo](https://github.com/Juan-Ricarte)| [Artur Jackson](https://github.com/artur-jack)|
+|    1.4  |   15/10/2023   |   Correções |  [Juan Pablo](https://github.com/Juan-Ricarte)| [Artur Jackson](https://github.com/artur-jack)|
+
 
 
 
