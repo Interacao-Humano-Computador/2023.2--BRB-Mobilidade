@@ -6,42 +6,41 @@ A Análise Hierárquica de Tarefas (HTA) é uma metodologia usada para analisar 
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
-|0. Cadastre-se| 1>2 |**input:** formulário de login com CPF e senha         **feedback:** logar no sistema ou retornar mensagem "erro ao logar", usuário ou senha inválidos. **plano:** informar os dados de login e clicar em "logar" |
-|1.1 Adicionar CPF|     | |
-|1.2 Adicionar nome|     | |
-|1.3 Adicionar nome da Mãe|     | |
-|1.4 Adicionar data de nascimento |     | |
-|1.5 Adicionar nome do pai  |     | |
-|1.6 Selecionar estado civil |     | |
-|1.7 Adicionar documento de identificação  |     | |
-|1.8 Adicionar número do documento  |     | |
-|1.9 Selecionar sexo  |     | |
-|1.10 Selecionar orgão emissor  |     | |
-|1.11 Selecionar UF  |     | |
-|2.0 Adicionar nome dos responsáveis    (Caso seja menor de idade)
- |     | |
-|2.1Adicionar RG dos responsáveis  (Caso seja menor de idade)  |     | |
-|2.2 Selecionar orgão emissor dos responsáveis  (Caso seja menor de idade) |     | |
-|2.3 Selecionar UF dos responsáveis  (Caso seja menor de idade) |     | |
-|3.0 Adicionar número de telefone  |     | |
-|3.1 Adicionar logradouro|     | |
-|3.2 Adicionar n* da residência |     | |
-|3.3 Adicionar bairro|     | |
-|3.4 Adicionar complemento |     | |
-|3.5 Adicionar cidade |     | |
-|4.0 Adicionar matrícula |     | |
-|4.1 Adicionar instituição de ensino |     | |
-|4.2 Selecionar modalidade |     | |
-|4.3 Selecionar curso |     | |
-|4.4 Selecionar (Série, período, ano) |     | |
-|4.5 Anexar todos os documentos comprobatórios (RG, declaração de vínculo, RG do responsável…) |     | |
-|4.6 Adicionar e-mail |     | |
-|5.0 Adicionar nome de login (cpf obrigatoriamente) |     | |
-|5.1 Adicionar senha |     | |
-|5.2 Adicionar confirmação de senha|     | |
-|5.3 Finalizar |     | |
-
-
+|0. Cadastre-se| 1>2 |**input:** formulário de cadastro dados pessoais, estudantis, endereço e contatos **feedback:** cadastrar no sistema ou retornar mensagem de erro. **plano:** validar se o CPF já não está cadastrado, recolher todas as informações necessárias para o cadastro, cadastrar ou reportar inconsistências dos dados do formulário e em relação aos dados presentes nas bases de dados do governo.|
+|1. Adicionar Dados|1+2|**Plano:** Preencher os campos do formulário **input:** caracteres ou cliques com o mouse para selecionar opções|
+|1.1 Adicionar CPF|     |**input:** teclado|
+|1.2 Adicionar nome|     |**input:** teclado| |
+|1.3 Adicionar data de nascimento|     |**input:** teclado|
+|1.4 Selecionar sexo|     |**input:** clique (mouse)|
+|1.5 Adicionar nome da mãe  |     |**input:** teclado|
+|1.6 Adicionar nome do pai |     |**input:** teclado|
+|1.7 Selecionar estado civil  |     |**input:** clique (mouse)|
+|1.8 Adicionar documento de identificação|     |**input:** teclado|
+|1.9 Adicionar número do documento  |     |**input:** teclado|
+|1.10 Selecionar orgão emissor  |     |**input:** busca com o teclado + clique (mouse)|
+|1.11 Selecionar UF  |     |**input:** clique (mouse)|
+|1.12 Adicionar nome dos responsáveis (Caso seja menor de idade)|     |**input:** teclado|
+|1.13 Adicionar RG dos responsáveis  (Caso seja menor de idade)|     |**input:** teclado|
+|1.14 Selecionar orgão emissor dos responsáveis  (Caso seja menor de idade) |     |**input:** busca com o teclado + clique (mouse)|
+|1.15 Selecionar UF dos responsáveis  (Caso seja menor de idade) |     |**input:** clique (mouse)|
+|1.16 Adicionar número de telefone  |     |**input:** teclado|
+|1.17 Adicionar CEP||**input:** teclado|
+|1.18 Adicionar logradouro|     |**input:** teclado|
+|1.19 Adicionar n* da residência |     |**input:** teclado|
+|1.20 Adicionar bairro|     |**input:** teclado|
+|1.21 Adicionar complemento |     |**input:** teclado|
+|1.22 Selecionar cidade |     |**input:** clique (mouse)|
+|1.23 Adicionar matrícula |     |**input:** teclado|
+|1.24 Adicionar instituição de ensino |     |**input:** Busca com o Teclado + clique (mouse)|
+|1.25 Selecionar modalidade |     |**input:** clique (mouse)|
+|1.26 Selecionar curso |     |**input:** Busca com o Teclado + clique (mouse)|
+|1.27 Selecionar (Série, período, ano) |     |**input:** clique (mouse)|
+|1.28 Anexar todos os documentos comprobatórios (RG, declaração de vínculo, RG do responsável…) |     |**input:** arquivos do dispositivo (pdf,jpeg,jpg,pnj,gif)|
+|1.29 Adicionar e-mail |     |**input:** teclado|
+|1.30 Adicionar nome de login (cpf obrigatoriamente) |     |**input:** teclado|
+|1.31 Adicionar senha |     |**input:** teclado|
+|1.32 Adicionar confirmação de senha|     |**input:** teclado|
+|2. Finalizar |     |**input:** clicar com o mouse no botão "FInalza", **Feedback:** Cadastrar o usuário no sistema ou reportar falha no cadastro|
 
 
 
@@ -58,12 +57,12 @@ Recuperar Senha
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
 |0. Acompanhar cadastro| 1>2 |**input:** formulário de login com CPF e senha         **feedback:** logar no sistema ou retornar mensagem "erro ao logar", usuário ou senha inválidos. **plano:** informar os dados de login e clicar em "logar" |
-|1. Login| 1+2 |**plano:** informar CPF e senha|
-|1.1 Adicionar CPF|     | |
-|1.2 Adicionar senha|     | |
+|1. Login| 1+2 |**plano:** informar CPF e senha **Feedback:** Logar ou bloquear acesso|
+|1.1 Adicionar CPF|     |**input:** teclado|
+|1.2 Adicionar senha|     |**input:** teclado|
 |2. Confirmar login|  1/2   | **input:** clique com o mouse **plano:** clicar do botão "logar", ou , "recuperar senha"|
-|2.1 Clicar no botão "logar"| | **feedback:** logar no sistema ou retornr mensagem de erro caso os dados estajam incorretos  | |
-|2.2 Recuperar senha|     | |
+|2.1 Clicar no botão "logar"| | **feedback:** logar no sistema ou retornar mensagem de erro caso os dados estajam incorretos  | |
+|2.2 Recuperar senha|     |**plano:** Redirecionar para o processo de recuperar senha|
 
 <br>
 
@@ -91,14 +90,14 @@ Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda o
 |1.0 Acompanhar solicitações  | 1>2  | **feedback:** lista com as solicitações ativas|
 |1.1 Posso navegar entre as páginas  |        |**input:** cliques com o mouse em ícones de navegação |
 |2.0 Nova solicitação|   1>2      |**input:** formulário com os dados da solicitação, aceitar termo, selecionar motivo, nome, email, observações, anexo de documentos. **feedback:** nova solicitação é cadastrada e fica visível na aba "Acompanhar solicitações"|
-|2.1 Clicar checkbox para aceitar o termo|        | |
-|2.2 Selecionar motivo da solicitação|        | |
-|2.3 Adiciconar nome do estudante|        | |
-|2.4 Adicionar email para contato|        | |
-|2.5 Adicionar observação (opcional)|        | |
+|2.1 Clicar checkbox para aceitar o termo|        |**input:** clique(mouse)|
+|2.2 Selecionar motivo da solicitação|        |**input:** clique(mouse)|
+|2.3 Adiciconar nome do estudante|        |**input:** teclado|
+|2.4 Adicionar email para contato|        |**input:** teclado|
+|2.5 Adicionar observação (opcional)|        |**input:** teclado|
 |2.6 Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda ou roubo))| | **recomendação:** Somente é permitido envio de documentos em formato PDF e/ou arquivos de imagem (JPG,JPEG,GIF,BMP e PNG) de até 2 megabytes      | |
-|3.0 Confirmar solicitação|    1>2     | |
-|3.1 Clicar em registrar solicitação|        | **feedback:** cadastrar solicitação ou retorar mensagem de erro caso os dados estajam incorretos|
+|3.0 Confirmar solicitação|    1>2     |**plano:** finalizar a solicitação, registrando-a no sistema|
+|3.1 Clicar em registrar solicitação|        | **input:** clique(mouse) **feedback:** cadastrar solicitação ou retorar mensagem de erro caso os dados estajam incorretos|
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%202via.png?raw=true">
@@ -121,16 +120,16 @@ Clicar em Registrar solicitação
 | ------ | ------ | ------ |
 |0. Extensão de acesso| 1/2 |**input:** formulário para solicitação de extensão, incluindo anexo do documento que comprova a necessidade de extensão. **plano:** escolher entre acompanhar solicitações ou fazer uma nova solicitação|
 |1.0 Acompanhar solicitações| 1>2 |**feedback:** lista com as solicitações ativas|
-|1.1 Navegar entre as páginas|  |**input:** cliques com o mouse em ícones de navegação|
+|1.1 Navegar entre as páginas|  |**input:** clique(mouse)|
 |2.0 Nova solicitação| 1>2 |**input:** formulário com os dados da solicitação, aceitar termo, selecionar motivo, nome, email, observações, anexo de documentos. **feedback:** nova solicitação é cadastrada e fica visível na aba "Acompanhar solicitações"|
 |2.1 Adicionar dados|1+2 |**plano:** adicionar ou selecionar os dados nas caixas de entrada|
-|2.2 Clicar na checkbox para aceitar o termo|  |**recomendação:** a marcar a checkbox é requisito para solicitar a extensão|
-|2.3 Selecionar motivo da solicitação|  ||
-|2.4 Adicionar nome do estudante|  ||
-|2.5 Adicionar email para contato|  ||
-|2.6 Adicionar observação|  ||
-|2.7 Adicionar documentos|  ||
-|3. Confirmar solicitação| 1>2 |**plano:** clicar no ícone de "Registrar solicitação" **feedback:** Ou o sistema cadastra a nova solicitação, ou o sistema retorna uma mensagem de erro.|
+|2.2 Clicar na checkbox para aceitar o termo|  |**input:** clique(mouse) **recomendação:** a marcar a checkbox é requisito para solicitar a extensão|
+|2.3 Selecionar motivo da solicitação|  |**input:** clique(mouse)|
+|2.4 Adicionar nome do estudante|  |**input:** teclado|
+|2.5 Adicionar email para contato|  |**input:** teclado|
+|2.6 Adicionar observação|  |**input:** teclado|
+|2.7 Anexar documentos|  |**input:** arquivos do dispositivo (pdf,jpeg,jpg,pnj,gif)|
+|3. Confirmar solicitação| 1>2 |**plano:** clicar no ícone de "Registrar solicitação" **input:** clique(mouse) **feedback:** Ou o sistema cadastra a nova solicitação, ou o sistema retorna uma mensagem de erro.|
 |3.1 Clicar em Registrar solicitação|  ||
 
 <br>
@@ -154,18 +153,18 @@ Anexar um documento de comprovação (declaração de passe, declaração de ví
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
-|0. Troca de instituição| 1/2 |**input:** formulário para solicitação de troca, incluindo anexo do documento que comprova o vínculo com a instituição. **plano:** escolher entre acompanhar solicitações ou fazer uma nova solicitação|
-|1. Nova solicitação| 1>2 ||
-|1.1 Adicionar matrícula|  ||
-|1.2 Adicionar instituição de ensino| ||
-|1.3 Selecionar modalidade| ||
-|1.4 Selecionar curso|  ||
-|1.5 Selecionar série, período e ano|  ||
-|1.6 Escrever uma observação|  ||
-|1.7 Anexar um documento de comprovação (declaração de passe, declaração de vínculo, grade horária com data)|  ||
-|2.0 Acompanhar solicitacão| 1>2 ||
-|2.1 Posso navegar entre as páginas|  ||
-|3.0 Salvar solicitação|  ||
+|0. Troca de instituição| 1/2 |**input:** formulário para solicitação de troca, incluindo anexo do documento que comprova o vínculo com a instituição. **plano:** escolher entre acompanhar solicitações ou fazer uma nova solicitação, visualizar a lista de solicitações e responder formulário|
+|1. Nova solicitação| 1>2 |**input:** formulário com os dados da solicitação,matrícula, instituição de ensino, modalidade, selecionar curso, (série, período, ano), observações, anexo de documentos. **plano:** inserir/selecionar as informações em cada um dos campos disponíveis|
+|1.1 Adicionar matrícula|  |**input:** teclado|
+|1.2 Adicionar instituição de ensino| |**input:** busca(teclado) + clique(mouse)|
+|1.3 Selecionar modalidade| |**input:** clique(mouse)|
+|1.4 Selecionar curso|  |**input:** busca(teclado) + clique(mouse)|
+|1.5 Selecionar série, período e ano|  |**input:** clique(mouse)|
+|1.6 Escrever uma observação|  |**input:** teclado|
+|1.7 Anexar um documento que comprove o vínculo|  |**input:** arquivos do dispositivo (pdf,jpeg,jpg,pnj,gif)|
+|2.0 Acompanhar solicitacão| 1>2 |**feedback:** lista com as solicitações ativas||
+|2.1 Navegar entre as páginas|  |**input:** clique(mouse)|
+|3.0 Salvar solicitação|  |**input:** clique(mouse) **feedback:** cadastrar a solictação ou, retornar erro caso os dados do formulário estejam incorretos|
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20troca%20de%20institui%C3%A7%C3%A3o.png?raw=true">
@@ -179,6 +178,7 @@ Anexar um documento de comprovação (declaração de passe, declaração de ví
 |    1.0   |   14/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|Fause|
 |    1.1   |   14/10/2023   |   Adição dos diagramas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | Felipe |
 |    1.2   |   14/10/2023   |   Adição das tabelas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | Juan |
+|    1.3   |   15/10/2023   |  Atualização das tabelas HTA  | [Lucas](https://github.com/lucaslobao-18) e [Amanda](https://github.com/Amandaaaaabreu) |Artur|
 
 ## Bibliografia
 
