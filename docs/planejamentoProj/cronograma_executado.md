@@ -6,7 +6,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 
 ## Entrega 1
 
-| Atividade | Período planejado para desenvolvimento| Data de entrega | Autores | Período de revisão | Revisores |
+| Atividade | Período planejado para desenvolvimento| Realizado | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|----------------|
 | [Sites avaliados](lista_Site.md) | 30/08 - 01/09 | 30/08 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Fause, Felipe, Juan |
 | [Site selecionado](site.md) | 04/09 | 21/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas| 05/09 | Amanda |
@@ -26,15 +26,15 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 
 ## Entrega 2
 
-| Atividade | Período para desenvolvimento | Autores| Período de revisão | Revisores |
-|-----------|:------------------:|---------|:-----------:|-----------|
-| [Criação do perfil do Usuário](../analiseRequisitos/perfil_do_usuario.md) | 03/10 - 12/10 | Amanda e Arthur Sousa | 15/10 | Artur Jackson |
-| [Criação das personas](../analiseRequisitos/personas.md) | 05/10 - 13/10 | Artur Jackson e Juan | 11/10 - 14/10 | Amanda e Artur Jackson |
-| [Criação dos cenários](../analiseRequisitos/cenario.md) | 11/10 - 14/10 | Juan | 14/10 | Artur Jackson |
-| [Análise das tarefas do usuário (técnicas HTA e CTT)](../analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md) | 03/10 - 11/10 | Lucas, Juan e Felipe | 11/10 - 12/10 | Arthur Sousa |
-| [Aspectos éticos de pesquisa envolvendo pessoas](../analiseRequisitos/aspectos_eticos.md) | 03/10 - 11/10 | Fause | 11/10 - 12/10 | Arthur Sousa |
-| [Gravação da apresentação]() | 15/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 15/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
-| Edição da apresentação | 15/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
+|-----------|:------------------:|-----------|---------|:-----------:|-----------|
+| [Criação do perfil do Usuário](../analiseRequisitos/perfil_do_usuario.md) | 03/10 - 11/10 | 03/10 - 09/10| Amanda e Arthur Sousa | 15/10 | Artur Jackson |
+| [Criação das personas](../analiseRequisitos/personas.md) | 03/10 - 11/10 | 09/10 - 14/10 |Artur Jackson e Juan | 11/10 - 14/10 | Amanda e Artur Jackson |
+| [Criação dos cenários](../analiseRequisitos/cenario.md) | 03/10 - 11/10 | 12/10 - 14/10 |Juan | 14/10 | Artur Jackson |
+| [Análise das tarefas do usuário (técnicas HTA e CTT)](../analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md) | 03/10 - 11/10 | 13/10 - 14/10 |Amanda, Artur Jackson, Fause, Felipe e Lucas | 14/10 - 15/10 | Arthur Sousa |
+| [Aspectos éticos de pesquisa envolvendo pessoas](../analiseRequisitos/aspectos_eticos.md) | 03/10 - 11/10 | |Fause | 11/10 - 12/10 | Arthur Sousa |
+| [Gravação da apresentação]() | 12/10 | 15/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 15/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 13/10 - 14/10 | 15/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 3: Cronograma da Entrega 2 (Fonte: autor, 2023).</p>
