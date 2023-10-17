@@ -52,7 +52,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | [Criação das personas]() | 03/10 - 11/10 | Artur Jackson e Fause | 11/10 - 12/10 | Lucas |
 | [Análise das tarefas do usuário (técnicas HTA e CTT)]() | 03/10 - 11/10 | Arthur Sousa | 11/10 - 12/10 | Felipe |
 | [Aspectos éticos de pesquisa envolvendo pessoas]() | 03/10 - 11/10 | Felipe e Juan | 11/10 - 12/10 | Arthur Sousa |
-| [Gravação da apresentação]() | 12/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 13/10 - 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://www.youtube.com/watch?v=z1MTTTUfaYU) | 12/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 13/10 - 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 13/10 - 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">

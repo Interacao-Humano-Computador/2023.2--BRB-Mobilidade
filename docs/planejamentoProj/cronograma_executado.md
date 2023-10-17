@@ -33,8 +33,8 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Criação das personas](../analiseRequisitos/personas.md) | 03/10 - 11/10 | 09/10 - 14/10 |Artur Jackson e Juan | 11/10 - 14/10 | Amanda e Artur Jackson |
 | [Criação dos cenários](../analiseRequisitos/cenario.md) | 03/10 - 11/10 | 12/10 - 14/10 |Juan | 14/10 | Artur Jackson |
 | [Análise das tarefas do usuário (técnicas HTA e CTT)](../analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md) | 03/10 - 11/10 | 13/10 - 14/10 |Amanda, Artur Jackson, Fause, Felipe e Lucas | 14/10 - 15/10 | Arthur Sousa |
-| [Aspectos éticos de pesquisa envolvendo pessoas](../analiseRequisitos/aspectos_eticos.md) | 03/10 - 11/10 | |Fause | 11/10 - 12/10 | Arthur Sousa |
-| [Gravação da apresentação]() | 12/10 | 15/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 15/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Aspectos éticos de pesquisa envolvendo pessoas](../analiseRequisitos/aspectos_eticos.md) | 03/10 - 11/10 | 13/10 |Fause | 14/10 | Arthur Sousa |
+| [Gravação da apresentação](https://www.youtube.com/watch?v=z1MTTTUfaYU) | 12/10 | 15/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 15/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 13/10 - 14/10 | 15/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
