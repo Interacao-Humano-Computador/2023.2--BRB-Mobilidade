@@ -30,7 +30,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 ![Gráfico Idade](../assets/perfilUsuario/grafico1Idade.png)
 
 <div style="text-align: center">
-    <p>Figura 1: Gráfico de respostas da pergunta 1 (Fonte: autor, 2023)</p>
+    <p>Figura 1: Gráfico de respostas da pergunta 1 (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
@@ -40,7 +40,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 ![Gráfico Gênero](../assets/perfilUsuario/grafico7Genero2.png)
 
 <div style="text-align: center">
-    <p>Figura 2: Gráfico de respostas da pergunta 2 (Fonte: autor, 2023)</p>
+    <p>Figura 2: Gráfico de respostas da pergunta 2 (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
@@ -50,7 +50,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 ![Gráfico Localização](../assets/perfilUsuario/grafico2Modaria.png)
 
 <div style="text-align: center">
-    <p>Figura 3: Gráfico de respostas da pergunta 3 (Fonte: autor, 2023)</p>
+    <p>Figura 3: Gráfico de respostas da pergunta 3 (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
@@ -60,7 +60,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 ![Gráfico Frequência](../assets/perfilUsuario/grafico3FrequenciaUso.png)
 
 <div style="text-align: center">
-    <p>Figura 4: Gráfico de respostas da pergunta 4 (Fonte: autor, 2023)</p>
+    <p>Figura 4: Gráfico de respostas da pergunta 4 (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
@@ -70,7 +70,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 ![Gráfico Tempo Moradia](../assets/perfilUsuario/grafico5TempoMoradia.png)
 
 <div style="text-align: center">
-    <p>Figura 5: Gráfico de respostas da pergunta 5 (Fonte: autor, 2023)</p>
+    <p>Figura 5: Gráfico de respostas da pergunta 5 (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
@@ -80,7 +80,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 ![Gráfico Compartilha](../assets/perfilUsuario/grafico6CompartilhaInfo.png)
 
 <div style="text-align: center">
-    <p>Figura 6: Gráfico de respostas da pergunta 6 (Fonte: autor, 2023)</p>
+    <p>Figura 6: Gráfico de respostas da pergunta 6 (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
@@ -96,7 +96,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <div style="text-align: center">
     <p> 
-        Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023).
+        Tabela 1: Respostas da pergunta 7 (Fonte: Amanda Abreu, 2023).
     </p>
 </div>
 
@@ -127,7 +127,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
     </table>
     <div style="text-align: center">
         <p> 
-            Tabela 2: Respostas da pergunta 8 (Fonte: autor, 2023).
+            Tabela 2: Respostas da pergunta 8 (Fonte: Amanda Abreu, 2023).
         </p>
     </div>
 </div>
@@ -146,7 +146,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <div style="text-align: center">
     <p> 
-        Tabela 3: Respostas da pergunta 9(Fonte: autor, 2023).
+        Tabela 3: Respostas da pergunta 9(Fonte: Amanda Abreu, 2023).
     </p>
 </div>
 
@@ -176,7 +176,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
             <td>Gama, Plano Piloto, Taguatinga</td>
         </tr>
     </table>
-    <caption>Tabela 4: Respostas da pergunta 10 (Fonte: autor, 2023)</caption>
+    <caption>Tabela 4: Respostas da pergunta 10 (Fonte: Amanda Abreu, 2023)</caption>
 </div>
 
 <br>
@@ -186,7 +186,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 ![Gráfico Facilidade](../assets/perfilUsuario/graficoNota1.png)
 
 <div style="text-align: center">
-    <p>Figura 7: Gráfico de respostas da pergunta 11 (Fonte: autor, 2023)</p>
+    <p>Figura 7: Gráfico de respostas da pergunta 11 (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
@@ -196,7 +196,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 ![Gráfico Eficácia](../assets/perfilUsuario/graficoNota2.png)
 
 <div style="text-align: center">
-    <p>Figura 8: Gráfico de respostas da pergunta 12 (Fonte: autor, 2023)</p>
+    <p>Figura 8: Gráfico de respostas da pergunta 12 (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 
@@ -211,6 +211,7 @@ Com base nas respostas obtidas através das entrevistas podemos concluir que o p
 - Objetivos: Os principais objetivos dos usuários são solicitar um cartão, editar informações de conta e solicitar uma segunda via do cartão
   
 Essas conclusões são baseadas nas informações coletadas nas entrevistas e fornecem uma visão geral do perfil típico dos usuários do site BRB Mobilidade. Tenha em mente que essas conclusões são baseadas em dados específicos coletados durante as entrevistas e podem ser usadas para orientar estratégias de design e conteúdo do site para melhor atender às necessidades desse público-alvo.
+
 
 ## Histórico de versão
 
