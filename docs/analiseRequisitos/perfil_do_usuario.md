@@ -25,117 +25,83 @@ Os resultados das entrevistas foram de bastante importância para o projeto. Dur
 
 Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
-#### 1. Qual a sua idade?
+#### 1. O resultado da entrevista acerca da idade encontra-se logo a seguir:
 
 ![Gráfico Idade](../assets/perfilUsuario/grafico1Idade.png)
 
 <div style="text-align: center">
-    <p>Figura 1: Gráfico de respostas da pergunta 1 (Fonte: autor, 2023)</p>
+    <p>Figura 1: Gráfico de respostas sobre idade (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
 
-#### 2. Qual é o seu gênero?
+#### 2. O resultado da entrevista acerca do gênero:
 
 ![Gráfico Gênero](../assets/perfilUsuario/grafico7Genero2.png)
 
 <div style="text-align: center">
-    <p>Figura 2: Gráfico de respostas da pergunta 2 (Fonte: autor, 2023)</p>
+    <p>Figura 2: Gráfico de respostas sobre gênero (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
 
-#### 3. Onde você mora ou qual é a sua localização principal?
+#### 3. Resultado da entrevista a respeito da localização dos usuários:
 
 ![Gráfico Localização](../assets/perfilUsuario/grafico2Modaria.png)
 
 <div style="text-align: center">
-    <p>Figura 3: Gráfico de respostas da pergunta 3 (Fonte: autor, 2023)</p>
+    <p>Figura 3: Gráfico de respostas sobre localização (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
 
-#### 4. Com que frequência você utiliza o transporte público em Brasília?
 
-![Gráfico Frequência](../assets/perfilUsuario/grafico3FrequenciaUso.png)
-
-<div style="text-align: center">
-    <p>Figura 4: Gráfico de respostas da pergunta 4 (Fonte: autor, 2023)</p>
-</div>
-
-<br>
-
-#### 5. Há quanto tempo você reside em Brasília?
-
-![Gráfico Tempo Moradia](../assets/perfilUsuario/grafico5TempoMoradia.png)
-
-<div style="text-align: center">
-    <p>Figura 5: Gráfico de respostas da pergunta 5 (Fonte: autor, 2023)</p>
-</div>
-
-<br>
-
-#### 6. Você costuma compartilhar informações ou opiniões sobre transporte público ou mobilidade com outras pessoas nas redes sociais ou em fóruns online?
+#### 4. Resultado da entrevista a respeito de  compartilhar informações ou opiniões sobre transporte público:
 
 ![Gráfico Compartilha](../assets/perfilUsuario/grafico6CompartilhaInfo.png)
 
 <div style="text-align: center">
-    <p>Figura 6: Gráfico de respostas da pergunta 6 (Fonte: autor, 2023)</p>
+    <p>Figura 3: Gráfico de respostas sobre compartilhamento de informações (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
 
-| 7. Você utiliza algum tipo de benefício tarifário, como descontos para estudantes ou passes mensais, ao utilizar o transporte público?|
-|:---------------------------------------------------------------:|
-| Não |
-| Sim, o cartão estudantil me permite passes mensais.|
-| Não|
-| Sim, o passe livre para estudante.  |
-| Sim, desconto para estudante e o que limita uma passagem |
-| Sim, o passe livre estudantil |
-
-<div style="text-align: center">
-    <p> 
-        Tabela 1: Respostas da pergunta 7 (Fonte: autor, 2023).
-    </p>
+<div align="center">
+  <table>
+    <tr>
+      <th>5. Resposta da pergunta sobre benefício tarifário:</th>
+    </tr>
+    <tr>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>Sim, o cartão estudantil me permite passes mensais.</td>
+    </tr>
+    <tr>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>Sim, o passe livre para estudante.</td>
+    </tr>
+    <tr>
+      <td>Sim, desconto para estudante e o que limita uma passagem</td>
+    </tr>
+    <tr>
+      <td>Sim, o passe livre estudantil</td>
+    </tr>
+  </table>
 </div>
 
-<br>
-<div style="text-align: center; margin: 0 auto;">
-    <table>
-        <tr>
-            <th>8. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
-        </tr>
-        <tr>
-            <td>Asa norte, asa sul, plano e gama.</td>
-        </tr>
-        <tr>
-            <td>Asa Norte e Gama</td>
-        </tr>
-        <tr>
-            <td>Setor sul</td>
-        </tr>
-        <tr>
-            <td>Faculdade do gama, park shopping e rodoviária interestadual</td>
-        </tr>
-        <tr>
-            <td>Gama, setor de indústria</td>
-        </tr>
-        <tr>
-            <td>Gama, plano piloto, Taguatinga</td>
-        </tr>
-    </table>
-    <div style="text-align: center">
-        <p> 
-            Tabela 2: Respostas da pergunta 8 (Fonte: autor, 2023).
-        </p>
-    </div>
+<div align="center">
+  <p>Tabela 1: Respostas sobre benefício tarifário (Fonte: Amanda Abreu, 2023).</p>
 </div>
 
 
 <br>
+<br>
 
-| 9. Como você avalia a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético?|
+
+| 6. Resultado da entrevista sobre a aparência visual e a abordagem minimalista do design do BRB Mobilidade em termos de usabilidade e apelo estético:|
 |:---------------------------------------------------------------:|
 | Design fácil, a única dificuldade foi pegar o cartão, pois era longe.  |
 |Simples e Direto, só alguns formulários (Um atrás do outro) |
@@ -146,7 +112,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 
 <div style="text-align: center">
     <p> 
-        Tabela 3: Respostas da pergunta 9(Fonte: autor, 2023).
+        Tabela 2: Respostas sobre aparência visual do site (Fonte: Amanda Abreu, 2023).
     </p>
 </div>
 
@@ -155,7 +121,7 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
 <div style="text-align: center; margin: 0 auto;">
     <table>
         <tr>
-            <th>10. Quais são as principais áreas da cidade que você costuma visitar com mais frequência?</th>
+            <th>7. Resultado das principais áreas da cidade que os usuários costumam visitar com mais frequência: </th>
         </tr>
         <tr>
             <td>Asa Norte, Asa Sul, Plano e Gama.</td>
@@ -176,27 +142,27 @@ Abaixo estão algumas perguntas que foram feitas durante a entrevista:
             <td>Gama, Plano Piloto, Taguatinga</td>
         </tr>
     </table>
-    <caption>Tabela 4: Respostas da pergunta 10 (Fonte: autor, 2023)</caption>
+    <caption>Tabela 3: Respostas sobre áreas mais visitadas  (Fonte: Amanda Abreu, 2023)</caption>
 </div>
 
 <br>
 
-#### 11. Na sua experiência ao utilizar o site do BRB Mobilidade, como você classificaria a facilidade de adaptação e acessibilidade? Por favor, avalie de 1 (muito difícil) a 5 (muito fácil) com base na sua experiência recente.
+#### 8. Resultado sobre a experiência do usuário ao utilizar o site do BRB Mobilidade, onde 1 é (muito difícil) e 5 (muito fácil): 
 
 ![Gráfico Facilidade](../assets/perfilUsuario/graficoNota1.png)
 
 <div style="text-align: center">
-    <p>Figura 7: Gráfico de respostas da pergunta 11 (Fonte: autor, 2023)</p>
+    <p>Figura 4: Gráfico de respostas sobre experiência ao utilizar o site (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 <br>
 
-#### 12. Poderia avaliar a eficácia do suporte e das informações disponíveis no site do BRB Mobilidade? Em uma escala de 1 a 5, sendo 1 muito insatisfatório e 5 muito satisfatório, como você classificaria a facilidade de encontrar as informações necessárias e a qualidade do suporte oferecido no site?
+#### 9. Resultado sobre a eficácia do suporte e das informações disponíveis no site do BRB Mobilidade, onde 1 é (pouco eficaz) e 5 (muito eficaz):
 
 ![Gráfico Eficácia](../assets/perfilUsuario/graficoNota2.png)
 
 <div style="text-align: center">
-    <p>Figura 8: Gráfico de respostas da pergunta 12 (Fonte: autor, 2023)</p>
+    <p>Figura 4: Gráfico de respostas sobre a eficácia e suporte do site (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 
@@ -211,6 +177,7 @@ Com base nas respostas obtidas através das entrevistas podemos concluir que o p
 - Objetivos: Os principais objetivos dos usuários são solicitar um cartão, editar informações de conta e solicitar uma segunda via do cartão
   
 Essas conclusões são baseadas nas informações coletadas nas entrevistas e fornecem uma visão geral do perfil típico dos usuários do site BRB Mobilidade. Tenha em mente que essas conclusões são baseadas em dados específicos coletados durante as entrevistas e podem ser usadas para orientar estratégias de design e conteúdo do site para melhor atender às necessidades desse público-alvo.
+
 
 ## Histórico de versão
 

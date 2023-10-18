@@ -9,7 +9,7 @@ Nesta tarefa, o usuário tem como objetivo a troca de seu endereço pessoal cada
 
 <div style="text-align: center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Trocar_end.drawio.png">
-    <p>Figura 1: Diagrama CTT da tarefa de trocar endereço do cadastro</p>
+    <p>Figura 1: Diagrama CTT da tarefa de trocar endereço do cadastro (Fonte: Felipe e Artur Jackson, 2023)</p>
 </div>
 
 
@@ -19,7 +19,7 @@ Nesta tarefa, o usuário tem como objetivo alterar sua foto de perfil cadastrada
 
 <div style="text-align: center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Alteracao_foto.drawio.png">
-    <p>Figura 2: Diagrama CTT da tarefa de alterar foto do cadastro</p>
+    <p>Figura 2: Diagrama CTT da tarefa de alterar foto do cadastro (Fonte: Felipe e Artur Jackson, 2023)</p>
 </div>
 
 
@@ -29,7 +29,7 @@ Nesta tarefa, o usuário tem como objetivo visualizar os acessos do seu cartão.
 
 <div style="text-align: center">
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Meus_acessos.drawio.png">
-    <p>Figura 3: Diagrama CTT da tarefa de visualizar os acessos</p>
+    <p>Figura 3: Diagrama CTT da tarefa de visualizar os acessos (Fonte: Felipe e Artur Jackson, 2023)</p>
 </div>
 
 
@@ -37,7 +37,7 @@ Nesta tarefa, o usuário tem como objetivo visualizar os acessos do seu cartão.
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
-|    1.0   |   15/10/2023   |   Adicionando introdução e diagramas | [Felipe Hansen](https://github.com/FHansen98) | [Arthur Sousa](https://github.com/arthurrsousa) |
+|   1.0   |   15/10/2023   |   Adicionando introdução e diagramas | [Felipe Hansen](https://github.com/FHansen98) | [Arthur Sousa](https://github.com/arthurrsousa) |
 
 
 ## Bibliografia

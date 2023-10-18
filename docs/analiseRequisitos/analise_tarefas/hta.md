@@ -54,7 +54,7 @@ Além disso, os cenários foram criados para descrever situações hipotéticas 
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20cadastro.png?raw=true">
-    <p>Figura 1: Diagrama HTA da tarefa de acompanhar cadastro</p>
+    <p>Figura 1: Diagrama HTA da tarefa de cadastrar-se (Fonte: Lucas, 2023)</p>
 </div>
 
 ### Acompanhar cadastro
@@ -81,7 +81,7 @@ Recuperar Senha
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20acompanhar%20cadastro.png?raw=true">
-    <p>Figura 1: Diagrama HTA da tarefa de acompanhar cadastro</p>
+    <p>Figura 2: Diagrama HTA da tarefa de acompanhar cadastro (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
 ### 2° via
@@ -114,7 +114,7 @@ Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda o
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%202via.png?raw=true">
-    <p>Figura 2: Diagrama HTA da tarefa de 2°via</p>
+    <p>Figura 3: Diagrama HTA da tarefa de 2°via (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
 ### Extensão de Acesso
@@ -149,7 +149,7 @@ Clicar em Registrar solicitação
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20extensao%20de%20acesso.png?raw=true">
-    <p>Figura 3: Diagrama HTA da tarefa de extensão de acesso</p>
+    <p>Figura 4: Diagrama HTA da tarefa de extensão de acesso (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
 ### Troca de Instituição
@@ -181,7 +181,7 @@ Anexar um documento de comprovação (declaração de passe, declaração de ví
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20troca%20de%20institui%C3%A7%C3%A3o.png?raw=true">
-    <p>Figura 4: Diagrama HTA da tarefa de troca de instituição</p>
+    <p>Figura 5: Diagrama HTA da tarefa de troca de instituição (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
 ## Histórico de versão
