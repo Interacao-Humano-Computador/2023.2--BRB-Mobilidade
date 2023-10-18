@@ -2,6 +2,14 @@
 
 A Análise Hierárquica de Tarefas (HTA) é uma metodologia usada para analisar tarefas complexas descompondo-as em elementos mais simples e hierarquicamente organizados. Essa abordagem visa identificar a estrutura das tarefas, relacionando objetivos gerais a sub-objetivos e ações específicas. A HTA é útil na análise de sistemas interativos, permitindo uma compreensão detalhada das tarefas executadas pelos usuários, o que pode orientar o design de sistemas mais eficazes e usáveis.
 
+### Técnicas Utilizadas
+
+Para identificar as tarefas de usuário foram utilizadas duas técnicas: observação direta e cenários.
+
+A observação direta envolveu a observação de cada tarefa, em geral, essa técnica é utilizada para observar o usuário utilizando o sistema, mas no nosso caso, foi a nossa própria utilização do sistema que foi embasou a análise. Isso permitiu identificar as tarefas que os usuários realizam naturalmente, com base em suas ações e comportamentos "reais".
+
+Além disso, os cenários foram criados para descrever situações hipotéticas em que os usuários utilizariam o site para atingir seus objetivos. Os cenários detalharam as ações necessárias, informações relevantes e eventuais obstáculos que os usuários poderiam encontrar.
+
 ### Cadastrar-se
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
