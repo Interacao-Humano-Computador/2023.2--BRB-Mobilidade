@@ -4,9 +4,17 @@
 
 Personas são personagens fictícios que buscam representar o cliente ideal através da síntese de comportamentos, motivação, desejos e características significativas sobre o público alvo. Assim, a criação de personas é importante para auxiliar no processo de design direcionando às soluções para o público alvo do produto.
 
+## Metodologia
+
+Foi utilizado a seguinte metodologia para a criação das personas:
+
+- Coleta de dados: Foi realizada uma coleta de dados por meio de entrevistas visando coletar dados sobre o perfil de usuário que utiliza o BRB Mobilidade.
+- Análise dos dados: A partir dos dados coletados do perfil de usuário conseguimos entender melhor sobre quem seria nosso usuário e seus comportamentos.
+- Criação das personas: Após a análise dos dados foi possível realizar a criação de um elenco de personas. Onde cada persona possuí Nome e foto fictícias, além de características relevantes para a pesquisa.
+
 ## Definição das Personas
 
-Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco de personas com quatro personas e uma anti-persona.
+Segundo Courage e Baxter (2005), um elenco de personas deve ter entre 3 a 12 personas distintas. Nós montamos um elenco de personas com quatro personas e uma anti-persona. As personas podem ter o status de persona primária, secundária e terciária. A persona primária trata-se da pessoa que será o foco do design e para isso é satisfeita somente com uma interface projetada para ela. A persona secundária no geral fica satisfeita com a interface feita para a primária. Já a terciária seria aquela que não se encaixa em nenhum dos outros dois e são satisfeitas com as soluções da primeira ou da segunda.
 
 ### Eduardo Cardoso
 |                      |                      |
@@ -82,6 +90,7 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 |    1.2   |   13/10/2023   |   Correções e adição de anti-persona |  [Artur Jackson](https://github.com/artur-jack)| [Amanda](https://github.com/Amandaaaaabreu)|
 |    1.3   |   14/10/2023   |   Correções e adição de persona |  [Juan Pablo](https://github.com/Juan-Ricarte)| [Artur Jackson](https://github.com/artur-jack)|
 |    1.4  |   15/10/2023   |   Correções  |  [Juan Pablo](https://github.com/Juan-Ricarte)| [Artur Jackson](https://github.com/artur-jack)|
+|    1.5  |   17/10/2023   |   Corrige artefato  |  [Artur Jackson](https://github.com/artur-jack)| []()|
 
 
 ## Bibliografia
@@ -90,3 +99,5 @@ Baseado na análise do perfil de usuário do BRB Mobilidade montamos um elenco d
 
 > Design thinking : inovação em negócios | Maurício Vianna... [et al.]. -
 Rio de Janeiro : MJV Press, 2012
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
