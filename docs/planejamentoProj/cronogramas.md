@@ -40,7 +40,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Edição da apresentação | 29/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/09 - 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 2: Cronograma da Entrega 1 (Fonte: autor, 2023).</p>
+    <p> Tabela 2: Cronograma da Entrega 1 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -56,7 +56,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Edição da apresentação | 13/10 - 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 3: Cronograma da Entrega 2 (Fonte: autor, 2023).</p>
+    <p> Tabela 3: Cronograma da Entrega 2 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -72,7 +72,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Edição da apresentação | 22/10| Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 4: Cronograma da Entrega 3 (Fonte: autor, 2023).</p>
+    <p> Tabela 4: Cronograma da Entrega 3 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -88,7 +88,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Edição da apresentação | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 5: Cronograma da Entrega 4 (Fonte: autor, 2023).</p>
+    <p> Tabela 5: Cronograma da Entrega 4 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -104,7 +104,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Edição da apresentação | 06/11 - 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 6: Cronograma da Entrega 5 (Fonte: autor, 2023).</p>
+    <p> Tabela 6: Cronograma da Entrega 5 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -121,7 +121,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | 9. Edição da apresentação | 13/11 - 14/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 7: Cronograma da Entrega 6.1 (Fonte: autor, 2023).</p>
+    <p> Tabela 7: Cronograma da Entrega 6.1 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -136,7 +136,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | 6. Edição da apresentação | 21/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 21/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 8: Cronograma da Entrega 7 (Fonte: autor, 2023).</p>
+    <p> Tabela 8: Cronograma da Entrega 7 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -149,7 +149,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Edição da apresentação | 26/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 26/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 9: Cronograma da Entrega 8 (Fonte: autor, 2023).</p>
+    <p> Tabela 9: Cronograma da Entrega 8 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -167,7 +167,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Edição da apresentação | 29/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 10: Cronograma da Entrega 6.2 (Fonte: autor, 2023).</p>
+    <p> Tabela 10: Cronograma da Entrega 6.2 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 
@@ -181,7 +181,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Edição da apresentação | 04/11 - 05/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 05/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 11: Cronograma da Entrega final (Fonte: autor, 2023).</p>
+    <p> Tabela 11: Cronograma da Entrega final (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
 ## Bibliografia
