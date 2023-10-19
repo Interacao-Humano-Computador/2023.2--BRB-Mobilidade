@@ -33,4 +33,4 @@ Em termos de interação humano-computador, as metas de usabilidade são direcio
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   19/10/2023   |   Criação da página |  [Juan Pablo](https://github.com/Juan-Ricarte)| [Artur Jackson](https://github.com/artur-jack)|
+|    1.0   |   19/10/2023   |   Criação da página |  [Juan Pablo](https://github.com/Juan-Ricarte) e  [Artur Jackson](https://github.com/artur-jack) |  [Amanda](https://github.com/Amandaaaaabreu)|
