@@ -36,9 +36,11 @@ Em geral as tarefas são realizadas de maneira rápida e clara. Na realização 
 
 O site não apresenta formas de reverter uma ação feita, mas em certas funcionalidades há avisos de que ao fazer determinada ação ela não poderá ser revertida.
 
+
+![Ação Não Reversível](../assets/brb-confirma.png)
+
 <div style="text-align: center">
-    <img src="assets/brb-confirma">
-    <p>Figura 1 - Ação não reversível. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+Figura 1 - Ação Não Reversível. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)
 </div>
 
 
@@ -51,6 +53,12 @@ Nesse quesito o sistema fornece os feedbacks das ações do usuário e as funç�
 O usuário tem dificuldade em aprender a utilizar o site?
 
 O site possuí um design um pouco ultrapassado, mas seus elementos são sucintos. Não oferecendo muitas barreiras para que usuário saiba o que fazer e onde fazer.
+
+![Ação Não Reversível](../assets/brb-design.png)
+
+<div style="text-align: center">
+Figura 2 - Design Ultrapassado. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)
+</div>
 
 ### Memorização
 O site oferece auxílio ao usuário na realização das tarefas, especialmente as não recorrentes?
