@@ -18,13 +18,11 @@ Consiste em estabelecer quais aspectos de desempenho devem ter maior destaque no
 - **Memorização:** Memorização refere-se à capacidade dos usuários de lembrar e recuperar informações sobre como utilizar um sistema após a exposição inicial. Um sistema que facilita a memorização é projetado de maneira a criar uma experiência memorável, permitindo que os usuários recordem facilmente como realizar ações específicas.
 
 
-## Metodologia
-
-
 ## Metas de Usabilidade almejadas no BRB mobilidade
-Sobre as metas de usabilidade que desejamos alcançar, devevemos ter o seguinte pensamento:
+As metas descritas neste artefato são propostas por Jakob Nielsen(1993). Para a definição das metas de usabilidade do projeto que desejamos abordar, foi feita a seguinte análise no site:
 
 ### Eficacia
+O sistema serve ao propósito principal?
 
 ### Eficiência
 O usuário consegue realizar as tarefas de forma rápida?
@@ -36,8 +34,10 @@ O usuário consegue realizar as tarefas de forma rápida?
 O sistema fornece as funcionalidades necessárias para a realização das tarefas?
 
 ### Aprendizado
+O usuário tem dificuldade em aprender a utilizar o site?
 
 ### Memorização
+O site oferece auxílio ao usuário na realização das tarefas, especialmente as não recorrentes?
 
 ## Conclusão
 
