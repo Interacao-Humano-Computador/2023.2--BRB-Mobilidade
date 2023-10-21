@@ -3,7 +3,7 @@
 ## Usabilidade, o que é?
 A usabilidade, no contexto da interação humano-computador,   refere-se à eficácia, eficiência e satisfação com que os usuários podem interagir com um sistema. Em outras palavras, um sistema ou interface é considerado "usável" se permite que os usuários atinjam seus objetivos de maneira eficaz, eficiente e satisfatória.
 
-Em termos de interação humano-computador, as metas de usabilidade são direcionadas para garantir uma interação eficaz, eficiente e satisfatória entre os usuários e os sistemas computacionais. Abaixo, está uma tabela citando as metas de usabilidade e suas definições:
+Consiste em estabelecer quais aspectos de desempenho devem ter maior destaque no projeto, determinando como serão medidos durante o desenvolvimento e estabelecendo faixas de valores consideradas inaceitáveis, aceitáveis e ideais para cada indicador relevante. Geralmente, essa hierarquização é fundamentada nos resultados atuais de como os usuários se saem ao utilizar o sistema. Abaixo, está uma tabela citando as metas de usabilidade e suas definições:
 
 |Metas de Usabilidade | Definição |
 |--------|----------|
