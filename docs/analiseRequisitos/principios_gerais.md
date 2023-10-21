@@ -66,13 +66,33 @@ O site não possui muitas ferramentas de antecipação, o que força o usuário 
 
 A maioria dos ícones do site BRB Mobilidade são bem intuitivos e representam claramente as tarefas que eles representam, com algumas exceções. Contudo, eles não estão presentes em toda a extensão do site, aparecendo apenas em algumas páginas, o que pode gerar confusão para o usuário, como podemos ver na imagem [X], na qual os ícones estão bem representados. No entanto, na imagem [X2], eles não aparecem, apesar de se referirem à mesma situação
 
+<div style="text-align: center">
+    <img src="../../assets\PrincipiosGerais\img1.jpeg" style="width: 80%">
+    <p>Figura X: Ícones e outros elementos gráficos (Fonte: BRB Mobilidade)</p>
+</div>
+
+<div style="text-align: center">
+    <img src="../../assets\PrincipiosGerais\img2.jpeg" style="width: 80%">
+    <p>Figura X: Barra de tarefas (Fonte: BRB Mobilidade)</p>
+</div>
+
 ## Conteúdo relevante e expressão adequada:
 
 O sistema do BRB Mobilidade apresenta uma comunicação simples e acessível para o perfil de usuário do site. No entanto, às vezes são utilizados termos e siglas que podem estar além do conhecimento do usuário. Felizmente, as siglas sempre são explicadas logo após a citação, como podemos observar na imagem [X3]
 
+<div style="text-align: center">
+    <img src="../../assets\PrincipiosGerais\img3.jpeg" style="width: 80%">
+    <p>Figura X: Trecho do texto de termos de Uso (Fonte: BRB Mobilidade)</p>
+</div>
+
 ## Projeto para erros:
 
 Dentro do BRB Mobilidade, existem diversos atalhos que são controversos e não contribuem para a resolução de problemas. Por exemplo, o ícone de uma casinha na imagem [X?] indica um botão para retornar à página inicial. No entanto, ele leva o usuário para a página de serviços, forçando a pessoa a utilizar o botão de voltar do próprio navegador para retornar à página inicial.
+
+<div style="text-align: center">
+    <img src="../../assets\PrincipiosGerais\img4.jpeg" style="width: 80%">
+    <p>Figura X: Interface do sistema (Fonte: BRB Mobilidade)</p>
+</div>
 
 
 ## Conclusão
