@@ -27,14 +27,20 @@ O sistema serve ao propósito principal?
 ### Eficiência
 O usuário consegue realizar as tarefas de forma rápida?
 
+Em geral as tarefas são realizadas de maneira rápida e clara. Na realização de algumas tarefas os usuários devem submeter os dados e documentos para que sejam analizados. Assim após a análise o usuário receberá um feedback se foi aprovado ou rejeitada a ação.
+
 ### Segurança
 É possível reverter ações feitas por engano ou indesejadas?
+
+O site não apresenta formas de reverter uma ação feita, mas em certas funcionalidades há avisos de que ao fazer determinada ação ela não poderá ser revertida.
 
 ### Utilidade
 O sistema fornece as funcionalidades necessárias para a realização das tarefas?
 
 ### Aprendizado
 O usuário tem dificuldade em aprender a utilizar o site?
+
+O site possuí um design um pouco ultrapassado, mas seus elementos são sucintos. Não oferecendo muitas barreiras para que usuário saiba o que fazer e onde fazer.
 
 ### Memorização
 O site oferece auxílio ao usuário na realização das tarefas, especialmente as não recorrentes?
