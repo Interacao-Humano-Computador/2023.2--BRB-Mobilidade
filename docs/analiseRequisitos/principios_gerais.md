@@ -98,3 +98,14 @@ Dentro do BRB Mobilidade, existem diversos atalhos que são controversos e não 
 ## Conclusão
 
 [PRECISA MELHORAR] O site BRB Mobilidade apresenta uma boa usabilidade, com uma interface simples e intuitiva, que permite que o usuário realize as tarefas de forma rápida e eficiente. Além disso, o site apresenta uma boa consistência e padronização, com um menu que se repete em todas as páginas e telas de preenchimento de dados que respeitam o padrão do site. O site também apresenta uma boa correspondência com as expectativas dos usuários, com uma estrutura de tarefas simples e direta ao ponto, que não exige muito do usuário. Por fim, o site apresenta um bom equilíbrio entre controle e liberdade do usuário, com restrição de acesso e possibilidade de desfazer ações.
+
+## Referências Bibliográficas
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+## Histórico de Versão
+
+|Versão|Data|Descrição|Autor|Revisor|
+|----|----|---------|-----|-------|
+|1.0|14/10/2023|------|----|-------|
+|1.0|14/10/2023|------|----|-------|
