@@ -1,6 +1,6 @@
 # Metas de Usabilidade
 
-## Usabilidade, o que é?
+## Introdução
 A usabilidade, no contexto da interação humano-computador,   refere-se à eficácia, eficiência e satisfação com que os usuários podem interagir com um sistema. Em outras palavras, um sistema ou interface é considerado "usável" se permite que os usuários atinjam seus objetivos de maneira eficaz, eficiente e satisfatória.
 
 Consiste em estabelecer quais aspectos de desempenho devem ter maior destaque no projeto, determinando como serão medidos durante o desenvolvimento e estabelecendo faixas de valores consideradas inaceitáveis, aceitáveis e ideais para cada indicador relevante. Geralmente, essa hierarquização é fundamentada nos resultados atuais de como os usuários se saem ao utilizar o sistema. Abaixo, está uma tabela citando as metas de usabilidade e suas definições:
@@ -18,7 +18,20 @@ Consiste em estabelecer quais aspectos de desempenho devem ter maior destaque no
 ## Metodologia
 
 
-## Aplicação das Metas de Usabilidade no BRB mobilidade
+## Metas de Usabilidade almejadas no BRB mobilidade
+
+### Eficacia
+
+### Eficiência
+
+### Segurança
+
+### Utilidade
+
+### Aprendizado
+
+### Memorização
+
 
 
 ## Conclusão
