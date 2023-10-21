@@ -36,6 +36,12 @@ Em geral as tarefas são realizadas de maneira rápida e clara. Na realização 
 
 O site não apresenta formas de reverter uma ação feita, mas em certas funcionalidades há avisos de que ao fazer determinada ação ela não poderá ser revertida.
 
+<div style="text-align: center">
+    <img src="assets/brb-confirma">
+    <p>Figura 1 - Ação não reversível. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)</p>
+</div>
+
+
 ### Utilidade
 O usuário recebe um feedback visual do que está acontecendo em tempo real? O sistema fornece as funções necessárias para a realização das tarefas?
 
