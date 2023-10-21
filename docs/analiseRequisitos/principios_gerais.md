@@ -58,6 +58,23 @@ O site BRB Mobilidade apresenta consistência e padronização em suas telas, co
 O site apresenta eficiência do usuário ao oferecer um processo de atualização de dados simplificado e rápido. Os usuários podem facilmente acessar suas informações de cartão e efetuar atualizações necessárias, como alteração de endereço ou renovação do cartão, em apenas alguns cliques. Além disso, o sistema retém as informações anteriores do usuário, permitindo que eles não tenham que inserir repetidamente os mesmos dados, economizando tempo e esforço. Isso demonstra um compromisso com a eficiência do usuário, priorizando a economia de tempo e esforço do usuário, como recomendado por Tognazzini (2014).
 
 
+## Antecipação das necessidades do usuário:
+
+O site não possui muitas ferramentas de antecipação, o que força o usuário a ter que recomeçar os passos do seu processo todas as vezes que vai acessar o site.
+
+## Visibilidade e reconhecimento:
+
+A maioria dos ícones do site BRB Mobilidade são bem intuitivos e representam claramente as tarefas que eles representam, com algumas exceções. Contudo, eles não estão presentes em toda a extensão do site, aparecendo apenas em algumas páginas, o que pode gerar confusão para o usuário, como podemos ver na imagem [X], na qual os ícones estão bem representados. No entanto, na imagem [X2], eles não aparecem, apesar de se referirem à mesma situação
+
+## Conteúdo relevante e expressão adequada:
+
+O sistema do BRB Mobilidade apresenta uma comunicação simples e acessível para o perfil de usuário do site. No entanto, às vezes são utilizados termos e siglas que podem estar além do conhecimento do usuário. Felizmente, as siglas sempre são explicadas logo após a citação, como podemos observar na imagem [X3]
+
+## Projeto para erros:
+
+Dentro do BRB Mobilidade, existem diversos atalhos que são controversos e não contribuem para a resolução de problemas. Por exemplo, o ícone de uma casinha na imagem [X?] indica um botão para retornar à página inicial. No entanto, ele leva o usuário para a página de serviços, forçando a pessoa a utilizar o botão de voltar do próprio navegador para retornar à página inicial.
+
+
 ## Conclusão
 
 [PRECISA MELHORAR] O site BRB Mobilidade apresenta uma boa usabilidade, com uma interface simples e intuitiva, que permite que o usuário realize as tarefas de forma rápida e eficiente. Além disso, o site apresenta uma boa consistência e padronização, com um menu que se repete em todas as páginas e telas de preenchimento de dados que respeitam o padrão do site. O site também apresenta uma boa correspondência com as expectativas dos usuários, com uma estrutura de tarefas simples e direta ao ponto, que não exige muito do usuário. Por fim, o site apresenta um bom equilíbrio entre controle e liberdade do usuário, com restrição de acesso e possibilidade de desfazer ações.
