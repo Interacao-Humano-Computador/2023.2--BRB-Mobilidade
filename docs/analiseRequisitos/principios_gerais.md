@@ -5,8 +5,6 @@
 Os Princípios Gerais de um Projeto  são as diretrizes e os procedimentos essenciais que os designers, desenvolvedores e profissionais de IHC devem considerar ao projetar sistemas e durante o processo de design de uma interface. Esses princípios têm como objetivo melhorar a usabilidade, a eficácia e a satisfação do usuário em sistemas computacionais, proporcionando uma experiência positiva. os princípios gerais do projeto são
 
 
-Claro, aqui está o texto com os erros ortográficos corrigidos:
-
 **Expectativas dos usuários**: O primeiro princípio tem como objetivo garantir que o usuário tenha uma experiência com a interface que supra as suas expectativas, para isso é de suma importância ter elencado o perfil de usuário e entender as suas necessidades.
 
 **Simplicidade nas estruturas das tarefas**: O princípio da simplicidade visa evitar a sobrecarga e a poluição visual com o acúmulo de informações e assim deixar as tarefas que o mesmo precisa realizar simplificadas, intuitivas e de forma clara.
