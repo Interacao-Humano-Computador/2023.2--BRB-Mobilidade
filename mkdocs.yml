@@ -49,12 +49,13 @@ nav:
     - Personas: analiseRequisitos/personas.md
     - Cenários: analiseRequisitos/cenario.md
     - Aspectos éticos: analiseRequisitos/aspectos_eticos.md
-    - Metas de usabilidade: analiseRequisitos/metas_usa.md
     - Análise de tarefas:
       - Sobre: analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md
       - HTA: analiseRequisitos/analise_tarefas/hta.md
       - CTT: analiseRequisitos/analise_tarefas/ctt.md
-    - Características Gerais: analiseRequisitos/caracteristicas_gerais.md
+    - Análise de Requisitos II:
+      - Metas de usabilidade: analiseRequisitos/metas_usa.md
+      - Características Gerais: analiseRequisitos/caracteristicas_gerais.md
   - Encontros: reunioes.md
 
 markdown_extensions:
