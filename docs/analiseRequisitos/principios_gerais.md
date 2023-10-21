@@ -2,6 +2,30 @@
 
 ## Introdução
 
+Os Princípios Gerais de um Projeto  são as diretrizes e os procedimentos essenciais que os designers, desenvolvedores e profissionais de IHC devem considerar ao projetar sistemas e durante o processo de design de uma interface. Esses princípios têm como objetivo melhorar a usabilidade, a eficácia e a satisfação do usuário em sistemas computacionais, proporcionando uma experiência positiva. os princípios gerais do projeto são
+
+
+Claro, aqui está o texto com os erros ortográficos corrigidos:
+
+**Expectativas dos usuários**: O primeiro princípio tem como objetivo garantir que o usuário tenha uma experiência com a interface que supra as suas expectativas, para isso é de suma importância ter elencado o perfil de usuário e entender as suas necessidades.
+
+**Simplicidade nas estruturas das tarefas**: O princípio da simplicidade visa evitar a sobrecarga e a poluição visual com o acúmulo de informações e assim deixar as tarefas que o mesmo precisa realizar simplificadas, intuitivas e de forma clara.
+
+**Equilíbrio entre controle e liberdade do usuário**: É o princípio que projeta a interface de modo que as ações estejam sob o controle do usuário, mas sem tirar a liberdade de acessar outras funcionalidades.
+
+**Consistência e padronização**: Já este princípio defende a importância da padronização do sistema por inteiro, ser consistente e ter seus elementos gráficos como botões, cores e etc. de forma padronizada.
+
+**Promoção da eficiência do usuário**: Este princípio visa deixar as ações dos usuários de forma mais eficaz, utilizando atalhos, previsões e outras ferramentas para otimizar o uso do sistema.
+
+**Antecipação das necessidades do usuário**: O princípio da antecipação visa fornecer recursos que antecipem as necessidades do usuário, ou seja, realizar de forma autônoma um auxílio que o usuário poderá solicitar em breve.
+
+**Visibilidade e reconhecimento**: Aqui é necessário projetar todos os elementos gráficos do sistema para evitar a subjetividade e serem mais intuitivos e pontuais.
+
+**Conteúdo relevante e expressão adequada**: O princípio do conteúdo tem como objetivo utilizar a linguagem do público-alvo para melhorar a comunicação e evitar confusões, e para isso é necessário não utilizar jargões técnicos e outros termos que podem fugir do conhecimento do usuário.
+
+**Projeto para erros**: O princípio tem como objetivo criar uma interface que seja projetada para evitar possíveis erros e até mesmo corrigi-los.
+
+
 
 ## Metodologia
 
