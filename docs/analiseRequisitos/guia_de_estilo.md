@@ -203,29 +203,10 @@ A imagem abaixo representa todos os tipos de campo de informação presentes no 
 ### **Alertas e Notificações**
 
 <div style="text-align: center">
-<p>Figura 11: Alerta de erro de login (Fonte: Artur, 2023)</p>
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/guia_estilo/alertas/erroLogin.png?raw=true">
-</div>
-</br>
-
 </br>
 <div style="text-align: center">
-<p>Figura 12: Notificação de email salvo  (Fonte: Artur, 2023)</p>
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/guia_estilo/alertas/emailSalvo.png?raw=true">
-</div>
-</br>
-
-</br>
-<div style="text-align: center">
-<p>Figura 13: Alerta de erro emails iguais ao já usado (Fonte: Artur, 2023)</p>
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/guia_estilo/alertas/emailsIguais.png?raw=true">
-</div>
-</br>
-
-</br>
-<div style="text-align: center">
-<p>Figura 14: Alerta de erro emails dos campos diferem (Fonte: Artur, 2023)</p>
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/guia_estilo/alertas/emailsDiferente.png?raw=true">
+<p>Figura 12: Alertas  (Fonte: Artur, 2023)</p>
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/guia_estilo/alertas/alertas.png?raw=true">
 </div>
 </br>
 
