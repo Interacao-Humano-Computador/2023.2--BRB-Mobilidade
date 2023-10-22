@@ -54,6 +54,7 @@ nav:
       - HTA: analiseRequisitos/analise_tarefas/hta.md
       - CTT: analiseRequisitos/analise_tarefas/ctt.md
     - Análise de Requisitos II:
+      - Princípios e Diretrizes Gerais: analiseRequisitos/principios_gerais.md
       - Metas de usabilidade: analiseRequisitos/metas_usa.md
       - Características Gerais: analiseRequisitos/caracteristicas_gerais.md
       - Guia de Estilo: analiseRequisitos/guia_de_estilo.md
