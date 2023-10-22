@@ -203,8 +203,6 @@ A imagem abaixo representa todos os tipos de campo de informação presentes no 
 ### **Alertas e Notificações**
 
 <div style="text-align: center">
-</br>
-<div style="text-align: center">
 <p>Figura 12: Alertas  (Fonte: Artur, 2023)</p>
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/guia_estilo/alertas/alertas.png?raw=true">
 </div>
