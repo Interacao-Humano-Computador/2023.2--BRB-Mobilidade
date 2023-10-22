@@ -1,6 +1,7 @@
 ## Introdução
 
 Quando se realiza uma análise de Interação Humano-Computador em um site que abrange um público-alvo de pessoas tecnófilas, deve se priorizar alguns aspectos relevantes ao uso para tais sujeitos. O intuito deste artefato é explicitar as características da plataforma e os principais caminhos executados pelo usuário, além disso, deve-se analisar os aspectos do site que limitam e/ou incomodam o usuário, sendo esses reconhecidos aqui como: limites e entraves.
+
 ## Características da Plataforma
 
 Quando criamos um software, é essencial que ele corresponda às expectativas do usuário e que suas tarefas sejam simples de executar. No caso do BRB Mobilidade, isso significa que a plataforma deve funcionar como as pessoas esperam e ser fácil de usar, permitindo que os usuários recarreguem seus cartões e comprem passagens de forma rápida e descomplicada. Isso é fundamental para garantir uma boa experiência do usuário.
@@ -15,7 +16,7 @@ A plataforma BRB Mobilidade, desenvolvida pelo Banco de Brasília (BRB), é uma 
 
 - Troca de instituição
 
-- Extensão de Acesso 
+- Extensão de acesso 
 
 - Troca de endereço
    
@@ -41,11 +42,11 @@ O site do BRB Mobilidade não detalha especificamente as tecnologias ou linguage
 
 - Os usuários tem um limite para o número de cartões de transporte que podem ser associados a eles. 
 
-- Dependendo da categoria do usuário á uma limitação em relação a descontos e serviços adicionais.
+- Dependendo da categoria do usuário há uma limitação em relação a descontos e serviços adicionais.
 
 - Só é possível alterar senha via e-mail.
 
-- A utilização do cartão sṕ é válida para o DF.
+- A utilização do cartão só é válida para o DF.
 
 - A utilização da plataforma está limitada a PCDs, crianças, estudantes e idosos.
 
@@ -73,7 +74,7 @@ O site do BRB Mobilidade não detalha especificamente as tecnologias ou linguage
 
 - Ícones desproporcionais ao texto (Audio Visual e Abas).
 
-- O cartão antigo fica bloqueda no período de solicitação da segunda via até sua retirada.
+- O cartão antigo fica bloqueado no período de solicitação da segunda via até sua retirada.
 
 
 
