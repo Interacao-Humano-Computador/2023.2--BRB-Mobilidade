@@ -1,6 +1,7 @@
 ## Introdução
 
-Ao conduzir uma avaliação de Interação Humano-Computador em um site direcionado a entusiastas de tecnologia, é essencial dar ênfase a determinados pontos cruciais para esse público. O propósito deste estudo é destacar as características da plataforma e as principais jornadas do usuário. Além disso, é fundamental examinar os elementos do site que possam restringir ou causar desconforto ao usuário, que serão referidos aqui como: obstáculos e desafios.
+
+Para que um modelo conceitual atenda de forma eficaz às necessidades de um determinado usuário e permita uma aprendizagem natural e rápida, é crucial que essa estrutura adote Princípios e Diretrizes Gerais. Nesse sentido, o design deve promover a identificação das ações necessárias para o momento, empregando restrições apropriadas, a clareza visual de diversos aspectos, abrangendo o modelo conceitual do sistema, as alternativas de ação e suas consequências, bem como a avaliação do estado atual do sistema, estabelecendo conexões naturais entre as intenções e as ações necessárias, entre as ações e seus resultados, assim como entre a informação explícita e a interpretação do estado do sistema.
 
 ## Características da Plataforma
 
