@@ -41,6 +41,21 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
     <p> Tabela 2: Cronograma do Ponto de Controle 2 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
 </div>
 
+## Entrega 3
+
+| Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
+|-----------|:------------------:|-----------|---------|:-----------:|-----------|
+| [Definir os princípios gerais do projeto]() | 17/10 - 20/10 | | Fause e Arthur Sousa | 21/10 | Artur Jackson |
+| [Determinar as metas de usabilidade]() | 17/10 - 20/10 | 19/10 - 21/10 |Artur Jackson e Juan | 21/10 | Amanda e Arthur Sousa |
+| [Criar o guia de estilo]() | 17/10 - 20/10 | 17/10 - 21/10 |Lucas | 22/10 | Artur Jackson |
+| [Determinar as características da plataforma para o projeto]() | 17/10 - 20/10 |  |Amanda e Felipe | 21/10 - 22/10 |  |
+| [Gravação da apresentação]() | 21/10 - 22/10 | 22/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 22/10 | 22/10 |Artur Jackson | 22/10 | Amanda, Arthur Sousa, Fause, Felipe, Juan, Lucas |
+
+<div style="text-align: center">
+    <p> Tabela 3: Cronograma do Ponto de Controle 3 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
+</div>
+
 
 ## Bibliografia
 
@@ -53,3 +68,4 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan Pablo](https://github.com/Juan-Ricarte)|
 |    1.1   |   15/10/2023   |   Adicionando cronograma Entrega 2 |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Artur Jackson](https://github.com/artur-jack) |
+|    1.2   |   21/10/2023   |   Adicionando cronograma Entrega 3 |  [Artur Jackson](https://github.com/artur-jack)| []() |

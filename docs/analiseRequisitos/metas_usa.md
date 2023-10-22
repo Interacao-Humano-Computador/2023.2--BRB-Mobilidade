@@ -24,22 +24,52 @@ As metas descritas neste artefato são propostas por Jakob Nielsen(1993). Para a
 ### Eficacia
 O sistema serve ao propósito principal?
 
+O sistema faz o que se espera dele.
+
 ### Eficiência
 O usuário consegue realizar as tarefas de forma rápida?
+
+Em geral as tarefas são realizadas de maneira rápida e clara. Na realização de algumas tarefas os usuários devem submeter os dados e documentos para que sejam analizados. Assim após a análise o usuário receberá um feedback se foi aprovado ou rejeitada a ação.
 
 ### Segurança
 É possível reverter ações feitas por engano ou indesejadas?
 
+O site não apresenta formas de reverter uma ação feita, mas em certas funcionalidades há avisos de que ao fazer determinada ação ela não poderá ser revertida.
+
+
+![Ação Não Reversível](../assets/brb-confirma.png)
+
+<div style="text-align: center">
+Figura 1 - Ação Não Reversível. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)
+</div>
+
+
 ### Utilidade
-O sistema fornece as funcionalidades necessárias para a realização das tarefas?
+O usuário recebe um feedback visual do que está acontecendo em tempo real? O sistema fornece as funções necessárias para a realização das tarefas?
+
+Nesse quesito o sistema fornece os feedbacks das ações do usuário e as funções necessárias para realização das tarefas.
 
 ### Aprendizado
 O usuário tem dificuldade em aprender a utilizar o site?
 
+O site possuí um design um pouco ultrapassado, mas seus elementos são sucintos. Não oferecendo muitas barreiras para que usuário saiba o que fazer e onde fazer.
+
+![Ação Não Reversível](../assets/brb-design.png)
+
+<div style="text-align: center">
+Figura 2 - Design Ultrapassado. (Fonte: <a href="https://mobilidade.brb.com.br">mobilidade.br.com</a>)
+</div>
+
 ### Memorização
 O site oferece auxílio ao usuário na realização das tarefas, especialmente as não recorrentes?
 
+Na realização das tarefas há textos e pop-ups auxiliando sobre algumas informações e como o usuário deve prosseguir para realizar a tarefa.
+
 ## Conclusão
+Portanto, a partir da análise das metas de usabilidade neste artefato, foi decidido que as metas mais sensiveis e críticas que seram almejadas no projeto são:
+
+- Segurança
+- Aprendizado
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
@@ -49,4 +79,5 @@ O site oferece auxílio ao usuário na realização das tarefas, especialmente a
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   19/10/2023   |   Criação da página |  [Juan Pablo](https://github.com/Juan-Ricarte) e  [Artur Jackson](https://github.com/artur-jack) |  [Amanda](https://github.com/Amandaaaaabreu)|
-|    1.1  |   20/10/2023   |   Criação da página |  [Artur Jackson](https://github.com/artur-jack) e  [Juan Pablo](https://github.com/Juan-Ricarte) |  []()|
+|    1.1  |   20/10/2023   |   Adiciona metas almejadas e bibliografia |  [Artur Jackson](https://github.com/artur-jack) e  [Juan Pablo](https://github.com/Juan-Ricarte) |  [Arthur Sousa](https://github.com/arthurrsousa)|
+|    1.2  |   21/10/2023   |   Conclusão |  [Artur Jackson](https://github.com/artur-jack) |  [Arthur Sousa](https://github.com/arthurrsousa)|
