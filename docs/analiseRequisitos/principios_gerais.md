@@ -31,7 +31,12 @@ A metodologia empregada para analisar como os Princípios e Diretrizes Gerais fo
 
 ## Correspondência com as Expectativas dos Usuários
 
-O site BRB Mobilidade deixa claro para o usuário a relação entre o que ele espera e o que ele encontra. Logo após logar no sistema, ele é apresentado a uma tela com um menu que possui várias opções de ações que são possíveis de se realizar no site. Ao clicar em qualquer uma delas, é apresentado os dados que precisam ser preenchidos para que o objetivo final seja alcançado.
+O site BRB Mobilidade deixa claro para o usuário a relação entre o que ele espera e o que ele encontra. Logo antes mesmo de logar no sistema, ele é apresentado a uma tela com um menu que possui várias opções de ações que são possíveis de se realizar no site, apresentados na figura 1. Ao clicar em qualquer uma delas, é pedido para que o usuário forneça seu login e senha, então é apresentado os dados que precisam ser preenchidos para que o objetivo final seja alcançado.
+
+<div style="text-align: center">
+    <img src="../../assets/PrincipiosGerais/acoesPossiveis.png" style="width: 80%">
+    <p>Figura 1: Principais ações que usuários podem realizar (Fonte: BRB Mobilidade)</p>
+</div>
 
 
 ## Simplicidade nas Estruturas das Tarefas
@@ -41,19 +46,34 @@ Com base na recomendação de Norman acerca da simplificação das estruturas da
 
 ## Equilíbrio entre Controle e Liberdade do Usuário
 
-Restrição de acesso?? É possivel desfazer ações? 
+No site BRB Mobilidade, os usuários possuem considerável liberdade ao realizar ações durante a navegação, o que contribui para uma experiência mais flexível. No entanto, o site também é cuidadoso em deixar claro quando uma ação potencialmente perigosa está sendo executada. Um exemplo disso é encontrado na aba de solicitação da 2ª via do cartão de passe livre estudantil, onde os usuários devem confirmar que leram um **Termo de Uso** e são apresentadas mensagens em caixa alta ao longo da página, destacando os riscos envolvidos no processo de solicitação, como é possível ver na figura 2. 
+
+<div style="text-align: center">
+    <img src="../../assets/PrincipiosGerais/acaoPerigosa.png" style="width: 80%">
+    <p>Figura 2: Alertas aos usuários sobre a riscos da solicitação de 2° via (Fonte: BRB Mobilidade)</p>
+</div>
+
+Em outras páginas, onde os riscos são menores, os usuários podem facilmente salvar ou atualizar seus dados, com a opção de reverter a ação se necessário, garantindo assim um equilíbrio entre liberdade e segurança na interação com o site.
+
+<div style="text-align: center">
+    <img src="../../assets/PrincipiosGerais/refazerAcao.png" style="width: 80%">
+    <p>Figura 3: Janela para confirmar ação de troca de endereço (Fonte: BRB Mobilidade)</p>
+</div>
 
 
 ## Consistência e Padronização
 
 O site BRB Mobilidade apresenta consistência e padronização em suas telas, com um menu que se repete em todas as páginas, com as mesmas opções de ações. Além disso, as telas de preenchimento de dados para a realização das tarefas possuem um padrão de preenchimento, com campos de texto para inserção de dados e botões para confirmação das ações, que respeitam o padrão de todo o site.
 
-( Padrao de botoes? )
-
 
 ## Promovendo a Eficiência do Usuário
 
-O site apresenta eficiência do usuário ao oferecer um processo de atualização de dados simplificado e rápido. Os usuários podem facilmente acessar suas informações de cartão e efetuar atualizações necessárias, como alteração de endereço ou renovação do cartão, em apenas alguns cliques. Além disso, o sistema retém as informações anteriores do usuário, permitindo que eles não tenham que inserir repetidamente os mesmos dados, economizando tempo e esforço. Isso demonstra um compromisso com a eficiência do usuário, priorizando a economia de tempo e esforço do usuário, como recomendado por Tognazzini (2014).
+O site apresenta eficiência do usuário ao oferecer um processo de atualização de dados simplificado e rápido. Os usuários podem facilmente acessar suas informações de cartão e efetuar atualizações necessárias, como alteração de endereço ou renovação do cartão, em apenas alguns cliques. Porém, caso o usuário esteja no processo de preencher um formulário e troque de aba, ao retornar para o formulário os dados registrados anteriormente são perdidos, como é mostrado na figura , o que demonstra falta de compromisso com a eficiência do usuário.
+
+<div style="text-align: center">
+    <img src="../../assets/PrincipiosGerais/2via.png" style="width: 80%">
+    <p>Figura 4: Dados salvos do usuário e reutilizados pelo sistema (Fonte: BRB Mobilidade)</p>
+</div>
 
 
 ## Antecipação das necessidades do usuário:
@@ -63,42 +83,42 @@ O site não possui muitas ferramentas de antecipação, o que força o usuário 
 
 ## Visibilidade e reconhecimento:
 
-A maioria dos ícones do site BRB Mobilidade são bem intuitivos e representam claramente as tarefas que eles representam, com algumas exceções. Contudo, eles não estão presentes em toda a extensão do site, aparecendo apenas em algumas páginas, o que pode gerar confusão para o usuário, como podemos ver na imagem [X], na qual os ícones estão bem representados. No entanto, na imagem [X2], eles não aparecem, apesar de se referirem à mesma situação
+A maioria dos ícones do site BRB Mobilidade são bem intuitivos e representam claramente as tarefas que eles representam, com algumas exceções. Contudo, eles não estão presentes em toda a extensão do site, aparecendo apenas em algumas páginas, o que pode gerar confusão para o usuário, como podemos ver na figura 5, na qual os ícones estão bem representados. No entanto, na figura 6, eles não aparecem, apesar de se referirem à mesma situação
 
 <div style="text-align: center">
     <img src="../../assets\PrincipiosGerais\img1.jpeg" style="width: 80%">
-    <p>Figura X: Ícones e outros elementos gráficos (Fonte: BRB Mobilidade)</p>
+    <p>Figura 5: Ícones e outros elementos gráficos (Fonte: BRB Mobilidade)</p>
 </div>
 
 <div style="text-align: center">
     <img src="../../assets\PrincipiosGerais\img2.jpeg" style="width: 80%">
-    <p>Figura X: Barra de tarefas (Fonte: BRB Mobilidade)</p>
+    <p>Figura 6: Barra de tarefas (Fonte: BRB Mobilidade)</p>
 </div>
 
 
 ## Conteúdo relevante e expressão adequada:
 
-O sistema do BRB Mobilidade apresenta uma comunicação simples e acessível para o perfil de usuário do site. No entanto, às vezes são utilizados termos e siglas que podem estar além do conhecimento do usuário. Felizmente, as siglas sempre são explicadas logo após a citação, como podemos observar na imagem [X3]
+O sistema do BRB Mobilidade apresenta uma comunicação simples e acessível para o perfil de usuário do site. No entanto, às vezes são utilizados termos e siglas que podem estar além do conhecimento do usuário. Felizmente, as siglas sempre são explicadas logo após a citação, como podemos observar na figura 7
 
 <div style="text-align: center">
     <img src="../../assets\PrincipiosGerais\img3.jpeg" style="width: 80%">
-    <p>Figura X: Trecho do texto de termos de Uso (Fonte: BRB Mobilidade)</p>
+    <p>Figura 7: Trecho do texto de termos de Uso (Fonte: BRB Mobilidade)</p>
 </div>
 
 
 ## Projeto para erros:
 
-Dentro do BRB Mobilidade, existem diversos atalhos que são controversos e não contribuem para a resolução de problemas. Por exemplo, o ícone de uma casinha na imagem [X?] indica um botão para retornar à página inicial. No entanto, ele leva o usuário para a página de serviços, forçando a pessoa a utilizar o botão de voltar do próprio navegador para retornar à página inicial.
+Dentro do BRB Mobilidade, existem diversos atalhos que são controversos e não contribuem para a resolução de problemas. Por exemplo, o ícone de uma casinha na figura 8 indica um botão para retornar à página inicial. No entanto, ele leva o usuário para a página de serviços, forçando a pessoa a utilizar o botão de voltar do próprio navegador para retornar à página inicial.
 
 <div style="text-align: center">
     <img src="../../assets\PrincipiosGerais\img4.jpeg" style="width: 80%">
-    <p>Figura X: Interface do sistema (Fonte: BRB Mobilidade)</p>
+    <p>Figura 8: Interface do sistema (Fonte: BRB Mobilidade)</p>
 </div>
 
 
 ## Conclusão
 
-[PRECISA MELHORAR] O site BRB Mobilidade apresenta uma boa usabilidade, com uma interface simples e intuitiva, que permite que o usuário realize as tarefas de forma rápida e eficiente. Além disso, o site apresenta uma boa consistência e padronização, com um menu que se repete em todas as páginas e telas de preenchimento de dados que respeitam o padrão do site. O site também apresenta uma boa correspondência com as expectativas dos usuários, com uma estrutura de tarefas simples e direta ao ponto, que não exige muito do usuário. Por fim, o site apresenta um bom equilíbrio entre controle e liberdade do usuário, com restrição de acesso e possibilidade de desfazer ações.
+Em resumo, a análise dos Princípios e Diretrizes Gerais aplicados ao site BRB Mobilidade revela que o site demonstra considerável respeito por esses princípios, promovendo o equilíbrio entre controle e liberdade do usuário, mantendo uma estrutura de tarefas simples, buscando a consistência e padronização em sua interface e promovendo a eficiência do usuário em várias áreas. Além disso, o site demonstra atenção aos aspectos de visibilidade e reconhecimento, conteúdo relevante e expressão adequada, e projeto para erros, embora alguns desafios possam surgir, como a perda de dados em determinados cenários e a falta de atalhos eficazes. No geral, o site oferece uma experiência que equilibra o empoderamento do usuário com medidas de segurança e orientação, promovendo uma interação eficaz e satisfatória.
 
 
 ## Referências Bibliográficas
@@ -110,5 +130,5 @@ Dentro do BRB Mobilidade, existem diversos atalhos que são controversos e não 
 
 |Versão|Data|Descrição|Autor|Revisor|
 |----|----|---------|-----|-------|
-|1.0|14/10/2023| Adicionando primeira parte do artefato | [Arthur Sousa](https://github.com/arthurrsousa) e [Fause Carlos](https://github.com/FauseSkyWalker) |-------|
-|1.0|14/10/2023| Finalizando artefato | [Arthur Sousa](https://github.com/arthurrsousa) e [Fause Carlos](https://github.com/FauseSkyWalker) |-------|
+|1.0|14/10/2023| Adicionando primeira parte do artefato | [Arthur Sousa](https://github.com/arthurrsousa) e [Fause Carlos](https://github.com/FauseSkyWalker) |[Amanda Abreu](https://github.com/Amandaaaaabreu)|
+|1.0|14/10/2023| Finalizando artefato | [Arthur Sousa](https://github.com/arthurrsousa) e [Fause Carlos](https://github.com/FauseSkyWalker) |[Amanda Abreu](https://github.com/Amandaaaaabreu)|
