@@ -79,5 +79,5 @@ Portanto, a partir da análise das metas de usabilidade neste artefato, foi deci
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   19/10/2023   |   Criação da página |  [Juan Pablo](https://github.com/Juan-Ricarte) e  [Artur Jackson](https://github.com/artur-jack) |  [Amanda](https://github.com/Amandaaaaabreu)|
-|    1.1  |   20/10/2023   |   Adiciona metas almejadas e bibliografia |  [Artur Jackson](https://github.com/artur-jack) e  [Juan Pablo](https://github.com/Juan-Ricarte) |  []()|
-|    1.2  |   21/10/2023   |   Conclusão |  [Artur Jackson](https://github.com/artur-jack) |  []()|
+|    1.1  |   20/10/2023   |   Adiciona metas almejadas e bibliografia |  [Artur Jackson](https://github.com/artur-jack) e  [Juan Pablo](https://github.com/Juan-Ricarte) |  [Arthur Sousa](https://github.com/arthurrsousa)|
+|    1.2  |   21/10/2023   |   Conclusão |  [Artur Jackson](https://github.com/artur-jack) |  [Arthur Sousa](https://github.com/arthurrsousa)|
