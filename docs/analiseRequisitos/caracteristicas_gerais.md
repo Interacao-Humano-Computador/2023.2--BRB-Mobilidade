@@ -1,8 +1,6 @@
 ## Introdução
 
-
-Para que um modelo conceitual atenda de forma eficaz às necessidades de um determinado usuário e permita uma aprendizagem natural e rápida, é crucial que essa estrutura adote Princípios e Diretrizes Gerais. Nesse sentido, o design deve promover a identificação das ações necessárias para o momento, empregando restrições apropriadas, a clareza visual de diversos aspectos, abrangendo o modelo conceitual do sistema, as alternativas de ação e suas consequências, bem como a avaliação do estado atual do sistema, estabelecendo conexões naturais entre as intenções e as ações necessárias, entre as ações e seus resultados, assim como entre a informação explícita e a interpretação do estado do sistema.
-
+Quando se realiza uma análise de Interação Humano-Computador em um site que abrange um público-alvo de pessoas tecnófilas, deve se priorizar alguns aspectos relevantes ao uso para tais sujeitos. O intuito deste artefato é explicitar as características da plataforma e os principais caminhos executados pelo usuário, além disso, deve-se analisar os aspectos do site que limitam e/ou incomodam o usuário, sendo esses reconhecidos aqui como: limites e entraves.
 ## Características da Plataforma
 
 Quando criamos um software, é essencial que ele corresponda às expectativas do usuário e que suas tarefas sejam simples de executar. No caso do BRB Mobilidade, isso significa que a plataforma deve funcionar como as pessoas esperam e ser fácil de usar, permitindo que os usuários recarreguem seus cartões e comprem passagens de forma rápida e descomplicada. Isso é fundamental para garantir uma boa experiência do usuário.
