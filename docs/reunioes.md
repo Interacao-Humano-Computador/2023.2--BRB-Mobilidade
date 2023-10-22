@@ -23,9 +23,17 @@ O vídeo da reunião está disponivel nesse <a href="https://unbbr.sharepoint.co
 [Baixar ata da reunião em PDF](atas/03_Ata%2014_10.pdf)
 
 
+## Reunião 19 de outubro
+O vídeo da reunião está disponivel nesse <a href="https://unbbr.sharepoint.com/sites/IHC-Grupo5/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20231019_210521-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1" target= "_blank">link</a>.
+
+
+[Baixar ata da reunião em PDF](atas/04_Ata%2019_10.pdf)
+
+
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
 |    1.0   |   29/09/2023   |   Declaração das Atas de Reunião | [Felipe Hansen](https://github.com/FHansen98) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
 |    1.1   |   15/10/2023   |   Declaração das Atas de Reunião | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
+|    1.2   |   21/10/2023   |   Declaração das Atas de Reunião | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
