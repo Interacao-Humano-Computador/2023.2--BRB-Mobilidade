@@ -67,7 +67,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | [Definir os princípios gerais do projeto]() | 17/10 - 20/10 | Fause e Arthur Sousa | 20/10 | Artur Jackson |
 | [Determinar as metas de usabilidade]() | 17/10 - 20/10 | Juan e Artur Jackson | 20/10 | Arthur Sousa |
 | [Criar o guia de estilo]() | 17/10 - 20/10 | Lucas | 20/10 | Felipe |
-| [Determinar as características da plataforma para o projeto]() | 17/10 - 20/10 | Amanda e Felipe | 20/10 | Fause |
+| [Determinar as características da plataforma para o projeto]() | 17/10 - 20/10 | Amanda e Felipe | 21/10 | Arthur |
 | [Gravação da apresentação]() | 21/10 - 22/10| Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 22/10| Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
