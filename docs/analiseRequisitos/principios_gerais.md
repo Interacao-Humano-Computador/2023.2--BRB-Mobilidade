@@ -68,7 +68,7 @@ O site BRB Mobilidade apresenta consistência e padronização em suas telas, co
 
 ## Promovendo a Eficiência do Usuário
 
-O site apresenta eficiência do usuário ao oferecer um processo de atualização de dados simplificado e rápido. Os usuários podem facilmente acessar suas informações de cartão e efetuar atualizações necessárias, como alteração de endereço ou renovação do cartão, em apenas alguns cliques. Porém, caso o usuário esteja no processo de preencher um formulário e troque de aba, ao retornar para o formulário os dados registrados anteriormente são perdidos, como é mostrado na figura , o que demonstra falta de compromisso com a eficiência do usuário.
+O site apresenta eficiência do usuário ao oferecer um processo de atualização de dados simplificado e rápido. Os usuários podem facilmente acessar suas informações de cartão e efetuar atualizações necessárias, como alteração de endereço ou renovação do cartão, em apenas alguns cliques. Porém, caso o usuário esteja no processo de preencher um formulário e troque de aba, ao retornar para o formulário os dados registrados anteriormente são perdidos, como é mostrado na figura 4, o que demonstra falta de compromisso com a eficiência do usuário.
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/PrincipiosGerais/2via.png?raw=true" style="width: 80%">
