@@ -34,7 +34,7 @@ A metodologia empregada para analisar como os Princípios e Diretrizes Gerais fo
 O site BRB Mobilidade deixa claro para o usuário a relação entre o que ele espera e o que ele encontra. Logo antes mesmo de logar no sistema, ele é apresentado a uma tela com um menu que possui várias opções de ações que são possíveis de se realizar no site, apresentados na figura 1. Ao clicar em qualquer uma delas, é pedido para que o usuário forneça seu login e senha, então é apresentado os dados que precisam ser preenchidos para que o objetivo final seja alcançado.
 
 <div style="text-align: center">
-    <img src="../../assets/PrincipiosGerais/acoesPossiveis.png" style="width: 80%">
+    <img src="../assets/PrincipiosGerais/acoesPossiveis.png" style="width: 80%">
     <p>Figura 1: Principais ações que usuários podem realizar (Fonte: BRB Mobilidade)</p>
 </div>
 
@@ -49,14 +49,14 @@ Com base na recomendação de Norman acerca da simplificação das estruturas da
 No site BRB Mobilidade, os usuários possuem considerável liberdade ao realizar ações durante a navegação, o que contribui para uma experiência mais flexível. No entanto, o site também é cuidadoso em deixar claro quando uma ação potencialmente perigosa está sendo executada. Um exemplo disso é encontrado na aba de solicitação da 2ª via do cartão de passe livre estudantil, onde os usuários devem confirmar que leram um **Termo de Uso** e são apresentadas mensagens em caixa alta ao longo da página, destacando os riscos envolvidos no processo de solicitação, como é possível ver na figura 2. 
 
 <div style="text-align: center">
-    <img src="../../assets/PrincipiosGerais/acaoPerigosa.png" style="width: 80%">
+    <img src="../assets/PrincipiosGerais/acaoPerigosa.png" style="width: 80%">
     <p>Figura 2: Alertas aos usuários sobre a riscos da solicitação de 2° via (Fonte: BRB Mobilidade)</p>
 </div>
 
 Em outras páginas, onde os riscos são menores, os usuários podem facilmente salvar ou atualizar seus dados, com a opção de reverter a ação se necessário, garantindo assim um equilíbrio entre liberdade e segurança na interação com o site.
 
 <div style="text-align: center">
-    <img src="../../assets/PrincipiosGerais/refazerAcao.png" style="width: 80%">
+    <img src="../assets/PrincipiosGerais/refazerAcao.png" style="width: 80%">
     <p>Figura 3: Janela para confirmar ação de troca de endereço (Fonte: BRB Mobilidade)</p>
 </div>
 
@@ -71,7 +71,7 @@ O site BRB Mobilidade apresenta consistência e padronização em suas telas, co
 O site apresenta eficiência do usuário ao oferecer um processo de atualização de dados simplificado e rápido. Os usuários podem facilmente acessar suas informações de cartão e efetuar atualizações necessárias, como alteração de endereço ou renovação do cartão, em apenas alguns cliques. Porém, caso o usuário esteja no processo de preencher um formulário e troque de aba, ao retornar para o formulário os dados registrados anteriormente são perdidos, como é mostrado na figura , o que demonstra falta de compromisso com a eficiência do usuário.
 
 <div style="text-align: center">
-    <img src="../../assets/PrincipiosGerais/2via.png" style="width: 80%">
+    <img src="../assets/PrincipiosGerais/2via.png" style="width: 80%">
     <p>Figura 4: Dados salvos do usuário e reutilizados pelo sistema (Fonte: BRB Mobilidade)</p>
 </div>
 
@@ -86,12 +86,12 @@ O site não possui muitas ferramentas de antecipação, o que força o usuário 
 A maioria dos ícones do site BRB Mobilidade são bem intuitivos e representam claramente as tarefas que eles representam, com algumas exceções. Contudo, eles não estão presentes em toda a extensão do site, aparecendo apenas em algumas páginas, o que pode gerar confusão para o usuário, como podemos ver na figura 5, na qual os ícones estão bem representados. No entanto, na figura 6, eles não aparecem, apesar de se referirem à mesma situação
 
 <div style="text-align: center">
-    <img src="../../assets\PrincipiosGerais\img1.jpeg" style="width: 80%">
+    <img src="../assets/PrincipiosGerais/img1.jpeg" style="width: 80%">
     <p>Figura 5: Ícones e outros elementos gráficos (Fonte: BRB Mobilidade)</p>
 </div>
 
 <div style="text-align: center">
-    <img src="../../assets\PrincipiosGerais\img2.jpeg" style="width: 80%">
+    <img src="../assets/PrincipiosGerais/img2.jpeg" style="width: 80%">
     <p>Figura 6: Barra de tarefas (Fonte: BRB Mobilidade)</p>
 </div>
 
@@ -101,7 +101,7 @@ A maioria dos ícones do site BRB Mobilidade são bem intuitivos e representam c
 O sistema do BRB Mobilidade apresenta uma comunicação simples e acessível para o perfil de usuário do site. No entanto, às vezes são utilizados termos e siglas que podem estar além do conhecimento do usuário. Felizmente, as siglas sempre são explicadas logo após a citação, como podemos observar na figura 7
 
 <div style="text-align: center">
-    <img src="../../assets\PrincipiosGerais\img3.jpeg" style="width: 80%">
+    <img src="../assets/PrincipiosGerais/img3.jpeg" style="width: 80%">
     <p>Figura 7: Trecho do texto de termos de Uso (Fonte: BRB Mobilidade)</p>
 </div>
 
@@ -111,7 +111,7 @@ O sistema do BRB Mobilidade apresenta uma comunicação simples e acessível par
 Dentro do BRB Mobilidade, existem diversos atalhos que são controversos e não contribuem para a resolução de problemas. Por exemplo, o ícone de uma casinha na figura 8 indica um botão para retornar à página inicial. No entanto, ele leva o usuário para a página de serviços, forçando a pessoa a utilizar o botão de voltar do próprio navegador para retornar à página inicial.
 
 <div style="text-align: center">
-    <img src="../../assets\PrincipiosGerais\img4.jpeg" style="width: 80%">
+    <img src="../assets/PrincipiosGerais/img4.jpeg" style="width: 80%">
     <p>Figura 8: Interface do sistema (Fonte: BRB Mobilidade)</p>
 </div>
 
