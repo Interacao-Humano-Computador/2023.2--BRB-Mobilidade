@@ -33,7 +33,7 @@ Apresentaremos alguns padrões a serem seguidos nesses elementos:
 
 <div style="text-align: center">
     <p>Figura 1: Logo (Fonte: BRB Mobilidade, 2023)</p>  
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/guia_estilo/logo_BRBmobilidade.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/guia_estilo/logo_BRBmobilidade.png?raw=true" style="width: 80%">
 </div>
 
 ### **Esquema de Cores**
