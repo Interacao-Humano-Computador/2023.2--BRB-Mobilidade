@@ -56,6 +56,7 @@ nav:
     - Análise de Requisitos II:
       - Metas de usabilidade: analiseRequisitos/metas_usa.md
       - Características Gerais: analiseRequisitos/caracteristicas_gerais.md
+      - Guia de Estilo: analiseRequisitos/guia_de_estilo.md
   - Encontros: reunioes.md
 
 markdown_extensions:
