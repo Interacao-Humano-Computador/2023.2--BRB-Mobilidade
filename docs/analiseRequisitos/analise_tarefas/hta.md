@@ -10,6 +10,23 @@ A observação direta envolveu a observação de cada tarefa, em geral, essa té
 
 Além disso, os cenários foram criados para descrever situações hipotéticas em que os usuários utilizariam o site para atingir seus objetivos. Os cenários detalharam as ações necessárias, informações relevantes e eventuais obstáculos que os usuários poderiam encontrar.
 
+### Como ler os diagramas?
+Um objetivo é a abstração mais geral de uma atividade que o usuário vá realizar, ele é representado por um retângulo no diagrama. Os subobjetivos são os objetivos derivados do que está acima dele, e é representado da mesma maneira que o objetivo, entretanto, se esse subobjetivo representa a menor parte da derivação hierárquica e não tem mais nenhuma ação abaixo dessa, isso significa que esse subobjetivo é uma operação. Nesse sentido, o retângulo que representa uma  operação recebe um traço logo abaixo dele.
+
+Além de definirmos o que é cada ação, também precisamos demonstrar a ordem em que essas são realizadas, para isso utilizamos alguns símbolos (1>2, 1+2, 1/2).
+
+- **1>2:** Significa que os próximos subobjetivos/operações precisam ser executados(as), um após ao outro, em sequência.
+- **1+2:** Significa que os próximos subobjetivos/operações podem ser executados(as) de forma paralela, não importando a ordem .
+- **1/2:** Significa uma escolha, o usuário deve optar um uma das ações
+
+<br>
+
+<div style="text-align: center">
+    <p>Figura 1: Elementos do Diagrama HTA </p>
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/legenda_HTA.jpeg?raw=true" width=75%>
+    <p>Fonte: (Barbosa, Silva, B.S.; Interação Humano-Computador, 2010, p. 193 - “Análise Hierárquica de Tarefas”, figura 6.1) </p>
+</div>
+
 ### Cadastrar-se
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
@@ -54,7 +71,7 @@ Além disso, os cenários foram criados para descrever situações hipotéticas 
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20cadastro.png?raw=true">
-    <p>Figura 1: Diagrama HTA da tarefa de cadastrar-se (Fonte: Lucas, 2023)</p>
+    <p>Figura 2: Diagrama HTA da tarefa de cadastrar-se (Fonte: Lucas, 2023)</p>
 </div>
 
 ### Acompanhar cadastro
@@ -81,7 +98,7 @@ Recuperar Senha
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20acompanhar%20cadastro.png?raw=true">
-    <p>Figura 2: Diagrama HTA da tarefa de acompanhar cadastro (Fonte: Artur Jackson e Amanda, 2023)</p>
+    <p>Figura 3: Diagrama HTA da tarefa de acompanhar cadastro (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
 ### 2° via
@@ -114,7 +131,7 @@ Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda o
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%202via.png?raw=true">
-    <p>Figura 3: Diagrama HTA da tarefa de 2°via (Fonte: Artur Jackson e Amanda, 2023)</p>
+    <p>Figura 4: Diagrama HTA da tarefa de 2°via (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
 ### Extensão de Acesso
@@ -149,7 +166,7 @@ Clicar em Registrar solicitação
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20extensao%20de%20acesso.png?raw=true">
-    <p>Figura 4: Diagrama HTA da tarefa de extensão de acesso (Fonte: Artur Jackson e Amanda, 2023)</p>
+    <p>Figura 5: Diagrama HTA da tarefa de extensão de acesso (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
 ### Troca de Instituição
@@ -181,7 +198,26 @@ Anexar um documento de comprovação (declaração de passe, declaração de ví
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20troca%20de%20institui%C3%A7%C3%A3o.png?raw=true">
-    <p>Figura 5: Diagrama HTA da tarefa de troca de instituição (Fonte: Artur Jackson e Amanda, 2023)</p>
+    <p>Figura 6: Diagrama HTA da tarefa de troca de instituição (Fonte: Artur Jackson e Amanda, 2023)</p>
+</div>
+
+### Liberar cartão
+
+Esta atividade permite que o usuário libere o cartão para começar a utilizá-lo.
+
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+|0. Liberar Cartão| 1>2 |**input:** formulário com o código do cartão e código do usuário **feedback:** O cartão é liberado, ou então, uma mensagem de erro aparece, caso os dados informados estejam incorretos ou por algum outro motivo. **plano:** informar os dados e confirmar a ação |
+|1. Preencher Formulário| 1+2 |**plano:** informar o código do cartão e o código do usuário |
+|1.1 Inserir código do cartão|     |**input:** teclado|
+|1.2 Inserir código do usuário|     |**input:** teclado|
+|2. Clicar em "Verificar Dados"|      | **input:** clique com o mouse **Feedback:** Mensagem dizendo que o cartão foi liberado, ou, um alerta de erro dizendo que não foi possível fazer a liberação|
+
+<br>
+
+<div style="text-align: center">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama_liberar_cartao.png?raw=true">
+    <p>Figura 7: Diagrama HTA da tarefa de liberar cartão(Fonte: Lucas, 2023)</p>
 </div>
 
 ## Histórico de versão
