@@ -48,7 +48,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Definir os princípios gerais do projeto]() | 17/10 - 20/10 | | Fause e Arthur Sousa | 21/10 | Artur Jackson |
 | [Determinar as metas de usabilidade]() | 17/10 - 20/10 | 19/10 - 21/10 |Artur Jackson e Juan | 21/10 | Amanda e Arthur Sousa |
 | [Criar o guia de estilo]() | 17/10 - 20/10 | 17/10 - 21/10 |Lucas | 22/10 | Artur Jackson |
-| [Determinar as características da plataforma para o projeto]() | 17/10 - 20/10 |  |Amanda e Felipe | 21/10 - 22/10 |  |
+| [Determinar as características da plataforma para o projeto]() | 21/10 |  |Amanda e Felipe | 21/10 - 22/10 | Arthur |
 | [Gravação da apresentação]() | 21/10 - 22/10 | 22/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 22/10 | 22/10 |Artur Jackson | 22/10 | Amanda, Arthur Sousa, Fause, Felipe, Juan, Lucas |
 
