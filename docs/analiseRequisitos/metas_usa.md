@@ -68,8 +68,9 @@ Na realização das tarefas há textos e pop-ups auxiliando sobre algumas inform
 ## Conclusão
 Portanto, a partir da análise das metas de usabilidade neste artefato, foi decidido que as metas mais sensiveis e críticas que seram almejadas no projeto são:
 
-- Segurança
-- Aprendizado
+- **Segurança:** Devido ao site falhar no quesito de não poder reverter determinadas ações.
+
+- **Aprendizado:** Foi escolhido porque apesar de não ser difícil de aprender a utilizar, o site peca em seu design ultrapassado, podendo prejudicar um pouco o aprendizado dos usuários.
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
