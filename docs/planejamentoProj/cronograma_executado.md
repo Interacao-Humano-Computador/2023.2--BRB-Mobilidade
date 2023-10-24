@@ -45,12 +45,12 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 
 | Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
 |-----------|:------------------:|-----------|---------|:-----------:|-----------|
-| [Definir os princípios gerais do projeto]() | 17/10 - 20/10 | 20/10  | Fause e Arthur Sousa | 21/10 | Artur Jackson |
-| [Determinar as metas de usabilidade]() | 17/10 - 20/10 | 19/10 - 21/10 |Artur Jackson e Juan | 21/10 | Amanda e Arthur Sousa |
-| [Criar o guia de estilo]() | 17/10 - 20/10 | 19/10 - 21/10 |Lucas | 22/10 | Artur Jackson |
-| [Determinar as características da plataforma para o projeto]() | 17/10 - 20/10 | 21/10 |Amanda e Felipe | 21/10 - 22/10 | Arthur |
-| [Gravação da apresentação]() | 21/10 - 22/10 | 22/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
-| Edição da apresentação | 22/10 | 22/10 |Artur Jackson | 22/10 | Amanda, Arthur Sousa, Fause, Felipe, Juan, Lucas |
+| [Definir os princípios gerais do projeto](../analiseRequisitos/principios_gerais.md) | 17/10 - 20/10 | 20/10  | Fause e Arthur Sousa | 21/10 | Artur Jackson |
+| [Determinar as metas de usabilidade](../analiseRequisitos/metas_usa.md) | 17/10 - 20/10 | 19/10 - 21/10 |Artur Jackson e Juan | 21/10 | Amanda e Arthur Sousa |
+| [Criar o guia de estilo](../analiseRequisitos/guia_de_estilo.md) | 17/10 - 20/10 | 19/10 - 21/10 |Lucas | 22/10 | Artur Jackson |
+| [Determinar as características da plataforma para o projeto](../analiseRequisitos/caracteristicas_gerais.md) | 17/10 - 20/10 | 21/10 |Amanda e Felipe | 21/10 - 22/10 | Arthur |
+| [Gravação da apresentação](https://youtu.be/Dk47CFnf1pM) | 21/10 - 22/10 | 22/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 22/10 | 22/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 3: Cronograma do Ponto de Controle 3 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
