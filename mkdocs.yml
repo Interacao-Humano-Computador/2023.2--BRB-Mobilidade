@@ -53,6 +53,7 @@ nav:
       - Sobre: analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md
       - HTA: analiseRequisitos/analise_tarefas/hta.md
       - CTT: analiseRequisitos/analise_tarefas/ctt.md
+      - Planejamento dos Resultados da Análise de Tarefas: analiseRequisitos/analise_tarefas/planResAn.md
     - Análise de Requisitos II:
       - Princípios e Diretrizes Gerais: analiseRequisitos/principios_gerais.md
       - Metas de usabilidade: analiseRequisitos/metas_usa.md
