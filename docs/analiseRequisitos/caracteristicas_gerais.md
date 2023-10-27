@@ -53,32 +53,6 @@ O site do BRB Mobilidade não detalha especificamente as tecnologias ou linguage
 - A plataforma está limitada a língua predominante.
 
 
-
-## Entraves
-
-- Não há um suporte para solicitação da segunda via. 
-
-- Há problemas com pagamentos ou processos de pagamentos complexos.
-
-- Não tem como escolher local e data para retirar o cartão ou a segunda via. 
-
-- O saldo em um cartão de transporte tem uma validade definida, após um tempo sem usar, o saldo expira.
-
-- Problemas de atendimento aos clientes que possuem algum tipo de deficiência.
-
-- Não é possível acessar as funcionaldiades sem antes ter validado o cadastro.
-
-- Tem uma presença de textos muito grandes afetando a usabilidade. 
-
-- A funcionalidade de Logoff não possui feedback visual.
-
-- Ícones desproporcionais ao texto (Audio Visual e Abas).
-
-- O cartão antigo fica bloqueado no período de solicitação da segunda via até sua retirada.
-
-
-
-
 ## Histórico de versão
 
 | Versão | Data       |Modificação                             |Autor                         |Revisores                         |
