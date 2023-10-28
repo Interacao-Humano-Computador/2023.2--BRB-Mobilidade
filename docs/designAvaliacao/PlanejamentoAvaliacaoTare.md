@@ -8,8 +8,19 @@ Agora que entendemos o que é avaliação devemos definir qual metodologia iremo
 >tabela<
 
 ### D - Objetivos
+
+O objetivo desta avaliação é entender as interações do usuário com as interfaces e assim definir e identificar problemas que possam estar prejudicando a experiência do usuário, dessa forma é validade os critérios de qualidade como a  acessibilidade , comunicabilidade e usabilidade.Podemos dar ênfases nos seguintes tópicos elencados para a análise 
+
+Problemas na interação e na interface.
+Apropriação da tecnologia pelos usuários.
+Ideias e alternativas de design;
+
 ### E - Explorar
 ### C - Escolher
+
+O método escolhido  para a realização da avaliação foi o método de investigação, no qual o entrevistador busca informações do entrevistado seja por meio de entrevistas, questionários ou até mesmo uma conversa guiada  
+Esta escolha foi levada em conta tendo em vista a grande quantidade de informações que são coletadas durante o processo além de possibilitar o entrevistador se aprofundar ainda mais nas perguntas caso seja necessário e dessa forma ter uma melhor análise e interpretação das expectativas do usuário 
+
 ### I - Identificar
 ### D - Decidir
 ### E - Avaliar, interpretar e apresentar os dados
