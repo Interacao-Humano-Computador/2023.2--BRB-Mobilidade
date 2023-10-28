@@ -21,23 +21,16 @@ O princípio da justiça e equidade na bioética envolve tratar todas as pessoas
 ## TERMO DE CONSENTIMENTO PARA ENTREVISTA COM USUÁRIOS
 
 Eu, [SEU NOME], concordo em participar de uma entrevista a ser conduzida por [NOME DO
-PESQUISADOR] para fins de pesquisa sobre o uso do site BRB Mobilidade para a matéria
-de Interação Humano Computador.
-Eu entendo que a entrevista será realizada com o propósito de coletar informações sobre
-minha experiência, opiniões e percepções em relação ao tópico da pesquisa.
+PESQUISADOR] para fins de pesquisa sobre o uso do site BRB Mobilidade para a matéria de Interação Humano Computador.
+Eu entendo que a entrevista será realizada com o propósito de coletar informações sobre minha experiência, opiniões e percepções em relação ao tópico da pesquisa.
 PROCEDIMENTOS:
 
-A entrevista será conduzida em [LOCAL DA ENTREVISTA] ou [MODO DE ENTREVISTA,
-POR EXEMPLO, "por telefone" ou "por videoconferência"].
-A entrevista deverá durar aproximadamente [DURAÇÃO APROXIMADA DA ENTREVISTA].
-O conteúdo da entrevista será estritamente confidencial e usado apenas para fins de
-pesquisa.
+A entrevista será conduzida em [LOCAL DA ENTREVISTA] ou [MODO DE ENTREVISTA, POR EXEMPLO, "por telefone" ou "por videoconferência"].
+A entrevista deverá durar aproximadamente [DURAÇÃO APROXIMADA DA ENTREVISTA]. O conteúdo da entrevista será estritamente confidencial e usado apenas para fins de pesquisa.
 
 VOLUNTARIEDADE:
 
-Minha participação nesta entrevista é totalmente voluntária. Eu tenho o direito de recusar a
-responder a qualquer pergunta que eu considere desconfortável ou inapropriada, e posso
-retirar meu consentimento a qualquer momento, sem penalidades.
+Estou ciente de que serei respeitado(a) e não serei prejudicado(a) de forma alguma. A longo de todo o processo, inclusive após o fim da entrevista. e que não serei prejudicado de forma alguma. Minha participação nesta entrevista é totalmente voluntária. Eu tenho o direito de recusar a responder a qualquer pergunta que eu considere desconfortável ou inapropriada, e posso retirar meu consentimento a qualquer momento, sem penalidades.
 
 CONFIDENCIALIDADE:
 
@@ -47,7 +40,7 @@ serão divulgados a terceiros sem o meu consentimento.
 
 DIREITO DE ACESSO AOS RESULTADOS:
 
-Eu concordo em ser informado sobre os resultados da pesquisa, se assim desejar, após a
+Eu concordo em ser informado(a) sobre os resultados da pesquisa, se assim desejar, após a
 conclusão do estudo.
 
 CONTATO:
@@ -58,7 +51,7 @@ com [SEU NOME OU DADOS DE CONTATO DO PESQUISADOR].
 CONSENTIMENTO:
 
 Ao concordar com este termo de consentimento, eu afirmo que li e entendi as informações
-acima e concordo em participar desta entrevista.
+acima, sou maior de idade e concordo em participar desta entrevista.
 
 ( ) Aceito participar da entrevista
 
@@ -74,9 +67,9 @@ Data: __ /__ /___
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   11/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)| [Arthur Sousa](https://github.com/arthurrsousa) |
 |    1.1   |   12/10/2023   |   Algumas alterações de conteúdo |  [Lucas Lobão](https://github.com/lucaslobao-18)| [Arthur Sousa](https://github.com/arthurrsousa) |
+|    1.1   |   28/10/2023   |   Algumas alterações de conteúdo | [Arthur Sousa](https://github.com/arthurrsousa) | [Lucas Lobão](https://github.com/lucaslobao-18) |
 
 
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-
