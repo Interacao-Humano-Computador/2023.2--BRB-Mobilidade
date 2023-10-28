@@ -5,7 +5,18 @@ A análise de tarefas possui um papel muito importante  em nosso projeto. Utiliz
 ## Metodologia 
 Agora que entendemos o que é avaliação devemos definir qual metodologia iremos utilizar, e para realizar este planejamento o framework DECIDE será utilizado.
 
->tabela<
+Tabela 1 - Diagram decide
+
+| Letra | significado  | 
+|--- |--- |
+| D | Determinar os objetivos da avaliação. |
+| E | Explorar perguntas a serem respondidas com a avaliação. | 
+| C | Escolher os métodos de avaliação a serem utilizados. |
+| I | Identificar e administrar as questões práticas da avaliação. |
+| D | Decidir como lidar com as questões éticas. |
+| E | Avaliar, interpretar e apresentar os dados |
+
+Fonte - BARBOSA e SILVA (2011).
 
 ### D - Objetivos
 
@@ -16,6 +27,22 @@ Apropriação da tecnologia pelos usuários.
 Ideias e alternativas de design;
 
 ### E - Explorar
+
+| Ordem | Pergunta |Tipo de pergunta | Opções de Resposta |
+|--- |--- |---  |--- |
+|  1 | Qual o seu nome? | Aberta |- |
+|  2 | Qual a sua idade? | Aberta |-| 
+| 3 | Qual o seu grau de ensino? | Aberta |-| 
+| 4 | Qual a sua ocupação? | Aberta |- | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | - |
+| 6 | Ao observar o diagrama da 2 via e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim/Não| 
+| 7 | Ao observar o diagrama de Extensão de acesso e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim/Não| 
+| 8 | Ao observar o diagrama da Troca de instituição  e sua sequência de tarefas, o processo parece de acordo com a realidade? |Fechada |Sim/Não | 
+| 8 | Ao observar o diagrama do Liberar cartão  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim/Não| 
+| 10 | Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim/Não | 
+| 11 | Ao observar o diagrama da Alteração de foto  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim/Não | 
+| 12 | Ao observar o diagrama do Meus acessos  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim/Não | 
+
 ### C - Escolher
 
 O método escolhido  para a realização da avaliação foi o método de investigação, no qual o entrevistador busca informações do entrevistado seja por meio de entrevistas, questionários ou até mesmo uma conversa guiada  
