@@ -61,6 +61,7 @@ nav:
       - Guia de Estilo: analiseRequisitos/guia_de_estilo.md
   - Design, Avaliação e Desenvolvimento:
     - Nivel 1:
+      - Storyboard: designAvaliacao/storyboard/storyboards.md
       - Planejamento da avaliação dos Storyboards: designAvaliacao/storyboard/planejamentoAvaliacao.md
       - Planejamento do relato dos resultados Storyboard: designAvaliacao/storyboard/planejamentoResultados.md
   - Encontros: reunioes.md
