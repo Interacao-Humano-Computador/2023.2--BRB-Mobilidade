@@ -6,23 +6,47 @@ Neste artefato , descreveremos a abordagem para apresentar os resultados da aval
 
 Com base nos tópicos mencionados, e também incorporando a avaliação descrita por Barbosa e Silva, adaptaremos esses elementos ao documento que a equipe está desenvolvendo, abordando:
 
-- **Objetivo e alcance da avaliação:** Esclarecendo os objetivos gerais e o âmbito da avaliação, definindo o que esperamos alcançar com o processo.
+- Objetivo e alcance da avaliação:
 
-- **Método de avaliação:** Descrevendo a estratégia ou método de avaliação que será aplicado, incluindo detalhes sobre como coletaremos e analisaremos os dados.
+Objetivos Gerais: Os objetivos da avaliação são definidos para esclarecer o propósito subjacente ao processo. Isso envolve identificar o que se espera alcançar com a avaliação, como a melhoria de um produto, a otimização de um processo ou a obtenção de feedback dos usuários.
 
-- **Seleção dos participantes:** Explicando como os participantes foram escolhidos para participar da avaliação, levando em consideração critérios de seleção e estratégias de recrutamento.
+Âmbito da Avaliação: O escopo da avaliação é delimitado para determinar quais aspectos do projeto, processo ou produto serão avaliados. Isso pode incluir a análise de funcionalidades específicas, segmentos de um processo ou o projeto como um todo.
 
-- **Escopo da entrevista:** Deve ser descrito as perguntas realizadas na avaliação.
+- Método de avaliação:
 
-- **Desafios e obstáculos encontrados:** Identificando quaisquer problemas ou dificuldades que surgiram durante a avaliação e como eles foram abordados.
+Estratégia de Avaliação: O método de avaliação a ser aplicado é descrito. Isso engloba a escolha de uma estratégia, como pesquisa qualitativa, pesquisa quantitativa, testes de usabilidade ou revisão documental, com base em sua adequação aos objetivos da avaliação.
 
-- **Feedback dos usuários:** Resumindo o feedback e as opiniões fornecidas pelos usuários durante a avaliação.
+Coleta e Análise de Dados: Detalhes sobre a coleta de dados, incluindo entrevistas, questionários, observações ou análise de métricas, são fornecidos, juntamente com informações sobre como os dados serão analisados, seja por meio de análise estatística, análise de conteúdo, ou outra abordagem.
 
-- **Análise e interpretação dos resultados:** Descrevendo como os dados coletados foram analisados e interpretados, destacando os principais insights e tendências observados.
+- Seleção dos Participantes:
 
-- **Resumo dos principais resultados:** Apresentando de forma concisa os resultados mais significativos da avaliação.
+Critérios de Seleção: Os critérios usados para a seleção de participantes são especificados, com base em fatores como idade, experiência prévia, perfil demográfico ou outros relevantes para a avaliação.
 
-- **Planejamento de reprojeto:** Discutindo quaisquer planos ou ações futuras que surgiram a partir dos resultados da avaliação, especialmente no que diz respeito a ajustes ou melhorias no projeto.
+Estratégias de Recrutamento: São explicadas as estratégias de recrutamento adotadas para atrair participantes, seja por meio de convites diretos, anúncios públicos ou outras táticas de recrutamento, a fim de garantir representatividade.
+
+- Escopo da Entrevista:
+
+O escopo das entrevistas ou questionários é delineado, incluindo os tópicos e perguntas a serem abordados, que podem variar de feedback sobre a experiência do usuário a sugestões de melhoria.
+Desafios e Obstáculos Encontrados:
+
+São identificados os desafios ou problemas que surgiram durante a avaliação, juntamente com as medidas tomadas para abordá-los e manter a integridade do processo.
+
+- Feedback dos Usuários:
+
+É resumido o feedback e as opiniões fornecidas pelos participantes, destacando tendências e temas significativos que emergiram durante as entrevistas ou questionários.
+
+- Análise e Interpretação dos Resultados:
+
+Descreve-se a maneira como os dados coletados foram analisados e interpretados, frequentemente com o auxílio de gráficos, tabelas e estatísticas para visualizar os resultados e identificar insights relevantes.
+
+- Resumo dos Principais Resultados:
+
+Apresenta-se um resumo conciso dos resultados mais relevantes da avaliação, incluindo problemas críticos, feedback positivo e áreas que demandam melhorias.
+
+- Planejamento de Reprojeto:
+
+Discute-se quais ações ou planos futuros surgiram a partir dos resultados da avaliação, abordando melhorias no projeto, correções de problemas identificados, ajustes de design ou outras medidas para aprimorar o produto ou processo com base no feedback recebido.
+
 
 ## Cronograma
 
