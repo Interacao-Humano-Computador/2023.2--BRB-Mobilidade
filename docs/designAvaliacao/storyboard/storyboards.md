@@ -27,12 +27,12 @@ Na figura 2, é apresentado o storyboard feito pelo Fause Junior, onde é mostra
 
 ### Storyboard 3
 
-Na figura 3, é apresentado o storyboard feito pelo Artur Jackson, onde é mostrada a tarefa de [****]().
+Na figura 3, é apresentado o storyboard feito pelo Artur Jackson, onde é mostrada a tarefa de [**Troca de Instituição**]().
 
-![Storyboard - Extensão de acessos](../../assets/storyboards/SB_Artur.png)
+![Storyboard - Troca de  Instituição](../../assets/storyboards/SB_ArturJackson.png)
 
 <div style="text-align: center">
-    <p>Figura 3: Storyboard de extensão de acessos. (Fonte: Artur Jackson, 2023)</p>
+    <p>Figura 3: Storyboard de troca de instituição. (Fonte: Artur Jackson, 2023)</p>
 </div>
 
 
