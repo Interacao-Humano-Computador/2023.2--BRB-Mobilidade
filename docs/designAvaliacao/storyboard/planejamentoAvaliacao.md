@@ -2,12 +2,12 @@
 
 Com base no framework DECIDE, iremos avaliar os storyboards desenvolvidos para o projeto. O objetivo dessa avaliação é verificar se os [storyboards](./storyboards.md) estão claros e se o passo a passo está bem desenvolvido, para que o usuário consiga compreender a história e realizar a tarefa proposta.
 
-
 ## Metodologia
 
  A avaliação de storyboard é uma etapa importante para o desenvolvimento e até para o entendimento de todo o escopo do que está sendo produzido. Desse modo, optamos por utilizar o método de entrevistas, aplicado juntamente com o framework DECIDE para avaliar a qualidade e eficácia dos storyboards anteriormente desenvolvidos.
 
  O framework DECIDE é divido em (Preece et al, 2013):
+
  - **D:** Determinar os objetivos gerais da avaliação
  - **E:** Explorar as perguntas a serem respondidas
  - **C:** Escolher os métodos de avaliação
@@ -93,6 +93,17 @@ A fim de observar os princípios éticos e resguardar o participante quanto a su
 
 A avaliação dos resultados será discutida por todos os integrantes em reunião a fim de se chegar a um consenso sobre os pontos que precisam ser melhorados ou os que já estão de acordo com o esperado.
 
+## Teste Piloto
+
+Antes de conduzir as entrevistas com os participantes selecionados, será realizado um teste piloto. Esse teste tem como objetivo garantir que o planejamento está adequado, que a avaliação está gerando os dados necessários e que todas as ferramentas requeridas para o processo de avaliação estão funcionando conforme o planejado. Durante o teste piloto, temos a oportunidade de testar os métodos e procedimentos em uma escala reduzida, o que ajuda a identificar e resolver quaisquer problemas no plano de avaliação antes de iniciar a avaliação completa. Um dos avaliadores conduzirá a avaliação como se fosse uma entrevista real, e os resultados e a gravação deste teste serão cuidadosamente registrados no relatório de resultados. Qualquer ajuste necessário no planejamento será feito com base nas descobertas do teste piloto antes de dar início às entrevistas oficiais.
+
+Nesse sentido, o teste piloto da avaliação de storyboard será executado pelos integrantes Lucas Lobão e Arthur Sousa no dia 31/10, entre 12:00 e 13:00 de forma presencial na UnB(Campus do Gama), caso não seja possível realizar nesse horário o teste piloto será realizado de forma online utilizando a plataforma Microsoft Teams.
+
+### Objetivos do teste piloto
+
+- Identificar se o tempo da entrevista está de acordo com o esperado
+- Testar a dinâmica da entrevista
+- Verificar se os comandos e questões são de fácil compreensão
 
 ## Bibliografia
 
