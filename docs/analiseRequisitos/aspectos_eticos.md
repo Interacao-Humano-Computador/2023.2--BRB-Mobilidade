@@ -30,7 +30,7 @@ A entrevista deverá durar aproximadamente [DURAÇÃO APROXIMADA DA ENTREVISTA].
 
 VOLUNTARIEDADE:
 
-Estou ciente de que serei respeitado(a) e não serei prejudicado(a) de forma alguma. A longo de todo o processo, inclusive após o fim da entrevista. e que não serei prejudicado de forma alguma. Minha participação nesta entrevista é totalmente voluntária. Eu tenho o direito de recusar a responder a qualquer pergunta que eu considere desconfortável ou inapropriada, e posso retirar meu consentimento a qualquer momento, sem penalidades.
+Estou ciente de que serei respeitado(a) e não serei prejudicado(a) de forma alguma. A longo de todo o processo, inclusive após o fim da entrevista e que não serei prejudicado de forma alguma. Minha participação nesta entrevista é totalmente voluntária. Eu tenho o direito de recusar a responder a qualquer pergunta que eu considere desconfortável ou inapropriada, e posso retirar meu consentimento a qualquer momento, sem penalidades.
 
 CONFIDENCIALIDADE:
 
