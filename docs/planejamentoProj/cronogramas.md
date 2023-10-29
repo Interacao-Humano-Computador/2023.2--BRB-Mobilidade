@@ -99,7 +99,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | [Relatar os resultados do Story Board]() | 31/10 - 04/11 | Amanda e Artur Jakcson  | 04/11 | Lucas |
 | [Relatar a análise de tarefas]() | 31/10 - 04/11 | Juan | 04/11 | Juan |
 | [Planejar a avaliação do protótipo de papel]() | 31/10 - 04/11 | Lucas e Felipe | 04/11 | Amanda |
-| [Planejar o relato dos resultados da avaliação do protótipo de papel]() | 31/10 - 04/11 | Arthur e Fause | 04/11 |Fause |
+| [Planejar o relato dos resultados da avaliação do protótipo de papel]() | 31/10 - 04/11 | Arthur Sousa e Fause | 04/11 | Artur Jackson |
 | [Gravação da apresentação]() | 04/11 - 06/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 06/11 - 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
@@ -112,11 +112,11 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| [Verificação dos artefatos da Etapa 1]() | 09/11 - 11/11 | Juan e Lucas | 11/11 - 12/11 | Arthur Sousa |
-| [Verificação dos artefatos da Etapa 2]() | 09/11 - 11/11 | Artur Jackson e Amanda | 11/11 - 12/11 | Arthur Sousa |
-| [Verificação dos artefatos da Etapa 3]() | 09/11 - 11/11 | Felipe | 11/11 - 12/11 | Lucas |
-| [Verificação dos artefatos da Etapa 4]() | 09/11 - 11/11 | Fause | 11/11 - 12/11 | Arthur Sousa |
-| [Verificação dos artefatos da Etapa 5]() | 09/11 - 11/11 | Lucas Gobbi e Igor Penha | 11/11 - 12/11 | Fause |
+| [Verificação dos artefatos da Etapa 1]() | 09/11 - 11/11 | Felipe | 11/11 - 12/11 | Juan |
+| [Verificação dos artefatos da Etapa 2]() | 09/11 - 11/11 | Amanda | 11/11 - 12/11 | Arthur Sousa |
+| [Verificação dos artefatos da Etapa 3]() | 09/11 - 11/11 | Artur Jackson | 11/11 - 12/11 | Lucas |
+| [Verificação dos artefatos da Etapa 4]() | 09/11 - 11/11 | Fause e Juan | 11/11 - 12/11 | Arthur Sousa |
+| [Verificação dos artefatos da Etapa 5]() | 09/11 - 11/11 | Arthur Sousa e Lucas | 11/11 - 12/11 | Fause |
 | [Gravação da apresentação]() | 11/11 - 13/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 13/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | 9. Edição da apresentação | 13/11 - 14/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
@@ -130,8 +130,8 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
 | [Relato dos resultados do Protótipo de Papel]() | 16/11 - 18/11 | Arthur Sousa e Amanda | 18/11 - 19/11 | Juan | 
-| [Planejamento da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Juan e Fause | 18/11 - 19/11 | Amanda | 
-| [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Artur Jackson, Felipe e Lucas | 18/11 - 19/11 | Arthur Sousa | 
+| [Planejamento da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Juan, Felipe e Fause | 18/11 - 19/11 | Amanda | 
+| [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Artur Jackson e Lucas | 18/11 - 19/11 | Arthur Sousa | 
 | [Gravação da apresentação]() | 19/11 - 20/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 20/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 
 | 6. Edição da apresentação | 21/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 21/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 

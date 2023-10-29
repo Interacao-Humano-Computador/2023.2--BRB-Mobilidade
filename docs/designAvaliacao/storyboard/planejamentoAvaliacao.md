@@ -6,7 +6,7 @@ Com base no framework DECIDE, iremos avaliar os storyboards desenvolvidos para o
 
  A avaliação de storyboard é uma etapa importante para o desenvolvimento e até para o entendimento de todo o escopo do que está sendo produzido. Desse modo, optamos por utilizar o método de entrevistas, aplicado juntamente com o framework DECIDE para avaliar a qualidade e eficácia dos storyboards anteriormente desenvolvidos.
 
- O framework DECIDE é divido em (Preece et al, 2013):
+ O framework DECIDE é divido em:
 
  - **D:** Determinar os objetivos gerais da avaliação
  - **E:** Explorar as perguntas a serem respondidas
@@ -55,7 +55,7 @@ Foi utilizado o método de entrevista porque ela permite a exploração de subje
 Os responsáveis por fazer a avaliação são os integrantes desse projeto (Lucas Andrade, Amanda Abreu, Arthur Jackson, Arthur Sousa, Juan Pablo, Fause e Felipe Hansen)
 Material a ser utilizado:
 
-1. O storyboard
+1. O [storyboard](./storyboards.md)
 2. Documento com as orientações do que deve ser avaliado
 3. Caneta e papel, ou, editor de texto da preferência do avaliador
 

@@ -60,10 +60,10 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 
 | Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
 |-----------|:------------------:|-----------|---------|:-----------:|-----------|
-| [Planejar a avaliação do Story Board]() | 24/10 - 27/10 |   | Lucas e Arthur Sousa |  |  |
-| [Planejar o relato dos resultados da avaliação do Story Board]() | 24/10 - 27/10 | 27/10 - 28/10 |Amanda e Artur Jackson| 28/10 | Arthur Sousa |
-| [Planejar a avaliação da Análise de Tarefas]() | 24/10 - 27/10 |  |Fause e Felipe |  | |
-| [Planejar o relato dos resultados da avaliação da Análise de Tarefas]() | 24/10 - 27/10 |  |Juan |  | |
+| [Planejar a avaliação do Story Board](../designAvaliacao/storyboard/planejamentoAvaliacao.md) | 27/10 - 28/10 |   | Lucas e Arthur Sousa |  |  |
+| [Planejar o relato dos resultados da avaliação do Story Board](../designAvaliacao/storyboard/planejamentoResultados.md) | 24/10 - 27/10 | 27/10 - 28/10 |Amanda e Artur Jackson| 28/10 | Arthur Sousa |
+| [Planejar a avaliação da Análise de Tarefas](../designAvaliacao/PlanejamentoAvaliacaoTare.md) | 24/10 - 27/10 |  |Fause e Felipe |  | |
+| [Planejar o relato dos resultados da avaliação da Análise de Tarefas](../designAvaliacao/planResAn.md) | 24/10 - 27/10 |  |Juan |  | |
 | [Gravação da apresentação](https://youtu.be/PtNKCpDUTOU) | 28/10 - 29/10 | 29/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 29/10 | 29/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
