@@ -52,8 +52,7 @@ nav:
     - Análise de tarefas:
       - Sobre: analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md
       - HTA: analiseRequisitos/analise_tarefas/hta.md
-      - CTT: analiseRequisitos/analise_tarefas/ctt.md
-      - Planejamento dos Resultados da Análise de Tarefas: analiseRequisitos/analise_tarefas/planResAn.md
+      - CTT: analiseRequisitos/analise_tarefas/ctt.md 
     - Análise de Requisitos II:
       - Princípios e Diretrizes Gerais: analiseRequisitos/principios_gerais.md
       - Metas de usabilidade: analiseRequisitos/metas_usa.md
@@ -65,6 +64,7 @@ nav:
       - Planejamento da avaliação dos Storyboards: designAvaliacao/storyboard/planejamentoAvaliacao.md
       - Planejamento do relato dos resultados Storyboard: designAvaliacao/storyboard/planejamentoResultados.md
       - Planejamento da avaliação de tarefas: designAvaliacao/PlanejamentoAvaliacaoTare.md
+      - Planejamento dos Relatos dos Resultados da Análise de Tarefas: analiseRequisitos/analise_tarefas/planResAn.md
   - Encontros: reunioes.md
 
 markdown_extensions:
