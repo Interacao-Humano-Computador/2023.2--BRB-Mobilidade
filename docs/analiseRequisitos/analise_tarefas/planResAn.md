@@ -50,7 +50,15 @@ Tarefa 3 - Extensão de Acessos
 - Visualizar e checar se é possível preencher os campos para solicitar a extensão de acesso
 Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
-Tarefa 4 - Troca de Endereço
+Tarefa 4 - Meus Acessos
+
+- Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
+- Clicar na opção estudantil
+- Visualizar e clicar na opção acompanhamento de cadastro
+- Preencher as informações de Login com CPF e senha
+- Visualizar e clicar em meus acessos para visualizar a sua frequência
+
+Tarefa 5 - Troca de Endereço
 
 - Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
 - Clicar na opção estudantil
@@ -59,7 +67,7 @@ Tarefa 4 - Troca de Endereço
 - Visualizar e checar se é possível preencher os campos para trocar o endereço
 Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
-Tarefa 5 - Troca de Instituição
+Tarefa 6 - Troca de Instituição
 
 - Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
 - Clicar na opção estudantil
@@ -67,6 +75,16 @@ Tarefa 5 - Troca de Instituição
 - Preencher as informações de Login com CPF e senha
 - Visualizar e checar se é possível preencher os campos para trocar a insituição
 Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
+
+Tarefa 7 - Alteração de foto
+
+- Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
+- Clicar na opção estudantil
+- Visualizar e clicar na opção acompanhamento de cadastro
+- Preencher as informações de Login com CPF e senha
+- Visualizar e realizar a troca de foto, caso queira.
+Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
+
 
 
 ## Conclusão
