@@ -17,13 +17,44 @@ Os participantes não podem ter vínculo com os entrevistadores, uma vez que os 
 
 ## Calendário 
 O grupo deve agendar a entrevista com o participante, registrando as informações de data, horário e local no artefato de resultados da entrevista. As datas, horários, locais e entrevistadores estão descritos em [Identificadores da Entrevista](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/PlanejamentoAvaliacaoTare/#i-identificar).
-## Dados Colhidos
+
+## Abordagem
+Ao encontrar o perfil desejado, é crucial informar o participante sobre todas as etapas e detalhes. Em seguida, realize um teste piloto para esclarecer dúvidas que possam impactar a qualidade e integridade dos dados coletados.
+
+## Tarefas:
+Tarefas realizadas pelo usuários entrevistados seguindo a sequência definida abaixo:
+
+Tarefa 1 - Acompanhar cadastro
+
+- Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
+- Clicar na opção estudantil
+- Visualizar e clicar na opção acompanhamento de cadastro
+- Preencher as informações de Login com CPF e senha
+- Verificar se abre a aba status e aparece como aprovado, uma vez que o usuário já possui o cartão estudantil.
+
+Tarefa 2 - 2° Via
+
+- Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
+- Clicar na opção estudantil
+- Visualizar e clicar na opção 2° via
+- Preencher as informações de Login com CPF e senha
+- Visulizar e checar se é possível preencher as informações para solicitar 2° via
+Observação: não é necessário efetivar a solicitação a fim de não prejudicar o usuário.
+
+Tarefa 3 - Extensão de Acessos
+
+- Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
+- Clicar na opção estudantil
+- Visualizar e clicar na opção extensão de Acessos
+- Preencher as informações de Login com CPF e senha
+- Visualizar e checar se é possível preencher os campos para solicitar a extensão de acesso
+Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
 
-## Empecilhos Diagnosticados
 
 
 ## Conclusão
+Os avaliadores devem apresentar de forma resumida os resultados por meio de um documento, seguindo as diretrizes de Barbosa e Silva (2021). Isso engloba informações sobre os objetivos, escopo e procedimentos da avaliação, a quantidade e perfil dos participantes (usuários e avaliadores), um resumo dos dados coletados com tabelas e gráficos, a interpretação e análise desses dados, uma enumeração dos problemas identificados e um plano para o redesenho do sistema.
 
 
 ## Referências Bibliográficas
@@ -36,3 +67,4 @@ O grupo deve agendar a entrevista com o participante, registrando as informaçõ
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   25/10/2023   |   Criação da página |[Juan Pablo](https://github.com/Juan-Ricarte)|  [Lucas Lobão](https://github.com/lucaslobao-18)|
 | 1.1 | 29/10/2023 | Acréscimo de informações | [Juan Pablo](https://github.com/Juan-Ricarte)|  [Lucas Lobão](https://github.com/lucaslobao-18)|
+| 1.2 | 29/10/2023 | Finaliza | [Juan Pablo](https://github.com/Juan-Ricarte)|  [Lucas Lobão](https://github.com/lucaslobao-18)|
