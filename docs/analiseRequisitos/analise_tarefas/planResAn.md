@@ -50,6 +50,15 @@ Tarefa 3 - Extensão de Acessos
 - Visualizar e checar se é possível preencher os campos para solicitar a extensão de acesso
 Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
+Tarefa 4 - Troca de Endereço
+
+- Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
+- Clicar na opção estudantil
+- Visualizar e clicar na opção troca de endereço
+- Preencher as informações de Login com CPF e senha
+- Visualizar e checar se é possível preencher os campos para trocar o endereço
+Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
+
 
 
 
