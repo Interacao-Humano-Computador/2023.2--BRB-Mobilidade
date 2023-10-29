@@ -5,7 +5,6 @@ A análise de tarefas possui um papel muito importante  em nosso projeto. Utiliz
 ## Metodologia 
 Agora que entendemos o que é avaliação devemos definir qual metodologia iremos utilizar, e para realizar este planejamento o framework DECIDE[1] será utilizado.
 
-Tabela 1 - Diagram decide
 
 | Letra | significado  | 
 |--- |--- |
@@ -17,6 +16,10 @@ Tabela 1 - Diagram decide
 | E | Avaliar, interpretar e apresentar os dados |
 
 Fonte - BARBOSA e SILVA (2011).
+
+<div style="text-align: center">
+    <p> Tabela 1: Diagram decide (Fonte: BARBOSA e SILVA (2011).).</p>
+</div>
 
 ### D - Objetivos
 
@@ -43,7 +46,10 @@ Ideias e alternativas de design;
 | 11 | Ao observar o diagrama da Alteração de foto  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim/Não | 
 | 12 | Ao observar o diagrama do Meus acessos  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim/Não | 
 
-Fonte - Fause Júnior (2023)
+<div style="text-align: center">
+    <p> Tabela 2: Perguntas do Explorar (Fonte: Fause, 2023).</p>
+</div>
+
 ### C - Escolher
 
 O método escolhido  para a realização da avaliação foi o método de investigação, no qual o entrevistador busca informações do entrevistado seja por meio de entrevistas, questionários ou até mesmo uma conversa guiada  
@@ -70,6 +76,7 @@ A tabela 3 representa o cronograma para essa etapa das entrevistas.
 <div style="text-align: center">
     <p> Tabela 3: Cronograma da Entrevista da Análise de Tarefas (Fonte: Felipe, 2023).</p>
 </div>
+
 ### D - Decidir
 
 Para lidar com as questões éticas, utilizaremos um <a href="https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/aspectos_eticos/" target= "_blank">termo de consentimento</a> como forma de informar os participantes da pesquisa sobre os detalhes essenciais do projeto e garantir que eles compreendam completamente o que estão concordando ao participar. Além disso, esse termo de consentimento serve para proteger os direitos e a privacidade dos participantes, assegurando que sua participação seja voluntária e baseada em seu pleno entendimento.
