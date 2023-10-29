@@ -81,7 +81,7 @@ A avaliação de dados durante a interação com um site é um processo fundamen
 
 Um teste piloto desempenha um papel crucial em projetos e processos, pois oferece uma oportunidade para identificar problemas, avaliar o desempenho, coletar feedback e validar suposições antes da implementação completa. Ele permite ajustes e melhorias com base na experiência real, minimiza riscos ao detectar problemas precocemente e economiza recursos ao evitar correções onerosas após o lançamento. Além disso, o teste piloto auxilia na familiarização e treinamento das partes envolvidas, contribuindo para o sucesso global de um projeto ou sistema.
 
-A partir disso, o teste piloto será executado pelos Integrantes Felipe Hansen e Fause Carlos no dia 04/11 de forma a simular a entevista.
+A partir disso, o teste piloto será executado pelos Integrantes Felipe Hansen e Fause Carlos no dia 31/10 de forma a simular a entevista.
 
 ## Bibliografia
 
