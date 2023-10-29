@@ -29,6 +29,13 @@ O vídeo da reunião está disponivel nesse <a href="https://unbbr.sharepoint.co
 
 [Baixar ata da reunião em PDF](atas/04_Ata%2019_10.pdf)
 
+## Reunião 26 de outubro
+
+O vídeo da reunião está disponivel nesse link
+atas\05_Ata 26_10.pdf
+
+[Baixar ata da reunião em PDF](atas/05_Ata%26_10.pdf)
+
 
 ## Histórico de versão
 
@@ -37,3 +44,4 @@ O vídeo da reunião está disponivel nesse <a href="https://unbbr.sharepoint.co
 |    1.0   |   29/09/2023   |   Declaração das Atas de Reunião | [Felipe Hansen](https://github.com/FHansen98) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
 |    1.1   |   15/10/2023   |   Declaração das Atas de Reunião | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
 |    1.2   |   21/10/2023   |   Declaração das Atas de Reunião | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
+|    1.2   |   29/10/2023   |   Declaração das Atas de Reunião | [Fause Carlos](https://github.com/FauseSkyWalker) | - |
