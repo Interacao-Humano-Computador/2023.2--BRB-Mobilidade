@@ -59,7 +59,14 @@ Tarefa 4 - Troca de Endereço
 - Visualizar e checar se é possível preencher os campos para trocar o endereço
 Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
+Tarefa 5 - Troca de Instituição
 
+- Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
+- Clicar na opção estudantil
+- Visualizar e clicar na opção troca de instituição
+- Preencher as informações de Login com CPF e senha
+- Visualizar e checar se é possível preencher os campos para trocar a insituição
+Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
 
 ## Conclusão
