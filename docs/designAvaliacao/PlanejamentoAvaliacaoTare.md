@@ -3,7 +3,7 @@
 A análise de tarefas possui um papel muito importante  em nosso projeto. Utilizando as informações obtidas através do perfil do usuário, essa etapa foi realizada com o objetivo  de obter informações adicionais sobre as funcionalidades do site BRB Mobilidade. É de suma importância garantir que todo o processo seja conduzido da maneira correta. Para que isso seja possível, é essencial criar um planejamento detalhado que nos ajude e nos dê um direcionamento de como construir e executar cada etapa. Abaixo está a metodologia utilizada neste processo.
 
 ## Metodologia 
-Agora que entendemos o que é avaliação devemos definir qual metodologia iremos utilizar, e para realizar este planejamento o framework DECIDE será utilizado.
+Agora que entendemos o que é avaliação devemos definir qual metodologia iremos utilizar, e para realizar este planejamento o framework DECIDE[1] será utilizado.
 
 Tabela 1 - Diagram decide
 
@@ -43,6 +43,7 @@ Ideias e alternativas de design;
 | 11 | Ao observar o diagrama da Alteração de foto  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim/Não | 
 | 12 | Ao observar o diagrama do Meus acessos  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim/Não | 
 
+Fonte - Fause Júnior (2023)
 ### C - Escolher
 
 O método escolhido  para a realização da avaliação foi o método de investigação, no qual o entrevistador busca informações do entrevistado seja por meio de entrevistas, questionários ou até mesmo uma conversa guiada  
