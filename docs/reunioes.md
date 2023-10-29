@@ -5,9 +5,6 @@ As reuniões do grupo são agendadas de forma consistente às quintas-feiras, à
 ## Reunião 21 de setembro
 O vídeo da reunião está disponivel nesse <a href="https://www.youtube.com/watch?v=TPKZ5yOYuMM" target= "_blank">link</a>.
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=TPKZ5yOYuMM">
-</video>
 
 [Baixar ata da reunião em PDF](https://github.com/Interacao-Humano-Computador/2023.2-Grupo05/raw/main/docs/atas/01_Ata21_09.pdf)
 

@@ -56,6 +56,20 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
     <p> Tabela 3: Cronograma do Ponto de Controle 3 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
 </div>
 
+## Entrega 4
+
+| Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
+|-----------|:------------------:|-----------|---------|:-----------:|-----------|
+| [Planejar a avaliação do Story Board]() | 24/10 - 27/10 |   | Lucas e Arthur Sousa |  |  |
+| [Planejar o relato dos resultados da avaliação do Story Board]() | 24/10 - 27/10 | 27/10 - 28/10 |Amanda e Artur Jackson| 28/10 | Arthur Sousa |
+| [Planejar a avaliação da Análise de Tarefas]() | 24/10 - 27/10 |  |Fause e Felipe |  | |
+| [Planejar o relato dos resultados da avaliação da Análise de Tarefas]() | 24/10 - 27/10 |  |Juan |  | |
+| [Gravação da apresentação](https://youtu.be/PtNKCpDUTOU) | 28/10 - 29/10 | 29/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 29/10 | 29/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+
+<div style="text-align: center">
+    <p> Tabela 4: Cronograma do Ponto de Controle 4 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
+</div>
 
 ## Bibliografia
 

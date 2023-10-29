@@ -84,7 +84,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | [Planejar o relato dos resultados da avaliação do Story Board]() | 24/10 - 27/10 | Amanda e Artur Jackson | 27/10 - 28/10 | Arthur Sousa |
 | [Planejar a avaliação da Análise de Tarefas]() | 24/10 - 27/10 | Fause e Felipe | 27/10 - 28/10 | Lucas |
 | [Planejar o relato dos resultados da avaliação da Análise de Tarefas]() | 24/10 - 27/10 | Juan | 27/10 - 28/10 | Felipe |
-| [Gravação da apresentação]() | 28/10 - 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://youtu.be/PtNKCpDUTOU) | 28/10 - 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
