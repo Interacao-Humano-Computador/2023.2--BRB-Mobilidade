@@ -62,8 +62,8 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 |-----------|:------------------:|-----------|---------|:-----------:|-----------|
 | [Planejar a avaliação do Story Board](../designAvaliacao/storyboard/planejamentoAvaliacao.md) | 24/10 - 27/10 | 27/10 - 28/10  | Lucas e Arthur Sousa | 28/10 | Amanda |
 | [Planejar o relato dos resultados da avaliação do Story Board](../designAvaliacao/storyboard/planejamentoResultados.md) | 24/10 - 27/10 | 27/10 - 28/10 |Amanda e Artur Jackson| 28/10 | Arthur Sousa |
-| [Planejar a avaliação da Análise de Tarefas](../designAvaliacao/PlanejamentoAvaliacaoTare.md) | 24/10 - 27/10 |  |Fause e Felipe |  | |
-| [Planejar o relato dos resultados da avaliação da Análise de Tarefas](../designAvaliacao/planResAn.md) | 24/10 - 27/10 |  |Juan |  | |
+| [Planejar a avaliação da Análise de Tarefas](../designAvaliacao/PlanejamentoAvaliacaoTare.md) | 24/10 - 27/10 | 27/10 |Fause e Felipe | 30/10 | Lucas |
+| [Planejar o relato dos resultados da avaliação da Análise de Tarefas](../designAvaliacao/planejamentoResultados.md) | 24/10 - 27/10 | 27/10 |Juan | 30/10 | Felipe Hansen |
 | [Gravação da apresentação](https://youtu.be/PtNKCpDUTOU) | 28/10 - 29/10 | 29/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 29/10 | 29/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
