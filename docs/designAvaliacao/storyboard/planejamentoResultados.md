@@ -63,4 +63,4 @@ Além dos tópicos mencionados acima, o documento com o relato dos resultados ta
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   27/10/2023   |   Criação da página |  [Amanda](https://github.com/Amandaaaaabreu) e  [Artur Jackson](https://github.com/artur-jack) |  []()|
+|    1.0   |   27/10/2023   |   Criação da página |  [Amanda](https://github.com/Amandaaaaabreu) e  [Artur Jackson](https://github.com/artur-jack) |  [Arthur Sousa](https://github.com/arthurrsousa)|
