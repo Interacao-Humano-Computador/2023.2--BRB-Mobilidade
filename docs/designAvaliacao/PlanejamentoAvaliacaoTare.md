@@ -91,6 +91,11 @@ Um teste piloto desempenha um papel crucial em projetos e processos, pois oferec
 
 A partir disso, o teste piloto será executado pelos Integrantes Felipe Hansen e Fause Carlos no dia 31/10 de forma a simular a entevista.
 
+## Teste Piloto
+
+<iframe width="110%" height="450px" src="https://youtu.be/ucZZcXcBq84" frameborder="0" allowfullscreen></iframe>
+
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
