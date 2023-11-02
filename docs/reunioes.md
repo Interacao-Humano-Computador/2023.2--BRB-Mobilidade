@@ -34,7 +34,7 @@ O vídeo da reunião está disponivel nesse
 ## Reunião 26 de outubro
 O vídeo da reunião está disponivel nesse <a href="https://youtu.be/uxqcwOTXwjQ" target= "_blank">link</a>. 
 
-[Baixar ata da reunião em PDF](atas/05_Ata%26_10.pdf)
+[Baixar ata da reunião em PDF](atas/05_Ata%2026_10.pdf)
 
 
 ## Histórico de versão
