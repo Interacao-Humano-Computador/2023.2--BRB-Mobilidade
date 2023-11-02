@@ -185,19 +185,18 @@ Anexar um documento de comprovação (declaração de passe, declaração de ví
 | ------ | ------ | ------ |
 |0. Troca de instituição| 1/2 |**input:** formulário para solicitação de troca, incluindo anexo do documento que comprova o vínculo com a instituição. **plano:** escolher entre acompanhar solicitações ou fazer uma nova solicitação, visualizar a lista de solicitações e responder formulário|
 |1. Nova solicitação| 1>2 |**input:** formulário com os dados da solicitação,matrícula, instituição de ensino, modalidade, selecionar curso, (série, período, ano), observações, anexo de documentos. **plano:** inserir/selecionar as informações em cada um dos campos disponíveis|
-|1.1 Adicionar matrícula|  |**input:** teclado|
-|1.2 Adicionar instituição de ensino| |**input:** busca(teclado) + clique(mouse)|
-|1.3 Selecionar modalidade| |**input:** clique(mouse)|
-|1.4 Selecionar curso|  |**input:** busca(teclado) + clique(mouse)|
-|1.5 Selecionar série, período e ano|  |**input:** clique(mouse)|
-|1.6 Escrever uma observação|  |**input:** teclado|
-|1.7 Anexar um documento que comprove o vínculo|  |**input:** arquivos do dispositivo (pdf,jpeg,jpg,pnj,gif)|
+|1.1 Inserir Dados|  |**input:** teclado + clique(mouse)|
+|1.1.1 Adicionar matrícula e instituição de ensino| |**input:** busca(teclado) + clique(mouse)|
+|1.1.2 Selecionar modalidade, curso, série, período e ano| |**input:** busca(teclado) + clique(mouse)|
+|1..1.3 Escrever uma observação|  |**input:** teclado|
+|1..1.4 Anexar um documento que comprove o vínculo|  |**input:** arquivos do dispositivo (pdf,jpeg,jpg,pnj,gif)|
+|1.2 Salvar solicitação|  |**input:** clique(mouse) **feedback:** cadastrar a solictação ou, retornar erro caso os dados do formulário estejam incorretos|
 |2.0 Acompanhar solicitacão| 1>2 |**feedback:** lista com as solicitações ativas||
 |2.1 Navegar entre as páginas|  |**input:** clique(mouse)|
-|3.0 Salvar solicitação|  |**input:** clique(mouse) **feedback:** cadastrar a solictação ou, retornar erro caso os dados do formulário estejam incorretos|
+
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20troca%20de%20institui%C3%A7%C3%A3o.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Troca_instituicaoHTA.jpeg?raw=true">
     <p>Figura 6: Diagrama HTA da tarefa de troca de instituição (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
