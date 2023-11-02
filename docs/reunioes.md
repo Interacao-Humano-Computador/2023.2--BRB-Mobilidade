@@ -44,5 +44,5 @@ O vídeo da reunião está disponivel nesse <a href="https://youtu.be/uxqcwOTXwj
 |    1.0   |   29/09/2023   |   Declaração das Atas de Reunião | [Felipe Hansen](https://github.com/FHansen98) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
 |    1.1   |   15/10/2023   |   Declaração das Atas de Reunião | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
 |    1.2   |   21/10/2023   |   Declaração das Atas de Reunião | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
-|    1.3   |   29/10/2023   |   Declaração das Atas de Reunião | [Fause Carlos](https://github.com/FauseSkyWalker) | - |
+|    1.3   |   29/10/2023   |   Declaração das Atas de Reunião | [Fause Carlos](https://github.com/FauseSkyWalker) | [Artur Jackson](https://github.com/artur-jack) |
 |    1.4   |   29/10/2023   |   Corrige link dos vídeos | [Artur Jackson](https://github.com/artur-jack) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
