@@ -106,3 +106,4 @@ A partir disso, o teste piloto será executado pelos Integrantes Felipe Hansen e
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   28/10/2023   |   Criação da página | [Fause Carlos](https://github.com/FauseSkyWalker) |  []()|
 |    1.1   |   29/10/2023   |   Complemento da página | [Felipe Hansen](https://github.com/FHansen98) |  []()|
+|    1.2   |   29/10/2023   |   Teste Piloto | [Felipe Hansen](https://github.com/FHansen98) |  []()|

@@ -220,14 +220,27 @@ Esta atividade permite que o usuário libere o cartão para começar a utilizá-
     <p>Figura 7: Diagrama HTA da tarefa de liberar cartão(Fonte: Lucas, 2023)</p>
 </div>
 
+### Alterar Foto
+
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+
+
+<div style="text-align: center">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama_alterar_foto.png?raw=true">
+    <p>Figura 98: Diagrama HTA da tarefa de alterar foto(Fonte: Felipe, 2023)</p>
+</div>
+
+
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   14/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|Fause|
+|    1.0   |   14/10/2023   |   Criação do documento |  [Fause Carlos](https://github.com/FauseSkyWalker)|Felipe|
 |    1.1   |   14/10/2023   |   Adição dos diagramas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | Felipe |
 |    1.2   |   14/10/2023   |   Adição das tabelas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | Juan |
 |    1.3   |   15/10/2023   |  Atualização das tabelas HTA  | [Lucas](https://github.com/lucaslobao-18) e [Amanda](https://github.com/Amandaaaaabreu) |Artur|
+|    1.3   |   15/10/2023   |  Atualização das tabelas HTA  | [Felipe](https://github.com/FHansen98) |Lucas|
 
 ## Bibliografia
 
