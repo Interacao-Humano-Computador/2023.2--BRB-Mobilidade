@@ -65,6 +65,10 @@ nav:
       - Planejamento do relato dos resultados Storyboard: designAvaliacao/storyboard/planejamentoResultados.md
       - Planejamento da avaliação de tarefas: designAvaliacao/PlanejamentoAvaliacaoTare.md
       - Planejamento dos Relatos dos Resultados da Análise de Tarefas: designAvaliacao/planResAn.md
+    - Nível 2:
+      - Protótipo de papel:
+      - Planejamento de avaliação dos protótipos: designAvaliacao/prototipo_papel/planejamento_ava.md
+      - Planejamento do relato dos resultados:
   - Encontros: reunioes.md
 
 markdown_extensions:
