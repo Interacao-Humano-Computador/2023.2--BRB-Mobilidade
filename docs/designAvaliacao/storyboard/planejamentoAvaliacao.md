@@ -99,6 +99,11 @@ Antes de conduzir as entrevistas com os participantes selecionados, será realiz
 
 Nesse sentido, o teste piloto da avaliação de storyboard será executado pelos integrantes Lucas Lobão e Arthur Sousa no dia 31/10, entre 12:00 e 13:00 de forma presencial na UnB(Campus do Gama), caso não seja possível realizar nesse horário o teste piloto será realizado de forma online utilizando a plataforma Microsoft Teams.
 
+### Vídeo da realização do teste piloto
+
+<iframe width="1000vw" height="650vh" src="https://youtu.be/L9VGTMYvMmA" title="Teste Piloto -Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+Vídeo 1: gravação do teste piloto (Fonte: Lucas, Arthur. 2023).
+
 ### Objetivos do teste piloto
 
 - Identificar se o tempo da entrevista está de acordo com o esperado
