@@ -7,7 +7,7 @@ O ConcurTaskTrees (CTT) é uma metodologia utilizada para modelar e analisar o c
 Na tarefa Segunda via, o usuário possui a possibilidade de realizar um pedido de segunda via do seu benefício de transporte ṕublico, além de conseguir acompanhar o processo de solicitação que foi aberta
 
 <div style="text-align: center">
-    <img src="assets/diagramas%20ctt/2viactt.drawio.png">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/2viactt.drawio.png">
     <p>Figura 1: Diagrama CTT da tarefa de solicitar a 2º via (Fonte: Fause, 2023)</p>
 </div>
 
