@@ -42,6 +42,15 @@ Nesta tarefa, o usuário tem como objetivo visualizar os acessos do seu cartão.
     <p>Figura 3: Diagrama CTT da tarefa de visualizar os acessos (Fonte: Felipe e Artur Jackson, 2023)</p>
 </div>
 
+## Troca de instituição
+
+Esta tarefa, troca de instituição, tem como objetivo permitir que o usuário realize o recadastramento da nova instituição de ensino na qual ele pertence.
+
+<div style="text-align: center">
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Troca_instituicaoCTT.png">
+    <p>Figura 4: Diagrama CTT da tarefa de troca de instituição (Fonte: Artur Jackson, 2023)</p>
+</div>
+
 
 ## Histórico de versão
 

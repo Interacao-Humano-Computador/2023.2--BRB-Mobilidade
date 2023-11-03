@@ -6,7 +6,7 @@ As reuniões do grupo são agendadas de forma consistente às quintas-feiras, à
 O vídeo da reunião está disponivel nesse <a href="https://www.youtube.com/watch?v=TPKZ5yOYuMM" target= "_blank">link</a>.
 
 
-[Baixar ata da reunião em PDF](https://github.com/Interacao-Humano-Computador/2023.2-Grupo05/raw/main/docs/atas/01_Ata21_09.pdf)
+[Baixar ata da reunião em PDF](atas/01_Ata21_09.pdf)
 
 
 ## Reunião 28 de setembro
@@ -14,7 +14,7 @@ O vídeo da reunião está disponivel nesse <a href="https://youtu.be/OzyyFayWKa
 
 
 
-[Baixar ata da reunião em PDF](https://github.com/Interacao-Humano-Computador/2023.2-Grupo05/raw/main/docs/atas/02_Ata28_09.pdf)
+[Baixar ata da reunião em PDF](atas/02_Ata28_09.pdf)
 
 
 ## Reunião 14 de outubro
