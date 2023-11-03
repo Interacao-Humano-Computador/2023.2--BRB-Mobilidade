@@ -88,4 +88,4 @@ markdown_extensions:
   - pymdownx.superfences
 
 custom_css: 
-  -custom/custom.css
+  - custom/custom_css
