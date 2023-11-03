@@ -56,7 +56,7 @@ Esta tarefa, troca de instituição, tem como objetivo permitir que o usuário r
 Esta tarefa, liberar cartão, tem por objetivo permitir que o usuário libere o seu cartão para usu após ter retirado ele no NaHora.
 
 <div style="text-align: center">
-    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/main/docs/assets/diagramas%20ctt/Troca_instituicaoCTT.png">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20ctt/liberar_cartao_ctt.png?raw=true">
     <p>Figura 5: Diagrama CTT da tarefa de liberar cartão (Fonte: Lucas Andrade, 2023)</p>
 </div>
 
