@@ -138,6 +138,8 @@ Para assistir a entrevista clique [aqui](https://youtu.be/3NlSo9umfoY).
 
 ### Feedback do Usuário
 
+O usuário considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
+
 Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/15Q5CUUD-AzytOb0_J58Khz1HkkKOaksV/view?usp=sharing).
 
 ## 5. Segunda via - Fause
