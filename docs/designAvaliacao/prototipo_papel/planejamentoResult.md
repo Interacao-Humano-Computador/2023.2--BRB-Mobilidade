@@ -15,17 +15,20 @@ A metodologia utilizada e introduzida será a mesma metodologia utilizada na ava
 Verificar se os resultado atingidos por meio da avaliação  foram os resultados esperados
 
 
-### Método de avaliação
-
 
 ### Seleção dos participantes 
+
+Será necessário  realizar uma lista e elencar todos os participantes, quem foram os avaliadores e quais foram seus papéis, deverá ser registrado  quais foram os participantes, seguidos de seus dados e as tarefas realizadas
+ 
 
 
 ### Problemas e dificuldades encontradas
 
+Será necessário realizar uma lista e elencar todos os problemas encontrados pelos usuários durante o processo .
 
 ### Sugestões de melhoria 
 
+Será necessário realizar uma lista e elencar as sugestões realizadas pelos pelos usuários durante o processo
 
 ### Feedback dos usuários
 
