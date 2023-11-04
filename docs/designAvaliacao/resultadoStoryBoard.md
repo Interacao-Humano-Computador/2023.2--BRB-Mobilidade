@@ -116,7 +116,7 @@ Para ver o termo de consentimento clique [aqui]().
 ## 4. Alterar foto - Felipe Hansen
 
 Para assistir a entrevista clique [aqui](https://youtu.be/3NlSo9umfoY).
-Para assistir a entrevista clique [aqui](https://youtu.be/b2u8nF6CSi4).
+
 
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
