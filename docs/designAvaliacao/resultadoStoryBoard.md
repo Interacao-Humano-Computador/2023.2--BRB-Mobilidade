@@ -85,7 +85,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/FQhMAjCb-S4).
 O usuário considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
 
 
-Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1SknddnnKvTNkFjf0I0GdakYUyvQTszwS/view).
+Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/16ag23Z9nV31g1UqMifcmaYTzZvhopcEL/view?usp=sharing).
 
 ## 3. Trocar Endereço - (Era pra ser o Juan)
 
