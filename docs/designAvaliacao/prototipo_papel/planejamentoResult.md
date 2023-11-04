@@ -5,11 +5,14 @@ Neste artefato , descreveremos a abordagem para apresentar os resultados da aval
 
 ## Metodologia
 
+A metodologia utilizada e introduzida será a mesma metodologia utilizada na avaliação, e com isso os dados das perguntas realizadas  serão analisados para que seja tomada alguma atitude durante o processo caso necessário
 
 ## Tópicos
 
 
 ### Objetivo e escopo da avaliação
+
+Verificar se os resultado atingidos por meio da avaliação  foram os resultados esperados
 
 
 ### Método de avaliação
@@ -41,7 +44,6 @@ Neste artefato , descreveremos a abordagem para apresentar os resultados da aval
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versão
-|
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
