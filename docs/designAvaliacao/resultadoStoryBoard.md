@@ -253,7 +253,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/AHf_bUVU_ps).
 
 O usuário achou a funcionalidade fácil e não mudaria nada.
 
-Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1SknddnnKvTNkFjf0I0GdakYUyvQTszwS/view).
+Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1miN68fR9-2Z_0W3DqCE0owC5MzuE2_9-/view?usp=sharing).
 
 ## Análise e Interpretação dos Resultados
 
