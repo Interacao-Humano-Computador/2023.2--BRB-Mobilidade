@@ -68,6 +68,7 @@ nav:
       - Resultado do Relato do Storyboard: designAvaliacao/resultadoStoryBoard.md
     - Nível 2:
       - Planejamento de avaliação dos protótipos: designAvaliacao/prototipo_papel/planejamento_ava.md
+      - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: designAvaliacao/prototipo_papel/planejamentoResult.md
   - Encontros: reunioes.md
 
 markdown_extensions:
