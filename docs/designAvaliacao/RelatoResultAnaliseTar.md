@@ -118,7 +118,7 @@ Optamos por uma abordagem multifacetada para a coleta de dados, utilizando a ent
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Felipe Hansen](https://github.com/FHansen98) |    <span style = "color: #FFC436">Patrick Maximo Cordeiro</span>    |       13:00       |     13:06      | 04/11/2023 | Plataforma Teams |
+| [Felipe Hansen](https://github.com/FHansen98) |    <span style = "color: #FFC436">Patrick Maximo Cordeiro</span>    |       13:30      |     13:36      | 04/11/2023 | Plataforma Teams |
 
 *Fonte* - [Felipe Hansen](https://github.com/FHansen98)
 </center>
@@ -142,6 +142,76 @@ Para assistir a apresentação clique [aqui](https://unbbr.sharepoint.com/sites/
 <p style="text-align: center"><iframe width="560" height="315" src="https://unbbr.sharepoint.com/sites/IHC-Grupo5/_layouts/15/stream.aspx?id=%2Fsites%2FIHC%2DGrupo5%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FMeeting%20in%20%5FGeneral%5F%2D20231104%5F162045%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">[Felipe Hansen](https://github.com/FHansen98) .</p></font>
+
+## Entrevista 4 - Liberar Cartão
+
+### Objetivo e escopo da avaliação
+Neste processo meticuloso de avaliação, nos dedicamos a uma análise aprofundada da Tarefa de [Liberar Cartão e seu diagrama HTA correspondente](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#liberar-cartao). O principal propósito foi conduzir uma avaliação minuciosa da fidelidade da representação da tarefa em relação às expectativas do participante, enquanto simultaneamente buscamos identificar possíveis inconvenientes que poderiam afetar a experiência do usuário.
+
+Ao direcionar nosso foco à Tarefa de Liberar Cartão, nosso objetivo foi não apenas verificar a precisão visual do diagrama HTA, mas também compreender a interação dinâmica entre o usuário e o sistema durante a execução dessa tarefa específica.
+
+Essa análise abrangente buscou identificar discrepâncias potenciais entre a representação gráfica e a experiência real do usuário, destacando áreas específicas que requerem atenção e possíveis melhorias. Essa abordagem não apenas visa corrigir deficiências percebidas, mas também proporciona insights valiosos que podem ser utilizados para otimizar a usabilidade e eficácia da Tarefa de Liberar Cartão.
+
+Dessa maneira, essa avaliação aprofundada não só valida a integridade da representação da tarefa, mas também oferece uma base substancial para aprimorar a execução da tarefa, garantindo uma experiência mais suave e alinhada às expectativas do usuário participante.
+
+### Método de avaliação
+Optamos por adotar uma abordagem abrangente na coleta de dados, empregando tanto entrevistas quanto observação da interação do usuário ao realizar a tarefa de compartilhar um evento nas redes sociais por meio do site. Este método foi cuidadosamente estruturado com base nas perguntas do questionário, proporcionando uma análise minuciosa e detalhada da experiência do usuário. A combinação dessas técnicas não se limita a extrair apenas insights verbais através das entrevistas, mas também se estende à observação direta do comportamento e das interações do usuário, resultando em uma compreensão mais completa e holística do processo. Essa abordagem integrada enriquece a coleta de dados, fornecendo uma variedade de informações valiosas que desempenharão um papel significativo na análise e aprimoramento contínuo da experiência do usuário.
+
+### Cronograma das entrevistas
+
+<center>
+
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Lucas Lobão](https://github.com/lucaslobao-18)|    <span style = "color: #FFC436">Raquel Alves</span>    |       10:00       |     10:03      | 04/11/2023 | Casa Raquel(Samambaia Sul) |
+|[Lucas Lobão](https://github.com/lucaslobao-18)|<span style = "color: #FFC436">Rebeca Alves</span>   |12:00|12:02|03/11/2023|Casa da Raquel|
+
+*Fonte* -  [Lucas Lobão](https://github.com/lucaslobao-18)
+</center>
+
+### Conteúdo da Entrevista 4.1
+| Ordem | Pergunta | Opções de Resposta |Resposta|
+|--- |--- |---  |--- | 
+|  1 | Qual o seu nome? | Aberta | Raquel Alves|
+|  2 | Qual a sua idade? | Aberta |19 anos| 
+| 3 | Qual o seu grau de ensino? | Aberta |Ensino Médio Incompleto| 
+| 4 | Qual a sua ocupação? | Aberta | Estudante | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Solicitar 2° Via do Cartão|
+|6| Ao observar o diagrama do Liberar cartão  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim |
+|7|Teve dificuldade para entender a tarefa?|Fechada| Não|
+|8|Consegue identificar uma forma mais fácil de fazê-la?|Fechada|Não|
+
+### Termo de Consetimento:
+Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1Qdga6ZaouZYieY9E5q61NrjyTXeg-Zm6/view).
+
+
+Para assistir a apresentação clique [aqui](https://www.youtube.com/watch?v=8SplP-SqJa0&ab_channel=LucasAndrade)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=8SplP-SqJa0&ab_channel=LucasAndrade" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center"> [Lucas Lobão](https://github.com/lucaslobao-18) .</p></font>
+
+### Conteúdo da Entrevista 4.1
+| Ordem | Pergunta | Opções de Resposta |Resposta|
+|--- |--- |---  |--- | 
+|  1 | Qual o seu nome? | Aberta | Rebeca Alves|
+|  2 | Qual a sua idade? | Aberta |22 anos| 
+| 3 | Qual o seu grau de ensino? | Aberta |Superior Incompleto| 
+| 4 | Qual a sua ocupação? | Aberta | Bombeiro Civil | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Solicitar 2° Via do Cartão|
+|6| Ao observar o diagrama do Liberar cartão  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim |
+|7|Teve dificuldade para entender a tarefa?|Fechada| Não|
+|8|Consegue identificar uma forma mais fácil de fazê-la?|Fechada|Não|
+
+### Termo de Consetimento:
+Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1EpW42cjK_qooDjSBymqcNb7MMBgup1I3/view).
+
+Para assistir a apresentação clique [aqui](https://www.youtube.com/watch?v=XaeV8py0ZJ0&feature=youtu.be&ab_channel=LucasAndrade)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=XaeV8py0ZJ0&feature=youtu.be&ab_channel=LucasAndrade" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center"> [Lucas Lobão](https://github.com/lucaslobao-18) .</p></font>
 
 
 
