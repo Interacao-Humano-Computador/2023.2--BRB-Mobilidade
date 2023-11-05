@@ -37,7 +37,7 @@ A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas 
 |Amanda|Pedro Lucas|04/11/2023|08:33 - 08:38|Microsoft Teams|
 |Lucas|Raquel Alves|-----|-----|-----|
 |Lucas|Rebeca Alves|-----|-----|-----|
-|Felipe|Patrick Maximo|04/11/2023|-----|-----|
+|Felipe|Patrick Maximo|04/11/2023|16:12 - 16:17|Microsoft Teams|
 |Arthur Sousa|Yann Rodrigues|-----|-----|-----|
 |Fause|Ana Julia|03/11/2023|13:30 - 13:33|Microsoft Teams|
 |Juan|-----|-----|-----|-----|
