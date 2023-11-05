@@ -60,12 +60,12 @@ Na figura 5, é apresentado o storyboard feito pelo Arthur Sousa, onde é mostra
 
 ### Storyboard 6
 
-Na figura 6, é apresentado o storyboard feito pelo Juan Pablo, onde é mostrada a tarefa de [****]().
+Na figura 6, é apresentado o storyboard feito pelo Juan Pablo, onde é mostrada a tarefa de [Troca de Endereço]().
 
 ![Storyboard - Extensão de acessos](../../assets/storyboards/SB_Juan.png)
 
 <div style="text-align: center">
-    <p>Figura 6: Storyboard de extensão de acessos. (Fonte: Juan Pablo, 2023)</p>
+    <p>Figura 6: Storyboard de Troca de Endereço. (Fonte: Juan Pablo, 2023)</p>
 </div>
 
 
