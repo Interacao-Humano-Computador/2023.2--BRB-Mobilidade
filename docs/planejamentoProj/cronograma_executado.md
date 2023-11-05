@@ -41,6 +41,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
     <p> Tabela 2: Cronograma do Ponto de Controle 2 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
 </div>
 
+
 ## Entrega 3
 
 | Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
@@ -56,6 +57,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
     <p> Tabela 3: Cronograma do Ponto de Controle 3 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
 </div>
 
+
 ## Entrega 4
 
 | Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
@@ -70,6 +72,23 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 <div style="text-align: center">
     <p> Tabela 4: Cronograma do Ponto de Controle 4 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
 </div>
+
+
+## Cronograma Entrega 5
+
+| Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|:-----------:|:----:| 
+| [Relatar os resultados do Story Board](../designAvaliacao/resultadoStoryBoard.md) | 31/10 - 04/11 | |Amanda e Artur Jakcson  | 04/11 | Lucas |
+| [Relatar a análise de tarefas]() | 31/10 - 04/11 | | Juan | 04/11 | Juan |
+| [Planejar a avaliação do protótipo de papel](../designAvaliacao/prototipo_papel/planejamento_ava.md) | 31/10 - 04/11 | |  Lucas e Felipe | 04/11 | Amanda |
+| [Planejar o relato dos resultados da avaliação do protótipo de papel](../designAvaliacao/prototipo_papel/planejamentoResult.md) | 31/10 - 04/11 | 03/11 - 04/11 |  Arthur Sousa e Fause | 04/11 | Artur Jackson |
+| [Gravação da apresentação]() | 04/11 - 06/10 |  | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 06/11 - 07/11  | | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+
+<div style="text-align: center">
+    <p> Tabela 6: Cronograma da Entrega 5 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
+</div>
+
 
 ## Bibliografia
 
