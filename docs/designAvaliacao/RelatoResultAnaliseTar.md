@@ -27,20 +27,20 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [fulano](-) |    <span style = "color: #FFC436">fulano</span>    |       10:45      |     10:50     | 03/11/2023 | - |
+| [Arthur Sousa](https://github.com/arthurrsousa)|    <span style = "color: #FFC436">Yann Rodrigues</span>    |       12:30     |     12:35     | 05/11/2023 | Teams|
 
-*Fonte* - [fulano](-) 
+*Fonte* - [Arthur Sousa](https://github.com/arthurrsousa)
 </center>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
 |--- |--- |---  |--- | 
-|  1 | Qual o seu nome? | Aberta | -|
-|  2 | Qual a sua idade? | Aberta |-| 
-| 3 | Qual o seu grau de ensino? | Aberta |-| 
-| 4 | Qual a sua ocupação? | Aberta | - | 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | -|
-|6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |-|
+|  1 | Qual o seu nome? | Aberta |Yann Rodrigues|
+|  2 | Qual a sua idade? | Aberta |26| 
+| 3 | Qual o seu grau de ensino? | Aberta |Formado| 
+| 4 | Qual a sua ocupação? | Aberta | Gerente de Logística | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta |  Emissão de 2° via e Verificar Saldo|
+|6| Ao observar o diagrama da 2° Via  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |Sim|
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](-).
@@ -65,20 +65,20 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [fulano](-) |    <span style = "color: #FFC436">fulano</span>    |       10:45      |     10:50     | 03/11/2023 | - |
+|  [Fause Carlos](https://github.com/FauseSkyWalker)|    <span style = "color: #FFC436">Ana Julia</span>    |       12:00      |     12:05     | 05/11/2023 | Teams|
 
-*Fonte* - [fulano](-) 
+*Fonte* -  [Fause Carlos](https://github.com/FauseSkyWalker)
 </center>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
 |--- |--- |---  |--- | 
-|  1 | Qual o seu nome? | Aberta | -|
-|  2 | Qual a sua idade? | Aberta |-| 
-| 3 | Qual o seu grau de ensino? | Aberta |-| 
-| 4 | Qual a sua ocupação? | Aberta | - | 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | -|
-|6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |-|
+|  1 | Qual o seu nome? | Aberta |Ana Julia|
+|  2 | Qual a sua idade? | Aberta |22| 
+| 3 | Qual o seu grau de ensino? | Aberta |Graduação Incompleta| 
+| 4 | Qual a sua ocupação? | Aberta | Estudante| 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Utiliza o site a mais de 5 anos|
+|6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |Sim|
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](-).
