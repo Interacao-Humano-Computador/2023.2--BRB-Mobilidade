@@ -221,6 +221,10 @@ Esta atividade permite que o usuário libere o cartão para começar a utilizá-
 
 ### Alterar Foto
 
+A atividade de alterar foto tem como objetivo permitir que o usuário realize a troca da foto do mesmo, para registro no sistema e uso na carteirinha.
+
+
+
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
 

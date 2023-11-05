@@ -61,13 +61,13 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - Nivel 1:
       - Storyboard: designAvaliacao/storyboard/storyboards.md
-      - Planejamento da avaliação dos Storyboards: designAvaliacao/storyboard/planejamentoAvaliacao.md
-      - Planejamento do relato dos resultados Storyboard: designAvaliacao/storyboard/planejamentoResultados.md
-      - Planejamento da avaliação de tarefas: designAvaliacao/PlanejamentoAvaliacaoTare.md
+      - Planejamento da Avaliação dos Storyboards: designAvaliacao/storyboard/planejamentoAvaliacao.md
+      - Planejamento do Relato dos Resultados Storyboard: designAvaliacao/storyboard/planejamentoResultados.md
+      - Planejamento da Avaliação de Tarefas: designAvaliacao/PlanejamentoAvaliacaoTare.md
       - Planejamento dos Relatos dos Resultados da Análise de Tarefas: designAvaliacao/planResAn.md
       - Resultado do Relato do Storyboard: designAvaliacao/resultadoStoryBoard.md
     - Nível 2:
-      - Planejamento de avaliação dos protótipos: designAvaliacao/prototipo_papel/planejamento_ava.md
+      - Planejamento de Avaliação dos Protótipos de papel: designAvaliacao/prototipo_papel/planejamento_ava.md
       - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: designAvaliacao/prototipo_papel/planejamentoResult.md
   - Encontros: reunioes.md
 
