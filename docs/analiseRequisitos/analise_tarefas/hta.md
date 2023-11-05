@@ -231,7 +231,37 @@ A atividade de alterar foto tem como objetivo permitir que o usuário realize a 
 
 <div style="text-align: center">
     <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama_alterar_foto.png?raw=true">
-    <p>Figura 98: Diagrama HTA da tarefa de alterar foto(Fonte: Felipe, 2023)</p>
+    <p>Figura 8: Diagrama HTA da tarefa de alterar foto(Fonte: Felipe, 2023)</p>
+</div>
+
+### Trocar Endereço
+
+Esta atividade permite que o usuário consiga trocar o endereço
+
+- Adicionar login(cpf)
+- Adicionar senha
+- Clicar em “Logar”
+- Clicar em opção “trocar endereço”
+- Trocar endereço
+
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+|0. Troca de endereço| 1/2 |**input:** formulário para solicitação de troca, incluindo anexo do documento que comprova o vínculo com o endereço **plano:** fazer uma nova solicitação|
+|1 Inserir Dados|  |**input:** teclado + clique(mouse)|
+|1.1 Número do CEP| |**input:** busca(teclado) |
+|1.2 Logradouro| |**input:** busca(teclado) |
+|1.3 Número da residência|  |**input:** teclado|
+|1.4 Bairro| |**input:** teclado|
+|1.5 Complemento||**input:** teclado|
+|1.6 Bairro||**input:** teclado + clique(mouse)|
+|1.7 Complemento||**input:** teclado|
+|1.8 Anexar um documento que comprove o vínculo|  |**input:** arquivos do dispositivo (pdf,jpeg,jpg,pnj,gif)|
+|1.9 Salvar solicitação|  |**input:** clique(mouse) **feedback:** cadastrar a solictação ou, retornar erro caso os dados do formulário estejam incorretos|
+
+
+<div style="text-align: center">
+    <img src="-">
+    <p>Figura 9: Diagrama HTA da tarefa de troca de endereço (Fonte: Juan Pablo, 2023)</p>
 </div>
 
 
