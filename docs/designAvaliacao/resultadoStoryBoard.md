@@ -27,6 +27,20 @@ A tabela abaixo está contendo todas as perguntas necessárias para realizar a e
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (&emsp;) SIM <br> (&emsp;) NÃO |
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (&emsp;) SIM <br> (&emsp;) NÃO |
 
+## Cronograma
+
+A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas foram realizadas.
+
+| Entrevistador(a) | Entrevistado(a)| Data | Horário de início e fim | Local | 
+|-----|-----|-----|-----|-----|
+|Artur Jackson|Guilherme de Sá|02/11/2023|19:00 - 19:05|Microsoft Teams|
+|Amanda|Pedro Lucas|04/11/2023|08:33 - 08:38|Microsoft Teams|
+|Lucas|Raquel Alves|-----|-----|-----|
+|Lucas|Rebeca Alves|-----|-----|-----|
+|Felipe|Patrick Maximo|04/11/2023|16:12 - 16:17|Microsoft Teams|
+|Arthur Sousa|Yann Rodrigues|-----|-----|-----|
+|Fause|Ana Julia|03/11/2023|13:30 - 13:33|Microsoft Teams|
+|Juan|-----|-----|-----|-----|
 
 ## 1. Troca de Instituição - Artur Jackson
 
@@ -293,3 +307,4 @@ A partir dessas conclusões, é possível interpretar que os storyboards foram e
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   03/11/2023   |   Criação do documento |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack)| []()|
+|    1.1   |   04/11/2023   |   Adiciona cronograma das entrevistas |  [Artur Jackson](https://github.com/artur-jack) e [Amanda](https://github.com/Amandaaaaabreu) | []()|
