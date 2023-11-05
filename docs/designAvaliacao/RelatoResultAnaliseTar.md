@@ -25,7 +25,7 @@ Utilizamos entrevistas e observação direta do usuário interagindo com a inter
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Amanda Abreu](https://github.com/Amandaaaaabreu) |    <span style = "color: #FFC436">Pedro Lucas</span>    |       12:00       |     12:13      | 04/11/2023 | Plataforma Teams |
+|  [Amanda Abreu](https://github.com/Amandaaaaabreu) |    <span style = "color: #FFC436">Pedro Lucas</span>    |       12:00       |     12:03      | 04/11/2023 | Plataforma Teams |
 
 *Fonte* - [Amanda Abreu](https://github.com/Amandaaaaabreu)
 </center>
@@ -93,6 +93,56 @@ Para assistir a apresentação clique [aqui](https://www.youtube.com/watch?v=oIR
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=oIRX_8wZNw0&ab_channel=ArturJackson" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte:[Artur Jackson](https://github.com/artur-jack) .</p></font>
+
+
+## Entrevista 3 - Alterar Foto
+
+### Objetivo e escopo da avaliação
+Neste processo avaliativo, dedicamos uma análise aprofundada à Tarefa de [Alterar Foto e ao seu diagrama HTA correspondente](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#alterar-foto). O objetivo primordial foi avaliar de maneira minuciosa a exatidão da representação da tarefa em relação às expectativas do participante e, simultaneamente, identificar eventuais problemas que pudessem impactar a experiência do usuário.
+
+Ao focar especificamente na Tarefa de Alterar Foto, buscamos validar a integridade das informações apresentadas no diagrama HTA. Este exame minucioso visou não apenas confirmar a precisão da representação visual, mas também compreender a interação entre o usuário e o sistema durante a execução da tarefa.
+
+A análise realizada teve como meta identificar discrepâncias entre a representação gráfica e a experiência efetiva do usuário, destacando áreas que requerem atenção e possíveis melhorias. Este processo não apenas visa corrigir eventuais deficiências, mas também proporciona insights valiosos para otimizar a usabilidade da Tarefa de Alterar Foto.
+
+Assim, essa avaliação meticulosa proporcionou uma compreensão abrangente do cenário, contribuindo não apenas para validar a precisão da representação, mas também para aprimorar a execução da tarefa, assegurando uma experiência mais fluida e alinhada com as expectativas do usuário participante.
+
+
+### Método de avaliação
+Optamos por uma abordagem multifacetada para a coleta de dados, utilizando a entrevista e a observação da interação do usuário durante a realização da tarefa de compartilhar um evento nas redes sociais através do site. Este método foi estruturado com base nas perguntas do questionário, proporcionando uma análise abrangente e detalhada da experiência do usuário. A combinação dessas técnicas visa não apenas capturar insights verbais por meio da entrevista, mas também observar diretamente o comportamento e as interações do usuário para obter uma compreensão mais holística do processo. Essa abordagem integrada proporciona uma riqueza de dados que contribuirá significativamente para a análise e aprimoramento da experiência do usuário.
+
+
+### Cronograma da entrevista
+
+<center>
+
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Felipe Hansen](https://github.com/FHansen98) |    <span style = "color: #FFC436">Patrick Maximo Cordeiro</span>    |       13:00       |     13:06      | 04/11/2023 | Plataforma Teams |
+
+*Fonte* - [Felipe Hansen](https://github.com/FHansen98)
+</center>
+
+### Conteúdo da Entrevista
+| Ordem | Pergunta | Opções de Resposta |Resposta|
+|--- |--- |---  |--- | 
+|  1 | Qual o seu nome? | Aberta | Patrick Maximo Cordeiro|
+|  2 | Qual a sua idade? | Aberta |21 anos| 
+| 3 | Qual o seu grau de ensino? | Aberta |Cursando Ensino Superior| 
+| 4 | Qual a sua ocupação? | Aberta | Estudante | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Emissão do cartão, emissão de segunda via, pagamento|
+|6| Ao observar o diagrama da Alteração de foto  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim |
+
+### Termo de Consetimento:
+Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/15Q5CUUD-AzytOb0_J58Khz1HkkKOaksV/view?usp=sharing).
+
+
+Para assistir a apresentação clique [aqui](https://unbbr.sharepoint.com/sites/IHC-Grupo5/_layouts/15/stream.aspx?id=%2Fsites%2FIHC%2DGrupo5%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FMeeting%20in%20%5FGeneral%5F%2D20231104%5F162045%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://unbbr.sharepoint.com/sites/IHC-Grupo5/_layouts/15/stream.aspx?id=%2Fsites%2FIHC%2DGrupo5%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FMeeting%20in%20%5FGeneral%5F%2D20231104%5F162045%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">[Felipe Hansen](https://github.com/FHansen98) .</p></font>
+
 
 
 
