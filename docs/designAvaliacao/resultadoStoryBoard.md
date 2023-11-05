@@ -38,7 +38,7 @@ A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas 
 |Lucas|Raquel Alves|-----|-----|-----|
 |Lucas|Rebeca Alves|-----|-----|-----|
 |Felipe|Patrick Maximo|04/11/2023|16:12 - 16:17|Microsoft Teams|
-|Arthur Sousa|Yann Rodrigues|-----|-----|-----|
+|Arthur Sousa|Yann Rodrigues| 01/11/2023 | 09:32 - 09:36 | Casa de Yann (Gama) |
 |Fause|Ana Julia|03/11/2023|13:30 - 13:33|Microsoft Teams|
 |Juan|-----|-----|-----|-----|
 
