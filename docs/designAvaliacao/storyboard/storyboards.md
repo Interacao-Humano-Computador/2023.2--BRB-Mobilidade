@@ -60,7 +60,7 @@ Na figura 5, é apresentado o storyboard feito pelo Arthur Sousa, onde é mostra
 
 ### Storyboard 6
 
-Na figura 6, é apresentado o storyboard feito pelo Juan Pablo, onde é mostrada a tarefa de [Troca de Endereço]().
+Na figura 6, é apresentado o storyboard feito pelo Juan Pablo, onde é mostrada a tarefa de [**Troca de Endereço**]().
 
 ![Storyboard - Troca de Endereço](../../assets/storyboards/SB_Juan.png)
 
