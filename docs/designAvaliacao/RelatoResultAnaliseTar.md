@@ -27,7 +27,7 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Arthur Sousa](https://github.com/arthurrsousa)|    <span style = "color: #FFC436">Yann Rodrigues</span>    |       12:30     |     12:35     | 05/11/2023 | Teams|
+| [Arthur Sousa](https://github.com/arthurrsousa)|    <span style = "color: #FFC436">Yann Rodrigues</span>    |       07:30     |     07:35     | 05/11/2023 | Teams|
 
 *Fonte* - [Arthur Sousa](https://github.com/arthurrsousa)
 </center>
@@ -65,7 +65,7 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Fause Carlos](https://github.com/FauseSkyWalker)|    <span style = "color: #FFC436">Ana Julia</span>    |       12:00      |     12:05     | 05/11/2023 | Teams|
+|  [Fause Carlos](https://github.com/FauseSkyWalker)|    <span style = "color: #FFC436">Ana Julia</span>    |       07:00      |     07:05     | 05/11/2023 | Teams|
 
 *Fonte* -  [Fause Carlos](https://github.com/FauseSkyWalker)
 </center>
