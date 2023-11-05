@@ -40,7 +40,7 @@ A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas 
 |Felipe|Patrick Maximo|04/11/2023|16:12 - 16:17|Microsoft Teams|
 |Arthur Sousa|Yann Rodrigues| 01/11/2023 | 09:32 - 09:36 | Casa de Yann (Gama) |
 |Fause|Ana Julia|03/11/2023|13:30 - 13:33|Microsoft Teams|
-|Juan|-----|-----|-----|-----|
+|Juan|Yuri Ricarte|04/11/2023|12:00-12:10|Casa do Juan(Ceilândia)|
 
 ## 1. Troca de Instituição - Artur Jackson
 
@@ -107,16 +107,16 @@ Para assistir a entrevista clique [aqui]().
 
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
-| 1 | Nome  | |
-| 2 | Idade  |  |
-| 3 | Grau de escolaridade  |  |
-| 4 | Ocupação |   |
-| 5 | Experiencia com o BrB Mobilidade |  |
+| 1 | Nome  | Yuri Ricarte|
+| 2 | Idade  | 22 anos  |
+| 3 | Grau de escolaridade  | Cursando Ensino Superior |
+| 4 | Ocupação | Estudante e Assistente Farmacêutico  |
+| 5 | Experiência com o BrB Mobilidade | Emissão do cartão e extensão de acesso |
 
 
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
-| 1 | O Storyboard está condizente com a tarefa do usuário? | (X) SIM <br> () NÃO  |
+| 1 | O Storyboard está condizente com a tarefa do usuário? | (X) SIM <br> ( ) NÃO  |
 | 2 | O Storyboard possui embasamento na realidade? | (X) SIM <br> (  ) NÃO |
 | 3 | O Storyboard apresenta os pontos principais da tarefa que este faz referência? | (X) SIM <br> (  ) NÃO |
 | 4 | As ações realizadas na narrativa seguem uma sequencia lógica? | (X) SIM <br> (  ) NÃO |
