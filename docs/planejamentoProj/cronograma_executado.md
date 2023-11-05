@@ -38,7 +38,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | Edição da apresentação | 13/10 - 14/10 | 15/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 15/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 2: Cronograma do Ponto de Controle 2 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
+    <p> Tabela 2: Cronograma do Ponto de Controle 2 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
 </div>
 
 
@@ -54,7 +54,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | Edição da apresentação | 22/10 | 22/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 3: Cronograma do Ponto de Controle 3 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
+    <p> Tabela 3: Cronograma do Ponto de Controle 3 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
 </div>
 
 
@@ -70,11 +70,11 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | Edição da apresentação | 29/10 | 29/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 4: Cronograma do Ponto de Controle 4 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas, 2023).</p>
+    <p> Tabela 4: Cronograma do Ponto de Controle 4 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
 </div>
 
 
-## Cronograma Entrega 5
+## Entrega 5
 
 | Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|:-----------:|:----:| 
@@ -86,7 +86,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | Edição da apresentação | 06/11 - 07/11  | | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 6: Cronograma da Entrega 5 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
+    <p> Tabela 6: Cronograma do Ponto de Controle 5 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
 </div>
 
 
