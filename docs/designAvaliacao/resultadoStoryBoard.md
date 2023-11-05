@@ -35,8 +35,8 @@ A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas 
 |-----|-----|-----|-----|-----|
 |Artur Jackson|Guilherme de Sá|02/11/2023|19:00 - 19:05|Microsoft Teams|
 |Amanda|Pedro Lucas|04/11/2023|08:33 - 08:38|Microsoft Teams|
-|Lucas|Raquel Alves|-----|-----|-----|
-|Lucas|Rebeca Alves|-----|-----|-----|
+|Lucas|Rebeca Alves|01/11/2023|22:00 - 22:03|Casa da Rebeca|
+|Lucas|Raquel Alves|02/11/2023|20:00 - 20:03|Casa da Raquel (Samambaia sul)|
 |Felipe|Patrick Maximo|04/11/2023|16:12 - 16:17|Microsoft Teams|
 |Arthur Sousa|Yann Rodrigues| 01/11/2023 | 09:32 - 09:36 | Casa de Yann (Gama) |
 |Fause|Ana Julia|03/11/2023|13:30 - 13:33|Microsoft Teams|
