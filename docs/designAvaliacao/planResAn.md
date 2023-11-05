@@ -39,7 +39,8 @@ Tarefa 2 - 2° Via
 - Visualizar e clicar na opção 2° via
 - Preencher as informações de Login com CPF e senha
 - Visulizar e checar se é possível preencher as informações para solicitar 2° via
-Observação: não é necessário efetivar a solicitação a fim de não prejudicar o usuário.
+
+        Observação: não é necessário efetivar a solicitação a fim de não prejudicar o usuário.
 
 Tarefa 3 - Extensão de Acessos
 
@@ -48,15 +49,20 @@ Tarefa 3 - Extensão de Acessos
 - Visualizar e clicar na opção extensão de Acessos
 - Preencher as informações de Login com CPF e senha
 - Visualizar e checar se é possível preencher os campos para solicitar a extensão de acesso
-Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
-Tarefa 4 - Meus Acessos
+        Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
+
+Tarefa 4 - Liberar Cartão
 
 - Acessar o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a>
 - Clicar na opção estudantil
 - Visualizar e clicar na opção acompanhamento de cadastro
 - Preencher as informações de Login com CPF e senha
-- Visualizar e clicar em meus acessos para visualizar a sua frequência
+- Visualizar e clicar em liberar cartão 
+- Visualizar e checar se é possível preencher os campos para solicitar a liberação do cartão.
+
+        Observação: não é necessário efetivar o requerimento a fim de não prejudicar o usuário.
+
 
 Tarefa 5 - Troca de Endereço
 
@@ -65,7 +71,8 @@ Tarefa 5 - Troca de Endereço
 - Visualizar e clicar na opção troca de endereço
 - Preencher as informações de Login com CPF e senha
 - Visualizar e checar se é possível preencher os campos para trocar o endereço
-Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
+
+        Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
 Tarefa 6 - Troca de Instituição
 
@@ -74,7 +81,8 @@ Tarefa 6 - Troca de Instituição
 - Visualizar e clicar na opção troca de instituição
 - Preencher as informações de Login com CPF e senha
 - Visualizar e checar se é possível preencher os campos para trocar a insituição
-Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
+
+        Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
 Tarefa 7 - Alteração de foto
 
@@ -83,7 +91,8 @@ Tarefa 7 - Alteração de foto
 - Visualizar e clicar na opção acompanhamento de cadastro
 - Preencher as informações de Login com CPF e senha
 - Visualizar e realizar a troca de foto, caso queira.
-Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
+
+        Observação: não é necessário efetivar a troca a fim de não prejudicar o usuário.
 
 
 

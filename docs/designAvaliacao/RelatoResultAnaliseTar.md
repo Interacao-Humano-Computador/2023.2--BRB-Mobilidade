@@ -10,7 +10,85 @@ Além disso, é fundamental considerar a relevância de cada aspecto abordado, g
 
 Em resumo, este artefato não apenas estabelece um plano para o relato dos resultados, mas também atua como um guia abrangente que visa promover uma narrativa coesa e esclarecedora da análise de tarefas realizada.
 
-## Entrevista 1 - Extensão de Acesso
+## Entrevista 1 - Acompanhar Cadastro
+
+### Objetivo e escopo da avaliação
+Neste processo abrangente de avaliação, dedicamos uma análise minuciosa à Tarefa de [Acompanhar Cadastro ao seu respectivo diagrama HTA](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#acompanhar-cadastro). O nosso propósito central foi avaliar com precisão a representação da tarefa, considerando as expectativas do participante, enquanto simultaneamente buscávamos identificar eventuais problemas que poderiam impactar a experiência do usuário.
+
+
+
+### Método de avaliação
+Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto entrevistas quanto observação da interação do usuário ao realizar a tarefa de compartilhar um evento nas redes sociais por meio do site. Esse método foi cuidadosamente organizado com base nas perguntas do questionário, promovendo uma análise detalhada e abrangente da experiência do usuário. A sinergia entre essas técnicas não se limita à obtenção de insights verbais por meio da entrevista, mas também se estende à observação direta do comportamento e das interações do usuário, proporcionando uma compreensão mais completa e holística do processo. Essa abordagem integrada não apenas enriquece a coleta de dados, mas também oferece uma variedade de informações que desempenharão um papel fundamental na análise e no aprimoramento contínuo da experiência do usuário.
+
+### Cronograma da entrevista
+
+<center>
+
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [fulano](-) |    <span style = "color: #FFC436">fulano</span>    |       10:45      |     10:50     | 03/11/2023 | - |
+
+*Fonte* - [fulano](-) 
+</center>
+
+### Conteúdo da Entrevista
+| Ordem | Pergunta | Opções de Resposta |Resposta|
+|--- |--- |---  |--- | 
+|  1 | Qual o seu nome? | Aberta | -|
+|  2 | Qual a sua idade? | Aberta |-| 
+| 3 | Qual o seu grau de ensino? | Aberta |-| 
+| 4 | Qual a sua ocupação? | Aberta | - | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | -|
+|6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |-|
+
+### Termo de Consetimento:
+Para ver o termo de consentimento clique [aqui](-).
+
+
+Para assistir a apresentação clique [aqui](-).
+
+## Entrevista 2 - 2° Via
+
+### Objetivo e escopo da avaliação
+Neste processo abrangente de avaliação, dedicamos uma análise minuciosa à Tarefa de [2° Via ao seu respectivo diagrama HTA](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#2-via). O nosso propósito central foi avaliar com precisão a representação da tarefa, considerando as expectativas do participante, enquanto simultaneamente buscávamos identificar eventuais problemas que poderiam impactar a experiência do usuário.
+
+
+
+### Método de avaliação
+Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto entrevistas quanto observação da interação do usuário ao realizar a tarefa de compartilhar um evento nas redes sociais por meio do site. Esse método foi cuidadosamente organizado com base nas perguntas do questionário, promovendo uma análise detalhada e abrangente da experiência do usuário. A sinergia entre essas técnicas não se limita à obtenção de insights verbais por meio da entrevista, mas também se estende à observação direta do comportamento e das interações do usuário, proporcionando uma compreensão mais completa e holística do processo. Essa abordagem integrada não apenas enriquece a coleta de dados, mas também oferece uma variedade de informações que desempenharão um papel fundamental na análise e no aprimoramento contínuo da experiência do usuário.
+
+### Cronograma da entrevista
+
+<center>
+
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [fulano](-) |    <span style = "color: #FFC436">fulano</span>    |       10:45      |     10:50     | 03/11/2023 | - |
+
+*Fonte* - [fulano](-) 
+</center>
+
+### Conteúdo da Entrevista
+| Ordem | Pergunta | Opções de Resposta |Resposta|
+|--- |--- |---  |--- | 
+|  1 | Qual o seu nome? | Aberta | -|
+|  2 | Qual a sua idade? | Aberta |-| 
+| 3 | Qual o seu grau de ensino? | Aberta |-| 
+| 4 | Qual a sua ocupação? | Aberta | - | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | -|
+|6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |-|
+
+### Termo de Consetimento:
+Para ver o termo de consentimento clique [aqui](-).
+
+
+Para assistir a apresentação clique [aqui](-).
+
+
+
+## Entrevista 3 - Extensão de Acesso
 
 ### Objetivo e escopo da avaliação
 A avaliação teve como objetivo validar se a tarefa de [Extensão de Acesso](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#extensao-de-acesso) está alinhada com o fluxo de atividades dos usuários do BRB Mobilidade e identificar áreas de melhoria para fornecer um suporte mais eficar e satisfatório aos usuários.
@@ -44,96 +122,6 @@ Utilizamos entrevistas e observação direta do usuário interagindo com a inter
 Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/16ag23Z9nV31g1UqMifcmaYTzZvhopcEL/view?usp=sharing).
 
 Para assistir a apresentação clique [aqui]()
-
-
-## Entrevista 2 - Troca de Instituição
-
-### Objetivo e escopo da avaliação
-Para esta avaliação, examinamos de perto a Tarefa de [Troca de Instituição e seu diagrama HTA correspondente](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#troca-de-instituicao), com o intuito de verificar sua precisão em relação às expectativas do participante e identificar possíveis problemas.
-
-Ao analisar a Troca de Instituição, focamos na validação da exatidão das informações representadas e na compreensão da interação usuário-sistema evidenciada pelo diagrama HTA. Nosso objetivo foi identificar discrepâncias entre a representação gráfica e a experiência real do usuário, destacando áreas que podem necessitar de ajustes para aprimorar a usabilidade.
-
-Essa análise cuidadosa proporcionou insights valiosos para otimizar a representação visual da tarefa, garantindo não apenas precisão, mas também eficácia e alinhamento com as expectativas do usuário participante.
-
-### Método de avaliação
-
-O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de compartilhar um evento nas redes sociais a partir do site com base no questionário realizando as perguntas da entrevista. 
-
-
-### Cronograma da entrevista
-
-<center>
-
-
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Artur Jackson](https://github.com/artur-jack) |    <span style = "color: #FFC436">Guilherme</span>    |       13:00       |     13:06      | 04/11/2023 | Plataforma Teams |
-
-*Fonte* - [Artur Jackson](https://github.com/artur-jack) 
-</center>
-
-### Conteúdo da Entrevista
-| Ordem | Pergunta | Opções de Resposta |Resposta|
-|--- |--- |---  |--- | 
-|  1 | Qual o seu nome? | Aberta | Guilherme|
-|  2 | Qual a sua idade? | Aberta |20 anos| 
-| 3 | Qual o seu grau de ensino? | Aberta |Cursando Ensino Superior| 
-| 4 | Qual a sua ocupação? | Aberta | Estudante | 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Começou a usar o site durante o ensino médio |
-|6| Ao observar o diagrama da Troca de instituição  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim |
-
-### Termo de Consetimento:
-Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1GezAG5uUR6kqiIyuh2MQXEM9VQ70o7kd/view).
-
-Para assistir a apresentação clique [aqui](https://www.youtube.com/watch?v=oIRX_8wZNw0&ab_channel=ArturJackson)
-
-
-
-
-
-## Entrevista 3 - Alterar Foto
-
-### Objetivo e escopo da avaliação
-Neste processo avaliativo, dedicamos uma análise aprofundada à Tarefa de [Alterar Foto e ao seu diagrama HTA correspondente](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#alterar-foto). O objetivo primordial foi avaliar de maneira minuciosa a exatidão da representação da tarefa em relação às expectativas do participante e, simultaneamente, identificar eventuais problemas que pudessem impactar a experiência do usuário.
-
-Ao focar especificamente na Tarefa de Alterar Foto, buscamos validar a integridade das informações apresentadas no diagrama HTA. Este exame minucioso visou não apenas confirmar a precisão da representação visual, mas também compreender a interação entre o usuário e o sistema durante a execução da tarefa.
-
-A análise realizada teve como meta identificar discrepâncias entre a representação gráfica e a experiência efetiva do usuário, destacando áreas que requerem atenção e possíveis melhorias. Este processo não apenas visa corrigir eventuais deficiências, mas também proporciona insights valiosos para otimizar a usabilidade da Tarefa de Alterar Foto.
-
-Assim, essa avaliação meticulosa proporcionou uma compreensão abrangente do cenário, contribuindo não apenas para validar a precisão da representação, mas também para aprimorar a execução da tarefa, assegurando uma experiência mais fluida e alinhada com as expectativas do usuário participante.
-
-
-### Método de avaliação
-Optamos por uma abordagem multifacetada para a coleta de dados, utilizando a entrevista e a observação da interação do usuário durante a realização da tarefa de compartilhar um evento nas redes sociais através do site. Este método foi estruturado com base nas perguntas do questionário, proporcionando uma análise abrangente e detalhada da experiência do usuário. A combinação dessas técnicas visa não apenas capturar insights verbais por meio da entrevista, mas também observar diretamente o comportamento e as interações do usuário para obter uma compreensão mais holística do processo. Essa abordagem integrada proporciona uma riqueza de dados que contribuirá significativamente para a análise e aprimoramento da experiência do usuário.
-
-
-### Cronograma da entrevista
-
-<center>
-
-
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Felipe Hansen](https://github.com/FHansen98) |    <span style = "color: #FFC436">Patrick Maximo Cordeiro</span>    |       13:30      |     13:36      | 04/11/2023 | Plataforma Teams |
-
-*Fonte* - [Felipe Hansen](https://github.com/FHansen98)
-</center>
-
-### Conteúdo da Entrevista
-| Ordem | Pergunta | Opções de Resposta |Resposta|
-|--- |--- |---  |--- | 
-|  1 | Qual o seu nome? | Aberta | Patrick Maximo Cordeiro|
-|  2 | Qual a sua idade? | Aberta |21 anos| 
-| 3 | Qual o seu grau de ensino? | Aberta |Cursando Ensino Superior| 
-| 4 | Qual a sua ocupação? | Aberta | Estudante | 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Emissão do cartão, emissão de segunda via, pagamento|
-|6| Ao observar o diagrama da Alteração de foto  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim |
-
-### Termo de Consetimento:
-Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/15Q5CUUD-AzytOb0_J58Khz1HkkKOaksV/view?usp=sharing).
-
-
-Para assistir a apresentação clique [aqui](https://unbbr.sharepoint.com/sites/IHC-Grupo5/_layouts/15/stream.aspx?id=%2Fsites%2FIHC%2DGrupo5%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FMeeting%20in%20%5FGeneral%5F%2D20231104%5F162045%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 
 ## Entrevista 4 - Liberar Cartão
@@ -200,7 +188,7 @@ Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/
 Para assistir a apresentação clique [aqui](https://www.youtube.com/watch?v=XaeV8py0ZJ0&feature=youtu.be&ab_channel=LucasAndrade)
 
 
-## Entrevista 5 - Trocar Endereço
+## Entrevista 5 - Troca de Endereço
 
 ### Objetivo e escopo da avaliação
 Neste processo abrangente de avaliação, dedicamos uma análise minuciosa à Tarefa de [Trocar Endereço e ao seu respectivo diagrama HTA](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#trocar-Endereço). O nosso propósito central foi avaliar com precisão a representação da tarefa, considerando as expectativas do participante, enquanto simultaneamente buscávamos identificar eventuais problemas que poderiam impactar a experiência do usuário.
@@ -244,15 +232,21 @@ Para ver o termo de consentimento clique [aqui](-).
 
 Para assistir a apresentação clique [aqui](-).
 
-## Entrevista 6 - 2° Via
+
+
+## Entrevista 6 - Troca de Instituição
 
 ### Objetivo e escopo da avaliação
-Neste processo abrangente de avaliação, dedicamos uma análise minuciosa à Tarefa de [2° Via ao seu respectivo diagrama HTA](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#2-via). O nosso propósito central foi avaliar com precisão a representação da tarefa, considerando as expectativas do participante, enquanto simultaneamente buscávamos identificar eventuais problemas que poderiam impactar a experiência do usuário.
+Para esta avaliação, examinamos de perto a Tarefa de [Troca de Instituição e seu diagrama HTA correspondente](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#troca-de-instituicao), com o intuito de verificar sua precisão em relação às expectativas do participante e identificar possíveis problemas.
 
+Ao analisar a Troca de Instituição, focamos na validação da exatidão das informações representadas e na compreensão da interação usuário-sistema evidenciada pelo diagrama HTA. Nosso objetivo foi identificar discrepâncias entre a representação gráfica e a experiência real do usuário, destacando áreas que podem necessitar de ajustes para aprimorar a usabilidade.
 
+Essa análise cuidadosa proporcionou insights valiosos para otimizar a representação visual da tarefa, garantindo não apenas precisão, mas também eficácia e alinhamento com as expectativas do usuário participante.
 
 ### Método de avaliação
-Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto entrevistas quanto observação da interação do usuário ao realizar a tarefa de compartilhar um evento nas redes sociais por meio do site. Esse método foi cuidadosamente organizado com base nas perguntas do questionário, promovendo uma análise detalhada e abrangente da experiência do usuário. A sinergia entre essas técnicas não se limita à obtenção de insights verbais por meio da entrevista, mas também se estende à observação direta do comportamento e das interações do usuário, proporcionando uma compreensão mais completa e holística do processo. Essa abordagem integrada não apenas enriquece a coleta de dados, mas também oferece uma variedade de informações que desempenharão um papel fundamental na análise e no aprimoramento contínuo da experiência do usuário.
+
+O método utilizado foi a entrevista e de observação da interação do usuário ao realizar tarefa de compartilhar um evento nas redes sociais a partir do site com base no questionário realizando as perguntas da entrevista. 
+
 
 ### Cronograma da entrevista
 
@@ -261,36 +255,42 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [fulano](-) |    <span style = "color: #FFC436">fulano</span>    |       10:45      |     10:50     | 03/11/2023 | - |
+|  [Artur Jackson](https://github.com/artur-jack) |    <span style = "color: #FFC436">Guilherme</span>    |       13:00       |     13:06      | 04/11/2023 | Plataforma Teams |
 
-*Fonte* - [fulano](-) 
+*Fonte* - [Artur Jackson](https://github.com/artur-jack) 
 </center>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
 |--- |--- |---  |--- | 
-|  1 | Qual o seu nome? | Aberta | -|
-|  2 | Qual a sua idade? | Aberta |-| 
-| 3 | Qual o seu grau de ensino? | Aberta |-| 
-| 4 | Qual a sua ocupação? | Aberta | - | 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | -|
-|6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |-|
+|  1 | Qual o seu nome? | Aberta | Guilherme|
+|  2 | Qual a sua idade? | Aberta |20 anos| 
+| 3 | Qual o seu grau de ensino? | Aberta |Cursando Ensino Superior| 
+| 4 | Qual a sua ocupação? | Aberta | Estudante | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Começou a usar o site durante o ensino médio |
+|6| Ao observar o diagrama da Troca de instituição  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim |
 
 ### Termo de Consetimento:
-Para ver o termo de consentimento clique [aqui](-).
+Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1GezAG5uUR6kqiIyuh2MQXEM9VQ70o7kd/view).
+
+Para assistir a apresentação clique [aqui](https://www.youtube.com/watch?v=oIRX_8wZNw0&ab_channel=ArturJackson)
 
 
-Para assistir a apresentação clique [aqui](-).
-
-## Entrevista 7 - Acompanhar Cadastro
+## Entrevista 7 - Alterar Foto
 
 ### Objetivo e escopo da avaliação
-Neste processo abrangente de avaliação, dedicamos uma análise minuciosa à Tarefa de [Acompanhar Cadastro ao seu respectivo diagrama HTA](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#acompanhar-cadastro). O nosso propósito central foi avaliar com precisão a representação da tarefa, considerando as expectativas do participante, enquanto simultaneamente buscávamos identificar eventuais problemas que poderiam impactar a experiência do usuário.
+Neste processo avaliativo, dedicamos uma análise aprofundada à Tarefa de [Alterar Foto e ao seu diagrama HTA correspondente](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#alterar-foto). O objetivo primordial foi avaliar de maneira minuciosa a exatidão da representação da tarefa em relação às expectativas do participante e, simultaneamente, identificar eventuais problemas que pudessem impactar a experiência do usuário.
 
+Ao focar especificamente na Tarefa de Alterar Foto, buscamos validar a integridade das informações apresentadas no diagrama HTA. Este exame minucioso visou não apenas confirmar a precisão da representação visual, mas também compreender a interação entre o usuário e o sistema durante a execução da tarefa.
+
+A análise realizada teve como meta identificar discrepâncias entre a representação gráfica e a experiência efetiva do usuário, destacando áreas que requerem atenção e possíveis melhorias. Este processo não apenas visa corrigir eventuais deficiências, mas também proporciona insights valiosos para otimizar a usabilidade da Tarefa de Alterar Foto.
+
+Assim, essa avaliação meticulosa proporcionou uma compreensão abrangente do cenário, contribuindo não apenas para validar a precisão da representação, mas também para aprimorar a execução da tarefa, assegurando uma experiência mais fluida e alinhada com as expectativas do usuário participante.
 
 
 ### Método de avaliação
-Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto entrevistas quanto observação da interação do usuário ao realizar a tarefa de compartilhar um evento nas redes sociais por meio do site. Esse método foi cuidadosamente organizado com base nas perguntas do questionário, promovendo uma análise detalhada e abrangente da experiência do usuário. A sinergia entre essas técnicas não se limita à obtenção de insights verbais por meio da entrevista, mas também se estende à observação direta do comportamento e das interações do usuário, proporcionando uma compreensão mais completa e holística do processo. Essa abordagem integrada não apenas enriquece a coleta de dados, mas também oferece uma variedade de informações que desempenharão um papel fundamental na análise e no aprimoramento contínuo da experiência do usuário.
+Optamos por uma abordagem multifacetada para a coleta de dados, utilizando a entrevista e a observação da interação do usuário durante a realização da tarefa de compartilhar um evento nas redes sociais através do site. Este método foi estruturado com base nas perguntas do questionário, proporcionando uma análise abrangente e detalhada da experiência do usuário. A combinação dessas técnicas visa não apenas capturar insights verbais por meio da entrevista, mas também observar diretamente o comportamento e as interações do usuário para obter uma compreensão mais holística do processo. Essa abordagem integrada proporciona uma riqueza de dados que contribuirá significativamente para a análise e aprimoramento da experiência do usuário.
+
 
 ### Cronograma da entrevista
 
@@ -299,26 +299,27 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [fulano](-) |    <span style = "color: #FFC436">fulano</span>    |       10:45      |     10:50     | 03/11/2023 | - |
+| [Felipe Hansen](https://github.com/FHansen98) |    <span style = "color: #FFC436">Patrick Maximo Cordeiro</span>    |       13:30      |     13:36      | 04/11/2023 | Plataforma Teams |
 
-*Fonte* - [fulano](-) 
+*Fonte* - [Felipe Hansen](https://github.com/FHansen98)
 </center>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
 |--- |--- |---  |--- | 
-|  1 | Qual o seu nome? | Aberta | -|
-|  2 | Qual a sua idade? | Aberta |-| 
-| 3 | Qual o seu grau de ensino? | Aberta |-| 
-| 4 | Qual a sua ocupação? | Aberta | - | 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | -|
-|6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |-|
+|  1 | Qual o seu nome? | Aberta | Patrick Maximo Cordeiro|
+|  2 | Qual a sua idade? | Aberta |21 anos| 
+| 3 | Qual o seu grau de ensino? | Aberta |Cursando Ensino Superior| 
+| 4 | Qual a sua ocupação? | Aberta | Estudante | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Emissão do cartão, emissão de segunda via, pagamento|
+|6| Ao observar o diagrama da Alteração de foto  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim |
 
 ### Termo de Consetimento:
-Para ver o termo de consentimento clique [aqui](-).
+Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/15Q5CUUD-AzytOb0_J58Khz1HkkKOaksV/view?usp=sharing).
 
 
-Para assistir a apresentação clique [aqui](-).
+Para assistir a apresentação clique [aqui](https://unbbr.sharepoint.com/sites/IHC-Grupo5/_layouts/15/stream.aspx?id=%2Fsites%2FIHC%2DGrupo5%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FMeeting%20in%20%5FGeneral%5F%2D20231104%5F162045%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
 
 
 ## Planejamento de Reprojeto
