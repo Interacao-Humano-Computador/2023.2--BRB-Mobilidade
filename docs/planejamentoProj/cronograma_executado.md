@@ -9,16 +9,16 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 
 | Atividade | Período planejado para desenvolvimento| Realizado | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|----------------|
-| [Sites avaliados](lista_Site.md) | 30/08 - 01/09 | 30/08 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Fause, Felipe, Juan |
-| [Site selecionado](site.md) | 04/09 | 21/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas| 23/09 | Amanda |
-| [Heatmap](heat.md) | 02/09 | 29/08 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Amanda |
-| [Ferramentas](ferramentas.md) | 02/09 | 01/09 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/09 | Artur Jackson |
+| [Sites avaliados](lista_Site.md) | 30/08 - 01/09 | 30/08 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Fause, Felipe, Juan |
+| [Site selecionado](site.md) | 04/09 | 21/09 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas| 23/09 | Amanda |
+| [Heatmap](heat.md) | 02/09 | 29/08 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 02/09 | Amanda |
+| [Ferramentas](ferramentas.md) | 02/09 | 01/09 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/09 | Artur Jackson |
 | [Processos de Design](process_des.md) | 22/09 | 28/09 | Lucas e Fause | 29/09 | Lucas |
 | Criação do GitPage | 16/09 | 26/09 | Felipe | 26/09  | Arthur Sousa |
 | [Documentar Equipe](../index.md) | 16/09 | 28/09 | Arthur Sousa, Amanda e Juan | 28/09 | Arthur Sousa |
 | [Cronograma](cronogramas.md) | 29/09 | 29/09 | Arthur Sousa e Artur Jackson | 29/09 | Juan |
-| [Gravação da apresentação](https://www.youtube.com/watch?v=rn-6kxlx5rc) | 01/10 | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
-| Edição da apresentação | 01/10 | 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/09 - 01/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://www.youtube.com/watch?v=rn-6kxlx5rc) | 01/10 | 01/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 01/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 01/10 | 01/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/09 - 01/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 1: Cronograma do Ponto de Controle 1 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
@@ -51,7 +51,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Criar o guia de estilo](../analiseRequisitos/guia_de_estilo.md) | 17/10 - 20/10 | 19/10 - 21/10 |Lucas | 22/10 | Artur Jackson |
 | [Determinar as características da plataforma para o projeto](../analiseRequisitos/caracteristicas_gerais.md) | 17/10 - 20/10 | 21/10 |Amanda e Felipe | 21/10 - 22/10 | Arthur |
 | [Gravação da apresentação](https://youtu.be/Dk47CFnf1pM) | 21/10 - 22/10 | 22/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
-| Edição da apresentação | 22/10 | 22/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 22/10 | 22/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 3: Cronograma do Ponto de Controle 3 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
@@ -67,7 +67,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Planejar a avaliação da Análise de Tarefas](../designAvaliacao/PlanejamentoAvaliacaoTare.md) | 24/10 - 27/10 | 27/10 |Fause e Felipe | 30/10 | Lucas |
 | [Planejar o relato dos resultados da avaliação da Análise de Tarefas](../designAvaliacao/planejamentoResultados.md) | 24/10 - 27/10 | 27/10 |Juan | 30/10 | Felipe Hansen |
 | [Gravação da apresentação](https://youtu.be/PtNKCpDUTOU) | 28/10 - 29/10 | 29/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
-| Edição da apresentação | 29/10 | 29/10 |Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 29/10 | 29/10 |Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/10 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 4: Cronograma do Ponto de Controle 4 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
@@ -82,8 +82,8 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Relatar a análise de tarefas]() | 31/10 - 04/11 | 03/11 - 04/11 | Juan | 04/11 | Juan |
 | [Planejar a avaliação do protótipo de papel](../designAvaliacao/prototipo_papel/planejamento_ava.md) | 31/10 - 04/11 | 03/11 - 04/11 |  Lucas e Felipe | 04/11 | Amanda |
 | [Planejar o relato dos resultados da avaliação do protótipo de papel](../designAvaliacao/prototipo_papel/planejamentoResult.md) | 31/10 - 04/11 | 03/11 - 04/11 |  Arthur Sousa e Fause | 04/11 | Artur Jackson |
-| [Gravação da apresentação]() | 04/11 - 06/10 |  | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
-| Edição da apresentação | 06/11 - 07/11  | | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas | 07/11 | Amanda, Arthur Rodrigues, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação]() | 04/11 - 06/10 | 05/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 06/11 - 07/11  | 05/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 07/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
     <p> Tabela 5: Cronograma do Ponto de Controle 5 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
