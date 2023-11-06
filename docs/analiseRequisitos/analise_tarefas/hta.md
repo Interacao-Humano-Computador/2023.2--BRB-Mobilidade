@@ -258,10 +258,34 @@ Esta atividade permite que o usuário consiga trocar o endereço
 |1.8 Anexar um documento que comprove o vínculo|  |**input:** arquivos do dispositivo (pdf,jpeg,jpg,pnj,gif)|
 |1.9 Salvar solicitação|  |**input:** clique(mouse) **feedback:** cadastrar a solictação ou, retornar erro caso os dados do formulário estejam incorretos|
 
-
 <div style="text-align: center">
     <img src="-">
     <p>Figura 9: Diagrama HTA da tarefa de troca de endereço (Fonte: Juan Pablo, 2023)</p>
+</div>
+
+
+### Meus Acessos
+
+Esta atividade permite que o usuário consiga visualizar os acessos que ele possui, além de poder visualizar o histórico de acessos que ele já utilizou.
+
+- Adicionar login(cpf)
+- Adicionar senha
+- Clicar em “Logar”
+- Clicar em opção “Meus acessos”
+- Visualizar acessos
+
+| Objetivos/Operações | Relações| Problemas e Recomendações|
+| ------ | ------ | ------ |
+|0. Meus acessos| 1/2 |**input:** data de início e data de fim, caso o usuário deseje ver os acessos realizados em um período específico **plano:** inserir datas|
+|1. Navegar entre as páginas|  |**input:** clique(mouse)|
+|2. Consultar por período de tempo|  |**input:** clique(mouse)|
+|2.1.1 Inserir data de início|  |**input:** teclado|
+|2.1.2 Inserir data de fim|  |**input:** teclado|
+|2.2 Clicar em "Consultar"|  |**input:** clique(mouse) **Feedback:** Acessos do período definido são apresentados |
+
+<div style="text-align: center">
+    <img src="../../assets/diagramas hta/HTA_MeusAcessos.png">
+    <p> Figura 10: Diagrama HTA da tarefa de Meus Acessos (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
 
@@ -274,8 +298,9 @@ Esta atividade permite que o usuário consiga trocar o endereço
 |    1.2   |   14/10/2023   |   Adição das tabelas de HTA |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack) | Juan |
 |    1.3   |   15/10/2023   |  Atualização das tabelas HTA  | [Lucas](https://github.com/lucaslobao-18) e [Amanda](https://github.com/Amandaaaaabreu) |Artur|
 |    1.3   |   15/10/2023   |  Atualização das tabelas HTA  | [Felipe](https://github.com/FHansen98) |Lucas|
+|    1.4   |   06/11/2023   |  Atualização das tabelas HTA  | [Arthur Sousa](https://github.com/arthurrsousa) |Lucas|
+
 
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-
