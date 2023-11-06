@@ -284,7 +284,7 @@ Esta atividade permite que o usuário consiga visualizar os acessos que ele poss
 |2.2 Clicar em "Consultar"|  |**input:** clique(mouse) **Feedback:** Acessos do período definido são apresentados |
 
 <div style="text-align: center">
-    <img src="../../assets/diagramas hta/HTA_MeusAcessos.png">
+    <img src="../../assets/diagramas_hta/HTA_MeusAcessos.png">
     <p> Figura 10: Diagrama HTA da tarefa de Meus Acessos (Fonte: Arthur Sousa, 2023)</p>
 </div>
 
