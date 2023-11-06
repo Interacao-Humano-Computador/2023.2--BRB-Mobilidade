@@ -70,7 +70,7 @@ Além de definirmos o que é cada ação, também precisamos demonstrar a ordem 
 <br>
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20cadastro.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas_hta/Diagrama%20cadastro.png?raw=true">
     <p>Figura 2: Diagrama HTA da tarefa de cadastrar-se (Fonte: Lucas, 2023)</p>
 </div>
 
@@ -97,7 +97,7 @@ Recuperar Senha
 <br>
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20acompanhar%20cadastro.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas_hta/Diagrama%20acompanhar%20cadastro.png?raw=true">
     <p>Figura 3: Diagrama HTA da tarefa de acompanhar cadastro (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
@@ -130,7 +130,7 @@ Anexar documentos (Comprovante de pag, Boletim de ocorrência(em caso de perda o
 |3.1 Clicar em registrar solicitação|        | **input:** clique(mouse) **feedback:** cadastrar solicitação ou retorar mensagem de erro caso os dados estajam incorretos|
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%202via.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas_hta/Diagrama%202via.png?raw=true">
     <p>Figura 4: Diagrama HTA da tarefa de 2°via (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
@@ -165,7 +165,7 @@ Clicar em Registrar solicitação
 <br>
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama%20extensao%20de%20acesso.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas_hta/Diagrama%20extensao%20de%20acesso.png?raw=true">
     <p>Figura 5: Diagrama HTA da tarefa de extensão de acesso (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
@@ -196,7 +196,7 @@ Anexar um documento de comprovação (declaração de passe, declaração de ví
 
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Troca_instituicaoHTA.jpeg?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas_hta/Troca_instituicaoHTA.jpeg?raw=true">
     <p>Figura 6: Diagrama HTA da tarefa de troca de instituição (Fonte: Artur Jackson e Amanda, 2023)</p>
 </div>
 
@@ -215,7 +215,7 @@ Esta atividade permite que o usuário libere o cartão para começar a utilizá-
 <br>
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama_liberar_cartao.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas_hta/Diagrama_liberar_cartao.png?raw=true">
     <p>Figura 7: Diagrama HTA da tarefa de liberar cartão(Fonte: Lucas, 2023)</p>
 </div>
 
@@ -230,7 +230,7 @@ A atividade de alterar foto tem como objetivo permitir que o usuário realize a 
 
 
 <div style="text-align: center">
-    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas%20hta/Diagrama_alterar_foto.png?raw=true">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas_hta/Diagrama_alterar_foto.png?raw=true">
     <p>Figura 8: Diagrama HTA da tarefa de alterar foto(Fonte: Felipe, 2023)</p>
 </div>
 
