@@ -40,13 +40,13 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 | 3 | Qual o seu grau de ensino? | Aberta |Formado| 
 | 4 | Qual a sua ocupação? | Aberta | Gerente de Logística | 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta |  Emissão de 2° via e Verificar Saldo|
-|6| Ao observar o diagrama da 2° Via  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |Sim|
+|6| Ao observar o diagrama de Meus Acessos  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |Sim|
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](-).
 
 
-Para assistir a apresentação clique [aqui](-).
+Para assistir a apresentação clique [aqui](https://youtu.be/EQMfymYtvus).
 
 ## Entrevista 2 - 2° Via
 
