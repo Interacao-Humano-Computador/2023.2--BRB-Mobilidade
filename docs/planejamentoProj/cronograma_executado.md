@@ -82,7 +82,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Relatar a análise de tarefas]() | 31/10 - 04/11 | 03/11 - 04/11 | Juan | 04/11 | Juan |
 | [Planejar a avaliação do protótipo de papel](../designAvaliacao/prototipo_papel/planejamento_ava.md) | 31/10 - 04/11 | 03/11 - 04/11 |  Lucas e Felipe | 04/11 | Amanda |
 | [Planejar o relato dos resultados da avaliação do protótipo de papel](../designAvaliacao/prototipo_papel/planejamentoResult.md) | 31/10 - 04/11 | 03/11 - 04/11 |  Arthur Sousa e Fause | 04/11 | Artur Jackson |
-| [Gravação da apresentação]() | 04/11 - 06/10 | 05/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://youtu.be/LkH3uo9EATE?si=K84sU-9OlTZcuahm) | 04/11 - 06/10 | 05/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 06/11 - 07/11  | 05/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 07/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
