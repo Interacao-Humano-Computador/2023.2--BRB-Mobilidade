@@ -36,7 +36,7 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento: 
+  - Planejamento:
     - Ferramentas: planejamentoProj/ferramentas.md
     - Cronograma planejado: planejamentoProj/cronogramas.md
     - Cronograma executado: planejamentoProj/cronograma_executado.md
@@ -45,31 +45,40 @@ nav:
     - Processo de Design: planejamentoProj/process_des.md
     - Site Escolhido: planejamentoProj/site.md
   - Análise de Requisitos:
-    - Perfil do usuário: analiseRequisitos/perfil_do_usuario.md
-    - Personas: analiseRequisitos/personas.md
-    - Cenários: analiseRequisitos/cenario.md
-    - Aspectos éticos: analiseRequisitos/aspectos_eticos.md
-    - Análise de tarefas:
-      - Sobre: analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md
-      - HTA: analiseRequisitos/analise_tarefas/hta.md
-      - CTT: analiseRequisitos/analise_tarefas/ctt.md 
-    - Análise de Requisitos II:
-      - Princípios e Diretrizes Gerais: analiseRequisitos/principios_gerais.md
-      - Metas de usabilidade: analiseRequisitos/metas_usa.md
-      - Características Gerais: analiseRequisitos/caracteristicas_gerais.md
-      - Guia de Estilo: analiseRequisitos/guia_de_estilo.md
+    - Documentos:
+      - Análise de Requisitos I:
+        - Perfil do usuário: analiseRequisitos/perfil_do_usuario.md
+        - Personas: analiseRequisitos/personas.md
+        - Cenários: analiseRequisitos/cenario.md
+        - Aspectos éticos: analiseRequisitos/aspectos_eticos.md
+      - Análise de tarefas:
+        - Sobre: analiseRequisitos/analise_tarefas/sobre_analise_tarefas.md
+        - HTA: analiseRequisitos/analise_tarefas/hta.md
+        - CTT: analiseRequisitos/analise_tarefas/ctt.md 
+      - Análise de Requisitos II:
+        - Princípios e Diretrizes Gerais: analiseRequisitos/principios_gerais.md
+        - Metas de usabilidade: analiseRequisitos/metas_usa.md
+        - Características Gerais: analiseRequisitos/caracteristicas_gerais.md
+        - Guia de Estilo: analiseRequisitos/guia_de_estilo.md
   - Design, Avaliação e Desenvolvimento:
     - Nivel 1:
-      - Storyboard: designAvaliacao/storyboard/storyboards.md
-      - Planejamento da Avaliação dos Storyboards: designAvaliacao/storyboard/planejamentoAvaliacao.md
-      - Planejamento do Relato dos Resultados Storyboard: designAvaliacao/storyboard/planejamentoResultados.md
-      - Planejamento da Avaliação de Tarefas: designAvaliacao/PlanejamentoAvaliacaoTare.md
-      - Planejamento dos Relatos dos Resultados da Análise de Tarefas: designAvaliacao/planResAn.md
-      - Relato dos resultados do Storyboard: designAvaliacao/resultadoStoryBoard.md
-      - Relato dos resultados da Análise de Tarefas: designAvaliacao/RelatoResultAnaliseTar.md
+      - Storyboard:
+        - Nossos Storyboards: designAvaliacao/storyboard/storyboards.md
+        - Planejamento da Avaliação dos Storyboards: designAvaliacao/storyboard/planejamentoAvaliacao.md
+        - Planejamento do Relato dos Resultados Storyboard: designAvaliacao/storyboard/planejamentoResultados.md
+        - Relato dos resultados do Storyboard: designAvaliacao/resultadoStoryBoard.md
+      - Análise de Tarefas:
+        - Planejamento da Avaliação de Tarefas: designAvaliacao/PlanejamentoAvaliacaoTare.md
+        - Planejamento dos Relatos dos Resultados da Análise de Tarefas: designAvaliacao/planResAn.md
+        - Relato dos resultados da Análise de Tarefas: designAvaliacao/RelatoResultAnaliseTar.md
     - Nível 2:
-      - Planejamento de Avaliação dos Protótipos de papel: designAvaliacao/prototipo_papel/planejamento_ava.md
-      - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: designAvaliacao/prototipo_papel/planejamentoResult.md
+      - Protótipo de Papel:
+        - Planejamento de Avaliação dos Protótipos de papel: designAvaliacao/prototipo_papel/planejamento_ava.md
+        - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: designAvaliacao/prototipo_papel/planejamentoResult.md
+  - Verificação:
+    - Grupo 06:
+      - Entrega_5:
+        - Planejamento: verificacao/grupo_06/entrega_5/planejamento_verif.md
   - Encontros: reunioes.md
 
 markdown_extensions:
