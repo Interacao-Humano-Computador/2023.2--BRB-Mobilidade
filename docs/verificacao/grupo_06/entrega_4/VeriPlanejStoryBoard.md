@@ -13,6 +13,31 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 O objetivo deste documento é o processo de verificação do Planejamento da Avaliação do Storyboard realizado do grupo 6, para tal foram utilizadas o checklist presente no plano de ensino da matéria, os feedbacks realizados pelos professores além da avaliação feita pelo Grupo 5 e para uma melhor visualização dos parâmetros de verificação podemos visualizar as tabela abaixo
 
+| Header | Another header | Yet another header |
+|--- |--- |--- |
+| row 1 | column 2 | column 3 |
+| row 2 | row 2 column 2 | row 2 column 3 |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+
+
+| Header | Another header | Yet another header |
+|--- |--- |--- |
+| row 1 | column 2 | column 3 |
+| row 2 | row 2 column 2 | row 2 column 3 |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+|--- |--- |--- |
+
+
 ## Problemas encontrados
 
 
