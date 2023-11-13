@@ -306,5 +306,5 @@ A partir dessas conclusões, é possível interpretar que os storyboards foram e
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   03/11/2023   |   Criação do documento |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack)| []()|
-|    1.1   |   04/11/2023   |   Adiciona cronograma das entrevistas |  [Artur Jackson](https://github.com/artur-jack) e [Amanda](https://github.com/Amandaaaaabreu) | []()|
+|    1.0   |   03/11/2023   |   Criação do documento |  [Amanda](https://github.com/Amandaaaaabreu) e [Artur Jackson](https://github.com/artur-jack)| [Lucas]()|
+|    1.1   |   04/11/2023   |   Adiciona cronograma das entrevistas |  [Artur Jackson](https://github.com/artur-jack) e [Amanda](https://github.com/Amandaaaaabreu) | [Lucas]()|

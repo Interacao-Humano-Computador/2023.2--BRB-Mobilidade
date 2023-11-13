@@ -11,6 +11,8 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 ## Conteúdo esperado
 
+O objetivo deste documento é o processo de verificação do Planejamento da Avaliação do Storyboard realizado do grupo 6, para tal foram utilizadas o checklist presente no plano de ensino da matéria, os feedbacks realizados pelos professores além da avaliação feita pelo Grupo 5 e para uma melhor visualização dos parâmetros de verificação podemos visualizar as tabela abaixo
+
 ## Problemas encontrados
 
 
