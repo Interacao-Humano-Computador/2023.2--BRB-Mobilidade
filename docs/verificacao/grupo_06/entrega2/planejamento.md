@@ -1,6 +1,6 @@
 ## Introdução
 
-A validação é uma das fases mais cruciais durante o desenvolvimento de um projeto. Nesta fase, os elementos gerados são minuciosamente examinados para assegurar que atendam aos requisitos especificados. Portanto, este texto descreve o planejamento da validação dos artefatos gerados pelo grupo 06 na etapa 02 do projeto. 
+A validação é uma das fases mais cruciais durante o desenvolvimento de um projeto. Nesta fase, os elementos gerados são minuciosamente examinados para assegurar que atendam aos requisitos especificados. Portanto, este texto descreve o planejamento da avaliação dos artefatos na etapa 02 do projeto. Essa avaliação será feita com o grupo 06 (CAESB)
 
 ## Metodologia
 
@@ -8,7 +8,7 @@ Optamos por utilizar a abordagem da inspeção para a verificação. Essa metodo
 
 ## Inspeção 
 
-Vamos realizar uma inspeção e verificação da entrega 2 por meio de um conjunto de perguntas elaboradas para avaliar os artefatos desenvolvidos. Este compilado de questões servirá como guia essencial para garantir a qualidade e conformidade dos elementos entregues. Ao abordar aspectos específicos relacionados aos artefatos, buscamos não apenas identificar possíveis áreas de aprimoramento, mas também reconhecer os sucessos alcançados nesta fase do projeto. Esta abordagem estruturada e abrangente permitirá uma avaliação detalhada, contribuindo para a validação eficaz da entrega 2 e estabelecendo uma base sólida para futuros desenvolvimentos.
+Vamos realizar uma inspeção e verificação da entrega 2 por meio de um conjunto de perguntas elaboradas para avaliar os artefatos desenvolvidos. Este compilado de questões servirá como guia para garantir a qualidade e conformidade dos elementos entregues. Ao abordar aspectos específicos relacionados aos artefatos, buscamos não apenas identificar possíveis áreas de aprimoramento, mas também reconhecer os pontos positivos alcançados nesta fase do projeto. Esta abordagem estruturada e abrangente permitirá uma avaliação detalhada, contribuindo para a validação eficaz da entrega 2 e estabelecendo uma base sólida para futuros desenvolvimentos.
 
 | Perguntas                  |Respostas                   |                                 
 | ------------------------ | -----------------------------

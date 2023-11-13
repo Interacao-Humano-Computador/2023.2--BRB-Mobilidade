@@ -4,7 +4,7 @@ Após a validação dos artefatos do Grupo 06 na Etapa 02 do projeto, apresentam
 
 ## Resultado da Inspeção
 
-A tabela de checklist, apresentada como guia essencial durante a inspeção, revelou uma série de pontos positivos e negativos. Cada pergunta abordou aspectos específicos dos artefatos, desde o cumprimento do cronograma até a adequação ética nas pesquisas envolvendo usuários. Os resultados, expressos em "Sim" ou "Não", forneceram uma visão clara do estado de cada componente avaliado.
+A tabela de checklist, apresentada como guia durante a inspeção, revelou pontos positivos e negativos. Cada pergunta abordou aspectos específicos dos artefatos, desde o cumprimento do cronograma até a adequação ética nas pesquisas envolvendo usuários. Os resultados, expressos em "Sim" ou "Não", forneceram uma visão clara do estado de cada componente avaliado.
 
 | Perguntas                  |Respostas                   |                                 
 | ------------------------ | -----------------------------
