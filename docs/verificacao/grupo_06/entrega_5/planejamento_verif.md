@@ -7,15 +7,13 @@ Este documento estabelece um plano abrangente para a verificação dos artefatos
 
 ## Metodologia
 
-A metodologia escolhida para esta verificação é a inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo o autor do mesmo.
-
-### Participantes
-
-O responsável por essa verificação é o integrante do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) [Matheus Henrique](https://github.com/mathonaut), que realiza tanto o planejamento quanto a inspeção e o relato de seus resultados. Em relação a revisão dos artefatos produzidos por essa verificação, fica a cargo do integrante do mesmo grupo [Arthur de Melo](https://github.com/arthurmlv).
+<p style="text-align: justify">
+Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção de Fagan para realizar a verificação dos artefatos. A inspeção de Fagan é um método formalizado de revisão de software desenvolvido por Michael Fagan na década de 1970, apesar de ter sido desenvolvida pensando em revisão de códigos, essa técnica de verificação pode ser utilizada em diferentes contextos. O método visa melhorar a qualidade do software/produto por meio da detecção precoce e eficiente de erros/defeitos. Essa análise é conduzida usando uma checklist que enumera os defeitos mais comuns a serem identificados, analisados e classificados. É crucial enfatizar que o autor do artefato não deve ser responsável pela leitura do mesmo.
+</p>
 
 ### Artefatos para verificação
 
-Os artefatos alvos dessa verificação são:
+Os artefatos que serão abordados nessa etapa são esses:
 
 - O [**Relato de Resultados da Avaliação do Storyboard**]() na versão 1.1 de data 28/05/2023 produzido por [](), [](), []() e []()
 
@@ -177,6 +175,8 @@ _Fonte: [](), 2023._
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> "Software Engineering: A Practitioner's Approach" - de Roger S. Pressman. (procurar a versão do livro e organizar a bibliografia)
 
 ## Histórico de Versões
 
