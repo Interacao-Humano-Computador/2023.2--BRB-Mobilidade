@@ -15,17 +15,17 @@ Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção 
 
 Os artefatos que serão abordados nessa etapa são esses:
 
-- O [**Relato de Resultados da Avaliação do Storyboard**]() na versão 1.1 de data 28/05/2023 produzido por [](), [](), []() e []()
+- O [**Relato de Resultados da Avaliação do Storyboard**](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Relato%20dos%20resultados%20do%20story.md) na versão 1.7 de data 08/11/2023
 
-- O [**Relato dos Resultados das Análises de Tarefas**]() na versão 1.1 de data 28/05/2023 produzido por [](), [](), []() e []()
+- O [**Relato dos Resultados das Análises de Tarefas**](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Relato%20dos%20resultados.md) na versão (não identificada) de data (não identificada)
 
-- O [**Planejamento da Avaliação do Protótipo de Papel**]() na versão 1.1 de data 28/05/2023 produzido por [](), [](), []() e []()
+- O [**Planejamento da Avaliação do Protótipo de Papel**](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/planejamento-prototipo-papel.md) na versão // de data __/__/____
 
-- O [**Planejamento do relato dos resultados da avaliação do protótipo de papel**]() na versão 1.1 de data 28/05/2023 produzido por [](), [](), []() e []()
+- O [**Planejamento do relato dos resultados da avaliação do protótipo de papel**](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/planejamento_do_relato_dos_resultados_papel.md) na versão 1.0 de data 07/11/2023
 
 ### Cronograma
 
-A verificação será realizada no período de 31 de maio de 2023 até dia 04 de junho de 2023, com os resultados sendo relatados através da página de documentação do [Grupo 1](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital) no dia 05 de junho de 2023. A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no período de 07 de novembro de 2023 até dia 14 de novembro de 2023.
 
 <center>
 
@@ -33,25 +33,22 @@ A verificação será realizada no período de 31 de maio de 2023 até dia 04 de
 
 | Data       | Descrição                                                                                                                   | Responsável                                      |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 31/05/2023 | Verificação do Relato de Resultados da Avaliação do Storyboard.                                                             | [Matheus Henrique](https://github.com/mathonaut) |
-| 02/06/2023 | Verificação do Relato dos Resultados das Análises de Tarefas.                                                               | [Matheus Henrique](https://github.com/mathonaut) |
-| 03/06/2023 | Verificação do Planejamento da Avaliação do Protótipo de Papel.                                                             | [Matheus Henrique](https://github.com/mathonaut) |
-| 04/06/2023 | Verificação do Planejamento do relato dos resultados da avaliação do protótipo de papel.                                    | [Matheus Henrique](https://github.com/mathonaut) |
-| 05/06/2023 | Adição da documentação na página do grupo.                                                                                  | [Matheus Henrique](https://github.com/mathonaut) |
+| 13/11/2023 | Verificação do Relato de Resultados da Avaliação do Storyboard.                                                            | [Lucas Andrade](https://github.com/lucaslobao-18) |
+| 13/11/2023 | Verificação do Relato dos Resultados das Análises de Tarefas.                                                               | [Lucas Andrade](https://github.com/lucaslobao-18) |
+| 13/11/2023 | Verificação do Planejamento da Avaliação do Protótipo de Papel.                                                             | [Arthur Sousa](https://github.com/arthurrsousa) |
+| 13/11/2023 | Verificação do Planejamento do relato dos resultados da avaliação do protótipo de papel.                                    | [Arthut Sousa](https://github.com/arthurrsousa) |
 
-_Fonte: [ ](https://github.com/mathonaut), 2023._
+_Fonte: [Lucas Lobão](https://github.com/lucaslobao-18), 2023._
 
 </center>
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Simone e Silva.<a id=anchor_1 href="#REF1"><sup>1</sup></a> Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do [Grupo 2](https://interacao-humano-computador.github.io/2023.1-Wikipedia/), [Davi Silva](https://github.com/daves22).
-
-Com o intuito de melhor organizar a verificação, a checklist será dividida em 4 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a geral. As checklists são as seguintes: Geral, Resultado da Avaliação do Storyboard, Resultado do Relato da Avaliação da Análise de Tarefa, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato do Protótipo de Papel. As tabelas de 2 a 5 apresenta as checklists de verificação.
+As listas de verificação foram formuladas com base nos critérios específicos para cada artefato mas também com alguns critérios gerais para todos os artefatos, considerando as principais etapas envolvidas em sua elaboração e seguindo as diretrizes de análise propostas por Barbosa e Silva<a id=anchor_1 href="#REF1"><sup>1</sup></a>.
 
 ### Geral
 
-A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os artefatos devem seguir.
+A tabela 2 apresenta o checklist base para todos os outros checklists dessa sessão, nele encontramos verificações que podem ser aplicadas para qualquer um dos artefatos, e que serão completadas por um checklist mais específico posteriormente.
 
 <center>
 

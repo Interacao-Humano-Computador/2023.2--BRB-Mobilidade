@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Realizado o planejamento do que verificar, é o momento de realizar a inspeção em si. Esse documento apresenta os objetivos da verificação, a metodologia utilizada e os dados da verificação. Além disso, os principais problemas encontrados são sumarizados e analisados obtendo informações valiosas que serão utilizadas para sugerir ações corretivas para os mesmos.
+Esse documento apresenta os resultados obtidos das verificações, elencando o que na nossa visão pode ser melhorado e o que já está de acordo com o esperado. Foi utilizado o checklist elaborado na aba de planejamento para verificar os artefatos
 
 ## Objetivo
 
