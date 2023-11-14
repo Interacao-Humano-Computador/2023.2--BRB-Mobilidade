@@ -25,7 +25,7 @@ O objetivo deste documento é o processo de verificação do Relato dos resultad
 |4 |Os métodos de avaliação a serem utilizados? |Feito |
 |5 |Foi apresentado um método para realização da atividade proposta?|Feito |
 |6 |As questões éticas |Feito|
-|7|A estrutura do relatório do resultado da avaliação |Incompleto |
+|7|A estrutura do relatório do resultado da avaliação |Feito |
 |8 |Um cronograma |Feito |
 |9|A respeito dos participantes, foi descrito que será documentado a experiência dos participantes quanto a design?|Incompleto |
 |10 |Apresenta realização de um teste piloto? |Feito |
@@ -50,9 +50,24 @@ O objetivo deste documento é o processo de verificação do Relato dos resultad
 
 ## Problemas encontrados
 
-###
+
+### 9 - A respeito dos participantes, foi descrito que será documentada a experiência dos participantes quanto a design?
+
+* falta informações de como será o processo da documentação da experiência do participantes 
+
+### 12 - O artefato identifica os recursos de mão-de-obra necessários para conduzir a Avaliação do Storyboard, assim como a preparação e os equipamentos necessários?
+
+* alguns recursos não são citados ou não apresentam informações suficientes
+
+### 15 - O planejamento apresenta os resultados obtidos pelo teste piloto?
+
+* Não é apresentado os resultados obtidos pelo teste piloto
 
 ## Sugestões de Correções
+
+- Adicionar mais informações detalhadas sobre os processos citados
+- Detalhar os recursos utilizados no processo
+- Adicionar os resultados obtidos pelo teste piloto
 
 
 ## Bibliografia
@@ -69,4 +84,5 @@ O objetivo deste documento é o processo de verificação do Relato dos resultad
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   10/11/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)||
+|    1.0   |   10/11/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)|
+|    2.0   |   13/11/2023   |   Finalização da pagina |  [Fause Carlos](https://github.com/FauseSkyWalker)|

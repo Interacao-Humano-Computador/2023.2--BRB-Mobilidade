@@ -103,4 +103,5 @@ O objetivo deste documento é o processo de verificação do Planejamento da Ava
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   10/11/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)||
+|    1.0   |   10/11/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)|[Juan Pablo](https://github.com/Juan-Ricarte)|
+|    1.0   |   13/11/2023   |   Finalização da pagina |  [Fause Carlos](https://github.com/FauseSkyWalker)|[Juan Pablo](https://github.com/Juan-Ricarte)|
