@@ -14,13 +14,13 @@ Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção 
 
 Levando em consideração os artefatos elaborados para a entrega 5, que são:
 
-- O [**Relato de Resultados da Avaliação do Storyboard**]() na versão 1.7 de data 08/11/2023
+- O [**Relato de Resultados da Avaliação do Storyboard**](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Relato%20dos%20resultados%20do%20story.md) na versão 1.7 de data 08/11/2023
 
-- O [**Relato dos Resultados das Análises de Tarefas**]() na versão 1.7 de data 08/11/2023
+- O [**Relato dos Resultados das Análises de Tarefas**](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Relato%20dos%20resultados.md) na versão 1.7 de data 08/11/2023
 
-- O [**Planejamento da Avaliação do Protótipo de Papel**]() na versão (não identificada) de data (não identificada)
+- O [**Planejamento da Avaliação do Protótipo de Papel**](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/planejamento-prototipo-papel.md) na versão (não identificada) de data (não identificada)
 
-- O [**Planejamento do relato dos resultados da avaliação do protótipo de papel**]() na versão 1.0 de data 07/11/2023
+- O [**Planejamento do relato dos resultados da avaliação do protótipo de papel**](https://github.com/Interacao-Humano-Computador/2023.2-Caesb/blob/main/docs/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/planejamento_do_relato_dos_resultados_papel.md) na versão 1.0 de data 07/11/2023
 
 ## Cronograma de verificação
 
@@ -32,7 +32,7 @@ Levando em consideração os artefatos elaborados para a entrega 5, que são:
 |13/11/2023|Planejamento do relato dos resultados da avaliação do protótipo de papel|Arthur Sousa|
 
 <div style="text-align: center">
-    <p> Tabela 1: Cronograma de verificações (Fonte: Lucas Lobão, 2023).</p>
+    <p> Tabela 1: Cronograma de verificações (Fonte: Lucas Lobão e Arthur Sousa, 2023).</p>
 </div>
 
 ## Checklist
@@ -61,7 +61,7 @@ Com base nos checklists utilizados pelo professor para avaliar cada entrega e ta
 |16. Os relatos das avaliações estão formatados de maneira padronizada?|sim ou Não|
 
 <div style="text-align: center">
-    <p> Tabela 1: Checklist (Fonte: Lucas Lobão, 2023).</p>
+    <p> Tabela 1: Checklist (Fonte: Lucas Lobão e Arthur Sousa, 2023).</p>
 </div>
 
 </br>

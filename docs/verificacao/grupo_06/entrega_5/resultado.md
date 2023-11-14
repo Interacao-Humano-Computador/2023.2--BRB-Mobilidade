@@ -22,9 +22,9 @@ Com base no checklist apresentado na tabela 1, podemos ver que o grupo 06 obteve
 |11. Os artefatos de avaliação possuem um cronograma?| Sim |
 |12. Os artefatos de avaliação possuem teste piloto?| Sim |
 |13. Os artefatos de avaliação possuem os aspectos práticos da avaliação?| Sim |
-|14. Os artefatos de relato de resultados, possuem a avaliação dos dados?| - |
-|15. Os vídeos das avaliações estão disponíveis e acessíveis?| - |
-|16. Os relatos das avaliações estão formatados de maneira padronizada?| - |
+|14. Os artefatos de relato de resultados, possuem a avaliação dos dados?| sim |
+|15. Os vídeos das avaliações estão disponíveis e acessíveis?| Sim |
+|16. Os relatos das avaliações estão formatados de maneira padronizada?| Sim |
 
 <div style="text-align: center">
     <p> Tabela 1: Checklist (Fonte: Arthur Sousa e Lucas Lobão, 2023).</p>
