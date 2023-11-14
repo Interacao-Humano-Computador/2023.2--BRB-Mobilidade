@@ -95,7 +95,7 @@ A tabela 4 a seguir apresenta a checklist referente às [metas de usabilidade](h
 
 | ID  | Descrição                                                                        | Avaliação | Observações |
 | :-: | -------------------------------------------------------------------------------- | :-------: | :---------: |
-|  5  | São apresentadas as metas almejadas no projeto?                              |     -     |      -      |
+|  5  | É possivel identificar de forma clara as metas almejadas no projeto?                              |     -     |      -      |
 |  6  | Há algum indicador de interesse baseado no desempenho dos usuários?              |     -     |      -      |
 |  7  | As metas foram definidas através do perfil de usuário?                           |     -     |      -      |
 |  8  | Foram definidas as usabilidades em 6 metas?                                      |     -     |      -      |
