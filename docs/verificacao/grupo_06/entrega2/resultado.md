@@ -38,4 +38,4 @@ O projeto seguiu um cronograma bem estruturado, registrando claramente quem foi 
 
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 13/11/2023 | Criação da página. | [Amanda Abreu](https://github.com/Amandaaaaabreu) | |
+| `1.0`  | 13/11/2023 | Criação da página. | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Arthur Sousa](https://github.com/arthurrsousa) |

@@ -35,7 +35,7 @@ Vamos realizar uma inspeção e verificação da entrega 2 por meio de um conjun
 
 | Avaliador | Revisor      |
 | ----------- | ---------- |  
-| Amanda Abreu| Arthur|
+| Amanda Abreu | Arthur Sousa |
 
 
 <div style="text-align: center">
@@ -50,5 +50,4 @@ Vamos realizar uma inspeção e verificação da entrega 2 por meio de um conjun
 
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 13/11/2023 | Criação da página. | [Amanda Abreu](https://github.com/Amandaaaaabreu) | |
-
+| `1.0`  | 13/11/2023 | Criação da página. | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Arthur Sousa](https://github.com/arthurrsousa) |
