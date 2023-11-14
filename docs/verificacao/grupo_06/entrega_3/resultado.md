@@ -133,6 +133,16 @@ Não foi identificado nenhum erro crítico.
 
 ## Considerações Finais
 
+Com base na verificação dos artefatos do grupo 6 na etapa 3 do projeto, seguindo o planejamento preestabelecido, foram identificados alguns pontos importantes que merecem atenção.
+
+Durante a inspeção, identificou-se que os artefatos atendem a muitos dos critérios estabelecidos nos checklists. No entanto, foram identificados alguns problemas que podem ser classificados como erros maiores e menores.
+
+Não foram identificados erros críticos, o que é positivo para a qualidade geral dos artefatos.
+
+Recomenda-se que as correções necessárias sejam realizadas, especialmente no que diz respeito à apresentação clara das metas escolhidas, à descrição completa dos elementos no Guia de Estilo e à inclusão adequada de características da plataforma.
+
+Essas considerações finais visam ressaltar os pontos de destaque na verificação dos artefatos e proporcionar orientações para aprimorar a qualidade e a eficácia do projeto.
+
 ## Bibliografia
 
 > Repositório do Grupo 6 - Caesb da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Caesb/>>. Acesso em: 13 novembro 2023.
