@@ -49,10 +49,45 @@ O objetivo deste documento é o processo de verificação do Planejamento da Ava
 
 ## Problemas encontrados
 
+### 3 - Descreva o(s) objetivo(s) da avaliação?
+
+* as informações do objetivo estão superficiais
+
+### 5 - As questões práticas da avaliação
+
+* dentro do artefato é especificado várias informações necessárias, contudo ainda há a ausência de algumas como por exemplo  quantos usuários participarão da avaliação e a razão dessa quantidade,equipamentos necessários e etc
+
+### 7 - Um cronograma (data e horário) e local para realização da avaliação do StoryBoard?
+
+* existe um cronograma contudo as informações necessárias não estão presente em algumas tabelas, como a data, horário de início e fim e o nome do entrevistado
+
+### 10 - A definição do teste piloto e data para realização do teste piloto antes da avaliação?
+
+* o teste piloto não possui cronograma (data que foi realizado) de forma explícita
+
+### 11 - Os itens que o avaliador deve realizar/anotar durante a avaliação|Não Feito
+
+* não é citado quais procedimento devem ser realizados caso o usuário de sugestões de ideias novas ou liste problemas
+
+### 17 - As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?
+
+* algumas tabelas possuem legendas diferente e não seguem o mesmo padrão de formatação
 
 ## Sugestões de Correções
 
-
 ## Bibliografia
 
+> ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. https://www.abnt.org.br/.
+
+> Grupo 6 da Disciplina de Interação Humano Computador. https://github.com/Interacao-Humano-Computador/2023.2-Caesb
+
+> Git pages do Grupo 6 https://interacao-humano-computador.github.io/2023.2-Caesb/
+
+> BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023
+
+
 ## Histórico de Versões
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   10/11/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)||

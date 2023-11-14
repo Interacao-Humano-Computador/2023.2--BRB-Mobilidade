@@ -50,10 +50,23 @@ O objetivo deste documento é o processo de verificação do Relato dos resultad
 
 ## Problemas encontrados
 
+###
 
 ## Sugestões de Correções
 
 
 ## Bibliografia
 
+> ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. https://www.abnt.org.br/.
+
+> Grupo 6 da Disciplina de Interação Humano Computador. https://github.com/Interacao-Humano-Computador/2023.2-Caesb
+
+> Git pages do Grupo 6 https://interacao-humano-computador.github.io/2023.2-Caesb/
+
+> BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023
+
 ## Histórico de Versões
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   10/11/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)||
