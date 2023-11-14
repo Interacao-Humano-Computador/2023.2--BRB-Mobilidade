@@ -75,6 +75,19 @@ O objetivo deste documento é o processo de verificação do Planejamento da Ava
 
 ## Sugestões de Correções
 
+-Trazer mais informações e detalhamento para os conteúdos do artefato, como por exemplo o objetivo do Framework DECIDE 
+
+-Adicionar informações omissas dentro do artefato em relação às questões práticas da avaliação 
+
+-Completar as tabelas que apresentam informações ausentes e incompletas
+
+-adicionar mais informações sobre o teste piloto
+
+-Elencar o passo a passo de  quais procedimento devem ser realizados caso o usuário de sugestões de ideias novas ou liste problemas
+
+-Padronizar as legendas das tabelas e a formatação 
+
+
 ## Bibliografia
 
 > ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. https://www.abnt.org.br/.
