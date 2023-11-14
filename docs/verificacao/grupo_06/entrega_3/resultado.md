@@ -1,29 +1,10 @@
 ## Introdução
 
-A etapa de verificação assume um papel fundamental no processo de desenvolvimento de um projeto, uma vez que se destina a analisar os artefatos criados para assegurar que atendam aos requisitos estabelecidos. Consequentemente, este documento descreve o plano de verificação dos artefatos gerados pelo grupo 6 na terceira fase do projeto.
- 
-## Objetivos
+Este documento tem como objetivo apresentar o resultado da verificação dos artefatos produzidos pelo grupo 6 na etapa 3 do projeto. Seguindo o [planejamento da verificação](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_3/planejamento/) já feito anteriormente.
 
-Este artefato tem como objetivo planejar como serão verificados os artefatos desenvolvidos pelo grupo 6 na etapa 3 do projeto.
+## Resultado
 
-## Metodologia
-
-A estratégia de verificação utilizada será a Inspeção. Que foi proposta por Fagan (1976), onde através de uma checklist buscaremos encontrar defeitos e os mesmos serão classificados.
-
-## Inspeção
-
-Os artefatos alvos da inspeção são os seguintes produzidos pelo grupo 6:
-
-- [Princípios gerais do projeto](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/principios_gerais/) na versão 1.1 de 22/10/2023
-- [Metas de usabilidade](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/metas-usabilidade/) na versão 1.1 de 20/10/2023
-- [Características gerais da plataforma](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/caracteristicas/) na versão 1.2 de 20/10/2023
-- [Guia de estilo](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/guia-de-estilo/) na versão 1.1 de 21/10/2023
-
-### Checklists
-
-Os critérios utilizados nos checklists foram construídos levando em conta padrões esperados que estivessem nas entregas de cada artefato da disciplina.
-
-A seguir são apresentados os checklists sobre cada artefato da entrega do grupo 6, começando pela tabela 1 que é um checklist geral sobre os artefatos.
+Seguindo o planejamento de verificação foram utilizados 5 checklists para fazer a inspeção dos artefatos produzidos pelo grupo 6. Onde a tabela 1 apresenta críterios que devem existir em todos os artefatos. Já as tabelas 2, 3, 4 e 5 apresentam os checklists dos artefatos de [Principios gerais](), [caracteristicas da plataforma](), [metas de usabilidade]() e [guia de estilo respectivamente]().
 
 <center>
 
@@ -40,10 +21,6 @@ A seguir são apresentados os checklists sobre cada artefato da entrega do grupo
 _Fonte: [Artur Jackson](https://github.com/artur-jack), 2023._
 
 </center>
-
-### Princípios Gerais
-
-A tabela 2 a seguir apresenta a checklist referente ao artefato dos [Princípios Gerais](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/principios_gerais/)
 
 <center>
 
@@ -65,10 +42,6 @@ _Fonte: [Artur Jackson](https://github.com/artur-jack), 2023._
 
 </center>
 
-### Características Gerais
-
-A tabela 4 a seguir apresenta a checklist referente ao artefato das [Características Gerais](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/caracteristicas/), ela foi construída tendo como base o livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa
-
 <center>
 
 **Tabela 3** - Checklist para o artefato de Características Gerais.
@@ -85,10 +58,6 @@ _Fonte: [Artur Jackson](https://github.com/artur-jack), 2023._
 
 </center>
 
-### Metas de Usabilidade
-
-A tabela 4 a seguir apresenta a checklist referente às [metas de usabilidade](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/metas-usabilidade/), que foi construída com base no livro de Interação Humano-Computador de Bruno Silva e Simone Barbosa, usando especificamente o capítulo 4.
-
 <center>
 
 **Tabela 4** - Checklist para o artefato de Metas de Usabilidade.
@@ -103,10 +72,6 @@ A tabela 4 a seguir apresenta a checklist referente às [metas de usabilidade](h
 _Fonte: [Artur Jackson](https://github.com/artur-jack), 2023._
 
 </center>
-
-### Guia de Estilo
-
-A tabela 5 a seguir apresenta a checklist referente ao artefato de [guia de estilo](https://interacao-humano-computador.github.io/2023.2-Caesb/analise-de-requisitos/guia-de-estilo/), ela foi construída tendo como base o no livro texto Interação Humano-Computador da autoria de Bruno Silva e Simone Barbosa
 
 <center>
 
@@ -147,6 +112,10 @@ _Fonte: [Artur Jackson](https://github.com/artur-jack), 2023._
 
 </center>
 
+## Problemas Encontrados
+
+## Considerações Finais
+
 ## Bibliografia
 
 > Repositório do Grupo 6 - Caesb da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.2-Caesb/>>. Acesso em: 13 novembro 2023.
@@ -160,4 +129,4 @@ _Fonte: [Artur Jackson](https://github.com/artur-jack), 2023._
 
  Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   13/11/2023   |   Criação do documento |  [Artur Jackson](https://github.com/artur-jack)| []()|
+|    1.0   |   14/11/2023   |   Criação do documento |  [Artur Jackson](https://github.com/artur-jack)| []()|
