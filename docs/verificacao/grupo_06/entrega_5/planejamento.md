@@ -44,7 +44,7 @@ Com base nos checklists utilizados pelo professor para avaliar cada entrega e ta
 | Perguntas |Respostas |                                 
 | --------- | ---------|
 |1. Os artefatos possuem introdução?|sim ou Não|
-|2. Imagens e tabelas são identificadas com número e legenda?|sim ou Não|
+|2. Imagens e tabelas são identificadas com número, legenda e fonte?|sim ou Não|
 |3. As imagens e tabelas são chamadas nos textos?|sim ou Não|
 |4. O texto está bem estruturado?|sim ou Não|
 |5. Há um histórico de versões do documento?|sim ou Não|
