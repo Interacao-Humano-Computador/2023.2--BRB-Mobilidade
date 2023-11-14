@@ -1,6 +1,6 @@
 ## Introdução
 
-A validação é uma das fases mais cruciais durante o desenvolvimento de um projeto. Nesta fase, os elementos gerados são minuciosamente examinados para assegurar que atendam aos requisitos especificados. Portanto, este texto descreve o planejamento da avaliação dos artefatos na etapa 02 do projeto. Essa avaliação será feita com o grupo 06 (CAESB)
+A verificação é uma das fases mais cruciais durante o desenvolvimento de um projeto. Nesta fase, os elementos gerados são minuciosamente examinados para assegurar que atendam aos requisitos especificados. Portanto, este texto descreve o planejamento da avaliação dos artefatos na etapa 02 do projeto. Essa avaliação será feita com o grupo 06 (CAESB)
 
 ## Metodologia
 
