@@ -12,29 +12,41 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 
 O objetivo deste documento é o processo de verificação do Relato dos resultados do storyBoard realizado do grupo 6, para tal foram utilizadas o checklist presente no plano de ensino da matéria, os feedbacks realizados pelos professores além da avaliação feita pelo Grupo 5 e para uma melhor visualização dos parâmetros de verificação podemos visualizar as tabela abaixo
 
-| Header | Another header | Yet another header |
-|--- |--- |--- |
-| row 1 | column 2 | column 3 |
-| row 2 | row 2 column 2 | row 2 column 3 |
-|--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
+<div style="text-align: center">
+    <p> Tabela 1: Perguntas do Checklist de conteúdo (Fonte: Fause, 2023).</p>
+</div>
 
 
 | Header | Another header | Yet another header |
 |--- |--- |--- |
-| row 1 | column 2 | column 3 |
-| row 2 | row 2 column 2 | row 2 column 3 |
+| 1 | A gravação da apresentação dessa etapa?| Feito|
+| 2 | O planejamento da avaliação segue o Framework DECIDE? | Incompleto  |
+|3 |Descreva o(s) objetivo(s) da avaliação? |Feito|
+|4 |Os métodos de avaliação a serem utilizados? |Feito |
+|5 |Foi apresentado um método para realização da atividade proposta?|Feito |
+|6 |As questões éticas |Feito|
+|7|A estrutura do relatório do resultado da avaliação |Incompleto |
+|8 |Um cronograma |Feito |
+|9|A respeito dos participantes, foi descrito que será documentado a experiência dos participantes quanto a design?|Incompleto |
+|10 |Apresenta realização de um teste piloto? |Feito |
+|11|A definição do teste piloto e data para realização do teste piloto antes da avaliação? |Feito |
+|12|O artefato identifica os recursos de mão-de-obra necessários para conduzir a Avaliação do Storyboard, assim como a preparação e os equipamentos necessários? |Incompleto  |
+|13|A quantidade de storybords é igual ao número de integrantes do grupo? |Feito |
+|14|Os storyboards avaliados está relacionado uma especificação do artefato da Análise de Tarefas? |Feito|
+|15 |O planejamento apresenta os resultados obtidos pelo teste piloto? |Não Feito |
+
+<div style="text-align: center">
+    <p> Tabela 2: Perguntas da formatação do artefato (Fonte: Fause, 2023).</p>
+</div>
+
+| ID |  Criterios  | Status |
 |--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
-|--- |--- |--- |
+| 16| As legendas estão no padrão do projeto? | Feito|
+| 17 | Possui links para os outros artefatos? | Feito |
+|18|Existe uma introdução no artefato? |Feito |
+|19 |Existe tabela de versionamento padronizado e completo?  |Feito |
+|20 |Há referências bibliográficas e/ou bibliografia no artefato?|Feito|
+|21 |As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?|Feito |
 
 ## Problemas encontrados
 
