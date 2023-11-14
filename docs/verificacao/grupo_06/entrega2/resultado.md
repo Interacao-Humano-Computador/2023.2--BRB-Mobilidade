@@ -28,7 +28,13 @@ A tabela de checklist, apresentada como guia durante a inspeção, revelou ponto
 
 ## Considerações finais
 
-O projeto seguiu um cronograma bem estruturado, registrando claramente quem foi responsável por cada artefato e atividade, incluindo as datas de início e fim da construção/realização. O perfil do usuário foi abordado de maneira abrangente no capítulo 8, considerando categorias como idade, experiência, atitudes e tarefas primárias. Aspectos éticos foram cuidadosamente considerados, incorporando os quatro princípios fundamentais. O termo de consentimento livre e esclarecido foi obtido dos participantes. Apesar de terem utilizado apenas formulários para coleta de dados, as personas foram adequadamente desenvolvidas a partir do perfil do usuário, incluindo identidade, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. O elenco de personas foi justificado e os cenários foram bem elaborados, abrangendo ambiente, atores, objetivos, planejamento, ações e eventos. A análise de tarefas foi detalhada, com cada membro da equipe especificando pelo menos uma funcionalidade do sistema. Duas técnicas(HTA, CTT), foram empregadas para especificar as tarefas, evidenciando uma abordagem abrangente e sólida no desenvolvimento do projeto.
+O projeto seguiu um cronograma bem estruturado, registrando claramente quem foi responsável por cada artefato e atividade.
+- Incluindo as datas de início e fim da construção/realização. 
+- O perfil do usuário foi abordado de maneira abrangente no capítulo 8, considerando categorias como idade, experiência, atitudes e tarefas primárias. 
+- Aspectos éticos foram cuidadosamente considerados, incorporando os quatro princípios fundamentais. 
+- O termo de consentimento livre e esclarecido foi obtido dos participantes. Apesar de terem utilizado apenas formulários para coleta de dados, as personas foram adequadamente desenvolvidas a partir do perfil do usuário, incluindo identidade, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. 
+- O elenco de personas foi justificado e os cenários foram bem elaborados, abrangendo ambiente, atores, objetivos, planejamento, ações e eventos. 
+- A análise de tarefas foi detalhada, com cada membro da equipe especificando pelo menos uma funcionalidade do sistema. Duas técnicas (HTA, CTT), foram empregadas para especificar as tarefas, evidenciando uma abordagem abrangente e sólida no desenvolvimento do projeto.
 
 ## Bibliografia
 
