@@ -26,17 +26,19 @@ Fonte: [Juan Pablo](https://github.com/Juan-Ricarte) , 2023.
 
 </center>
 
-### Tabela 2: Checklist de Planejamento
+### Tabela 2: Checklist de Metodologia, Interpretação e Análise dos Dados, Seleção dos participantes, Método de Avaliação
 
-O Checklist de Planejamento, representado na Tabela 2, concentra-se nos artefatos relacionados ao [Planejamento](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Planejamento%20da%20avalia%C3%A7%C3%A3o/#planejamento). Aqui, examinamos minuciosamente a adequação e abrangência do planejamento estabelecido.
-
+A tabela 2 a seguir apresenta a checklist referente aos artefatos [Metodologia](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#metodologia),[Interpretação e Análise dos Dados](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#interpretacao-e-analise-de-dados), [Seleção dos participantes](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#selecao-dos-participantes), [ Método de Avaliação](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#metodo-de-avaliacao) 
 <center>
 
 **Tabela 2** - Checklist para o artefato de Planejamento.
 
 | ID  | Descrição                                                                                                                                                      | Avaliação | Observações |
 | :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-|  1  |Foi Abordado como será utilizado o framework DECIDE durante o planejamento e estão de acordo com as tarefas que podem ser executadas descritas na introdução ?                                                                      |     ✅    |      -      |
+|  1  |Foi realizada a decisão de uma metodologia a ser utilizida ?                                                                      |     ✅      |      -      |
+|  2  |Foi realizado corretamente a selecção dos participantes respeitando os princípios éticos?                                                                      |     ✅      |      -      |
+|  3  |Foi escolhido um método de avaliação?                                                                    |     -✅     |      -      |
+|  4 |Foi realizado o planejamento a interpretação e análise dos dados                                                                   |     ✅    |      -      |
 
 
 
@@ -45,43 +47,9 @@ Fonte: [Juan Pablo](https://github.com/Juan-Ricarte) , 2023.
 </center>
 
 
-### Tabela 3: Checklist de DECIDE
-
-A Tabela 3 abriga o Checklist de DECIDE, que direciona a atenção para os artefatos relacionados ao [DECIDE](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Planejamento%20da%20avalia%C3%A7%C3%A3o/#d-determinar-os-objetivos). Este checklist garante que os objetivos estejam claramente definidos e alinhados com as metas do projeto.
-
-<center>
-
-**Tabela 3** - Checklist para o artefato DECIDE.
-
-| ID  | Descrição                                                                         | Avaliação | Observações |
-| :-: | --------------------------------------------------------------------------------- | :-------: | :---------: |
-|  1  | Foi determinado o objetivo do planejamento da análise de tarefas?              |      ✅   |      -      |
-|  2  | Existe um guia exploratório de Perguntas a serem respondidas com seu tipo, possível respostas e alinhadas com os objetivos?|      ✅     |      -      |
-|  3  | Foi decidido um método de avaliação ? |      ✅     |            |
-| 4  | Todos os integrantes informaram que serão os entrevistados, data, local, horário?                           |    ❌      |      **Apenas o integrante Leandro Almeida informou**      |
-| 5 |Foram definidos aspectos éticos e uso do termo de consentimento?                          |      ✅    |      -      |
-| 6 |Foi definido um método para análise dos dados coletados e interpretações desses dados?                          |      ✅  |      -      |
-
-Fonte: [Juan Pablo](https://github.com/Juan-Ricarte) , 2023.
-
-</center>
 
 
-### Tabela 4: Checklist de Planejamento do Teste Piloto
 
-Finalmente, a Tabela 4 abrange o Checklist de Planejamento do Teste Piloto, concentrando-se nos artefatos associados ao [Planejamento do Teste Piloto](https://interacao-humano-computador.github.io/2023.2-Caesb/design%2C%20avalia%C3%A7%C3%A3o%20e%20desenvolvimento/Planejamento%20da%20avalia%C3%A7%C3%A3o/#planejamento-do-teste-piloto). Este checklist assegura a preparação adequada para a fase de teste, garantindo sua eficácia e relevância.
-
-
-<center>
-
-**Tabela 4** - Checklist para o artefato planejamento do teste piloto
-
-| ID  | Descrição                                                                        | Avaliação | Observações |
-| :-: | -------------------------------------------------------------------------------- | :-------: | :---------: |
-|  1  | Foi definido o objetivo do teste pilto?                              |      ✅     |      -      |
-|  2  | Está documentado os integrantes e data em que será realizado o teste piloto?              |      ✅    |      -      |
-
-</center>
 
 ## Considerações finais
 

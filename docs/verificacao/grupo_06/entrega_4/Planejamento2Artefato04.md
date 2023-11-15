@@ -46,6 +46,7 @@ Fonte: [Juan Pablo](https://github.com/Juan-Ricarte) , 2023.
 ###  Metodologia, Interpretação e Análise dos Dados, Seleção dos participantes, Método de Avaliação
 
 A tabela 2 a seguir apresenta a checklist referente aos artefatos [Metodologia](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#metodologia),[Interpretação e Análise dos Dados](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#interpretacao-e-analise-de-dados), [Seleção dos participantes](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#selecao-dos-participantes), [ Método de Avaliação](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#metodo-de-avaliacao) 
+
 <center>
 
 **Tabela 2** - Checklist para o artefato de Planejamento.
