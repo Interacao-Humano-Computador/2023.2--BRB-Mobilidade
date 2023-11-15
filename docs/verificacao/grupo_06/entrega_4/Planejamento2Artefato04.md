@@ -16,10 +16,10 @@ A Tabela 1 apresenta os critérios que devem ser incorporados em todos os artefa
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
 | :-: | ------------------------------------------------------------------------------------------------------ | :-------: | :---------: |
-|  1  | O artefato possui introdução?                                                                          |     ✅   |      -      |
-|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           |     ✅    |      -      |
-|  3  | O artefato possui histórico de versões padronizados com autores e revisores? |     ✅    |      -      |
-|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     ✅    |      -      |
+|  1  | O artefato possui introdução?                                                                          |        |      -      |
+|  2  | O artefato possui uma bibliografia/referência bibliográfica?                                           |         |      -      |
+|  3  | O artefato possui histórico de versões padronizados com autores e revisores? |         |      -      |
+|  4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |         |      -      |
 
 
 Fonte: [Juan Pablo](https://github.com/Juan-Ricarte) , 2023.
@@ -35,10 +35,10 @@ A tabela 2 a seguir apresenta a checklist referente aos artefatos [Metodologia](
 
 | ID  | Descrição                                                                                                                                                      | Avaliação | Observações |
 | :-: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-|  1  |Foi realizada a decisão de uma metodologia a ser utilizida ?                                                                      |     ✅      |      -      |
-|  2  |Foi realizado corretamente a selecção dos participantes respeitando os princípios éticos?                                                                      |     ✅      |      -      |
-|  3  |Foi escolhido um método de avaliação?                                                                    |     -✅     |      -      |
-|  4 |Foi realizado o planejamento a interpretação e análise dos dados                                                                   |     ✅    |      -      |
+|  1  |Foi realizada a decisão de uma metodologia a ser utilizida ?                                                                      |           |      -      |
+|  2  |Foi realizado corretamente a selecção dos participantes respeitando os princípios éticos?                                                                      |           |      -      |
+|  3  |Foi escolhido um método de avaliação?                                                                    |     -     |      -      |
+|  4 |Foi realizado o planejamento a interpretação e análise dos dados                                                                   |         |      -      |
 
 
 
