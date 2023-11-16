@@ -1,10 +1,10 @@
 ## Introdução
 
-Nesta seção, nosso principal objetivo é apresentar de maneira abrangente e detalhada os resultados da verificação dos artefatos desenvolvidos pelo grupo 6 durante a etapa 4 do projeto. Este processo segue estritamente o planejamento previamente estabelecido, cujos detalhes podem ser encontrados [aqui]().
+Nesta seção, nosso principal objetivo é apresentar de maneira abrangente e detalhada os resultados da verificação dos artefatos desenvolvidos pelo grupo 6 durante a etapa 4 do projeto. Este processo segue estritamente o planejamento previamente estabelecido.
 
 ## Resultados Detalhados da Verificação
 
-Para garantir a qualidade e conformidade dos artefatos produzidos, implementamos um rigoroso processo de verificação, fundamentado em 4 checklists especializados. Cada checklist desempenha um papel específico na inspeção dos artefatos, assegurando que atendam aos critérios estabelecidos. 
+Para garantir a qualidade e conformidade dos artefatos produzidos, implementamos um rigoroso processo de verificação, fundamentado em 1 checklist especializado.
 
 ### Tabela 1: Critérios Gerais
 

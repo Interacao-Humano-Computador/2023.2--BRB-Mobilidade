@@ -41,6 +41,9 @@ O vídeo da reunião está disponivel nesse <a href="https://youtu.be/5l0RPgrLUR
 
 [Baixar ata da reunião em PDF](atas/06_Ata_02_11.pdf)
 
+## Reunião 06 de novembro
+O vídeo da reunião está disponivel nesse <a href="https://youtu.be/5l0RPgrLURE?si=mvMgdwuthusvdGXg" target= "_blank">link</a>. 
+[Baixar ata da reunião em PDF](atas/07_Ata_06_11.pdf)
 
 ## Histórico de versão
 

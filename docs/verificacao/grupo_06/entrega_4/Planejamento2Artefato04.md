@@ -1,10 +1,24 @@
 ## Introdução
 
-Nesta seção, nosso principal objetivo é apresentar de maneira abrangente e detalhada os resultados da verificação dos artefatos desenvolvidos pelo grupo 6 durante a etapa 4 do projeto. Este processo segue estritamente o planejamento previamente estabelecido, cujos detalhes podem ser encontrados [aqui]().
+A etapa de verificação assume um papel fundamental no processo de desenvolvimento de um projeto, uma vez que se destina a analisar os artefatos criados para assegurar que atendam aos requisitos estabelecidos. Consequentemente, este documento descreve o plano de verificação dos artefatos gerados pelo grupo 6 na quarta fase do projeto.
+ 
+## Objetivos
 
-## Resultados Detalhados da Verificação
+Este artefato desempenha um papel crucial ao estabelecer, de maneira detalhada e estratégica, o planejamento abrangente para a verificação dos artefatos meticulosamente elaborados pelo grupo 6 durante a fase 4 do projeto. Ao delinear os procedimentos, critérios e estratégias específicas a serem empregados nesta etapa, busca-se não apenas garantir a conformidade com os padrões estabelecidos, mas também assegurar a eficácia e a qualidade intrínseca de cada artefato desenvolvido. Este processo de planejamento não apenas delineia as diretrizes para a verificação, mas também serve como uma ferramenta essencial para otimizar a execução e o acompanhamento, promovendo uma abordagem sistemática e bem fundamentada para a avaliação bem-sucedida dos resultados obtidos pelo grupo 6 no decorrer da etapa 4 do projeto.
 
-Para garantir a qualidade e conformidade dos artefatos produzidos, implementamos um rigoroso processo de verificação, fundamentado em 4 checklists especializados. Cada checklist desempenha um papel específico na inspeção dos artefatos, assegurando que atendam aos critérios estabelecidos. 
+## Metodologia
+
+A estratégia de verificação adotada será a Inspeção, um método proposto por Fagan em 1976, que se fundamenta na utilização de checklists detalhadas. Mediante esta abordagem, empenharemos esforços na identificação minuciosa de eventuais defeitos nos artefatos em questão. A partir da aplicação rigorosa da checklist, será possível não apenas detectar, mas também classificar de maneira precisa e sistemática os defeitos identificados. Este procedimento, pautado na metodologia de Fagan, representa um meio eficaz de promover a qualidade intrínseca dos artefatos, fornecendo uma base estruturada para a identificação e correção proativa de possíveis falhas, contribuindo assim para a robustez e confiabilidade do processo de verificação.
+
+## Inspeção
+
+Os artefatos alvos da inspeção são os seguintes produzidos pelo grupo 6:
+
+-   [Metodologia](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#metodologia)
+-   [Interpretação e Análise dos Dados](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#interpretacao-e-analise-de-dados)
+-   [Seleção dos participantes](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#selecao-dos-participantes)
+-    [ Método de Avaliação](https://interacao-humano-computador.github.io/2023.2-Caesb/des-aval-des/plan-rel-res/#metodo-de-avaliacao) 
+
 
 ### Tabela 1: Critérios Gerais
 
@@ -46,14 +60,6 @@ Fonte: [Juan Pablo](https://github.com/Juan-Ricarte) , 2023.
 
 </center>
 
-
-
-
-
-
-## Considerações finais
-
-O grupo 06 surpreendeu positivamente na entrega 04, evidenciando um desempenho exemplar com artefatos meticulosamente estruturados e uma apresentação que denota excelência. A qualidade dos artefatos de avaliação é notável, destacando-se pela clareza dos objetivos delineados, um cronograma estrategicamente planejado, a inclusão de um teste piloto abrangente, a consideração cuidadosa dos aspectos práticos envolvidos na avaliação e um relato de resultados que enriquece ainda mais a profundidade do trabalho realizado. Essa entrega não apenas atendeu às expectativas, mas também elevou o padrão de excelência estabelecido pelo grupo 06, consolidando sua posição como um contribuinte significativo para o êxito do projeto.
 
 ## Bibliografia
 
