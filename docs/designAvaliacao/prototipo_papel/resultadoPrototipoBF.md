@@ -49,7 +49,7 @@ A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas 
 
 ### Entrevista 1
 
-Para assistir a entrevista clique [aqui]().
+Para assistir a entrevista clique [aqui](https://youtu.be/CTmiOfwe1Lg).
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
@@ -184,7 +184,7 @@ Tabela 6 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 
 ### Entrevista 1
 
-Para assistir a entrevista clique [aqui]().
+Para assistir a entrevista clique [aqui](https://youtu.be/iGuOJ7Vr_Ek?si=U5faus5nRdrB7sl-).
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
