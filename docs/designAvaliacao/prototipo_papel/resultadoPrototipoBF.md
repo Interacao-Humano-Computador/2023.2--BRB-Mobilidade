@@ -55,8 +55,8 @@ Para assistir a entrevista clique [aqui]().
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-|  1 | Qual o seu nome? | Aberta |Ana Karolina |
-|  2 | Qual a sua idade? | Aberta |21 anos| 
+| 1 | Qual o seu nome? | Aberta |Ana Karolina |
+| 2 | Qual a sua idade? | Aberta |21 anos| 
 | 3 | Qual o seu grau de ensino? | Aberta |Graduação incompleta| 
 | 4 | Qual a sua ocupação? | Aberta |Estudante| 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
@@ -82,8 +82,8 @@ Para assistir a entrevista clique [aqui]().
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-|  1 | Qual o seu nome? | Aberta |Renata Quadros |
-|  2 | Qual a sua idade? | Aberta |20 anos| 
+| 1 | Qual o seu nome? | Aberta |Renata Quadros |
+| 2 | Qual a sua idade? | Aberta |20 anos| 
 | 3 | Qual o seu grau de ensino? | Aberta |Graduação incompleta| 
 | 4 | Qual a sua ocupação? | Aberta |Estudante| 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
@@ -109,8 +109,8 @@ Para assistir a entrevista clique [aqui]().
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-|  1 | Qual o seu nome? | Aberta | |
-|  2 | Qual a sua idade? | Aberta || 
+| 1 | Qual o seu nome? | Aberta | |
+| 2 | Qual a sua idade? | Aberta || 
 | 3 | Qual o seu grau de ensino? | Aberta || 
 | 4 | Qual a sua ocupação? | Aberta || 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
@@ -134,22 +134,24 @@ Para assistir a entrevista clique [aqui]().
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-|  1 | Qual o seu nome? | Aberta | |
-|  2 | Qual a sua idade? | Aberta || 
-| 3 | Qual o seu grau de ensino? | Aberta || 
-| 4 | Qual a sua ocupação? | Aberta || 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
+| 1 | Qual o seu nome? | Aberta | Guilherme de Sá |
+| 2 | Qual a sua idade? | Aberta |20 anos| 
+| 3 | Qual o seu grau de ensino? | Cursando ensino superior || 
+| 4 | Qual a sua ocupação? | Aberta |Estudante| 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Experiência desde o ensino fundamental. Troca de instituição alteração de foto |
 | 6 | Você já tinha realizado essa tarefa no sistema real? | Fechada |Sim|
 | 7 | Qual o nível de dificuldade para realizar a tarefa em uma escala de 1 a 5? (1 - “Muito fácil” e 5 - “Muito difícil”) | Intervalo |1|
-| 9 | Você conseguiu finalizar a tarefa proposta? | Fechada |Sim|
+| 9 | Você conseguiu finalizar a tarefa proposta? | Fechada |Sim, mas demorou para achar o formato do arquivo|
 | 10 | O que te impediu de finalizar a tarefa? (caso a resposta da pergunta anterior seja “não”) | Aberta |Conseguiu finalizar|
 | 11 | O protótipo deixa claro os caminhos que podem ser tomados? | Fechada |Sim|
 | 12 | O protótipo se mostrou eficiente para a realização da tarefa? | Fechada |Sim|
-| 13 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |A usuária nao sugeriu nenhuma melhoria|
+| 13 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |Visualizar a foto antes de baixa-la|
 
 Tabela 5 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ### Feedback do Usuário
+
+O usuário conseguiu finalizar a tarefa descrita mas indicou que demorou para achar o formato do arquivo e nao prestou atenção no botão de interrogação para finalizar a tarefa. 
 
 ### 5. Segunda via - Fause
 
@@ -159,8 +161,8 @@ Para assistir a entrevista clique [aqui]().
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-|  1 | Qual o seu nome? | Aberta | |
-|  2 | Qual a sua idade? | Aberta || 
+| 1 | Qual o seu nome? | Aberta | |
+| 2 | Qual a sua idade? | Aberta || 
 | 3 | Qual o seu grau de ensino? | Aberta || 
 | 4 | Qual a sua ocupação? | Aberta || 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
@@ -184,8 +186,8 @@ Para assistir a entrevista clique [aqui]().
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-|  1 | Qual o seu nome? | Aberta | |
-|  2 | Qual a sua idade? | Aberta || 
+| 1 | Qual o seu nome? | Aberta | |
+| 2 | Qual a sua idade? | Aberta || 
 | 3 | Qual o seu grau de ensino? | Aberta || 
 | 4 | Qual a sua ocupação? | Aberta || 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
@@ -209,8 +211,8 @@ Para assistir a entrevista clique [aqui]().
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-|  1 | Qual o seu nome? | Aberta | |
-|  2 | Qual a sua idade? | Aberta || 
+| 1 | Qual o seu nome? | Aberta | |
+| 2 | Qual a sua idade? | Aberta || 
 | 3 | Qual o seu grau de ensino? | Aberta || 
 | 4 | Qual a sua ocupação? | Aberta |Estudante| 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
