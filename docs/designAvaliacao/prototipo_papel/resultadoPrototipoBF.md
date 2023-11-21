@@ -38,7 +38,7 @@ A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas 
 | Entrevistador(a) | Entrevistados(as)| Data | Horário de início e fim | Local | 
 |-----|-----|-----|-----|-----|
 |Artur Jackson|Ana Karolina|20/11/2023|10:00 - 10:15|Presencial|
-|Amanda|Renata|21/11/2023| 12:00 - 12:15 |Presencial|
+|Amanda|Renata Quadros|21/11/2023| 12:00 - 12:15 |Presencial|
 |Lucas|Rebeca Alves|01/11/2023|22:00 - 22:03|Presencial|
 |Felipe|Guilherme de Sá|20/11/2023|10:00 - 10:15|Presencial|
 |Arthur Sousa|Maria Eduarda| 21/11/2023 | 13:30 - 13:45 | Presencial |
@@ -130,7 +130,7 @@ O usuário considera que o formato e o procedimento para trocar endereço são a
 
 ### Entrevista 1
 
-Para assistir a entrevista clique [aqui]().
+Para assistir a entrevista clique [aqui](https://youtu.be/t1jbP-Zvqv0).
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
@@ -157,7 +157,7 @@ O usuário conseguiu finalizar a tarefa descrita mas indicou que demorou para ac
 
 ### Entrevista 1
 
-Para assistir a entrevista clique [aqui]().
+Para assistir a entrevista clique [aqui](https://youtu.be/TuiiYG9aSKE).
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
@@ -233,8 +233,24 @@ Tabela 8 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 ### Feedback do Usuário
 
 ## Análise e interpretação dos resultados
+
+A maioria dos usuários teve uma boa experiência com o sistema do BRB Mobilidade, indicando uma usabilidade satisfatória. A maioria não apresentou muitas sugestões de melhoria, o que pode sugerir que o sistema atendeu às expectativas em termos de eficiência e clareza na execução das tarefas.
+
+No entanto, algumas áreas específicas foram apontadas para possíveis melhorias. Por exemplo, a necessidade de visualizar a foto antes de confirmar sua alteração foi destacada por um usuário. Isso sugere a oportunidade de aprimorar essa funcionalidade para proporcionar uma experiência mais intuitiva e sem obstáculos para o usuário.
+
 ## Planejamento de Reprojeto
+
+Com base nos feedbacks dos usuários sobre o sistema BRB Mobilidade, podemos planejar o reprojeto da seguinte forma:
+
+- Integração da Visualização Prévia de Fotos: Implementar mudanças nos pontos identificados para aprimoramento, como a adição de uma funcionalidade de pré-visualização de fotos.
+  
+- Ajustes no posicionamento dos botões: Reorganizar a disposição dos botões, conforme sugerido por alguns usuários, como unir o botão de cancelar com o de salvar, visando uma melhor fluidez na execução das tarefas.
+
+- Melhoria no processo de bsuca do formato do arquivo: Simplificar a busca ou indicar de forma mais clara os formatos aceitos para arquivos, visando facilitar a localização correta para a execução das tarefas.
+
 ## Conclusão
+
+Os feedbacks dos usuários do sistema BRB Mobilidade apontam para uma experiência geralmente positiva, destacando áreas específicas para melhorias. As sugestões, como a visualização prévia de fotos e ajustes na disposição dos botões, ressaltam a importância de aprimoramentos na usabilidade e na interface do usuário. O plano de reprojeto proposto visa implementar essas melhorias de forma iterativa, mantendo a comunicação com os usuários e priorizando a facilidade de uso
 
 ## Referências Bibliográficas
 
