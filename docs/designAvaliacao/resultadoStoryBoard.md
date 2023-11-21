@@ -297,7 +297,6 @@ Com base nos resultados da análise e interpretação dos storyboards e feedback
 - Aprimorar a Identificação de Personagens e Objetos: O fato de um dos usuários ter observado que um personagem não foi identificado com um nome indica a necessidade de melhorar a identificação de personagens e objetos nos storyboards.
 
 
-
 ## Conclusão
 
 A partir dessas conclusões, é possível interpretar que os storyboards foram eficazes em representar as tarefas dos usuários de maneira clara e coerente, o que é essencial para o entendimento e a usabilidade da interface. Os participantes expressaram uma compreensão positiva e consistente dos storyboards, sugerindo que eles são uma ferramenta eficaz na comunicação de processos e fluxos de trabalho. No entanto, é importante ressaltar que a avaliação foi realizada com um grupo específico de participantes, e pode ser útil considerar uma amostra mais diversificada de usuários para obter uma visão mais abrangente.

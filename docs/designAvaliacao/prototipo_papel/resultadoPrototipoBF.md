@@ -4,14 +4,13 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 ## Metodologia
 
-Os dados foram coletados por meio de sete entrevistas. No início de todas as entrevistas foi apresentado o termo de consentimento para que o entrevistado tenha noção que iremos usar os dados obtidos na entrevista para fim de análise. 
+Os dados foram coletados por meio de sete entrevistas. No início de todas as entrevistas foi apresentado o termo de consentimento para que o entrevistado tenha noção que iremos usar os dados obtidos na entrevista para fim de análise dentro do projeto. 
 
 ## Seleção dos Participantes
 
 Os participantes foram selecionados com base no perfil do usuário e que já têm experiência no uso do site do BrB Mobilidade.
 
 ## Escopo da Entrevista 
-
 
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
@@ -30,7 +29,7 @@ Os participantes foram selecionados com base no perfil do usuário e que já tê
 | 12 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |-|
 
 
-Tabela 1 - Perguntas norteadoras (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+Tabela 1 - Perguntas selecionadas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ## Cronograma
 
@@ -71,7 +70,7 @@ Tabela 2 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 
 ### Feedback do Usuário
 
-O feedback fornecido pela usuária foi a questão do botão de cancelar, poderia ficar junto com o de salvar (oq ela acha q poderia modificar). 
+O feedback fornecido pela usuária foi do botão de cancelar, poderia ficar junto com o de salvar (oq ela acha q poderia modificar), além desse feedback nenhum outro foi descrito. 
 
 ### 2. Extensão de Acesso - Amanda Abreu
 
@@ -235,3 +234,15 @@ Tabela 8 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 
 ## Análise e interpretação dos resultados
 ## Planejamento de Reprojeto
+## Conclusão
+
+## Referências Bibliográficas
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+## Histórico de Versão
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   03/11/2023   |   Criação do documento | [Amanda Abreu](https://github.com/Amandaaaaabreu) e  [Arthur Sousa](https://github.com/arthurrsousa)| |
+
