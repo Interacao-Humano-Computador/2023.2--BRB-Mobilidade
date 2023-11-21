@@ -161,18 +161,18 @@ Para assistir a entrevista clique [aqui](https://youtu.be/TuiiYG9aSKE).
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-| 1 | Qual o seu nome? | Aberta | |
-| 2 | Qual a sua idade? | Aberta || 
-| 3 | Qual o seu grau de ensino? | Aberta || 
-| 4 | Qual a sua ocupação? | Aberta || 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
-| 6 | Você já tinha realizado essa tarefa no sistema real? | Fechada |Sim|
-| 7 | Qual o nível de dificuldade para realizar a tarefa em uma escala de 1 a 5? (1 - “Muito fácil” e 5 - “Muito difícil”) | Intervalo |1|
-| 8 | Você conseguiu finalizar a tarefa proposta? | Fechada |Sim|
+| 1 | Qual o seu nome? | Aberta | José Renato |
+| 2 | Qual a sua idade? | Aberta | 21 anos | 
+| 3 | Qual o seu grau de ensino? | Ensino superior imcompleto || 
+| 4 | Qual a sua ocupação? | Aberta | Estudante | 
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Possui boa experiência |
+| 6 | Você já tinha realizado essa tarefa no sistema real? | Fechada |Não |
+| 7 | Qual o nível de dificuldade para realizar a tarefa em uma escala de 1 a 5? (1 - “Muito fácil” e 5 - “Muito difícil”) | Intervalo | 1 |
+| 8 | Você conseguiu finalizar a tarefa proposta? | Fechada | Sim |
 | 9 | O que te impediu de finalizar a tarefa? (caso a resposta da pergunta anterior seja “não”) | Aberta |Conseguiu finalizar|
-| 10 | O protótipo deixa claro os caminhos que podem ser tomados? | Fechada |Sim|
-| 11 | O protótipo se mostrou eficiente para a realização da tarefa? | Fechada |Sim|
-| 12 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |A usuária nao sugeriu nenhuma melhoria|
+| 10 | O protótipo deixa claro os caminhos que podem ser tomados? | Fechada | Sim |
+| 11 | O protótipo se mostrou eficiente para a realização da tarefa? | Fechada | Sim |
+| 12 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta | O usuário não sugeriu nenhuma melhoria |
 
 Tabela 6 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
@@ -215,18 +215,18 @@ Para assistir a entrevista clique [aqui]().
 
 | N° | Pergunta |Tipo de pergunta | Opções de Resposta |
 |--- |--- |---  |--- |
-| 1 | Qual o seu nome? | Aberta | |
-| 2 | Qual a sua idade? | Aberta || 
-| 3 | Qual o seu grau de ensino? | Aberta || 
+| 1 | Qual o seu nome? | Aberta | Maria Eduarda |
+| 2 | Qual a sua idade? | Aberta | 21 anos | 
+| 3 | Qual o seu grau de ensino? | Aberta | Ensino superior imcompleto | 
 | 4 | Qual a sua ocupação? | Aberta |Estudante| 
-| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para tirar o passe livre |
+| 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Utiliza com frequência |
 | 6 | Você já tinha realizado essa tarefa no sistema real? | Fechada |Sim|
 | 7 | Qual o nível de dificuldade para realizar a tarefa em uma escala de 1 a 5? (1 - “Muito fácil” e 5 - “Muito difícil”) | Intervalo |1|
 | 8 | Você conseguiu finalizar a tarefa proposta? | Fechada |Sim|
 | 9 | O que te impediu de finalizar a tarefa? (caso a resposta da pergunta anterior seja “não”) | Aberta |Conseguiu finalizar|
 | 10 | O protótipo deixa claro os caminhos que podem ser tomados? | Fechada |Sim|
 | 11 | O protótipo se mostrou eficiente para a realização da tarefa? | Fechada |Sim|
-| 12 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |A usuária nao sugeriu nenhuma melhoria|
+| 12 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |A usuária sugeriu que o botão fosse mais intuitivo|
 
 Tabela 8 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
