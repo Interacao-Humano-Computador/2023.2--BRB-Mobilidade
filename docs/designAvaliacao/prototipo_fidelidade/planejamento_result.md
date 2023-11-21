@@ -48,6 +48,18 @@ Aqui será adicionada uma lista referenciando todos os problemas encontrados pel
 Nesta parte, apresentaremos o plano de reprojeto, fundamentado nas descobertas e insights obtidos durante a avaliação. Aqui, serão destacadas as ações específicas a serem empreendidas para aprimorar o protótipo de papel, com base nas conclusões resultantes desta análise.
 </p>
 
+## Cronograma
+
+Além dos tópicos mencionados acima, o documento com o relato dos resultados também apresentará um cronograma seguindo o seguinte modelo da tabela 1 abaixo:
+
+| Entrevistador(a) | Entrevistado(a)| Data | Horário de início e fim | Local | 
+|-----|-----|-----|-----|-----|
+|Nome do entrevistador(a)|Nome do entrevistado(a)|Data de realização|Início e fim da entrevista|Local em que foi realizado|
+
+<div style= "text-align: center">
+    <p>Tabela 1: Modelo cronograma executado das entrevistas (Fonte: Artur Jackson e Lucas, 2023)</p> 
+</div>
+
 ## Referências Bibliográficas
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

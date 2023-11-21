@@ -160,4 +160,4 @@ _Fonte: [Artur Jackson](https://github.com/artur-jack), 2023._
 
  Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   13/11/2023   |   Criação do documento |  [Artur Jackson](https://github.com/artur-jack)| []()|
+|    1.0   |   13/11/2023   |   Criação do documento |  [Artur Jackson](https://github.com/artur-jack)| [Lucas]()|

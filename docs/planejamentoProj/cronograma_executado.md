@@ -89,6 +89,35 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
     <p> Tabela 5: Cronograma do Ponto de Controle 5 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
 </div>
 
+## Entrega 6.1
+
+| Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|:-----------:|:----:| 
+| [Verificação Etapa 1 grupo 6]() | 09/11 - 11/11 | 09/11 - 11/11 |Felipe  | 11/11 | Juan |
+| [Verificação Etapa 2 grupo 6]() | 09/11 - 11/11 | 09/11 - 11/11 | Amanda | 11/11 | Arthur Sousa |
+| [Verificação Etapa 3 grupo 6]() | 09/11 - 11/11 | 09/11 - 11/11 |  Artur Jackson | 11/11 | Lucas |
+| [Verificação Etapa 4 grupo 6]() | 09/11 - 11/11 | 09/11 - 11/11 | Fause e Juan | 11/11 | Artur Jackson |
+| [Verificação Etapa 5 grupo 6]() | 09/11 - 11/11 | 09/11 - 11/11 |  Arthur Sousa e Lucas | 11/11 | Artur Jackson |
+| [Gravação da apresentação]() | 11/11 - 13/11 | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 13/11 - 14/11  | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+
+<div style="text-align: center">
+    <p> Tabela 6: Cronograma do Ponto de Controle 6.1 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
+</div>
+
+## Entrega 7
+
+| Atividade | Período planejado para desenvolvimento | Realizado |Autores| Período de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|:-----------:|:----:| 
+| [Relato dos resultados do Protótipo de Papel]() | 16/11 - 18/11 | 18/11 - 21/11 |Amanda e Artur Sousa  | 21/11 | Juan |
+| [Planejamento da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | 18/11 - 20/11 | Juan, Felipe e Fause | 20/11 | Amanda |
+| [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade](.) | 16/11 - 18/11 | 20/11 | Artur Jackson e Lucas | 20/11 | Arthur Sousa |
+| [Gravação da apresentação]() | 19/11 - 20/11 | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 21/11  | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+
+<div style="text-align: center">
+    <p> Tabela 7: Cronograma do Ponto de Controle 7 (Fonte: Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas 2023).</p>
+</div>
 
 ## Bibliografia
 
@@ -101,4 +130,5 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   29/09/2023   |   Criação do cronograma |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Juan Pablo](https://github.com/Juan-Ricarte)|
 |    1.1   |   15/10/2023   |   Adicionando cronograma Entrega 2 |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Artur Jackson](https://github.com/artur-jack) |
-|    1.2   |   21/10/2023   |   Adicionando cronograma Entrega 3 |  [Artur Jackson](https://github.com/artur-jack)| []() |
+|    1.2   |   21/10/2023   |   Adicionando cronograma Entrega 3 |  [Artur Jackson](https://github.com/artur-jack)| [Amanda]() |
+|    1.3   |   21/11/2023   |   Adiciona cronograma Entrega 6.1 e 7 |  [Artur Jackson](https://github.com/artur-jack)| [Arthur Sousa](https://github.com/arthurrsousa) |
