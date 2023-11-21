@@ -109,8 +109,8 @@ Para assistir a entrevista clique [aqui]().
 |--- |--- |---  |--- |
 | 1 | Qual o seu nome? | Aberta |Gustavo França |
 | 2 | Qual a sua idade? | Aberta |21 anos| 
-| 3 | Qual o seu grau de ensino? | Graduação incompleta || 
-| 4 | Qual a sua ocupação? | Estudante || 
+| 3 | Qual o seu grau de ensino? | Aberta |Graduação incompleta| 
+| 4 | Qual a sua ocupação? | Aberta |Estudante| 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já usou para checar acessos |
 | 6 | Você já tinha realizado essa tarefa no sistema real? | Fechada |Não|
 | 7 | Qual o nível de dificuldade para realizar a tarefa em uma escala de 1 a 5? (1 - “Muito fácil” e 5 - “Muito difícil”) | Intervalo |1|
@@ -136,7 +136,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/t1jbP-Zvqv0).
 |--- |--- |---  |--- |
 | 1 | Qual o seu nome? | Aberta | Guilherme de Sá |
 | 2 | Qual a sua idade? | Aberta |20 anos| 
-| 3 | Qual o seu grau de ensino? | Cursando ensino superior || 
+| 3 | Qual o seu grau de ensino? | Aberta |Cursando ensino superior| 
 | 4 | Qual a sua ocupação? | Aberta |Estudante| 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Experiência desde o ensino fundamental. Troca de instituição alteração de foto |
 | 6 | Você já tinha realizado essa tarefa no sistema real? | Fechada |Sim|
@@ -190,8 +190,8 @@ Para assistir a entrevista clique [aqui](https://youtu.be/iGuOJ7Vr_Ek?si=U5faus5
 |--- |--- |---  |--- |
 | 1 | Qual o seu nome? | Aberta | Harryson Campos |
 | 2 | Qual a sua idade? | Aberta |20 anos| 
-| 3 | Qual o seu grau de ensino? | Graduação Incompleta || 
-| 4 | Qual a sua ocupação? | Estudante || 
+| 3 | Qual o seu grau de ensino? | Aberta |Graduação Incompleta | 
+| 4 | Qual a sua ocupação? | Aberta |Estudante| 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Já utilizou para fazer cadastro e solicitar o passe|
 | 6 | Você já tinha realizado essa tarefa no sistema real? | Fechada |Não|
 | 7 | Qual o nível de dificuldade para realizar a tarefa em uma escala de 1 a 5? (1 - “Muito fácil” e 5 - “Muito difícil”) | Intervalo |1|
