@@ -43,11 +43,11 @@ Só para relembrar os tópicos do framework:
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | - |
 | 6 | Você já tinha realizado essa tarefa no sistema real? | Fechada |Sim/Não|
 | 7 | Qual o nível de dificuldade para realizar a tarefa em uma escala de 1 a 5? (1 - “Muito fácil” e 5 - “Muito difícil”) | Intervalo |1 a 5|
-| 9 | Você conseguiu finalizar a tarefa proposta? | Fechada |Sim/Não|
-| 10 | O que te impediu de finalizar a tarefa? (caso a resposta da pergunta anterior seja “não”) | Aberta |-|
-| 11 | O protótipo deixa claro os caminhos que podem ser tomados? | Fechada |Sim/Não/Mais ou Menos|
-| 12 | O protótipo se mostrou eficiente para a realização da tarefa? | Fechada |Sim/Não/Mais ou Menos|
-| 13 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |-|
+| 8 | Você conseguiu finalizar a tarefa proposta? | Fechada |Sim/Não|
+| 9 | O que te impediu de finalizar a tarefa? (caso a resposta da pergunta anterior seja “não”) | Aberta |-|
+| 10 | O protótipo deixa claro os caminhos que podem ser tomados? | Fechada |Sim/Não/Mais ou Menos|
+| 11 | O protótipo se mostrou eficiente para a realização da tarefa? | Fechada |Sim/Não/Mais ou Menos|
+| 12 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |-|
 
 Tabela 1 - Perguntas norteadoras (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) e [Felipe Hansen](https://github.com/FHansen98), 2023)
 
