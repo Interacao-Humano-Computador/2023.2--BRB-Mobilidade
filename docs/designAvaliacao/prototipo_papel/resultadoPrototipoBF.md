@@ -226,7 +226,7 @@ Para assistir a entrevista clique [aqui]().
 | 9 | O que te impediu de finalizar a tarefa? (caso a resposta da pergunta anterior seja “não”) | Aberta |Conseguiu finalizar|
 | 10 | O protótipo deixa claro os caminhos que podem ser tomados? | Fechada |Sim|
 | 11 | O protótipo se mostrou eficiente para a realização da tarefa? | Fechada |Sim|
-| 12 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |A usuária sugeriu que o botão fosse mais intuitivo|
+| 12 | O que você acha que pode ser modificado para melhorar o protótipo? | Aberta |A usuária sugeriu que o botão de selecionar o período fosse mais intuitivo|
 
 Tabela 8 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
