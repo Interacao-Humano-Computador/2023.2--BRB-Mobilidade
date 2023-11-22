@@ -49,6 +49,45 @@ Tabela 1: Perguntas para avaliação (Fonte: [Lucas Lobão](https://github.com/l
 Foi utilizado o método de entrevista porque ela permite a exploração de subjetividades, adaptação às necessidades de pesquisa (foi o ponto chave) e feedbacks, permitindo que pudéssemos ter uma visão mais claro sobre os possíveis problemas nos artefatos que elaboramos.
 
 ### Questões Práticas da Avaliação ( I ):
+Perguntas que o entrevistador deve fazer ao entrevistado:
+
+
+<center>
+
+**Tabela 3** - Perguntas ao usuário.
+
+| ID | Enunciado| Resposta| Justificativa |
+| :---: | :----------------------------------------------------------: | :-----------------:|:------------|
+|   1   |   A interface apresentada foi de fácil utilização?        |     Aberta         | Justifique |
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |     Aberta         | Justifique |
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |     Aberta         | Justifique |
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Aberta         | Justifique |
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |     Aberta         | Justifique |
+
+
+**Fonte**  [Juan Pablo](https://github.com/Juan-Ricarte).
+
+</center>
+
+<center>
+
+**Tabela 4** - Diretriz.
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Fechada     | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     Aberta    | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Fechada     | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Aberta    | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |     Aberta     | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Aberta     | 
+
+
+**Fonte**  [Juan Pablo](https://github.com/Juan-Ricarte).
+
+</center>
+
+
 
 **Responsáveis pela avaliação:**
 
