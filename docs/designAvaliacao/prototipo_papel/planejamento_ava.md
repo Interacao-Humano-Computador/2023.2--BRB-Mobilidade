@@ -112,9 +112,7 @@ Um teste piloto desempenha um papel crucial em projetos e processos, pois oferec
 
 A partir disso, o teste piloto será executado pelos Integrantes Felipe Hansen e Lucas Lobão no dia 08/11 de forma a simular a o teste do protótipo de papel.
 
-### Vídeo do Teste Piloto
-
-<iframe width="110%" height="450px" src="https://www.youtube.com/watch?v=06rgvuUKK0M" frameborder="0" allowfullscreen></iframe>
+O vídeo do teste piloto pode ser encontrado [neste link](https://www.youtube.com/watch?v=06rgvuUKK0M)
 
 
 ## Bibliografia
