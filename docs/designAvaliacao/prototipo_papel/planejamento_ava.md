@@ -112,9 +112,15 @@ Um teste piloto desempenha um papel crucial em projetos e processos, pois oferec
 
 A partir disso, o teste piloto será executado pelos Integrantes Felipe Hansen e Lucas Lobão no dia 08/11 de forma a simular a o teste do protótipo de papel.
 
+### Vídeo do Teste Piloto
+
+<iframe width="110%" height="450px" src="https://www.youtube.com/watch?v=06rgvuUKK0M" frameborder="0" allowfullscreen></iframe>
+
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+
 
 ## Histórico de versionamento
 
@@ -122,3 +128,4 @@ A partir disso, o teste piloto será executado pelos Integrantes Felipe Hansen e
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   03/11/2023   |   Criação do documento |  [Lucas](https://github.com/lucaslobao-18) |  [Amanda](https://github.com/Amandaaaaabreu)|
 |    1.1   |   04/11/2023   |   Complemento do documento |  [Felipe](https://github.com/FHansen98) |  [Amanda](https://github.com/Amandaaaaabreu)|
+|    1.2   |   22/11/2023   |   Adiciona teste piloto |  [Arthur Sousa](https://github.com/arthurrsousa) | [Felipe Hansen](https://github.com/FHansen98) |
