@@ -98,7 +98,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Verificação Etapa 3 grupo 6]() | 09/11 - 11/11 | 09/11 - 11/11 |  Artur Jackson | 11/11 | Lucas |
 | [Verificação Etapa 4 grupo 6]() | 09/11 - 11/11 | 09/11 - 11/11 | Fause e Juan | 11/11 | Artur Jackson |
 | [Verificação Etapa 5 grupo 6]() | 09/11 - 11/11 | 09/11 - 11/11 |  Arthur Sousa e Lucas | 11/11 | Artur Jackson |
-| [Gravação da apresentação]() | 11/11 - 13/11 | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://youtu.be/ZlqJqFgWjWE) | 11/11 - 13/11 | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 13/11 - 14/11  | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
@@ -112,7 +112,7 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | [Relato dos resultados do Protótipo de Papel]() | 16/11 - 18/11 | 18/11 - 21/11 |Amanda e Artur Sousa  | 21/11 | Juan |
 | [Planejamento da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | 18/11 - 20/11 | Juan, Felipe e Fause | 20/11 | Amanda |
 | [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade](.) | 16/11 - 18/11 | 20/11 | Artur Jackson e Lucas | 20/11 | Arthur Sousa |
-| [Gravação da apresentação]() | 19/11 - 20/11 | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://youtu.be/k0sB_bqg3Rw) | 19/11 - 20/11 | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | Edição da apresentação | 21/11  | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 22/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">

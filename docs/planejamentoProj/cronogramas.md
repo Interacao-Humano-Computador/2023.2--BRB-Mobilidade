@@ -117,7 +117,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | [Verificação dos artefatos da Etapa 3]() | 09/11 - 11/11 | Artur Jackson | 11/11 - 12/11 | Lucas |
 | [Verificação dos artefatos da Etapa 4]() | 09/11 - 11/11 | Fause e Juan | 11/11 - 12/11 | Arthur Sousa |
 | [Verificação dos artefatos da Etapa 5]() | 09/11 - 11/11 | Arthur Sousa e Lucas | 11/11 - 12/11 | Fause |
-| [Gravação da apresentação]() | 11/11 - 13/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 13/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| [Gravação da apresentação](https://youtu.be/ZlqJqFgWjWE) | 11/11 - 13/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 13/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 | 9. Edição da apresentação | 13/11 - 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 14/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
@@ -132,7 +132,7 @@ O projeto deve seguir os cronogramas das Tabelas 1 a 11, criadas à partir das d
 | [Relato dos resultados do Protótipo de Papel]() | 16/11 - 18/11 | Arthur Sousa e Amanda | 18/11 - 19/11 | Juan | 
 | [Planejamento da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Juan, Felipe e Fause | 18/11 - 19/11 | Amanda | 
 | [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade]() | 16/11 - 18/11 | Artur Jackson e Lucas | 18/11 - 19/11 | Arthur Sousa | 
-| [Gravação da apresentação]() | 19/11 - 20/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 20/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 
+| [Gravação da apresentação](https://youtu.be/k0sB_bqg3Rw) | 19/11 - 20/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 20/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 
 | 6. Edição da apresentação | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 21/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
