@@ -45,6 +45,11 @@ O vídeo da reunião está disponivel nesse <a href="https://youtu.be/5l0RPgrLUR
 O vídeo da reunião está disponivel nesse <a href="https://youtu.be/5l0RPgrLURE?si=mvMgdwuthusvdGXg" target= "_blank">link</a>. 
 [Baixar ata da reunião em PDF](atas/07_Ata_06_11.pdf)
 
+## Reunião 16 de novembro
+O vídeo da reunião está disponivel nesse <a href="https://youtu.be/XW71K6hFGRc" target= "_blank">link</a>. 
+
+[Baixar ata da reunião em PDF](atas/08_Ata_16_11.pdf)
+
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
@@ -54,3 +59,4 @@ O vídeo da reunião está disponivel nesse <a href="https://youtu.be/5l0RPgrLUR
 |    1.2   |   21/10/2023   |   Declaração das Atas de Reunião | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
 |    1.3   |   29/10/2023   |   Declaração das Atas de Reunião | [Fause Carlos](https://github.com/FauseSkyWalker) | [Artur Jackson](https://github.com/artur-jack) |
 |    1.4   |   29/10/2023   |   Corrige link dos vídeos | [Artur Jackson](https://github.com/artur-jack) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
+|    1.5   |   26/11/2023   |   Declaração das Atas de Reunião | [Artur Jackson](https://github.com/artur-jack) | [Juan Pablo](https://github.com/Juan-Ricarte) |
