@@ -40,7 +40,7 @@ A seguir na tabela 2 é mostrado o cronograma executado e comos as entrevistas f
 
 Tabela 2 - Cronograma (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
-### 1. Extensão de Acesso - Amanda Abreu
+## 1. Extensão de Acesso - Amanda Abreu
 
 ### Entrevista 1 - Julia
 
@@ -136,10 +136,96 @@ Tabela 8 - Diretrizes (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu)
 
 A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
 
-### 2. Troca de Instituição - Artur Jackson
-### 3. Trocar Endereço - Juan
-### 4. Alterar foto - Felipe Hansen
-### 5. Segunda via - Fause
+## 2. Troca de Instituição - Artur Jackson
+
+### Entrevista 1 - Ana Karolina
+
+Para assistir a entrevista clique [aqui](https://youtu.be/IJIHhuZnXcQ).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+Tabela 9 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar o objetivo sem erros. Onde para solicitação de troca de instituição, ela concluiu após 38 segundos. Já para cancelar a solicitação feita anteriormente ela realizou a tarefa em 15 segundos após pedido.   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 10 - Diretrizes (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+
+### Feedback do Usuário
+
+A usuária considera que o formato e o procedimento são adequados e não encontrou qualquer complicação.
+
+### Entrevista 2 - Carolina
+
+Para assistir a entrevista clique [aqui](https://youtu.be/nSjp8qi1fCs).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+Tabela 11 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar o objetivo sem erros. Onde para solicitação de troca de instituição, ela concluiu após 35 segundos. Já para cancelar a solicitação feita anteriormente ela realizou a tarefa em 10 segundos após pedido.   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 12 - Diretrizes (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+
+### Entrevista 3 - Julia
+
+Para assistir a entrevista clique [aqui](https://youtu.be/T7bsMQyLKJA).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+Tabela 13 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar o objetivo sem erros. Onde para solicitação de troca de instituição, ela concluiu após 35 segundos. Já para cancelar a solicitação feita anteriormente ela realizou a tarefa em 8 segundos após pedido.   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 14 - Diretrizes (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+
+## 3. Trocar Endereço - Juan
+## 4. Alterar foto - Felipe Hansen
+## 5. Segunda via - Fause
 
 ### Entrevista 1 - Ana Leticia 
 
@@ -207,7 +293,7 @@ Durante as entrevistas, os usuários demonstraram satisfação, conforto e facil
 </p>
 
 
-### 6. Liberar cartão - Lucas Lobão
+## 6. Liberar cartão - Lucas Lobão
 
 ### Entrevista 1 - Julia
 
@@ -269,7 +355,7 @@ Tabela 19 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 
 Nenhuma das usuárias relatou ter encontrado problemas ou dificuldades para realizar a tarefa, muito pelo fato de ser uma tarefa simples e com interface intuitiva, que deixa claro os caminhos a serem seguidos. Nesse sentido, o feedback recebido foi que a tarefa de "Liberar Cartão" está adequada.
 </p>
 
-### 7. Meus acessos - Arthur Sousa
+## 7. Meus acessos - Arthur Sousa
 
 
 ## Análise e interpretação dos resultados
