@@ -106,6 +106,67 @@ A usuária considera que o formato e o procedimento para solicitar passes adicio
 ### 4. Alterar foto - Felipe Hansen
 ### 5. Segunda via - Fause
 ### 6. Liberar cartão - Lucas Lobão
+
+### Entrevista 1 - Julia
+
+Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
+
+<div style= "text-align: center">
+
+| ID | Enunciado| Resposta |
+| --- | -------------------------------------------------- | --------------- |
+| 1 | A interface apresentada foi de fácil utilização? | Sim |
+| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
+| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
+| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
+| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
+
+Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+</div>
+
+### Entrevista 2 - Carolina
+
+Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
+
+<div style= "text-align: center">
+
+| ID | Enunciado| Resposta|
+| :---: | :----------------------------------------------------------: | :-----------------:|
+| 1 | A interface apresentada foi de fácil utilização? | Sim |
+| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
+| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
+| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
+| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
+
+Tabela 18 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+</div>
+
+### Entrevista 3 - Ana Karolina
+
+Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
+
+<div style= "text-align: center">
+
+| ID | Enunciado| Resposta|
+| :---: | :----------------------------------------------------------: | :-----------------:|
+| 1 | A interface apresentada foi de fácil utilização? | Sim |
+| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
+| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
+| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
+| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
+
+Tabela 19 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+</div>
+
+### Feedbacks dos Usuários
+
+<p style="text-align: justify">
+Nenhuma das usuárias relatou ter encontrado problemas ou dificuldades para realizar a tarefa, muito pelo fato de ser uma tarefa simples e com interface intuitiva, que deixa claro os caminhos a serem seguidos. Nesse sentido, o feedback recebido foi que a tarefa de "Liberar Cartão" está adequada.
+</p>
+
 ### 7. Meus acessos - Arthur Sousa
 
 
