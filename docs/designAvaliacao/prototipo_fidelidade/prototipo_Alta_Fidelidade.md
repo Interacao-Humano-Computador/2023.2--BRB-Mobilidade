@@ -101,3 +101,13 @@ Tabela 4 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 
 A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
 
+
+## Análise e interpretação dos resultados
+## Planejamento de Reprojeto
+## Conclusão
+
+## Histórico de Versão
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   28/11/2023   |   Criação do documento | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Arthur Sousa](https://github.com/arthurrsousa)|

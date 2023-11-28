@@ -260,5 +260,5 @@ Os feedbacks dos usuários do sistema BRB Mobilidade apontam para uma experiênc
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   03/11/2023   |   Criação do documento | [Amanda Abreu](https://github.com/Amandaaaaabreu) e  [Arthur Sousa](https://github.com/arthurrsousa)| |
+|    1.0   |   03/11/2023   |   Criação do documento | [Amanda Abreu](https://github.com/Amandaaaaabreu) e  [Arthur Sousa](https://github.com/arthurrsousa)| [Artur Jackson](https://github.com/artur-jack) |
 
