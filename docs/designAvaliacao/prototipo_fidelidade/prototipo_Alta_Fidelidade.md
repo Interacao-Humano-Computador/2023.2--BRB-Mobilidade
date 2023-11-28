@@ -398,6 +398,24 @@ Nenhuma das usuárias relatou ter encontrado problemas ou dificuldades para real
 
 ## 7. Meus acessos - Arthur Sousa
 
+### Entrevista 1 - Larissa
+Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=Dx_IjAMBMOQ).
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+Tabela 23 - Respostas (Fonte - [Artur Sousa](https://github.com/arturrsousa), 2023)
+<br> <br>
+
+### Feedback do Usuário
+
+A usuária não encontrou nenhum obstáculo para a realização da atividade proposta, assim como considerou a interface do protótipo satisfatória.
+
 
 ## Análise e interpretação dos resultados
 ## Planejamento de Reprojeto
