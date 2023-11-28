@@ -101,7 +101,7 @@ Tabela 4 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 
 A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
 
-### 1. Troca de Instituição - Artur Jackson
+### 2. Troca de Instituição - Artur Jackson
 ### 3. Trocar Endereço - Juan
 ### 4. Alterar foto - Felipe Hansen
 ### 5. Segunda via - Fause
