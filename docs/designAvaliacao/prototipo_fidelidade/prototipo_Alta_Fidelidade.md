@@ -34,7 +34,7 @@ A seguir na tabela 2 é mostrado o cronograma executado e comos as entrevistas f
 |Amanda|Ana Karolina, Julia e Carolina |28/11/2023| 13:00 - 14:00 |Presencial|
 |Lucas|Ana Karolina, Julia e Carolina|28/11/2023|13:00 - 14:00 |Presencial|
 |Felipe|Ana Karolina, Julia e Carolina|28/11/2023|13:00 - 14:00 |Presencial|
-|Arthur Sousa|Maria Eduarda| 21/11/2023 | 13:30 - 13:45 | Presencial |
+|Arthur Sousa| Larissa | 28/11/2023 | 18:40 - 18:45 | Presencial |
 |Fause|Ana Leticia , Luiz Felipe, Fernanda Souza|28/11/2023|10:00 - 12:15|Presencial|
 |Juan|Gustavo França|21/11/2023|08:30 - 08:45|Presencial|
 
