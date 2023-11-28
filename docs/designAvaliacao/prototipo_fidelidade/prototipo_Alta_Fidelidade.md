@@ -59,6 +59,18 @@ Para assistir a entrevista clique [aqui](https://youtu.be/b-lLrUhpZa4).
 
 Tabela 3 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar a funcionalidade com 100% de eficiência, em menos de 5min e sem cometer erros   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 4 - Diretrizes (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+
+
 ### Feedback do Usuário
 
 A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
@@ -76,7 +88,18 @@ Para assistir a entrevista clique [aqui](https://youtu.be/tevsh7nqCAM).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 4 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+Tabela 5 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar a funcionalidade com 100% de eficiência, em menos de 5min e sem cometer erros   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 6 - Diretrizes (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ### Feedback do Usuário
 
@@ -95,7 +118,18 @@ Para assistir a entrevista clique [aqui](https://youtu.be/S_1nbg2uU08).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 4 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+Tabela 7 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar a funcionalidade com 100% de eficiência, em menos de 5min e sem cometer erros   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 8 - Diretrizes (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ### Feedback do Usuário
 
