@@ -409,7 +409,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=Dx_IjAM
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 23 - Respostas (Fonte - [Artur Sousa](https://github.com/arturrsousa), 2023)
+Tabela 23 - Respostas (Fonte - [Artur Sousa](https://github.com/arthurrsousa), 2023)
 <br> <br>
 
 ### Feedback do Usuário
