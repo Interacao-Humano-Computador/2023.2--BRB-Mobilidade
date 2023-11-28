@@ -299,7 +299,7 @@ Durante as entrevistas, os usuários demonstraram satisfação, conforto e facil
 
 Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
 
-<div style= "text-align: center">
+<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta |
 | --- | -------------------------------------------------- | --------------- |
@@ -311,31 +311,27 @@ Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
 
 Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
+</br>
+
+| ID | Enunciado| Resposta|
+| :---: | :----------------------------------------------------------: | :-----------------:|
+| 1 | O usuário conseguiu operar o sistema | Sim |
+| 2 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | A usuária conseguiu finalizar o objetivo de forma eficiente. O tempo para concluir a tarefa foi de 10 segundos. Nenhum erro foi cometido.|
+| 3 | Ele entendeu o que deveria ser feito em seguida? | Sim |
+| 4 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? | Não houve problemas |
+| 5 | Quais barreiras o usuário encontrou ao atingir seus objetivos? | Nenhuma barreira |
+| 6 | Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário? | Nenhuma vez |
+
+Tabela 18 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
 </div>
+</br>
 
 ### Entrevista 2 - Carolina
 
 Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
-
-<div style= "text-align: center">
-
-| ID | Enunciado| Resposta|
-| :---: | :----------------------------------------------------------: | :-----------------:|
-| 1 | A interface apresentada foi de fácil utilização? | Sim |
-| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
-| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
-| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
-| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
-
-Tabela 18 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
-
-</div>
-
-### Entrevista 3 - Ana Karolina
-
-Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
-
-<div style= "text-align: center">
+ 
+<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -347,11 +343,56 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
 
 Tabela 19 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
+</br>
+
+| ID | Enunciado| Resposta|
+| :---: | :----------------------------------------------------------: | :-----------------:|
+| 1 | O usuário conseguiu operar o sistema | Sim |
+| 2 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | A usuária conseguiu finalizar o objetivo de forma eficiente. O tempo para concluir a tarefa foi de 9 segundos. Nenhum erro foi cometido. |
+| 3 | Ele entendeu o que deveria ser feito em seguida? | Sim |
+| 4 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? | Não houve problemas |
+| 5 | Quais barreiras o usuário encontrou ao atingir seus objetivos? | Nenhuma barreira |
+| 6 | Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário? | Nenhuma vez |
+
+Tabela 20 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+  
+</div>
+</br>
+
+### Entrevista 3 - Ana Karolina
+
+Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
+
+<div  style= "text-align: center">
+
+| ID | Enunciado| Resposta|
+| :---: | :----------------------------------------------------------: | :-----------------:|
+| 1 | A interface apresentada foi de fácil utilização? | Sim |
+| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
+| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
+| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
+| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
+
+ Tabela 21 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+</br>
+
+| ID | Enunciado| Resposta|
+| :---: | :----------------------------------------------------------: | :-----------------:|
+| 1 | O usuário conseguiu operar o sistema | Sim |
+| 2 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | A usuária conseguiu finalizar o objetivo de forma eficiente. O tempo para concluir a tarefa foi de 12 segundos. Nenhum erro foi cometido. |
+| 3 | Ele entendeu o que deveria ser feito em seguida? | Sim |
+| 4 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? | Não houve problemas |
+| 5 | Quais barreiras o usuário encontrou ao atingir seus objetivos? | Nenhuma barreira |
+| 6 | Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário? | Nenhuma vez |
+
+Tabela 22 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
 </div>
 
 ### Feedbacks dos Usuários
 
-<p style="text-align: justify">
+<p  style="text-align: justify">
 Nenhuma das usuárias relatou ter encontrado problemas ou dificuldades para realizar a tarefa, muito pelo fato de ser uma tarefa simples e com interface intuitiva, que deixa claro os caminhos a serem seguidos. Nesse sentido, o feedback recebido foi que a tarefa de "Liberar Cartão" está adequada.
 </p>
 
