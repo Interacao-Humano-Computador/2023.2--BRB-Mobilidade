@@ -23,8 +23,7 @@ Os participantes foram selecionados com base no perfil do usuário e que já tê
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |     Aberta         | Justifique |
 
 
-Tabela 1 - Perguntas selecionadas  [Amanda Abreu](https://github.com/Amandaaaaabreu).
-
+Tabela 1 - Perguntas selecionadas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 ## Cronograma
 
 A seguir na tabela 2 é mostrado o cronograma executado e comos as entrevistas foram realizadas.
@@ -39,8 +38,7 @@ A seguir na tabela 2 é mostrado o cronograma executado e comos as entrevistas f
 |Fause|José Renato|20/11/2023|10:00 - 10:15|Presencial|
 |Juan|Gustavo França|21/11/2023|08:30 - 08:45|Presencial|
 
-Tabela 2 - Cronograma [Amanda Abreu](https://github.com/Amandaaaaabreu).
-
+Tabela 2 - Cronograma (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ### 1. Extensão de Acesso - Amanda Abreu
 
@@ -58,6 +56,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/b-lLrUhpZa4).
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
 Tabela 3 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<br> <br>
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -89,6 +88,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/tevsh7nqCAM).
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
 Tabela 5 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<br> <br>
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -119,6 +119,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/S_1nbg2uU08).
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
 Tabela 7 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<br> <br>
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
