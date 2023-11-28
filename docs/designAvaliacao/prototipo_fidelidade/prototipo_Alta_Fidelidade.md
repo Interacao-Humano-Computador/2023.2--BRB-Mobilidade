@@ -35,7 +35,7 @@ A seguir na tabela 2 é mostrado o cronograma executado e comos as entrevistas f
 |Lucas|Ana Karolina, Julia e Carolina|28/11/2023|13:00 - 14:00 |Presencial|
 |Felipe|Ana Karolina, Julia e Carolina|28/11/2023|13:00 - 14:00 |Presencial|
 |Arthur Sousa|Maria Eduarda| 21/11/2023 | 13:30 - 13:45 | Presencial |
-|Fause|José Renato|20/11/2023|10:00 - 10:15|Presencial|
+|Fause|Ana Leticia , Luiz Felipe, Fernanda Souza|28/11/2023|10:00 - 12:15|Presencial|
 |Juan|Gustavo França|21/11/2023|08:30 - 08:45|Presencial|
 
 Tabela 2 - Cronograma (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
@@ -140,6 +140,73 @@ A usuária considera que o formato e o procedimento para solicitar passes adicio
 ### 3. Trocar Endereço - Juan
 ### 4. Alterar foto - Felipe Hansen
 ### 5. Segunda via - Fause
+
+### Entrevista 1 - Ana Leticia 
+
+Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
+
+<div style= "text-align: center">
+
+
+| ID | Enunciado| Resposta |
+| --- | -------------------------------------------------- | --------------- |
+| 1 | A interface apresentada foi de fácil utilização? | Sim |
+| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
+| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Sim|
+| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
+| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Sim |
+
+Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+</div>
+
+
+### Entrevista 1 - Luiz Felipe
+
+Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
+
+<div style= "text-align: center">
+
+
+| ID | Enunciado| Resposta |
+| --- | -------------------------------------------------- | --------------- |
+| 1 | A interface apresentada foi de fácil utilização? | Sim |
+| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
+| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Sim |
+| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
+| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
+
+Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+</div>
+
+
+### Entrevista 1 - Fernanda Souza
+
+Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
+
+<div style= "text-align: center">
+
+| ID | Enunciado| Resposta |
+| --- | -------------------------------------------------- | --------------- |
+| 1 | A interface apresentada foi de fácil utilização? | Sim |
+| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
+| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
+| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
+| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
+
+Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+</div>
+
+### Feedbacks dos Usuários
+
+<p style="text-align: justify">
+
+Durante as entrevistas, os usuários demonstraram satisfação, conforto e facilidade ao utilizarem o protótipo de alta fidelidade para realizar o trajeto da funcionalidade "2ª via" dentro do site BRB Mobilidade. Contudo, alguns usuários relataram que tiveram uma pequena dificuldade na hora de selecionar o motivo da solicitação, pois não havia um indicativo claro de que o campo era uma caixa de seleção. Sugeriram que poderia ser mais explícito no protótipo
+</p>
+
+
 ### 6. Liberar cartão - Lucas Lobão
 
 ### Entrevista 1 - Julia
