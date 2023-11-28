@@ -90,12 +90,13 @@ Nesta etapa do projeto para lidar com as questões éticas, utilizaremos um <a h
 
 Um teste piloto desempenha um papel crucial em projetos e processos, pois oferece uma oportunidade para identificar problemas, avaliar o desempenho, coletar feedback e validar suposições antes da implementação completa. Ele permite ajustes e melhorias com base na experiência real, minimiza riscos ao detectar problemas precocemente e economiza recursos ao evitar correções onerosas após o lançamento. Além disso, o teste piloto auxilia na familiarização e treinamento das partes envolvidas, contribuindo para o sucesso global de um projeto ou sistema.
 
-A partir disso, o teste piloto foi executado pelos Integrantes Felipe Hansen e Lucas Lobão no dia 08/11 de forma a simular a o teste do protótipo de alta fidelidade.
+A partir disso, o teste piloto foi executado pelos Integrantes Felipe Hansen e Lucas Lobão no dia 27/11 de forma a simular a o teste do protótipo de alta fidelidade.
 
-O vídeo do teste piloto pode ser encontrado [neste link](https://www.youtube.com/watch?v=06rgvuUKK0M)
+O vídeo do teste piloto pode ser encontrado [neste link](https://youtu.be/wIJGIKpoY1Q)
 
 ## Histórico de versionamento
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   17/11/2023   |   Criação do documento |  [Felipe](https://github.com/FHansen98) |  [Amanda](https://github.com/Amandaaaaabreu)|
+|    1.1   |   17/11/2023   |  Teste piloto protótipo alta fidelidade |  [Felipe](https://github.com/FHansen98) |  [Amanda](https://github.com/Amandaaaaabreu)|
