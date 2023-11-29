@@ -234,13 +234,13 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 <div style= "text-align: center">
 
 
-| ID | Enunciado| Resposta |
-| --- | -------------------------------------------------- | --------------- |
-| 1 | A interface apresentada foi de fácil utilização? | Sim |
-| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
-| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Sim|
-| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
-| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Sim |
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    sim   | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 
@@ -254,14 +254,13 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 <div style= "text-align: center">
 
 
-| ID | Enunciado| Resposta |
-| --- | -------------------------------------------------- | --------------- |
-| 1 | A interface apresentada foi de fácil utilização? | Sim |
-| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
-| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Sim |
-| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
-| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
-
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |   SIm     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 </div>
 
@@ -272,14 +271,13 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 
 <div style= "text-align: center">
 
-| ID | Enunciado| Resposta |
-| --- | -------------------------------------------------- | --------------- |
-| 1 | A interface apresentada foi de fácil utilização? | Sim |
-| 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
-| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
-| 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
-| 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
-
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 </div>
 
