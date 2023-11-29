@@ -503,6 +503,10 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 
 - **Meus Acessos:** A usuária considerou a tarefa simples e fácil de ser executada, embora alguns cliques em lugares errados possam sugerir uma breve dificuldade em certos pontos do protótipo, o que pode ser justificado pela falta de costume com o hardware disponibilizado para a utilização da interface.
 
+- **Extensão de Acesso:** Das três usuárias entrevistadas, nenhuma demonstrou dificuldade ao realizar as tarefas descritas na funcionalidade. Cada uma delas levou menos de 3 minutos para concluir todas as etapas. Além disso, nenhuma delas identificou inconsistências ou erros na aplicação
+
+- **Liberar Cartão:** Com base nos dados coletados das entrevistas, ficou evidente que os usuários não enfrentaram problemas para compreender e nem para executar a tarefa proposta. Dito isso, algumas características que puderam ser observadas: O tempo médio para exucução da tarefa foi de 10 segundos, Todos os entrevistados conseguiram finalizar a tarefa (100%) e o total de erros registrados foi "0"
+
 ## Planejamento de Reprojeto
 ## Conclusão
 
