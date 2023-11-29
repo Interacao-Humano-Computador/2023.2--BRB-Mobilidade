@@ -224,6 +224,99 @@ Tabela 13 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 20
 Tabela 14 - Diretrizes (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
 
 ## 3. Trocar Endereço - Juan
+### Entrevista 1 - João Lucas
+
+Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=IvT08kzxd2s&ab_channel=ArturJackson).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+
+Tabela 15 - Respostas (Fonte - [Juan Pablo](https://github.com/Juan-Ricarte) 2023)
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     O usuário conseguiu finalizar o objetivo sem erros. | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 16 - Diretrizes (Fonte - [Juan Pablo](https://github.com/Juan-Ricarte) 2023)
+
+### Feedback do Usuário
+
+O usuário validou o protótipo de alta fidelidade, não apresentado nenhuma dificuldade
+
+### Entrevista 2 - Gabriel
+
+Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=LQLsu2Oh8Os&ab_channel=ArturJackson).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+Tabela 17 - Respostas (Fonte - [Juan Pablo](https://github.com/Juan-Ricarte)  2023)
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |    O usuário conseguiu finalizar o objetivo sem erros.  | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou empecilhos   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 18 - Diretrizes (Fonte -  [Juan Pablo](https://github.com/Juan-Ricarte) 2023)
+### Feedback do Usuário
+
+O usuário validou o protótipo de alta fidelidade, não apresentado nenhuma dificuldade
+
+### Entrevista 3 - Yuri
+
+Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=p3Ux00oMWZU&ab_channel=ArturJackson).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     O usuário conseguiu finalizar o objetivo sem erros.  | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou empecilhos   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 20 - Diretrizes (Fonte -  [Juan Pablo](https://github.com/Juan-Ricarte)  2023)
+
+### Feedback do Usuário
+
+O usuário validou o protótipo de alta fidelidade, não apresentado nenhuma dificuldade
+
 ## 4. Alterar foto - Felipe Hansen
 ## 5. Segunda via - Fause
 
@@ -245,7 +338,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 
 
 
-### Entrevista 1 - Luiz Felipe
+### Entrevista 2 - Luiz Felipe
 
 Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 
@@ -261,7 +354,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 
 
-### Entrevista 1 - Fernanda Souza
+### Entrevista 3 - Fernanda Souza
 
 Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 
@@ -411,6 +504,8 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 ## Análise e interpretação dos resultados
 
 - **Troca de Instituição:** Em geral os usuários não tiverem dificuldades para entender como deve ser feito as tarefas e realizaram as mesmas de forma eficiênte. Tendo um tempo médio de 36 segundos para realizar a solicitação de troca de intituição e 11 segundos de média para cancelar a solicitação feita anteriormente.
+
+- **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhor o design da página, deixando-a mais moderna.
 
 ## Planejamento de Reprojeto
 ## Conclusão
