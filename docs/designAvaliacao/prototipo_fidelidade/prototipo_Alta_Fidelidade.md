@@ -231,7 +231,6 @@ Tabela 14 - Diretrizes (Fonte - [Artur Jackson](https://github.com/artur-jack) 2
 
 Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 
-<div style= "text-align: center">
 
 
 | ID | Enunciado| Resposta| 
@@ -244,14 +243,11 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 
-</div>
 
 
 ### Entrevista 1 - Luiz Felipe
 
 Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
-
-<div style= "text-align: center">
 
 
 | ID | Enunciado| Resposta| 
@@ -261,15 +257,14 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 |   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |   SIm     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
-</div>
 
 
 ### Entrevista 1 - Fernanda Souza
 
 Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 
-<div style= "text-align: center">
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -277,9 +272,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
 |   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
-|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
+
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
-</div>
 
 ### Feedbacks dos Usuários
 
