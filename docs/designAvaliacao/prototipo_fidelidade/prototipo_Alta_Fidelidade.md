@@ -523,6 +523,17 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=Dx_IjAM
 Tabela 23 - Respostas (Fonte - [Artur Sousa](https://github.com/arthurrsousa), 2023)
 <br> <br>
 
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar o objetivo com sucesso, em cerca de 20 segundos. Clicou em alguns lugares errados ao longo da interação   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Problemas sem muita relevância que acontecem onde há botões menores   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 24 - Diretrizes (Fonte - [Arthur Sousa](https://github.com/arthurrsousa), 2023)
+
 ### Feedback do Usuário
 
 A usuária não encontrou nenhum obstáculo para a realização da atividade proposta, assim como considerou a interface do protótipo satisfatória.
@@ -534,11 +545,9 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 
 - **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhor o design da página, deixando-a mais moderna.
 
-<<<<<<< Updated upstream
 - **Meus Acessos:** A usuária considerou a tarefa simples e fácil de ser executada, embora alguns cliques em lugares errados possam sugerir uma breve dificuldade em certos pontos do protótipo, o que pode ser justificado pela falta de costume com o hardware disponibilizado para a utilização da interface.
-=======
+
 - **2 via:** Durante as entrevistas, os usuários demonstraram satisfação, conforto e facilidade ao utilizarem o protótipo de alta fidelidade para realizar o trajeto da funcionalidade "2ª via" dentro do site BRB Mobilidade,levando um tempo médio de 1 minuto
->>>>>>> Stashed changes
 
 - **Extensão de Acesso:** Das três usuárias entrevistadas, nenhuma demonstrou dificuldade ao realizar as tarefas descritas na funcionalidade. Cada uma delas levou menos de 3 minutos para concluir todas as etapas. Além disso, nenhuma delas identificou inconsistências ou erros na aplicação
 
