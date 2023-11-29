@@ -63,7 +63,7 @@ Tabela 3 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar a funcionalidade com 100% de eficiência, em menos de 5min e sem cometer erros   | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -95,7 +95,7 @@ Tabela 5 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar a funcionalidade com 100% de eficiência, em menos de 5min e sem cometer erros   | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -126,7 +126,7 @@ Tabela 7 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar a funcionalidade com 100% de eficiência, em menos de 5min e sem cometer erros   | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -159,7 +159,7 @@ Tabela 9 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 202
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar o objetivo sem erros. Onde para solicitação de troca de instituição, ela concluiu após 38 segundos. Já para cancelar a solicitação feita anteriormente ela realizou a tarefa em 15 segundos após pedido.   | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -190,7 +190,7 @@ Tabela 11 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 20
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar o objetivo sem erros. Onde para solicitação de troca de instituição, ela concluiu após 35 segundos. Já para cancelar a solicitação feita anteriormente ela realizou a tarefa em 10 segundos após pedido.   | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -217,7 +217,7 @@ Tabela 13 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 20
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar o objetivo sem erros. Onde para solicitação de troca de instituição, ela concluiu após 35 segundos. Já para cancelar a solicitação feita anteriormente ela realizou a tarefa em 8 segundos após pedido.   | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -319,6 +319,100 @@ O usuário validou o protótipo de alta fidelidade, não apresentado nenhuma dif
 
 ## 4. Alterar foto - Felipe Hansen
 
+### Entrevista 1 - Julia
+
+Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=ZvoL_RAVdrQ).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+Tabela 21- Respostas (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar a funcionalidade em menos de 5 min, porém se confundiu na primeira tela com as informações atuais, achou que ja estava inserindo os dados    | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Depois de descobrir a página seguinte, sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 22 - Diretrizes (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+
+
+### Feedback do Usuário
+
+A usuária se confundiu inicialmente por não ler todos os campos da página, mas ao visualizar a página seguinte compreendeu todas as etapas.
+
+### Entrevista 2 - Ana Karolina
+
+Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=fwi_8iRjSyE).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não, só confundiu um pouco as funcionalidades       | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+Tabela 23 - Respostas (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     A usuária conseguiu finalizar a funcionalidade em menos de 5 min, porém se confundiu na primeira tela com as informações atuais, achou que ja estava inserindo os dados   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Clicou no início quando achou que ja havia inserido os dados antes de mudar de página para alteração de foto   | 
+
+Tabela 24 - Diretrizes (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+
+### Feedback do Usuário
+
+A usuária se confundiu inicialmente por não ler todos os campos da página, mas ao visualizar a página seguinte compreendeu todas as etapas.
+
+### Entrevista 3 - Carolina
+
+Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=GIAouVScR-g).
+
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não        | 
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+
+Tabela 25 - Respostas (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<br> <br>
+
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     
+A utilizadora concluiu a funcionalidade com total eficácia, em menos de 5 minutos e sem cometer nenhum erro.   | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+Tabela 26 - Diretrizes (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+
+### Feedback do Usuário
+
+A utilizadora acredita que o formato e o processo para alterar a foto estava apropriada, e não enfrentou qualquer dificuldade.
 ## 5. Segunda via - Fause
 
 ### Entrevista 1 - Ana Leticia
@@ -542,7 +636,7 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 
 - **Liberar Cartão:** Com base nos dados coletados das entrevistas, ficou evidente que os usuários não enfrentaram problemas para compreender e nem para executar a tarefa proposta. Dito isso, algumas características que puderam ser observadas: O tempo médio para exucução da tarefa foi de 10 segundos, Todos os entrevistados conseguiram finalizar a tarefa (100%) e o total de erros registrados foi "0"
 
-**Alteração de foto:** Em geral os usuários tiverem dificuldades quando não liam a página completa. Porém resolviam a tarefa e realizaram as mesmas de forma eficiênte. Tendo um tempo médio de 47 seg para realizar a alteração de foto.
+- **Alteração de foto:** Em geral os usuários tiverem dificuldades quando não liam a página completa. Porém resolviam a tarefa e realizaram as mesmas de forma eficiênte. Tendo um tempo médio de 47 seg para realizar a alteração de foto.
 
 
 ## Planejamento de Reprojeto
