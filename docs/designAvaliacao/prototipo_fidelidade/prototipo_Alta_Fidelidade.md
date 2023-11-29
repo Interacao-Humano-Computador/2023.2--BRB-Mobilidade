@@ -502,6 +502,9 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 - **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhor o design da página, deixando-a mais moderna.
 
 - **Extensão de Acesso:** Das três usuárias entrevistadas, nenhuma demonstrou dificuldade ao realizar as tarefas descritas na funcionalidade. Cada uma delas levou menos de 3 minutos para concluir todas as etapas. Além disso, nenhuma delas identificou inconsistências ou erros na aplicação
+
+- **Liberar Cartão:** Com base nos dados coletados das entrevistas, ficou evidente que os usuários não enfrentaram problemas para compreender e nem para executar a tarefa proposta. Dito isso, algumas características que puderam ser observadas: O tempo médio para exucução da tarefa foi de 10 segundos, Todos os entrevistados conseguiram finalizar a tarefa (100%) e o total de erros registrados foi "0"
+
 ## Planejamento de Reprojeto
 ## Conclusão
 
