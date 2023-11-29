@@ -409,6 +409,9 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 
 
 ## Análise e interpretação dos resultados
+
+- **Troca de Instituição:** Em geral os usuários não tiverem dificuldades para entender como deve ser feito as tarefas e realizaram as mesmas de forma eficiênte. Tendo um tempo médio de 36 segundos para realizar a solicitação de troca de intituição e 11 segundos de média para cancelar a solicitação feita anteriormente.
+
 ## Planejamento de Reprojeto
 ## Conclusão
 
@@ -417,3 +420,4 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   28/11/2023   |   Criação do documento | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Arthur Sousa](https://github.com/arthurrsousa)|
+|    1.1   |   28/11/2023   |   Adição dos relatos | [Amanda Abreu](https://github.com/Amandaaaaabreu), [Arthur Sousa](https://github.com/arthurrsousa), [Artur Jackson](https://github.com/artur-jack), [Fause](https://github.com/FauseSkyWalker), [Felipe Aguiar](https://github.com/FHansen98), [Juan Pablo](https://github.com/Juan-Ricarte) e [Lucas Andrade](https://github.com/lucaslobao-18) | Todos|
