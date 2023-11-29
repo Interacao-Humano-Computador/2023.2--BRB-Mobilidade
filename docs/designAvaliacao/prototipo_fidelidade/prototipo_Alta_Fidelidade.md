@@ -337,6 +337,17 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 
 </br>
 
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |    O usuário conseguiu finalizar o objetivo sem erros.  | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+
 ### Entrevista 2 - Luiz Felipe
 
 Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
@@ -355,6 +366,17 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 
 </br>
 
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |    O usuário conseguiu finalizar o objetivo sem erros.  | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+
 ### Entrevista 3 - Fernanda Souza
 
 Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
@@ -370,10 +392,21 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 
+| ID | Enunciado| Resposta| 
+| :---: | :----------------------------------------------------------: | :-----------------:|
+|   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |    O usuário conseguiu finalizar o objetivo sem erros.  | 
+|   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+
+(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+
 ### Feedbacks dos Usuários
 
 <p style="text-align: justify">
-Durante as entrevistas, os usuários demonstraram satisfação, conforto e facilidade ao utilizarem o protótipo de alta fidelidade para realizar o trajeto da funcionalidade "2ª via" dentro do site BRB Mobilidade. Contudo, alguns usuários relataram que tiveram uma pequena dificuldade na hora de selecionar o motivo da solicitação, pois não havia um indicativo claro de que o campo era uma caixa de seleção. Sugeriram que poderia ser mais explícito no protótipo
+Alguns usuários relataram que tiveram uma pequena dificuldade na hora de selecionar o motivo da solicitação, pois não havia um indicativo claro de que o campo era uma caixa de seleção. Sugeriram que poderia ser mais explícito no protótipo
 
 </p>
 
@@ -501,7 +534,11 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 
 - **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhor o design da página, deixando-a mais moderna.
 
+<<<<<<< Updated upstream
 - **Meus Acessos:** A usuária considerou a tarefa simples e fácil de ser executada, embora alguns cliques em lugares errados possam sugerir uma breve dificuldade em certos pontos do protótipo, o que pode ser justificado pela falta de costume com o hardware disponibilizado para a utilização da interface.
+=======
+- **2 via:** Durante as entrevistas, os usuários demonstraram satisfação, conforto e facilidade ao utilizarem o protótipo de alta fidelidade para realizar o trajeto da funcionalidade "2ª via" dentro do site BRB Mobilidade,levando um tempo médio de 1 minuto
+>>>>>>> Stashed changes
 
 - **Extensão de Acesso:** Das três usuárias entrevistadas, nenhuma demonstrou dificuldade ao realizar as tarefas descritas na funcionalidade. Cada uma delas levou menos de 3 minutos para concluir todas as etapas. Além disso, nenhuma delas identificou inconsistências ou erros na aplicação
 
