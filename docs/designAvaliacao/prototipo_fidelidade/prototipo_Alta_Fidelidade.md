@@ -318,41 +318,42 @@ Tabela 20 - Diretrizes (Fonte -  [Juan Pablo](https://github.com/Juan-Ricarte)  
 O usuário validou o protótipo de alta fidelidade, não apresentado nenhuma dificuldade
 
 ## 4. Alterar foto - Felipe Hansen
+
 ## 5. Segunda via - Fause
 
-### Entrevista 1 - Ana Leticia 
+### Entrevista 1 - Ana Leticia
 
 Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 
-
-
-| ID | Enunciado| Resposta| 
+| ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
-|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
-|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    sim   | 
-|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
-|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        |
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         |
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    sim   |
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       |
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
 
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 
-
+</br>
 
 ### Entrevista 2 - Luiz Felipe
 
 Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 
+</br>
 
-| ID | Enunciado| Resposta| 
+| ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
-|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
-|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |   SIm     | 
-|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
-|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
+|   1   |  A interface apresentada foi de fácil utilização?        |     Sim        |
+|   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         |
+|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |   SIm     |
+|   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       |
+|   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
 
 (Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 
+</br>
 
 ### Entrevista 3 - Fernanda Souza
 
@@ -372,18 +373,15 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 ### Feedbacks dos Usuários
 
 <p style="text-align: justify">
-
 Durante as entrevistas, os usuários demonstraram satisfação, conforto e facilidade ao utilizarem o protótipo de alta fidelidade para realizar o trajeto da funcionalidade "2ª via" dentro do site BRB Mobilidade. Contudo, alguns usuários relataram que tiveram uma pequena dificuldade na hora de selecionar o motivo da solicitação, pois não havia um indicativo claro de que o campo era uma caixa de seleção. Sugeriram que poderia ser mais explícito no protótipo
-</p>
 
+</p>
 
 ## 6. Liberar cartão - Lucas Lobão
 
-### Entrevista 1 - Julia
+### Entrevista_1 - Julia
 
 Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
-
-<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta |
 | --- | -------------------------------------------------- | --------------- |
@@ -408,14 +406,13 @@ Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 
 
 Tabela 18 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
-</div>
 </br>
 
-### Entrevista 2 - Carolina
+### Entrevista_2 - Carolina
 
 Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
- 
-<div  style= "text-align: center">
+
+</br>
 
 | ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -439,15 +436,12 @@ Tabela 19 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 
 | 6 | Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário? | Nenhuma vez |
 
 Tabela 20 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
-  
-</div>
+
 </br>
 
 ### Entrevista 3 - Ana Karolina
 
 Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
-
-<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -472,9 +466,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
 
 Tabela 22 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
-</div>
+</br>
 
-### Feedbacks dos Usuários
+### Feedback dos Usuários
 
 <p  style="text-align: justify">
 Nenhuma das usuárias relatou ter encontrado problemas ou dificuldades para realizar a tarefa, muito pelo fato de ser uma tarefa simples e com interface intuitiva, que deixa claro os caminhos a serem seguidos. Nesse sentido, o feedback recebido foi que a tarefa de "Liberar Cartão" está adequada.
