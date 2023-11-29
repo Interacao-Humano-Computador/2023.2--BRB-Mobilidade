@@ -291,8 +291,6 @@ Durante as entrevistas, os usuários demonstraram satisfação, conforto e facil
 
 Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
 
-<div style= "text-align: center">
-
 | ID | Enunciado| Resposta |
 | --- | -------------------------------------------------- | --------------- |
 | 1 | A interface apresentada foi de fácil utilização? | Sim |
@@ -303,11 +301,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
 
 Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
-</div>
-
 </br>
-
-<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -320,8 +314,6 @@ Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 
 
 Tabela 18 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
-</div>
-
 </br>
 
 ### Entrevista_2 - Carolina
@@ -329,8 +321,6 @@ Tabela 18 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18)
 Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
 
 </br>
-
-<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -342,11 +332,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
 
 Tabela 19 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
-</div>
-
 </br>
-
-<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -358,16 +344,12 @@ Tabela 19 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 
 | 6 | Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário? | Nenhuma vez |
 
 Tabela 20 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
-  
-</div>
 
 </br>
 
 ### Entrevista 3 - Ana Karolina
 
 Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
-
-<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -379,11 +361,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
 
  Tabela 21 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
-</div>
-
 </br>
-
-<div  style= "text-align: center">
 
 | ID | Enunciado| Resposta|
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -396,9 +374,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
 
 Tabela 22 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
 
-</div>
+</br>
 
-### Feedbacks dos Usuários
+### Feedback dos Usuários
 
 <p  style="text-align: justify">
 Nenhuma das usuárias relatou ter encontrado problemas ou dificuldades para realizar a tarefa, muito pelo fato de ser uma tarefa simples e com interface intuitiva, que deixa claro os caminhos a serem seguidos. Nesse sentido, o feedback recebido foi que a tarefa de "Liberar Cartão" está adequada.
