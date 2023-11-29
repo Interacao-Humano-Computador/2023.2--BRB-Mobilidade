@@ -502,7 +502,10 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 - **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhor o design da página, deixando-a mais moderna.
 
 ## Planejamento de Reprojeto
+Replanejar o projeto com foco no design de protótipos de alta fidelidade envolve avaliar as interfaces existentes, estabelecer metas de design, criar protótipos detalhados inspirados em tendências atuais, testar a usabilidade, iterar com base no feedback, e implementar as mudanças gradualmente, comunicando-as efetivamente. A avaliação contínua e a documentação atualizada garantem o sucesso, proporcionando uma transição suave e aprimorando a experiência do usuário. Assim, deve-se focar no design das interfaces a fim de melhorar a experiência do usuário.
+
 ## Conclusão
+Os protótipos em suma foram acertivos, mas no geral os usuários cogitaram melhorar o design dos protótipos, trazendo interfaces mais "atualizadas" com relação ao design. Além disso, 95% do usuários julgaram as tarefas efetivas e fáceis de serem realizadas.
 
 ## Histórico de Versão
 
