@@ -501,6 +501,8 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 
 - **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhor o design da página, deixando-a mais moderna.
 
+- **Meus Acessos:** A usuária considerou a tarefa simples e fácil de ser executada, embora alguns cliques em lugares errados possam sugerir uma breve dificuldade em certos pontos do protótipo, o que pode ser justificado pela falta de costume com o hardware disponibilizado para a utilização da interface.
+
 ## Planejamento de Reprojeto
 ## Conclusão
 
