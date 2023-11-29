@@ -242,7 +242,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Sim |
 
-Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 
 </div>
 
@@ -262,8 +262,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
 
-Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
-
+(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 </div>
 
 
@@ -281,8 +280,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
 
-Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
-
+(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
 </div>
 
 ### Feedbacks dos Usuários
