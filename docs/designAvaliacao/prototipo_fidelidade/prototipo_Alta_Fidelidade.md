@@ -534,15 +534,16 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 
 - **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhor o design da página, deixando-a mais moderna.
 
-<<<<<<< Updated upstream
 - **Meus Acessos:** A usuária considerou a tarefa simples e fácil de ser executada, embora alguns cliques em lugares errados possam sugerir uma breve dificuldade em certos pontos do protótipo, o que pode ser justificado pela falta de costume com o hardware disponibilizado para a utilização da interface.
-=======
+
 - **2 via:** Durante as entrevistas, os usuários demonstraram satisfação, conforto e facilidade ao utilizarem o protótipo de alta fidelidade para realizar o trajeto da funcionalidade "2ª via" dentro do site BRB Mobilidade,levando um tempo médio de 1 minuto
->>>>>>> Stashed changes
 
 - **Extensão de Acesso:** Das três usuárias entrevistadas, nenhuma demonstrou dificuldade ao realizar as tarefas descritas na funcionalidade. Cada uma delas levou menos de 3 minutos para concluir todas as etapas. Além disso, nenhuma delas identificou inconsistências ou erros na aplicação
 
 - **Liberar Cartão:** Com base nos dados coletados das entrevistas, ficou evidente que os usuários não enfrentaram problemas para compreender e nem para executar a tarefa proposta. Dito isso, algumas características que puderam ser observadas: O tempo médio para exucução da tarefa foi de 10 segundos, Todos os entrevistados conseguiram finalizar a tarefa (100%) e o total de erros registrados foi "0"
+
+**Alteração de foto:** Em geral os usuários tiverem dificuldades quando não liam a página completa. Porém resolviam a tarefa e realizaram as mesmas de forma eficiênte. Tendo um tempo médio de 47 seg para realizar a alteração de foto.
+
 
 ## Planejamento de Reprojeto
 Replanejar o projeto com foco no design de protótipos de alta fidelidade envolve avaliar as interfaces existentes, estabelecer metas de design, criar protótipos detalhados inspirados em tendências atuais, testar a usabilidade, iterar com base no feedback, e implementar as mudanças gradualmente, comunicando-as efetivamente. A avaliação contínua e a documentação atualizada garantem o sucesso, proporcionando uma transição suave e aprimorando a experiência do usuário. Assim, deve-se focar no design das interfaces a fim de melhorar a experiência do usuário.
