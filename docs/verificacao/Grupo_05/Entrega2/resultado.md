@@ -14,30 +14,64 @@ A metodologia escolhida para esta verificação é a inspeção. Desenvolvida or
 O objetivo deste documento é o processo de verificação dos artefatos da segunda entrega realizada pelo Grupo 5, para tal foram utilizadas o checklist presente no plano de ensino da matéria, os feedbacks realizados pelos professores além da avaliação feita pelo Grupo 5 e para uma melhor visualização dos parâmetros de verificação podemos visualizar as tabela abaixo
 
 
+### Perfil do usuario 
 
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  . | . | .|
-|  . | . | .|
-|  . | . | .|
-|  . | . | .|
-|  . | . | .|
-|  . | . | .|
+|  1 | O perfil do usuario posusi os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico?| .|
+|  2 | Os dados para o perfil do usuário foram obtidos por meio de alguma pesquisa, como entrevistas ou questionários? | .|
+|  3 | O perfil do usuário possui experiência e conhecimento com o benefício do transporte público?| .|
+|  4 | O processo de coleta de dados considerou uma amostra representativa da base de usuários, abrangendo diferentes perfis e necessidades? | .|
 
 <div style="text-align: center">
     <p> Tabela 1: Perguntas do Checklist de conteúdo (Fonte: Fause, 2023).</p>
 </div>
 
+### Personas 
 
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  . | . | .|
-|  . | . | .|
-|  . | . | .|
-|  . | . | .|
-|  . | . | .|
-|  . | . | .|
+|  5 | As personas são definidas a partir do perfil do usuário? | .|
+|  6 | As personas possuem uma Foto?| .|
+|  7 | As personas possuem nome e sobrenome? | .|
+|  8 | -As personas possuem características necessárias de acordo com Courage e Baxter (2005), como é citado no artefato?| .|
 
+<div style="text-align: center">
+    <p> Tabela 2: Perguntas da formatação do artefato (Fonte: Fause, 2023).</p>
+</div>
+
+
+### Cénarios
+| ID |  Criterios  | Status |
+|--- |--- |--- |
+|  9 | Os cenários representam uma ação / atividade do sistema em questão?| .|
+|  10 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | .|
+
+<div style="text-align: center">
+    <p> Tabela 2: Perguntas da formatação do artefato (Fonte: Fause, 2023).</p>
+</div>
+
+### Analise de tarefas 
+
+| ID |  Criterios  | Status |
+|--- |--- |--- |
+|  11 | Foram utilizadas ao menos duas técnicas para a realização da análise de tarefas?| .|
+|  12 | As tarefas representam o objetivo que os usuários desejam atingir? | .|
+|  13 | O fluxo das tarefas condizem com as tarefas realizadas pelos usuários na vida real? | .|
+
+
+<div style="text-align: center">
+    <p> Tabela 2: Perguntas da formatação do artefato (Fonte: Fause, 2023).</p>
+</div>
+
+### Aspectos éticos
+
+| ID |  Criterios  | Status |
+|--- |--- |--- |
+|  14 | Há termo de consentimento?| .|
+|  15 | É seguido os 4 princípios: autonomia, beneficência, maleficência e justiça e equidade? | .|
+|  16 | No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes? | .|
+|  17 | Pedido de consentimento em caso de permissão para gravar?| .|
 
 <div style="text-align: center">
     <p> Tabela 2: Perguntas da formatação do artefato (Fonte: Fause, 2023).</p>
@@ -45,9 +79,28 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 ## Problemas encontrados
 
+### 1 o perfil do usuario posusi os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico? 
+
+Falta as informações dos status socioeconômicos 
+
+### 4 O processo de coleta de dados considerou uma amostra representativa da base de usuários, abrangendo diferentes perfis e necessidades?
+
+
+### 8 As personas possuem características necessárias de acordo com Courage e Baxter (2005), como é citado no artefato? 
+
+As habilidade e objetivos das personas não apresentam informações muito consolidado, sendo de maneira genérica e superficial 
 
 ## Sugestões de Correções
 
+### 1
+
+Em pesquisas futuras adicionar pesquisas relacionadas ao status socioeconômico do entrevistado, para na hora de realiza a análise de dados conseguir abstrair mais informações 
+
+### 4
+
+### 8
+
+Fazer uma análise das persona e definir novos ou melhorar os objetivos e habilidades atuais 
 
 ## Bibliografia
 
