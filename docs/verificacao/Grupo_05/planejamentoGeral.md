@@ -15,10 +15,13 @@ Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção 
 
 |Data da veriicação|Documento|Avaliador|
 |------------------|---------|---------|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+|-|entrega 1 |-|
+|2/12/2023|entrega 2 |[Fause Carlos](https://github.com/FauseSkyWalker)|
+|-|entrega 3 |-|
+|-|entrega 4 |-|
+|-|entrega 5 |-|
+|-|entrega 7 |-|
+|-|entrega 8|-|
 
 <div style="text-align: center">
     <p> Tabela 1: Cronograma de verificações (Fonte: Fause Carlos, 2023).</p>

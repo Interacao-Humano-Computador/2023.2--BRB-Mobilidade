@@ -79,28 +79,27 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 ## Problemas encontrados
 
-### 1 o perfil do usuario posusi os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico? 
+#### -1: o perfil do usuario posusi os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico? 
 
-Falta as informações dos status socioeconômicos 
+* Falta as informações dos status socioeconômicos 
 
-### 4 O processo de coleta de dados considerou uma amostra representativa da base de usuários, abrangendo diferentes perfis e necessidades?
+#### -4: O processo de coleta de dados considerou uma amostra representativa da base de usuários, abrangendo diferentes perfis e necessidades?
 
+* Não está indicado no artefato quantas pesoas foram entrevistadas
 
-### 8 As personas possuem características necessárias de acordo com Courage e Baxter (2005), como é citado no artefato? 
+#### -8: As personas possuem características necessárias de acordo com Courage e Baxter (2005), como é citado no artefato? 
 
-As habilidade e objetivos das personas não apresentam informações muito consolidado, sendo de maneira genérica e superficial 
+* As habilidade e objetivos das personas não apresentam informações muito consolidado, sendo de maneira genérica e superficial 
 
 ## Sugestões de Correções
 
-### 1
 
-Em pesquisas futuras adicionar pesquisas relacionadas ao status socioeconômico do entrevistado, para na hora de realiza a análise de dados conseguir abstrair mais informações 
 
-### 4
+- 1: Em pesquisas futuras adicionar pesquisas relacionadas ao status socioeconômico do entrevistado, para na hora de realiza a análise de dados conseguir abstrair mais informações 
 
-### 8
-
-Fazer uma análise das persona e definir novos ou melhorar os objetivos e habilidades atuais 
+- 4: Indicar quantas pessoas foram entrevistadas, para dessa forma saber se a amostra foi suficiente 
+  
+- 8: Fazer uma análise das persona e definir novos ou melhorar os objetivos e habilidades atuais 
 
 ## Bibliografia
 
