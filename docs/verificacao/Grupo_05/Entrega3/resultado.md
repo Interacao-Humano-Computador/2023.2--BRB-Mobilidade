@@ -17,7 +17,7 @@ O objetivo deste documento é apresentar a verificação dos artefatos produzido
 |  2 |São identificados os navegadores ou dispositivos que podem acessar a plataforma ? | .|
 |  3 |São identificadas as limitações da plataforma? | .|
 |  4 |São identificadas as funcionalidades da plataforma ? | .|
-|  5 |São identificadas as funcionalidades da plataforma ? | .|
+
 
 
 
@@ -26,14 +26,13 @@ O objetivo deste documento é apresentar a verificação dos artefatos produzido
 | ID |  Criterios  | Status |
 |--- |--- |--- |
 |  1 |Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ? | .|
-|  2 |Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ? | .|
-|  3 | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?| .|
-|  4 | .Os princípios gerais do projeto contém antecipação das necessidades do usuário ?| .|
-|  5 | Os princípios gerais do projeto contém promoção da eficiência do usuário ?| .|
-|  6 |Os princípios gerais do projeto contém consistência e padronização ? | .|
-|  7 | Os princípios gerais do projeto contém projeto para erros ?| .|
-|  8 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?| .|
-|  9 | Os princípios gerais do projeto contém visibilidade e reconhecimento ?| .|
+|  2 | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?| .|
+|  3 | Os princípios gerais do projeto contém antecipação das necessidades do usuário ?| .|
+|  4 | Os princípios gerais do projeto contém promoção da eficiência do usuário ?| .|
+|  5 |Os princípios gerais do projeto contém consistência e padronização ? | .|
+|  6 | Os princípios gerais do projeto contém projeto para erros ?| .|
+|  7 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?| .|
+|  8 | Os princípios gerais do projeto contém visibilidade e reconhecimento ?| .|
 
 
 
@@ -41,21 +40,18 @@ O objetivo deste documento é apresentar a verificação dos artefatos produzido
 
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  1 |Existe um tópico de introdução? | .|
-|  2 |Existe um subtópico de objetivo do guia de estilo?| .|
-|  3 |Existe um subtópico de organização e conteúdo do guia de estilo? | .|
-|  4 |Existe um subtópico de como utilizar o guia? | .|
-|  5 |Existe um subtópico de como manter o guia?
+|  1 |Existe um subtópico de organização e conteúdo do guia de estilo? | .|
+|  2 |Existe um subtópico de como utilizar o guia? | .|
+|  3 |Existe um subtópico de como manter o guia?
  | .|
-|  6 |Existe um tópico de resultados de análise? | .|
-|  7 |Existe um subtópico de descrição do ambiente de trabalho do usuário? | .|
-|  8 |Existe um tópico de Elementos de interface? | .|
-|  9 |Existe um subtópico de disposição espacial e grid? | .|
-| 10 |Existe um subtópico de janelas? | .|
-| 11 |Existe um subtópico de tipografia? | .|
-| 12 |Existe um subtópico de cores? | .|
-| 13|Existe um tópico de Vocabulário e padrões?
- | .|
+|  4 |Existe um tópico de resultados de análise? | .|
+|  5 |Existe um subtópico de descrição do ambiente de trabalho do usuário? | .|
+|  6 |Existe um tópico de Elementos de interface? | .|
+|  7 |Existe um subtópico de disposição espacial e grid? | .|
+| 8 |Existe um subtópico de janelas? | .|
+| 9 |Existe um subtópico de tipografia? | .|
+| 10 |Existe um subtópico de cores? | .|
+| 11|Existe um tópico de Vocabulário e padrões?| .|
 
 
 
