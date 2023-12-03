@@ -18,6 +18,10 @@ Este guia de estilo estabelece as diretrizes de design e interação para o sist
 
 5. **Acessibilidade:** Garanta que o sistema seja acessível a todos, em conformidade com as diretrizes de acessibilidade.
 
+## Como utilizar o Guia
+
+Este guia de estilo serve como um ponto de referência durante todo o ciclo de vida do projeto de Interação Humano-Computador, abrangendo desde a produção até a manutenção. As diretrizes e práticas recomendadas aqui são essenciais para orientar as decisões de design, assegurando que a interface resultante atenda às necessidades dos usuários finais. Isso promove uma interação eficaz e satisfatória com o sistema, garantindo sua eficiência e usabilidade ao longo do tempo.
+
 ## Identidade Visual
 
 A identidade visual é um conjunto de elementos visuais, como logotipos, cores, tipografia e elementos gráficos, que representam a personalidade e valores de uma marca ou empresa. Uma identidade visual bem definida contribui para a construção da confiança, a diferenciação no mercado e a criação de uma imagem sólida da marca.
@@ -251,6 +255,14 @@ Após uma breve análise por inspecção no site do BRB Mobilidade e também uti
 2. Deve funcionar nos principais navegadores (Chrome, Safari, Opera, Edge e Firefox)
 
 </br>
+
+## Conclusão
+
+O BRB Mobilidade é pensado para ser fácil de usar, consistente e eficiente. Sua identidade visual, com um logotipo fixo e uma paleta de cores específica, é acompanhada por tipografia selecionada e ícones distintos. O layout responsivo usa grids e suporta navegação por duas barras após o login. Os elementos da interface, como botões e campos, têm características visuais claras, e a interatividade é cuidadosamente planejada. Embora haja suporte para leitores de tela e áudiodescrição, melhorias são necessárias na navegação pelo teclado e no contraste de elementos. Além disso, o sistema é compatível com smartphones e desktops, funcionando bem nos principais navegadores para oferecer uma experiência acessível e consistente.
+
+
+
+
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |

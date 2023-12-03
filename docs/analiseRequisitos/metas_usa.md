@@ -19,7 +19,7 @@ Consiste em estabelecer quais aspectos de desempenho devem ter maior destaque no
 
 
 ## Metas de Usabilidade almejadas no BRB mobilidade
-As metas descritas neste artefato são propostas por Jakob Nielsen(1993). Para a definição das metas de usabilidade do projeto que desejamos abordar, foi feita a seguinte análise no site:
+As metas descritas neste artefato são propostas por Jakob Nielsen(1993). Para a definição das metas de usabilidade do projeto que desejamos abordar, foi feita a seguinte análise no site e definidas através do perfil de usuário:
 
 ### Eficacia
 O sistema serve ao propósito principal?

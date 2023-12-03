@@ -61,17 +61,20 @@ Para a entrevista dos usuários optamos por convidar pessoas que possuam um perf
 
 Contaremos com um corpo de 7 entrevistadores, cada um deles fará a entrevista a respeito de uma das tarefas específicas: Segunda via da carteirinha, Troca de instituição, Meus Acessos, Extensão de Acesso, Alteração de Foto, Troca de Endereço e Liberar Cartão. É importante ressaltar que nossas entrevistas não acarretarão custos aos recrutadores, uma vez que serão realizadas online, através de uma plataforma gratuita. No entanto, é necessário que tanto o entrevistador quanto o entrevistado disponham de um dispositivo com acesso à internet para facilitar a interação e garantir um processo eficiente.
 
+A quantidade de entrevistados prevista é de 7 pessoas, pois serão 7 storyboards a serem avaliados, um para cada tarefa para a qual foi criada o storyboard.
+
 A tabela 3 representa o cronograma para essa etapa das entrevistas.
 
 | Entrevistadores | Entrevistados | Horário | Data | Plataforma |
 |--- |--- |---  |--- | ------|
-|  Amanda Gonçalves S. Abreu  | Usuário do BRB Mobilidade | 20:00 |31/10/2023 | Teams |
-|  Arthur Rodrigues Sousa  | Usuário do BRB Mobilidade | 21:00 |31/10/2023 | Teams |
-|  Artur Jackson Leal Fontinele  | Usuário do BRB Mobilidade | 21:00 |31/10/2023 | Teams |
-|  Fause Carlos Mascarenhas Lustosa Junior  | Usuário do BRB Mobilidade | 12:00 |01/11/2023 | Teams |
-|  Felipe Aguiar Hansen  | Usuário do BRB Mobilidade | 12:00 |30/10/2023 | Teams |
-|  Juan Pablo Ricarte de Barros  | Usuário do BRB Mobilidade | 20:00 |01/11/2023 | Teams |
-|  Lucas Andrade Lobão  | Usuário do BRB Mobilidade | 14:00 |01/11/2023 | Teams |
+|  Amanda Gonçalves S. Abreu  | Pedro | 20:00 |31/10/2023 | Teams |
+|  Arthur Rodrigues Sousa  | Yann Rodrigues | 21:00 |31/10/2023 | Teams |
+|  Artur Jackson Leal Fontinele  | Guilherme | 21:00 |31/10/2023 | Teams |
+|  Fause Carlos Mascarenhas Lustosa Junior  | Ana Julia | 12:00 |01/11/2023 | Teams |
+|  Felipe Aguiar Hansen  | Patrick Maximo | 12:00 |30/10/2023 | Teams |
+|  Juan Pablo Ricarte de Barros  | Yuri Ricarte | 20:00 |01/11/2023 | Teams |
+|  Lucas Andrade Lobão  | Raquel Alves | 14:00 |01/11/2023 | Teams |
+|  Lucas Andrade Lobão  | Rebeca Alves | 14:30 |01/11/2023 | Teams |
 
 <div style="text-align: center">
     <p> Tabela 3: Cronograma da Entrevista da Análise de Tarefas (Fonte: Felipe, 2023).</p>
@@ -93,7 +96,7 @@ A partir disso, o teste piloto será executado pelos Integrantes Felipe Hansen e
 
 ## Teste Piloto
 
-<iframe width="110%" height="450px" src="https://youtu.be/ucZZcXcBq84" frameborder="0" allowfullscreen></iframe>
+O teste piloto pode ser acessado neste [link](https://youtu.be/ucZZcXcBq84)
 
 
 ## Bibliografia

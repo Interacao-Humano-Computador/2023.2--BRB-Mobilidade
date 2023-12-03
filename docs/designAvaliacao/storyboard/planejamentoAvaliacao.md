@@ -112,13 +112,13 @@ O prazo limite para a realização das entrevistas é até o dia 05/11. Elas est
 
 | Entrevistador(es) | Entrevistado(s) | A partir (Horário)  | Até (Horário) |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Lucas Lobão](https://github.com/lucaslobao-18)  | A definir |       12:00       |     12:30      | 01/11/2023 | Presencial (FGA) ou Microsoft Teams |
-|  [Amanda Abreu](https://github.com/Amandaaaaabreu)  | A definir |       12:00       |     12:30      | 01/11/2023 | Presencial (FGA) ou Microsoft Teams |
-|  [Artur Jackson](https://github.com/artur-jack)  | A definir |       12:00       |   12:30     | 01/11/2023 | Presencial (FGA) ou Microsoft Teams |
-|  [Arthut Sousa](https://github.com/arthurrsousa)  |   A definir    |       12:00       |     12:30      | 01/11/2023 | Presencial (FGA) ou Microsoft Teams |
-|  [Fause Carlos](https://github.com/FauseSkyWalker)  |  A definir    |       13:00      |     13:30      | 03/11/2023 | Presencial (FGA) ou Microsoft Teams |
-|  [Felipe Hansen](https://github.com/FHansen98)  |   A definir    |       13:00       |     13:30      | 03/11/2023 | Presencial (FGA) ou Microsoft Teams |
-|  [Juan Pablo](https://github.com/Juan-Ricarte)  |   A definir    |       13:00       |     13:30      | 03/11/2023 | Presencial (FGA) ou Microsoft Teams |
+|  [Lucas Lobão](https://github.com/lucaslobao-18)  | Raquel Alves e Rebeca Alves|       12:00       |     12:30      | 01/11/2023 | Presencial (FGA) ou Microsoft Teams |
+|  [Amanda Abreu](https://github.com/Amandaaaaabreu)  | Pedro Lucas |       12:00       |     12:30      | 01/11/2023 | Presencial (FGA) ou Microsoft Teams |
+|  [Artur Jackson](https://github.com/artur-jack)  | Guilherme |       12:00       |   12:30     | 01/11/2023 | Presencial (FGA) ou Microsoft Teams |
+|  [Arthut Sousa](https://github.com/arthurrsousa)  |   Yann Rodrigues   |       12:00       |     12:30      | 01/11/2023 | Presencial (FGA) ou Microsoft Teams |
+|  [Fause Carlos](https://github.com/FauseSkyWalker)  |  Ana Julia    |       13:00      |     13:30      | 03/11/2023 | Presencial (FGA) ou Microsoft Teams |
+|  [Felipe Hansen](https://github.com/FHansen98)  |  Patrick |       13:00       |     13:30      | 03/11/2023 | Presencial (FGA) ou Microsoft Teams |
+|  [Juan Pablo](https://github.com/Juan-Ricarte)  |   Yuri Ricarte    |       13:00       |     13:30      | 03/11/2023 | Presencial (FGA) ou Microsoft Teams |
 
 Tabela 2 - Cronograma da entrevista (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) e [Arthur Sousa](https://github.com/arthurrsousa), 2023)
 
@@ -140,8 +140,7 @@ Nesse sentido, o teste piloto da avaliação de storyboard será executado pelos
 
 ### Vídeo da realização do teste piloto
 
-<iframe width="1000vw" height="650vh" src="https://youtu.be/L9VGTMYvMmA" title="Teste Piloto -Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-Vídeo 1: gravação do teste piloto (Fonte: Lucas, Arthur. 2023).
+O teste piloto pode ser acessado neste [link](https://youtu.be/L9VGTMYvMmA)
 
 ### Objetivos do teste piloto
 

@@ -11,9 +11,17 @@ Entrevistas, presenciais ou remotas, buscam coletar dados e identificar requisit
 
 ## Resultados
 Uma avaliação de Interação Humano-Computador geralmente revela potenciais problemas. No entanto, a ausência de problemas identificados não garante que o design ou a interface estejam livres de falhas, assim como acontece em qualquer modelo de teste.
+
 ## Participantes
 Os participantes não podem ter vínculo com os entrevistadores, uma vez que os entrevistadores podem influenciar os entrevistados baseado em suas opiniões sobre o site <a href="https://mobilidade.brb.com.br">BRB MOBILIDADE</a> o que, consequentemente, modificaria os dados obtidos.
 
+## Planejamento de Reprojeto
+
+Discute-se quais ações ou planos futuros surgiram a partir dos resultados da avaliação, abordando melhorias no projeto, correções de problemas identificados, ajustes de design ou outras medidas para aprimorar o produto ou processo com base no feedback recebido.
+
+## Feedback dos Usuários
+
+É resumido o feedback e as opiniões fornecidas pelos participantes, destacando tendências e temas significativos que emergiram durante as entrevistas ou questionários.
 
 ## Calendário 
 O grupo deve agendar a entrevista com o participante, registrando as informações de data, horário e local no artefato de resultados da entrevista. As datas, horários, locais e entrevistadores estão descritos em [Identificadores da Entrevista](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/PlanejamentoAvaliacaoTare/#i-identificar).
