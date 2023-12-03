@@ -18,10 +18,10 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  1 | O perfil do usuario posusi os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico?| .|
-|  2 | Os dados para o perfil do usuário foram obtidos por meio de alguma pesquisa, como entrevistas ou questionários? | .|
-|  3 | O perfil do usuário possui experiência e conhecimento com o benefício do transporte público?| .|
-|  4 | O processo de coleta de dados considerou uma amostra representativa da base de usuários, abrangendo diferentes perfis e necessidades? | .|
+|  1 | O perfil do usuario posusi os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico?|Incompleto|
+|  2 | Os dados para o perfil do usuário foram obtidos por meio de alguma pesquisa, como entrevistas ou questionários? | Sim|
+|  3 | O perfil do usuário possui experiência e conhecimento com o benefício do transporte público?|Sim|
+|  4 | O processo de coleta de dados considerou uma amostra representativa da base de usuários, abrangendo diferentes perfis e necessidades? | não|
 
 <div style="text-align: center">
     <p> Tabela 1: Perguntas do Checklist de conteúdo (Fonte: Fause, 2023).</p>
@@ -31,10 +31,10 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  5 | As personas são definidas a partir do perfil do usuário? | .|
-|  6 | As personas possuem uma Foto?| .|
-|  7 | As personas possuem nome e sobrenome? | .|
-|  8 | -As personas possuem características necessárias de acordo com Courage e Baxter (2005), como é citado no artefato?| .|
+|  5 | As personas são definidas a partir do perfil do usuário? | Sim|
+|  6 | As personas possuem uma Foto?|Sim|
+|  7 | As personas possuem nome e sobrenome? | Sim|
+|  8 | -As personas possuem características necessárias de acordo com Courage e Baxter (2005), como é citado no artefato?|Incompleto|
 
 <div style="text-align: center">
     <p> Tabela 2: Perguntas da formatação do artefato (Fonte: Fause, 2023).</p>
@@ -44,8 +44,8 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 ### Cénarios
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  9 | Os cenários representam uma ação / atividade do sistema em questão?| .|
-|  10 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | .|
+|  9 | Os cenários representam uma ação / atividade do sistema em questão?| Sim|
+|  10 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? |Sim|
 
 <div style="text-align: center">
     <p> Tabela 2: Perguntas da formatação do artefato (Fonte: Fause, 2023).</p>
@@ -55,9 +55,9 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  11 | Foram utilizadas ao menos duas técnicas para a realização da análise de tarefas?| .|
-|  12 | As tarefas representam o objetivo que os usuários desejam atingir? | .|
-|  13 | O fluxo das tarefas condizem com as tarefas realizadas pelos usuários na vida real? | .|
+|  11 | Foram utilizadas ao menos duas técnicas para a realização da análise de tarefas?| Sim|
+|  12 | As tarefas representam o objetivo que os usuários desejam atingir? | Sim|
+|  13 | O fluxo das tarefas condizem com as tarefas realizadas pelos usuários na vida real? | Sim|
 
 
 <div style="text-align: center">
@@ -68,10 +68,10 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  14 | Há termo de consentimento?| .|
-|  15 | É seguido os 4 princípios: autonomia, beneficência, maleficência e justiça e equidade? | .|
-|  16 | No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes? | .|
-|  17 | Pedido de consentimento em caso de permissão para gravar?| .|
+|  14 | Há termo de consentimento?| Sim|
+|  15 | É seguido os 4 princípios: autonomia, beneficência, maleficência e justiça e equidade? | Sim|
+|  16 | No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes? | Sim|
+|  17 | Pedido de consentimento em caso de permissão para gravar?| Sim|
 
 <div style="text-align: center">
     <p> Tabela 2: Perguntas da formatação do artefato (Fonte: Fause, 2023).</p>
