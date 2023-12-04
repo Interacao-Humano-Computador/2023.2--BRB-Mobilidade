@@ -18,7 +18,7 @@ Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção 
 |03/12/2023|entrega 1 |[Felipe Hansen](https://github.com/FHansen98) e [Fause Carlos](https://github.com/FauseSkyWalker)|
 |02/12/2023|entrega 2 |[Felipe Hansen](https://github.com/FHansen98) e [Fause Carlos](https://github.com/FauseSkyWalker)|
 |02/12/2023|entrega 3 |[Amanda](https://github.com/Amandaaaaabreu) e [Arthur Sousa](https://github.com/arthurrsousa)|
-||entrega 4 |[Amanda](https://github.com/Amandaaaaabreu) e [Arthur Sousa](https://github.com/arthurrsousa)|
+|02/12/2023|entrega 4 |[Amanda](https://github.com/Amandaaaaabreu) e [Arthur Sousa](https://github.com/arthurrsousa)|
 |03/12/2023|entrega 5 |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)|
 |03/12/2023|entrega 7 |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)|
 |-|entrega 8|-|
