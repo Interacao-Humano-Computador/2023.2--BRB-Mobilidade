@@ -59,6 +59,10 @@ O artefato a ser verificado é:
     - Não há referências bibliográficas que se referem ao uso das interfaces do site brb mobilidade para realizar a tarefas de prototipação
     - As entrevistadas Carolina e Julia por Artur Jackson não possuem feedback.
 
+## Resultados Finais
+Os elementos vinculados à Entrega 8 foram submetidos a uma minuciosa verificação, adotando a metodologia de inspeção em conjunto com uma checklist abrangente. O relatório de resultados referente ao protótipo de alta fidelidade recebeu avaliação global positiva, destacando-se pela clareza na definição de objetivos e métodos. Contudo, identificou-se a necessidade de implementar melhorias específicas, especialmente no que tange à padronização.
+
+Num resumo abrangente, os artefatos apresentam uma estrutura robusta, incorporando de maneira eficaz as boas práticas de design centrado no usuário. Estão, assim, prontos para dar continuidade à próxima fase de desenvolvimento, sendo que a atenção a ajustes pontuais é reconhecida como uma oportunidade para elevar ainda mais a qualidade do trabalho de maneira geral. Essa abordagem refinada visa assegurar não apenas a conformidade, mas também a otimização constante no desenvolvimento do projeto.
 
 
 ## Histórico de Versão
