@@ -13,7 +13,7 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 | ID |  Criterios  | Status |
 |--- |--- |--- |
-|  1 | O perfil do usuario posusi os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico?|Incompleto|
+|  1 | O perfil do usuario possui os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico?|Incompleto|
 |  2 | Os dados para o perfil do usuário foram obtidos por meio de alguma pesquisa, como entrevistas ou questionários? | Sim|
 |  3 | O perfil do usuário possui experiência e conhecimento com o benefício do transporte público?|Sim|
 |  4 | O processo de coleta de dados considerou uma amostra representativa da base de usuários, abrangendo diferentes perfis e necessidades? | não|
@@ -74,7 +74,7 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 ## Problemas encontrados
 
-#### -1: o perfil do usuario posusi os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico? 
+#### -1: o perfil do usuario possui os seguintes Dados demográficos: idade, sexo,local de moradia, status socioeconômico? 
 
 * Falta as informações dos status socioeconômicos 
 
@@ -111,5 +111,5 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   10/11/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)|[Felipe Hansen](https://github.com/FHansen98)|
-|    1.0   |   13/11/2023   |   Finalização da pagina |  [Fause Carlos](https://github.com/FauseSkyWalker) e [Felipe Hansen](https://github.com/FHansen98)|[Juan Pablo](https://github.com/Juan-Ricarte)|
+|    1.0   |   01/12/2023   |   Criação do layout |  [Fause Carlos](https://github.com/FauseSkyWalker)|[Felipe Hansen](https://github.com/FHansen98)|
+|    1.0   |   03/12/2023   |   Finalização da pagina |  [Fause Carlos](https://github.com/FauseSkyWalker) e [Felipe Hansen](https://github.com/FHansen98)|[Juan Pablo](https://github.com/Juan-Ricarte)|
