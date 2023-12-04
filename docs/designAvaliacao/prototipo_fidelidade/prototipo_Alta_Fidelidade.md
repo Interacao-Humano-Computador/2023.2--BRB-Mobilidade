@@ -18,7 +18,7 @@ Os participantes foram selecionados com base no perfil do usuário e que já tê
 | :---: | :----------------------------------------------------------: | :-----------------:|:------------|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Aberta         | Justifique |
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |     Aberta         | Justifique |
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |     Aberta         | Justifique |
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |     Aberta         | Justifique |
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Aberta         | Justifique |
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |     Aberta         | Justifique |
 
@@ -59,7 +59,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/b-lLrUhpZa4).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -98,7 +98,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/tevsh7nqCAM).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -134,7 +134,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/S_1nbg2uU08).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -172,7 +172,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/IJIHhuZnXcQ).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -209,7 +209,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/nSjp8qi1fCs).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -242,7 +242,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/T7bsMQyLKJA).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -276,7 +276,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=IvT08kz
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -313,7 +313,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=LQLsu2O
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -349,7 +349,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=p3Ux00o
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -388,7 +388,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=ZvoL_RA
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -425,7 +425,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=fwi_8iR
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não, só confundiu um pouco as funcionalidades       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -462,7 +462,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=GIAouVS
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não        | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
@@ -500,7 +500,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        |
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         |
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    sim   |
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    sim   |
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       |
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
 
@@ -534,7 +534,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        |
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         |
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |   SIm     |
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |   SIm     |
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       |
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
 
@@ -566,7 +566,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
 
@@ -604,7 +604,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
 | --- | -------------------------------------------------- | --------------- |
 | 1 | A interface apresentada foi de fácil utilização? | Sim |
 | 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
-| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
+| 3 | Alguma sugestão com relação à disposição dos elementos na tela? | Não |
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
 
@@ -641,7 +641,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 | 1 | A interface apresentada foi de fácil utilização? | Sim |
 | 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
-| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
+| 3 | Alguma sugestão com relação à disposição dos elementos na tela? | Não |
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
 
@@ -676,7 +676,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
 | :---: | :----------------------------------------------------------: | :-----------------:|
 | 1 | A interface apresentada foi de fácil utilização? | Sim |
 | 2 | Você acredita que as tarefas solicitadas correspondem com ações reais? | Sim |
-| 3 | Alguma sugestão com relação à dispozição dos elementos na tela? | Não |
+| 3 | Alguma sugestão com relação à disposição dos elementos na tela? | Não |
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
 
@@ -719,7 +719,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=Dx_IjAM
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |  A interface apresentada foi de fácil utilização?        |     Sim        | 
 |   2   |  Você acredita que as tarefas solicitadas correspondem com ações reais?         |   Sim         | 
-|   3   |  Alguma sugestão com relação à dispozição dos elementos na tela?        |    Não     | 
+|   3   |  Alguma sugestão com relação à disposição dos elementos na tela?        |    Não     | 
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
