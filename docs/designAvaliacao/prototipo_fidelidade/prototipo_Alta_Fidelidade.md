@@ -232,6 +232,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/nSjp8qi1fCs).
     <p>Tabela 12 - Diretrizes (Fonte - Artur Jackson, 2023)</p>
 </div>
 
+### Feedback do Usuário
+
+A usuária considera que o formato e o procedimento são adequados e não encontrou qualquer complicação.
+
 
 ### Entrevista 3 - Julia
 
@@ -264,6 +268,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/T7bsMQyLKJA).
 <div style="text-align: center">
     <p>Tabela 14 - Diretrizes (Fonte - Artur Jackson, 2023)</p>
 </div>
+
+### Feedback do Usuário
+
+A usuária considera que o formato e o procedimento são adequados e não encontrou qualquer complicação.
 
 
 ## 3. Trocar Endereço - Juan
