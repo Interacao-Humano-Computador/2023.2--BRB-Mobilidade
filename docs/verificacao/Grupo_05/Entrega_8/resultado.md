@@ -64,6 +64,12 @@ Os elementos vinculados à Entrega 8 foram submetidos a uma minuciosa verificaç
 
 Num resumo abrangente, os artefatos apresentam uma estrutura robusta, incorporando de maneira eficaz as boas práticas de design centrado no usuário. Estão, assim, prontos para dar continuidade à próxima fase de desenvolvimento, sendo que a atenção a ajustes pontuais é reconhecida como uma oportunidade para elevar ainda mais a qualidade do trabalho de maneira geral. Essa abordagem refinada visa assegurar não apenas a conformidade, mas também a otimização constante no desenvolvimento do projeto.
 
+## Correções
+
+Após uma análise aprofundada dos problemas identificados nos artefatos, procedemos com as correções necessárias para aprimorar a qualidade e a precisão do trabalho. As alterações efetuadas visam endereçar de maneira abrangente as questões apontadas durante a revisão. Para uma compreensão mais visual e elucidativa das modificações realizadas, convido você a acessar o [vídeo]() que disponibilizamos.
+
+Neste vídeo informativo, apresentamos detalhadamente as áreas específicas que foram revistas e as melhorias implementadas. É uma oportunidade para compreender não apenas as correções, mas também o contexto e a lógica por trás dessas ações. Acreditamos que essa abordagem transparente contribui para a compreensão holística do processo de revisão e correção dos artefatos, promovendo uma maior clareza e transparência no desenvolvimento do projeto.
+
 
 ## Histórico de Versão
 
