@@ -94,7 +94,13 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 - 4: Indicar quantas pessoas foram entrevistadas, para dessa forma saber se a amostra foi suficiente 
   
-- 8: Fazer uma análise das persona e definir novos ou melhorar os objetivos e habilidades atuais 
+- 8: Fazer uma análise das persona e definir novos ou melhorar os objetivos e habilidades atuais
+
+## Resultados finais
+
+Após analisar a entrega 2 por meio do método de inspeção fica evidente que o grupo realizou uma boa entrega necessitando de apenas algumas resalvas que foram sugeridas nos tópicos anteriores
+
+No vídeo que pode ser acessado por este [link](https://youtu.be/jQLASrazYzo) foi realizada a verificação dos artefatos da Entrega 2.
 
 ## Bibliografia
 
