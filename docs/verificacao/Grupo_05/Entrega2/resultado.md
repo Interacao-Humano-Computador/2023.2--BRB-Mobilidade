@@ -104,7 +104,7 @@ No vídeo que pode ser acessado por este [link](https://youtu.be/jQLASrazYzo) fo
 
 ## Correções
 
-Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/rMQlnMOY-CU)
+Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/rMQlldxMOCU)
 
 ## Bibliografia
 
