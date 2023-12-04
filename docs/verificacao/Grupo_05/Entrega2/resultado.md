@@ -86,8 +86,7 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 * As habilidade e objetivos das personas não apresentam informações muito consolidado, sendo de maneira genérica e superficial 
 
-## Sugestões de Correções
-
+## Correções a serem feitas
 
 
 - 1: Em pesquisas futuras adicionar pesquisas relacionadas ao status socioeconômico do entrevistado, para na hora de realiza a análise de dados conseguir abstrair mais informações 
@@ -100,7 +99,7 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 Após analisar a entrega 2 por meio do método de inspeção fica evidente que o grupo realizou uma boa entrega necessitando de apenas algumas resalvas que foram sugeridas nos tópicos anteriores
 
-No vídeo que pode ser acessado por este [link](https://youtu.be/jQLASrazYzo) foi realizada a verificação dos artefatos da Entrega 2.
+No vídeo que pode ser acessado por este [link](https://youtu.be/xii3Ud4_iYo) foi realizada a verificação dos artefatos da Entrega 2.
 
 ## Correções
 
