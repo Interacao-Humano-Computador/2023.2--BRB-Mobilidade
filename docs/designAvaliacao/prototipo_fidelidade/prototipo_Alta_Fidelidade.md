@@ -22,8 +22,12 @@ Os participantes foram selecionados com base no perfil do usuário e que já tê
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Aberta         | Justifique |
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |     Aberta         | Justifique |
 
+<div style="text-align: center">
+    <p>Tabela 1 - Perguntas selecionadas (Fonte - Amanda Abreu, 2023)</p>
+</div>
 
-Tabela 1 - Perguntas selecionadas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+
+
 ## Cronograma
 
 A seguir na tabela 2 é mostrado o cronograma executado e comos as entrevistas foram realizadas.
@@ -38,7 +42,11 @@ A seguir na tabela 2 é mostrado o cronograma executado e comos as entrevistas f
 |Fause|Ana Leticia , Luiz Felipe, Fernanda Souza|28/11/2023|10:00 - 12:15|Presencial|
 |Juan|Gabriel, João Lucas e Yuri|28/11/2023|12:30 - 13:30|Presencial|
 
-Tabela 2 - Cronograma (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<div style="text-align: center">
+    <p>Tabela 2 - Cronograma (Fonte - Amanda Abreu, 2023)</p>
+</div>
+
+
 
 ## 1. Extensão de Acesso - Amanda Abreu
 
@@ -55,7 +63,11 @@ Para assistir a entrevista clique [aqui](https://youtu.be/b-lLrUhpZa4).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 3 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<div style="text-align: center">
+    <p>Tabela 3 - Respostas (Fonte - Amanda Abreu, 2023)</p>
+</div>
+
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -65,9 +77,12 @@ Tabela 3 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
 |   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
-|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
+|   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    |
 
-Tabela 4 - Diretrizes (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<div style="text-align: center">
+    <p>Tabela 4 -   Diretrizes (Fonte - Amanda Abreu, 2023)</p>
+</div>
+
 
 
 ### Feedback do Usuário
@@ -87,7 +102,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/tevsh7nqCAM).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 5 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<div style="text-align: center">
+    <p>Tabela 5 - Respostas (Fonte - Amanda Abreu, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -99,7 +117,9 @@ Tabela 5 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 6 - Diretrizes (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<div style="text-align: center">
+    <p>Tabela 6 - Diretrizes (Fonte - Amanda Abreu, 2023)</p>
+</div>
 
 ### Feedback do Usuário
 
@@ -118,7 +138,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/S_1nbg2uU08).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 7 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<div style="text-align: center">
+    <p>Tabela 7 - Respostas (Fonte - Amanda Abreu, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -130,7 +153,9 @@ Tabela 7 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 8 - Diretrizes (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+<div style="text-align: center">
+    <p>Tabela 8 - Diretrizes (Fonte - Amanda Abreu, 2023)</p>
+</div>
 
 ### Feedback do Usuário
 
@@ -151,7 +176,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/IJIHhuZnXcQ).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 9 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<div style="text-align: center">
+    <p>Tabela 9 - Respostas (Fonte - Artur Jackson, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -163,7 +191,10 @@ Tabela 9 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 202
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 10 - Diretrizes (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<div style="text-align: center">
+    <p>Tabela 10 - Diretrizes (Fonte - Artur Jackson, 2023)</p>
+</div>
+
 
 ### Feedback do Usuário
 
@@ -182,7 +213,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/nSjp8qi1fCs).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 11 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<div style="text-align: center">
+    <p>Tabela 11 - Respostas (Fonte - Artur Jackson, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -194,7 +228,10 @@ Tabela 11 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 20
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 12 - Diretrizes (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<div style="text-align: center">
+    <p>Tabela 12 - Diretrizes (Fonte - Artur Jackson, 2023)</p>
+</div>
+
 
 ### Entrevista 3 - Julia
 
@@ -209,7 +246,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/T7bsMQyLKJA).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 13 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<div style="text-align: center">
+    <p>Tabela 13 - Respostas (Fonte - Artur Jackson, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -221,7 +261,10 @@ Tabela 13 - Respostas (Fonte - [Artur Jackson](https://github.com/artur-jack) 20
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 14 - Diretrizes (Fonte - [Artur Jackson](https://github.com/artur-jack) 2023)
+<div style="text-align: center">
+    <p>Tabela 14 - Diretrizes (Fonte - Artur Jackson, 2023)</p>
+</div>
+
 
 ## 3. Trocar Endereço - Juan
 ### Entrevista 1 - João Lucas
@@ -237,8 +280,10 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=IvT08kz
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
+<div style="text-align: center">
+    <p>Tabela 15 - Respostas (Fonte - Juan Pablo, 2023)</p>
+</div>
 
-Tabela 15 - Respostas (Fonte - [Juan Pablo](https://github.com/Juan-Ricarte) 2023)
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -250,7 +295,10 @@ Tabela 15 - Respostas (Fonte - [Juan Pablo](https://github.com/Juan-Ricarte) 202
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 16 - Diretrizes (Fonte - [Juan Pablo](https://github.com/Juan-Ricarte) 2023)
+<div style="text-align: center">
+    <p>Tabela 16 - Diretrizes (Fonte - Juan Pablo, 2023)</p>
+</div>
+
 
 ### Feedback do Usuário
 
@@ -269,7 +317,10 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=LQLsu2O
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 17 - Respostas (Fonte - [Juan Pablo](https://github.com/Juan-Ricarte)  2023)
+<div style="text-align: center">
+    <p>Tabela 17 - Respostas (Fonte - Juan Pablo, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -281,7 +332,10 @@ Tabela 17 - Respostas (Fonte - [Juan Pablo](https://github.com/Juan-Ricarte)  20
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 18 - Diretrizes (Fonte -  [Juan Pablo](https://github.com/Juan-Ricarte) 2023)
+<div style="text-align: center">
+    <p>Tabela 18 - Diretrizes (Fonte - Juan Pablo, 2023)</p>
+</div>
+
 ### Feedback do Usuário
 
 O usuário validou o protótipo de alta fidelidade, não apresentado nenhuma dificuldade
@@ -299,6 +353,9 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=p3Ux00o
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
+<div style="text-align: center">
+    <p>Tabela 19 - Respostas (Fonte - Juan Pablo, 2023)</p>
+</div>
 
 <br> <br>
 
@@ -311,7 +368,10 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=p3Ux00o
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 20 - Diretrizes (Fonte -  [Juan Pablo](https://github.com/Juan-Ricarte)  2023)
+<div style="text-align: center">
+    <p>Tabela 20 - Diretrizes (Fonte - Juan Pablo, 2023)</p>
+</div>
+
 
 ### Feedback do Usuário
 
@@ -332,7 +392,10 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=ZvoL_RA
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 21- Respostas (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<div style="text-align: center">
+    <p>Tabela 21 - Respostas (Fonte - Felipe Hansen, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -344,7 +407,9 @@ Tabela 21- Respostas (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 22 - Diretrizes (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<div style="text-align: center">
+    <p>Tabela 22 - Diretrizes (Fonte - Felipe Hansen, 2023)</p>
+</div>
 
 
 ### Feedback do Usuário
@@ -364,7 +429,10 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=fwi_8iR
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não, só confundiu um pouco as funcionalidades       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 23 - Respostas (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<div style="text-align: center">
+    <p>Tabela 23 - Respostas (Fonte - Felipe Hansen, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -376,7 +444,10 @@ Tabela 23 - Respostas (Fonte - [Felipe Hansen](https://github.com/FHansen98) 202
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Clicou no início quando achou que ja havia inserido os dados antes de mudar de página para alteração de foto   | 
 
-Tabela 24 - Diretrizes (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<div style="text-align: center">
+    <p>Tabela 24 - Diretrizes (Fonte - Felipe Hansen, 2023)</p>
+</div>
+
 
 ### Feedback do Usuário
 
@@ -395,7 +466,10 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=GIAouVS
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não        | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 25 - Respostas (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<div style="text-align: center">
+    <p>Tabela 25 - Respostas (Fonte - Felipe Hansen, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -408,7 +482,10 @@ A utilizadora concluiu a funcionalidade com total eficácia, em menos de 5 minut
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 26 - Diretrizes (Fonte - [Felipe Hansen](https://github.com/FHansen98) 2023)
+<div style="text-align: center">
+    <p>Tabela 26 - Diretrizes (Fonte - Felipe Hansen, 2023)</p>
+</div>
+
 
 ### Feedback do Usuário
 
@@ -427,7 +504,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       |
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
 
-(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+<div style="text-align: center">
+    <p>Tabela 27 - Respostas (Fonte - Fause Carlos, 2023)</p>
+</div>
 
 </br>
 
@@ -440,7 +519,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+<div style="text-align: center">
+    <p>Tabela 28 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
+</div>
+
 
 ### Entrevista 2 - Luiz Felipe
 
@@ -456,7 +538,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       |
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
 
-(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+<div style="text-align: center">
+    <p>Tabela 29 - Respostas (Fonte - Fause Carlos, 2023)</p>
+</div>
 
 </br>
 
@@ -469,7 +553,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+<div style="text-align: center">
+    <p>Tabela 30 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
+</div>
 
 ### Entrevista 3 - Fernanda Souza
 
@@ -484,7 +570,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       |
 
-(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+<div style="text-align: center">
+    <p>Tabela 31 - Respostas (Fonte - Fause Carlos, 2023)</p>
+</div>
 
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
@@ -495,7 +583,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-(Fonte - [Fause Carlos](https://github.com/FauseSkyWalker) 2023)
+<div style="text-align: center">
+    <p>Tabela 32 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
+</div>
 
 ### Feedbacks dos Usuários
 
@@ -518,7 +608,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
 
-Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+<div style="text-align: center">
+    <p>Tabela 33 - Respostas (Fonte - Lucas Lobão, 2023)</p>
+</div>
 
 </br>
 
@@ -531,7 +624,10 @@ Tabela 17 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 
 | 5 | Quais barreiras o usuário encontrou ao atingir seus objetivos? | Nenhuma barreira |
 | 6 | Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário? | Nenhuma vez |
 
-Tabela 18 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+<div style="text-align: center">
+    <p>Tabela 34 - Diretrizes (Fonte - Lucas Lobão, 2023)</p>
+</div>
 
 </br>
 
@@ -549,7 +645,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
 
-Tabela 19 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+<div style="text-align: center">
+    <p>Tabela 35 - Respostas (Fonte - Lucas Lobão, 2023)</p>
+</div>
 
 </br>
 
@@ -562,7 +661,10 @@ Tabela 19 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 
 | 5 | Quais barreiras o usuário encontrou ao atingir seus objetivos? | Nenhuma barreira |
 | 6 | Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário? | Nenhuma vez |
 
-Tabela 20 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+<div style="text-align: center">
+    <p>Tabela 36 - Diretrizes (Fonte - Lucas Lobão, 2023)</p>
+</div>
 
 </br>
 
@@ -578,7 +680,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
 | 4 | Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste? | Não |
 | 5 | Você encontrou alguma inconsistência ou erro durante o uso da interface? | Não |
 
- Tabela 21 - Respostas (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+<div style="text-align: center">
+    <p>Tabela 37 - Respostas (Fonte - Lucas Lobão, 2023)</p>
+</div>
 
 </br>
 
@@ -591,7 +696,11 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
 | 5 | Quais barreiras o usuário encontrou ao atingir seus objetivos? | Nenhuma barreira |
 | 6 | Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário? | Nenhuma vez |
 
-Tabela 22 - Diretrizes (Fonte - [Lucas Lobão](https://github.com/lucaslobao-18) 2023)
+
+<div style="text-align: center">
+    <p>Tabela 38 - Diretrizes (Fonte - Lucas Lobão, 2023)</p>
+</div>
+
 
 </br>
 
@@ -614,7 +723,11 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=Dx_IjAM
 |   4   |  Você encontrou alguma dificuldade ao realizar as tarefas designadas durante o teste?         |     Não       | 
 |   5   |  Você encontrou alguma inconsistência ou erro durante o uso da interface?         |    Não       | 
 
-Tabela 23 - Respostas (Fonte - [Artur Sousa](https://github.com/arthurrsousa), 2023)
+
+<div style="text-align: center">
+    <p>Tabela 39 - Respostas (Fonte - Artur Sousa, 2023)</p>
+</div>
+
 <br> <br>
 
 | ID | Enunciado| Resposta| 
@@ -626,7 +739,10 @@ Tabela 23 - Respostas (Fonte - [Artur Sousa](https://github.com/arthurrsousa), 2
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
-Tabela 24 - Diretrizes (Fonte - [Arthur Sousa](https://github.com/arthurrsousa), 2023)
+<div style="text-align: center">
+    <p>Tabela 40 - Respostas (Fonte - Artur Sousa, 2023)</p>
+</div>
+
 
 ### Feedback do Usuário
 
