@@ -102,6 +102,10 @@ Após analisar a entrega 2 por meio do método de inspeção fica evidente que o
 
 No vídeo que pode ser acessado por este [link](https://youtu.be/jQLASrazYzo) foi realizada a verificação dos artefatos da Entrega 2.
 
+## Correções
+
+Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/rMQlnMOY-CU)
+
 ## Bibliografia
 
 > ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. https://www.abnt.org.br/.
