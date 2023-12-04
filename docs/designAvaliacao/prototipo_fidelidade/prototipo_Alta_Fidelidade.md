@@ -778,3 +778,7 @@ Os protótipos em suma foram acertivos, mas no geral os usuários cogitaram melh
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   28/11/2023   |   Criação do documento | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Arthur Sousa](https://github.com/arthurrsousa)|
 |    1.1   |   28/11/2023   |   Adição dos relatos | [Amanda Abreu](https://github.com/Amandaaaaabreu), [Arthur Sousa](https://github.com/arthurrsousa), [Artur Jackson](https://github.com/artur-jack), [Fause](https://github.com/FauseSkyWalker), [Felipe Aguiar](https://github.com/FHansen98), [Juan Pablo](https://github.com/Juan-Ricarte) e [Lucas Andrade](https://github.com/lucaslobao-18) | Todos|
+
+## Bibliografia
+
+[1] Plataforma BRB Mobilidade: <https://mobilidade.brb.com.br>. 
