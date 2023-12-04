@@ -76,3 +76,7 @@ Neste vídeo informativo, apresentamos detalhadamente as áreas específicas que
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   03/12/2023   |   Criação do documento |[Juan Pablo](https://github.com/Juan-Ricarte)  | []() |
+
+## Bibliografia
+
+[1] Plataforma BRB Mobilidade: <https://mobilidade.brb.com.br>. 
