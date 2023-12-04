@@ -172,6 +172,24 @@ para os usuários.
 </div>
 
 
+
+## Avaliações dos Sítios
+[Visualizar avaliação do sítio GOV](../avaliacoesSites/avaliacao_gov.pdf)
+
+[Visualizar avaliação do sítio Inep](../avaliacoesSites/avaliacao_ines.pdf)
+
+[Visualizar avaliação do sítio Receita Federal](../avaliacoesSites/avaliacao_ReceitaFederal.pdf)
+
+[Visualizar avaliação do sítio SAE](../avaliacoesSites/avaliacao_BRB.pdf)
+
+[Visualizar avaliação do sítio Memorial JK](../avaliacoesSites/avaliacao_memorioJK.pdf)
+
+[Visualizar avaliação do sítio Escola de Música de Brasília](../avaliacoesSites/avaliacao_escolaMusica.pdf)
+
+[Visualizar avaliação do sítio BRB Mobilidade](../avaliacoesSites/avaliacao_BRB.pdf)
+
+
+
 ## Historico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
@@ -180,6 +198,7 @@ para os usuários.
 |    1.1  |   29/09/2023   |   Lista de sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Fause Carlos](https://github.com/FauseSkyWalker) |
 |    1.2  |   04/10/2023   |   Heurísticas dos sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Juan Pablo](https://github.com/Juan-Ricarte) |
 |    1.3  |   14/10/2023   |   Atualizações das Heurísticas dos sites avaliados | [Amanda Abreu](https://github.com/Amandaaaaabreu) | [Felipe Hansen](https://github.com/FHansen98) |
+|    1.4  |   03/12/2023   |   Avaliações dos sítios | [Felipe Hansen](https://github.com/FHansen98) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
 
 
 ## Bibliografia

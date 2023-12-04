@@ -6,7 +6,7 @@ As reuniões do grupo são agendadas de forma consistente às quintas-feiras, à
 O vídeo da reunião está disponivel nesse <a href="https://www.youtube.com/watch?v=TPKZ5yOYuMM" target= "_blank">link</a>.
 
 
-[Baixar ata da reunião em PDF](atas/01_Ata21_09.pdf)
+[Visualizar ata da reunião em PDF](atas/01_Ata21_09.pdf)
 
 
 ## Reunião 28 de setembro
@@ -14,41 +14,45 @@ O vídeo da reunião está disponivel nesse <a href="https://youtu.be/OzyyFayWKa
 
 
 
-[Baixar ata da reunião em PDF](atas/02_Ata28_09.pdf)
+[Visualizar ata da reunião em PDF](atas/02_Ata28_09.pdf)
 
 
 ## Reunião 14 de outubro
 O vídeo da reunião está disponivel nesse <a href="https://youtu.be/kzznQLeZPMg" target= "_blank">link</a>.
 
 
-[Baixar ata da reunião em PDF](atas/03_Ata%2014_10.pdf)
+[Visualizar ata da reunião em PDF](atas/03_Ata%2014_10.pdf)
 
 
 ## Reunião 19 de outubro
 O vídeo da reunião está disponivel nesse
  <a href="https://youtu.be/Jbc-KzgRgPU" target= "_blank">link</a>.
 
-
-[Baixar ata da reunião em PDF](atas/04_Ata%2019_10.pdf)
+[Visualizar ata da reunião em PDF](atas/04_Ata%2019_10.pdf)
 
 ## Reunião 26 de outubro
 O vídeo da reunião está disponivel nesse <a href="https://youtu.be/uxqcwOTXwjQ" target= "_blank">link</a>. 
 
-[Baixar ata da reunião em PDF](atas/05_Ata%2026_10.pdf)
+[Visualizar ata da reunião em PDF](atas/05_Ata%2026_10.pdf)
 
 ## Reunião 02 de novembro
 O vídeo da reunião está disponivel nesse <a href="https://youtu.be/5l0RPgrLURE?si=mvMgdwuthusvdGXg" target= "_blank">link</a>. 
 
-[Baixar ata da reunião em PDF](atas/06_Ata_02_11.pdf)
+[Visualizar ata da reunião em PDF](atas/06_Ata_02_11.pdf)
 
 ## Reunião 06 de novembro
 O vídeo da reunião está disponivel nesse <a href="https://youtu.be/5l0RPgrLURE?si=mvMgdwuthusvdGXg" target= "_blank">link</a>. 
-[Baixar ata da reunião em PDF](atas/07_Ata_06_11.pdf)
+[Visualizar ata da reunião em PDF](atas/07_Ata_06_11.pdf)
 
 ## Reunião 16 de novembro
 O vídeo da reunião está disponivel nesse <a href="https://youtu.be/XW71K6hFGRc" target= "_blank">link</a>. 
 
-[Baixar ata da reunião em PDF](atas/08_Ata_16_11.pdf)
+[Visualizar ata da reunião em PDF](atas/08_Ata_16_11.pdf)
+
+## Reunião 01 de dezembro
+O vídeo da reunião está disponivel nesse <a href="https://youtu.be/jQLASrazYzo" target= "_blank">link</a>. 
+
+[Visualizar ata da reunião em PDF](atas/09_ata%2001_12.pdf)
 
 ## Histórico de versão
 
@@ -60,3 +64,4 @@ O vídeo da reunião está disponivel nesse <a href="https://youtu.be/XW71K6hFGR
 |    1.3   |   29/10/2023   |   Declaração das Atas de Reunião | [Fause Carlos](https://github.com/FauseSkyWalker) | [Artur Jackson](https://github.com/artur-jack) |
 |    1.4   |   29/10/2023   |   Corrige link dos vídeos | [Artur Jackson](https://github.com/artur-jack) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
 |    1.5   |   26/11/2023   |   Declaração das Atas de Reunião | [Artur Jackson](https://github.com/artur-jack) | [Juan Pablo](https://github.com/Juan-Ricarte) |
+|    1.6   |   03/12/2023   |   Declaração das Atas de Reunião | [Felipe Hansen](https://github.com/FHansen98) | [Juan Pablo](https://github.com/Juan-Ricarte) |
