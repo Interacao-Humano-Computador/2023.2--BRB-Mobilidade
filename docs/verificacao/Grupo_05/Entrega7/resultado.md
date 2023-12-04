@@ -2,8 +2,6 @@
 
 Este artefato tem como objetivo relatar como foi realizado e o resultado da verificação dos artefatos da entrega 7 do grupo 5 (BRB Mobilidade).
 
-## Metodologia
-
 ## Objetivo
 
 Temos como objetivo verificar através de uma inspeção utilizando de checklist se os artefatos da entrega 7 foram feitos de maneira correta, consequentemente verificando a qualidade do mesmo.
