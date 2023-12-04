@@ -5,6 +5,10 @@ A fase de verificação representa um ponto crucial no decorrer do desenvolvimen
 
 Os checklists representados nos tabelas de 1 a 4 avaliam os artefatos para identificar os pontos positivos e negativos. Cada pergunta busca verificar aspectos específicos de cada artefatos e o checklist fornece uma visão clara do estado de cada componente avaliado.
 
+### Link para os vídeos de verificação e documento com as verificação individuais:
+
+- Vídeo da verificação em dupla Felipe e Fause [aqui](https://youtu.be/xii3Ud4_iYo).
+
 ### Checklist para o artefato dos Cronogramas
 
 | ID |  Criterios  | Status |                           
@@ -68,7 +72,7 @@ No que diz respeito aos sítios avaliados, o processo de avaliação não foi ap
 
 ## Correções
 
-Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/rMQlnMOY-CU)
+Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/jublJB00Y_s)
 
 ## Histórico de Versões
 
