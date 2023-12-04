@@ -1,10 +1,14 @@
 ## Introdução
 
+<div style="text-align: justify">
 Este artefato tem como objetivo relatar como foi realizado e o resultado da verificação dos artefatos da entrega 5 do grupo 5 (BRB Mobilidade).
+</div>
 
 ## Objetivo
 
-Temos como objetivo verificar através de uma inspeção utilizando de checklist se os artefatos da entrega 5 foram feitos de maneira correta, consequentemente verificando a qualidade do mesmo.
+<div style="text-align: justify">
+  Temos como objetivo verificar através de uma inspeção utilizando de checklist se os artefatos da entrega 5 foram feitos de maneira correta, consequentemente verificando a qualidade do mesmo.
+</div>
 
 Os artefatos a serem verificados são:
 
@@ -179,6 +183,9 @@ Adicionar um tópico de análise dos resultados.
 
 ## Resultados Finais
 
+<div style="text-align: justify">
+  Observando todas as verificações realizadas, encontramos alguns detalhes no trabalho que podem ser ajustados para elevar a qualidade da entrega. Contudo, a maior parte dos erros encontrados estão relacionados a questões estruturais do documento, e não ao seu conteúdo. Nesse sentido, acreditamos que as correções dos itens elencados em cada verificação deixou o resultado bastante satisfatório.
+</div>
 
 ## Correções
 

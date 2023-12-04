@@ -134,6 +134,9 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 
 ## Resultados Finais
 
+<div style="text-align: justify">
+  Após análise de todas as verificações realizadas, identificamos alguns aspectos no trabalho que podem ser aprimorados para elevar sua qualidade de entrega. Vale ressaltar que a maioria dos erros está associada a questões estruturais do documento, não comprometendo seu conteúdo. Nesse contexto, acreditamos que as correções dos itens destacados em cada verificação resultaram em melhorias bastante significativas.
+</div>
 
 ## Correções
 
