@@ -36,6 +36,10 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 |4. Apresenta referências bibliográficas ou bibliografia?| Não|
 |5. Possui histórico de versões?|Sim|
 
+<div style="text-align: center">
+    <p> Tabela 1: Checklist geral do artefato resultados do Storyboard (Fonte: Artur Jackson e Lucas, 2023).</p>
+</div>
+
 </br>
 
 |Item|Resposta|
@@ -44,6 +48,10 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 |2. O documento apresenta os vídeos das avaliações ou os links para elas?| Sim|
 |3. As respostas obtidas foram apresentadas ?| Sim|
 |4. Foi feita uma análise com base nos resultados?| Sim|
+
+<div style="text-align: center">
+    <p> Tabela 2: Checklist Relato dos resultados do Storyboard (Fonte: Artur Jackson e Lucas, 2023).</p>
+</div>
 
 **Observações:**
 
@@ -70,6 +78,10 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 |4. Apresenta referências bibliográficas ou bibliografia?| Não|
 |5. Possui histórico de versões?|Sim|
 
+<div style="text-align: center">
+    <p> Tabela 3: Checklist geral do artefato resultados da Análise de Tarefas (Fonte: Artur Jackson e Lucas, 2023).</p>
+</div>
+
 </br>
 
 |Item|Resposta|
@@ -78,6 +90,10 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 |2. O documento apresenta os vídeos das avaliações ou os links para elas?| Sim|
 |3. As respostas obtidas foram apresentadas ?| Sim|
 |4. Foi feita uma análise com base nos resultados?| Não|
+
+<div style="text-align: center">
+    <p> Tabela 4: Checklist Relato dos resultados da Análise de Tarefas (Fonte: Artur Jackson e Lucas, 2023).</p>
+</div>
 
 **Observações:**
 
@@ -104,6 +120,10 @@ Adicionar um tópico de análise dos resultados.
 |4. Apresenta referências bibliográficas ou bibliografia? |Sim|
 |5. Possui histórico de versões? |Sim|
 
+<div style="text-align: center">
+    <p> Tabela 5: Checklist geral do artefato Planejamento da Avaliação do Protótipo de Papel (Fonte: Artur Jackson e Lucas, 2023).</p>
+</div>
+
 </br>
 
 |Item|Resposta|
@@ -113,6 +133,10 @@ Adicionar um tópico de análise dos resultados.
 |3. São abordados os aspectos práticos para que ocorra a avaliação? |Sim|
 |4. Foi elaborado um cronograma para essa avaliação? |Sim|
 |5. Foi feito um teste piloto? |Sim|
+
+<div style="text-align: center">
+    <p> Tabela 6: Checklist Planejamento da Avaliação do Protótipo de Papel (Fonte: Artur Jackson e Lucas, 2023).</p>
+</div>
 
 **Observações:**
 
@@ -133,6 +157,10 @@ Adicionar um tópico de análise dos resultados.
 |4. Apresenta referências bibliográficas ou bibliografia? |Sim|
 |5. Possui histórico de versões? |Sim|
 
+<div style="text-align: center">
+    <p> Tabela 7: Checklist geral do artefato Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel (Fonte: Artur Jackson e Lucas, 2023).</p>
+</div>
+
 </br>
 
 |Item|Resposta|
@@ -140,10 +168,21 @@ Adicionar um tópico de análise dos resultados.
 |1. A estrutura de como deve ser feito o relato está clara? |Sim|
 |2. Os tópicos descritos são realmente importantes para compor o relato? |Sim|
 
+<div style="text-align: center">
+    <p> Tabela 8: Checklist Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel (Fonte: Artur Jackson e Lucas, 2023).</p>
+</div>
+
 **Observações:**
 
 - Características Gerais:
 - Pontos específicos:
+
+## Resultados Finais
+
+
+## Correções
+
+Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo]()
 
 ## Histórico de Versão
 
