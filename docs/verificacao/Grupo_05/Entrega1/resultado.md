@@ -1,11 +1,6 @@
 ## Introdução 
 A fase de verificação representa um ponto crucial no decorrer do desenvolvimento de um projeto. Durante esse estágio, os elementos produzidos passam por uma análise detalhada para garantir sua conformidade com os requisitos estabelecidos. Dessa forma, o presente texto aborda a organização do processo de avaliação dos artefatos na primeira etapa do projeto..
 
-## Metodologia
-
-A verificação será realizada através de uma inspeção utilizando a abordagem proposta por Fagan, um checklist que contempla os erros mais frequentes identificados, analisados e classificados em projetos. Embora inicialmente concebido para a revisão de códigos, esse método de verificação pode ser aplicado em diversos contextos. Seu objetivo principal é aprimorar a qualidade do software ou produto, destacando-se pela detecção precoce e eficaz de erros e defeitos. 
-
-
 ## Objetivo
 
 Os checklists representados nos tabelas de 1 a 4 avaliam os artefatos para identificar os pontos positivos e negativos. Cada pergunta busca verificar aspectos específicos de cada artefatos e o checklist fornece uma visão clara do estado de cada componente avaliado.

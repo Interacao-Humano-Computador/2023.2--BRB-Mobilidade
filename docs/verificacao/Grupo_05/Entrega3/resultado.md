@@ -2,10 +2,6 @@
 
 A verificação é uma etapa crucial no desenvolvimento do projeto. Nesta fase, os artefatos criados são minuciosamente revisados para assegurar sua conformidade com os requisitos estabelecidos. Portanto, este documento apresenta o resultado da verificação dos artefatos gerados pelo grupo durante a etapa 3 (Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e características da plataforma para o projeto Fase: análise de requisitos)
 
-## Metodologia
-
-A metodologia escolhida para esta verificação é a inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo o autor do mesmo.
-
 ## Objetivo
 
 O objetivo deste documento é apresentar a verificação dos artefatos produzidos na etapa 3 pelo grupo. Para realização da verificação, foram utilizados um checklist além dos feedback do professor. 

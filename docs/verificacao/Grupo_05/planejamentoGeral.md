@@ -11,12 +11,28 @@ Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção 
 </p>
 
 
-## Cronograma de verificação
+## Cronograma de verificação grupo 5
 
 |Data da veriicação|Documento|Avaliador|
 |------------------|---------|---------|
-|03/12/2023|entrega 1 |[Felipe Hansen](https://github.com/FHansen98)|
-|02/12/2023|entrega 2 |[Fause Carlos](https://github.com/FauseSkyWalker)|
+|03/12/2023|entrega 1 |[Felipe Hansen](https://github.com/FHansen98) e [Fause Carlos](https://github.com/FauseSkyWalker)|
+|02/12/2023|entrega 2 |[Felipe Hansen](https://github.com/FHansen98) e [Fause Carlos](https://github.com/FauseSkyWalker)|
+|02/12/2023|entrega 3 |[Amanda](https://github.com/Amandaaaaabreu) e [Arthur Sousa](https://github.com/arthurrsousa)|
+||entrega 4 |[Amanda](https://github.com/Amandaaaaabreu) e [Arthur Sousa](https://github.com/arthurrsousa)|
+|03/12/2023|entrega 5 |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)|
+|03/12/2023|entrega 7 |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)|
+|-|entrega 8|-|
+
+<div style="text-align: center">
+    <p> Tabela 1: Cronograma de verificações (Fonte: Fause Carlos, 2023).</p>
+</div>
+
+## Cronograma de verificação grupo 6
+
+|Data da veriicação|Documento|Avaliador|
+|------------------|---------|---------|
+|-|entrega 1 |-|
+|-|entrega 2 |-|
 |-|entrega 3 |-|
 |-|entrega 4 |-|
 |-|entrega 5 |-|
@@ -43,3 +59,4 @@ Com base nos checklists utilizados pelo professor para avaliar cada entrega e ta
  Versão | Data | Modificação| Autor | Revisores  |
 | ----- | ---- | ---------- | ----- |----------- |
 |  1.0  |13/11/2023| Criação do documento | [Fause Carlos](https://github.com/FauseSkyWalker)| []()|
+|  1.1  |03/12/2023| Adiciona cronograma verificação grupo 5 | [Artur Jackson](https://github.com/artur-jack)| []()|

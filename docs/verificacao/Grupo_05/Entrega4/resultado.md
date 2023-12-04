@@ -2,12 +2,6 @@
 
 Para garantir que as entregas da Etapa 4 que envolvem o **Storyboards**, **Planejamento da avaliação do Storyboard e Análise de tarefas**, **Planejamento do relato dos resultados da avaliação do Storyboard** e o **Planejamento do relato dos resultados da avaliação do Análise de tarefas** foram desenvolvidos de acordo com as necessidades do usuário, foi realizada uma verificação dos artefatos produzidos. Essa verificação foi realizada através de uma checklist e dos feedbacks do professor. O checklist foi desenvolvido com base no conteúdo apresentado em sala de aula e no livro de Barbosa e Silva (2010)
 
-
-## Metodologia
-
-A metodologia escolhida para esta verificação é a inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo o autor do mesmo.
-
-
 ## Objetivo
 
 O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 foram desenvolvidos de acordo com as necessidades do usuário e se cumprem o seu objetivo.

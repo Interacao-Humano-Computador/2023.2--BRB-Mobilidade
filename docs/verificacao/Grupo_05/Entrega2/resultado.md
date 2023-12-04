@@ -4,11 +4,6 @@ A verificação na área de interação humano computador tem como principal obj
 
 E por ser tão importante este documento é o processo de verificação dos artefatos da segunda entrega realizada pelo Grupo 5
 
-
-## Metodologia
-
-A metodologia escolhida para esta verificação é a inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo o autor do mesmo.
-
 ## Conteúdo esperado
 
 O objetivo deste documento é o processo de verificação dos artefatos da segunda entrega realizada pelo Grupo 5, para tal foram utilizadas o checklist presente no plano de ensino da matéria, os feedbacks realizados pelos professores além da avaliação feita pelo Grupo 5 e para uma melhor visualização dos parâmetros de verificação podemos visualizar as tabela abaixo
