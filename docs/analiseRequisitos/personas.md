@@ -25,8 +25,8 @@ Segundo Courage e Baxter (2005), um elenco de personas deve ter entre 3 a 12 per
 | **Gênero**        | Masculino |
 | **Descrição**        | Eduardo tem 21 anos de idade, mora em Brasília e é estudante do ensino superior. Costuma visitar áreas como a Asa Norte e Gama. |
 | **Status**          | Persona Secundária.     |
-| **Tarefas**         | Faz o cadastro das informações no site e retira o cartão. Usufruí de benefícios tarifários, como passes mensais, devido ao status de estudante.|
-| **Relacionamentos** | Eduardo compartilha ocasionalmente com um pequeno grupo de amigos notícias sobre transporte público.  |
+| **objetivos**         | Faz o cadastro das informações no site e retira o cartão. Usufruí de benefícios tarifários, como passes mensais, devido ao status de estudante.|
+| **habilidades** | Eduardo compartilha ocasionalmente com um pequeno grupo de amigos notícias sobre transporte público.  |
 
 
 ### Luciana Costa
@@ -38,8 +38,8 @@ Segundo Courage e Baxter (2005), um elenco de personas deve ter entre 3 a 12 per
 | **Gênero**        | Feminino |
 | **Descrição**        | Luciana tem 30 anos de idade, mora em Taguatinga e é servidora pública. Costuma utilizar o transporte público para se locomover para várias áreas da cidade. |
 | **Status**          | Persona Primária.     |
-| **Tarefas**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
-| **Relacionamentos** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
+| **objetivos**         | Realiza tarefas como verificar saldo, solicitar uma segunda via do cartão, e verificar a situação do cartão. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. |
+| **habilidades** | Não costuma compartilhar informações sobre o transporte público com amigos e em redes socias. |
 
 ### João Jorge
 |                      |                      |
@@ -50,8 +50,8 @@ Segundo Courage e Baxter (2005), um elenco de personas deve ter entre 3 a 12 per
 | **Gênero**        | Masculino |
 | **Descrição**        | João Jorge tem 22 anos de idade, mora em Ceilândia e estuda no Gama. Costuma utilizar o transporte público diariamente para poder ir à universidade.
 | **Status**          | Persona Primária.     |
-| **Tarefas**         | Realiza tarefas como verificar acessos do cartão, solicitar uma segunda via do cartão , troca de endereço, alteração de foto, extensão de acesso e troca de instituição. Utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. Prefere receber notificações em tempo real sobre atualizações nos serviços de transporte público.  |
-| **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
+| **objetivos**         | Realiza tarefas como verificar acessos do cartão, solicitar uma segunda via do cartão , troca de endereço, alteração de foto, extensão de acesso e troca de instituição. Utiliza benefícios tarifários, como descontos para estudantes ou passes mensais. Prefere receber notificações em tempo real sobre atualizações nos serviços de transporte público.  |
+| **habilidades** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
 
 ### Joel Madaleno
 |                      |                      |
@@ -62,8 +62,8 @@ Segundo Courage e Baxter (2005), um elenco de personas deve ter entre 3 a 12 per
 | **Gênero**        | Masculino|
 | **Descrição**        | Joel tem 24 anos de idade, mora em no Gama há 17 anos e é estagiário na Abin. Costuma utilizar o transporte público para se locomover ocasionalmente quando precisa ir à empresa em dias de trabalho presencial na Asa Sul.|
 | **Status**          | Persona Terciária.     |
-| **Tarefas**         | Realiza tarefas como verificar a situação do cartão de ônibus. Não tem preferência por receber notificações em tempo real sobre atualizações nos serviços de transporte público. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais.|
-| **Relacionamentos** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Não compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
+| **objetivos**         | Realiza tarefas como verificar a situação do cartão de ônibus. Não tem preferência por receber notificações em tempo real sobre atualizações nos serviços de transporte público. Não utiliza benefícios tarifários, como descontos para estudantes ou passes mensais.|
+| **habilidades** | Não costuma participar de pesquisas de satisfação ou fornecer feedback sobre sua experiência com o transporte público. Não compartilha informações ou opiniões sobre transporte público nas redes sociais ou fóruns online.|
 
 
 
@@ -76,10 +76,8 @@ Segundo Courage e Baxter (2005), um elenco de personas deve ter entre 3 a 12 per
 | **Gênero**        | Masculino |
 | **Descrição**        | João tem 52 anos de idade, é um comerciante que possuí sua própia loja no Sudoeste. Tem uma rotina muito ocupada e usa seu própio veículo para se deslocar pela cidade. Não tem muito interesse em questões sobre o transporte público. |
 | **Status**          | Anti-Persona.     |
-| **Tarefas**         | Não tem a intenção de usar o site "BRB Mobilidade", pois suas preferências e hábitos de mobilidade não estão alinhados com os serviços oferecidos. |
-| **Relacionamentos** | Interage com outros comerciantes e com integrantes da comunidade local. Não discute sobre transporte público ou se interessa durante suas conversas. |
-
-
+| **objetivos**         | Não tem a intenção de usar o site "BRB Mobilidade", pois suas preferências e hábitos de mobilidade não estão alinhados com os serviços oferecidos. |
+| **habilidades** | Interage com outros comerciantes e com integrantes da comunidade local. Não discute sobre transporte público ou se interessa durante suas conversa
 
 ## Histórico de versão
 

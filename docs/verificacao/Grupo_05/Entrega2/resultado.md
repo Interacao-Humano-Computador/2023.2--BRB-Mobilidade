@@ -93,7 +93,7 @@ O objetivo deste documento é o processo de verificação dos artefatos da segun
 
 - 4: Indicar quantas pessoas foram entrevistadas, para dessa forma saber se a amostra foi suficiente 
   
-- 8: Fazer uma análise das persona e definir novos ou melhorar os objetivos e habilidades atuais
+- 8: Fazer uma análise das persona e definir novos ou melhorar os objetivos e habilidades atuais e subistituir os termos para ficarem de acordo com com Courage e Baxter (2005)
 
 ## Resultados finais
 
@@ -103,7 +103,7 @@ No vídeo que pode ser acessado por este [link](https://youtu.be/xii3Ud4_iYo) fo
 
 ## Correções
 
-Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/rMQlldxMOCU)
+Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/mdtOm7T8b-0)
 
 ## Bibliografia
 
