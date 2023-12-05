@@ -15,7 +15,7 @@ O artefato a ser verificado é:
 
 ### Link para os vídeos de verificação e documento com as verificação individuais:
 
-- Vídeo da verificação individual Juan Pablo [aqui]().
+- Vídeo da verificação individual Juan Pablo [aqui](https://youtu.be/r0kBW_aYkxk).
 
 - Documento com as verificações individuais [aqui](https://docs.google.com/document/d/1_xokhSThVGf8vk0qnfp24XYQzLzkewIlTWsSTacwGN0/edit?usp=sharing).
 
@@ -66,7 +66,7 @@ Num resumo abrangente, os artefatos apresentam uma estrutura robusta, incorporan
 
 ## Correções
 
-Após uma análise aprofundada dos problemas identificados nos artefatos, procedemos com as correções necessárias para aprimorar a qualidade e a precisão do trabalho. As alterações efetuadas visam endereçar de maneira abrangente as questões apontadas durante a revisão. Para uma compreensão mais visual e elucidativa das modificações realizadas, convido você a acessar o [vídeo]() que disponibilizamos.
+Após uma análise aprofundada dos problemas identificados nos artefatos, procedemos com as correções necessárias para aprimorar a qualidade e a precisão do trabalho. As alterações efetuadas visam endereçar de maneira abrangente as questões apontadas durante a revisão. Para uma compreensão mais visual e elucidativa das modificações realizadas, convido você a acessar o [vídeo](https://youtu.be/orBJh9imXaY) que disponibilizamos.
 
 Neste vídeo informativo, apresentamos detalhadamente as áreas específicas que foram revistas e as melhorias implementadas. É uma oportunidade para compreender não apenas as correções, mas também o contexto e a lógica por trás dessas ações. Acreditamos que essa abordagem transparente contribui para a compreensão holística do processo de revisão e correção dos artefatos, promovendo uma maior clareza e transparência no desenvolvimento do projeto.
 
