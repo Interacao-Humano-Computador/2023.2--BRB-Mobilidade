@@ -74,6 +74,8 @@ No que diz respeito aos sítios avaliados, o processo de avaliação não foi ap
 
 Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/jublJB00Y_s)
 
+Os problemas encontrados no cheklist dos artefatos foram discutidos com os integrantes que realizaram o artefato, como pode ser visto no [vídeo](https://youtu.be/yiG8PcaKzX4)
+
 ## Histórico de Versões
 
  Versão | Data       | Descrição                             | Autor                         | Revisores                         |
