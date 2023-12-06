@@ -1,10 +1,13 @@
 ## Introdução
 
-Este documento detalha o processo de verificação dos artefatos da entrega 8 do grupo 5 (BRB Mobilidade), destacando as etapas, metodologias e resultados. A verificação inclui revisões de código, testes e análise de documentação para assegurar a conformidade com requisitos. O relatório abrange descobertas positivas e áreas que podem necessitar ajustes, proporcionando uma visão abrangente do estado dos artefatos verificados.
+<div style="text-align: justify">
+    <p>Este documento detalha o processo de verificação dos artefatos da entrega 8 do grupo 5 (BRB Mobilidade), destacando as etapas, metodologias e resultados. A verificação inclui revisões de código, testes e análise de documentação para assegurar a conformidade com requisitos. O relatório abrange descobertas positivas e áreas que podem necessitar ajustes, proporcionando uma visão abrangente do estado dos artefatos verificados. </p>
+</div>
 
 ## Objetivo
-
-O objetivo é conduzir uma inspeção detalhada com um checklist abrangente para avaliar a execução correta dos artefatos da entrega 8. Buscamos identificar desvios dos padrões, garantindo que cada elemento siga as diretrizes e assegurando a qualidade. A metodologia visa não só detectar erros, mas validar a conformidade com requisitos específicos. Cada item no checklist é considerado cuidadosamente, abrangendo desde a consistência do código até a precisão da documentação. Assim, a verificação destaca a importância da conformidade e da qualidade dos artefatos, contribuindo para atender aos padrões e expectativas estabelecidos.
+<div style="text-align: justify">
+    <p>O objetivo é conduzir uma inspeção detalhada com um checklist abrangente para avaliar a execução correta dos artefatos da entrega 8. Buscamos identificar desvios dos padrões, garantindo que cada elemento siga as diretrizes e assegurando a qualidade. A metodologia visa não só detectar erros, mas validar a conformidade com requisitos específicos. Cada item no checklist é considerado cuidadosamente, abrangendo desde a consistência do código até a precisão da documentação. Assim, a verificação destaca a importância da conformidade e da qualidade dos artefatos, contribuindo para atender aos padrões e expectativas estabelecidos. </p>
+</div>
 
 O artefato a ser verificado é:
 
@@ -54,21 +57,43 @@ O artefato a ser verificado é:
 **Observações:**
 
 - Características Gerais:
-    - Erro ortográfico em “dispozição”, que deveria ser disposição na tabela de escopo de entrevista, ID 3 e que são utilizadas por todos os integrantes nas entrevistas, assim, continuando o erro.
-    - Todas as fontes não estão alinhadas com as tabelas, tão pouco estão padronizadas.
-    - Não há referências bibliográficas que se referem ao uso das interfaces do site brb mobilidade para realizar a tarefas de prototipação
-    - As entrevistadas Carolina e Julia por Artur Jackson não possuem feedback.
+<div style="text-align: justify">
+    <p>- Erro ortográfico em “dispozição”, que deveria ser disposição na tabela de escopo de entrevista, ID 3 e que são utilizadas por todos os integrantes nas entrevistas, assim, continuando o erro. </p>
+</div>
+<div style="text-align: justify">
+    <p>- Todas as fontes não estão alinhadas com as tabelas, tão pouco estão padronizadas.
+     </p>
+</div>
+<div style="text-align: justify">
+    <p>- Não há referências bibliográficas que se referem ao uso das interfaces do site brb mobilidade para realizar a tarefas de prototipação.
+     </p>
+</div>
+<div style="text-align: justify">
+    <p>- As entrevistadas Carolina e Julia por Artur Jackson não possuem feedback.
+     </p>
+</div>
+
+
+
 
 ## Resultados Finais
-Os elementos vinculados à Entrega 8 foram submetidos a uma minuciosa verificação, adotando a metodologia de inspeção em conjunto com uma checklist abrangente. O relatório de resultados referente ao protótipo de alta fidelidade recebeu avaliação global positiva, destacando-se pela clareza na definição de objetivos e métodos. Contudo, identificou-se a necessidade de implementar melhorias específicas, especialmente no que tange à padronização.
+<div style="text-align: justify">
+<p>Os elementos vinculados à Entrega 8 foram submetidos a uma minuciosa verificação, adotando a metodologia de inspeção em conjunto com uma checklist abrangente. O relatório de resultados referente ao protótipo de alta fidelidade recebeu avaliação global positiva, destacando-se pela clareza na definição de objetivos e métodos. Contudo, identificou-se a necessidade de implementar melhorias específicas, especialmente no que tange à padronização.</p>
 
-Num resumo abrangente, os artefatos apresentam uma estrutura robusta, incorporando de maneira eficaz as boas práticas de design centrado no usuário. Estão, assim, prontos para dar continuidade à próxima fase de desenvolvimento, sendo que a atenção a ajustes pontuais é reconhecida como uma oportunidade para elevar ainda mais a qualidade do trabalho de maneira geral. Essa abordagem refinada visa assegurar não apenas a conformidade, mas também a otimização constante no desenvolvimento do projeto.
+<p> Num resumo abrangente, os artefatos apresentam uma estrutura robusta, incorporando de maneira eficaz as boas práticas de design centrado no usuário. Estão, assim, prontos para dar continuidade à próxima fase de desenvolvimento, sendo que a atenção a ajustes pontuais é reconhecida como uma oportunidade para elevar ainda mais a qualidade do trabalho de maneira geral. Essa abordagem refinada visa assegurar não apenas a conformidade, mas também a otimização constante no desenvolvimento do projeto.
+</p>
+</div>
+
 
 ## Correções
+<div style="text-align: justify">
+<p>Após uma análise aprofundada dos problemas identificados nos artefatos, procedemos com as correções necessárias para aprimorar a qualidade e a precisão do trabalho. As alterações efetuadas visam endereçar de maneira abrangente as questões apontadas durante a revisão. Para uma compreensão mais visual e elucidativa das modificações realizadas, convido você a acessar o vídeo que disponibilizamos abaixo: </p></div> 
 
-Após uma análise aprofundada dos problemas identificados nos artefatos, procedemos com as correções necessárias para aprimorar a qualidade e a precisão do trabalho. As alterações efetuadas visam endereçar de maneira abrangente as questões apontadas durante a revisão. Para uma compreensão mais visual e elucidativa das modificações realizadas, convido você a acessar o [vídeo](https://youtu.be/orBJh9imXaY) que disponibilizamos.
+[vídeo](https://youtu.be/orBJh9imXaY)
 
-Neste vídeo informativo, apresentamos detalhadamente as áreas específicas que foram revistas e as melhorias implementadas. É uma oportunidade para compreender não apenas as correções, mas também o contexto e a lógica por trás dessas ações. Acreditamos que essa abordagem transparente contribui para a compreensão holística do processo de revisão e correção dos artefatos, promovendo uma maior clareza e transparência no desenvolvimento do projeto.
+<div style="text-align: justify">
+<p>Neste vídeo informativo, apresentamos detalhadamente as áreas específicas que foram revistas e as melhorias implementadas. É uma oportunidade para compreender não apenas as correções, mas também o contexto e a lógica por trás dessas ações. Acreditamos que essa abordagem transparente contribui para a compreensão holística do processo de revisão e correção dos artefatos, promovendo uma maior clareza e transparência no desenvolvimento do projeto.</p>
+</div>
 
 
 ## Histórico de Versão
