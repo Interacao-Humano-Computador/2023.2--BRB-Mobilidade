@@ -643,13 +643,13 @@ As Tabelas 10 e 11 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/resultadoStoryBoard/">Relato resultado Storyboard</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamentoResult/">Planejar relato do resultado protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/resultadoStoryBoard/">Relato resultado Storyboard</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamentoResult/">Planejar relato do resultado protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamento_ava/">Planejar avaliação do protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/RelatoResultAnaliseTar/">Relatar resultado Análise de tarefas</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamento_ava/">Planejar avaliação do protótipo de papel</a>; <br></li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
@@ -663,13 +663,13 @@ As Tabelas 10 e 11 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade revisada(s).</td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamento_ava/">Planejar avaliação do protótipo de papel</a>; <br></li></ul></td>
+        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamentoResult/">Planejar relato do resultado protótipo de papel</a>; <br></li></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/RelatoResultAnaliseTar/">Relatar resultado Análise de tarefas</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/resultadoStoryBoard/">Relato resultado Storyboard</a>; <br></li></ul></td>
     </tr>
 </table>
 
@@ -698,7 +698,7 @@ As Tabelas 10 e 11 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>03/11/2023<br>04/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -708,17 +708,17 @@ As Tabelas 10 e 11 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/resultadoStoryBoard/">Relato resultado Storyboard</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamentoResult/">Planejar relato do resultado protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/resultadoStoryBoard/">Relato resultado Storyboard</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamentoResult/">Planejar relato do resultado protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamento_ava/">Planejar avaliação do protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/RelatoResultAnaliseTar/">Relatar resultado Análise de tarefas</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamento_ava/">Planejar avaliação do protótipo de papel</a>; <br></li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>04/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -728,13 +728,13 @@ As Tabelas 10 e 11 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade revisada(s).</td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamento_ava/">Planejar avaliação do protótipo de papel</a>; <br></li></ul></td>
+        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/planejamentoResult/">Planejar relato do resultado protótipo de papel</a>; <br></li></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/RelatoResultAnaliseTar/">Relatar resultado Análise de tarefas</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/resultadoStoryBoard/">Relato resultado Storyboard</a>; <br></li></ul></td>
     </tr>
 </table>
 
