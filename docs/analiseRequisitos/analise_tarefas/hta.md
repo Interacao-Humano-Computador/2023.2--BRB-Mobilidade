@@ -227,6 +227,11 @@ A atividade de alterar foto tem como objetivo permitir que o usuário realize a 
 
 | Objetivos/Operações | Relações| Problemas e Recomendações|
 | ------ | ------ | ------ |
+| 0. Alterar Foto | 1>2 | **input**: clique em "Nova solicitação **plano**: realizar nova solicitação |
+| 1. Nova Solicitação | 1+2 | **plano**: realizar uma solicitação de nova foto  |
+| 1.1 Digitar Observação |  | **input**: teclado |
+| 1.2 Clicar em "Anexar Arquivo" |  | **input**: foto |
+| 2. Clicar em "Salvar" |  | **input**: clique mouse |
 
 
 <div style="text-align: center">
