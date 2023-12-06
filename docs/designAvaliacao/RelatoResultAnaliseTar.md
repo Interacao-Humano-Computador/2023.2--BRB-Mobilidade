@@ -116,7 +116,7 @@ Neste processo abrangente de avaliação, dedicamos uma análise minuciosa à Ta
 
 Para ver o termo de consentimento clique [aqui](-).
 
-Para assistir a apresentação clique [aqui](-).
+Para assistir a apresentação clique [aqui](https://youtu.be/ysY8ahujwKA?si=oWYuIwqNjTTZGxJj).
 
 ## Entrevista 3 - Extensão de Acesso
 
@@ -157,7 +157,7 @@ A avaliação teve como objetivo validar se a tarefa de Extensão de Acesso est�
 
 Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/16ag23Z9nV31g1UqMifcmaYTzZvhopcEL/view?usp=sharing).
 
-Para assistir a apresentação clique [aqui]()
+Para assistir a apresentação clique [aqui](https://youtu.be/Lm0bLf9cOW4)
 
 ## Entrevista 4 - Liberar Cartão
 
