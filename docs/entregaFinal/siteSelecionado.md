@@ -17,7 +17,7 @@ Entre os diferentes sites que foram analisados individualmente, optamos por foca
 
 - Ampla acessibilidade ao público-alvo: O site abrange uma variedade de funcionalidades como extensão de acesso, solicitação de cartão, troca de endereço e foto entre outros, atraindo pessoas de diversas faixas etárias. Isso facilitaria o contato com diferentes segmentos da perfil
   
-- Complexidade intermediária do site: Este site não se limita apenas à informação, mas também oferece funcionalidades mai complexas. 
+- Complexidade intermediária do site: Este site não se limita apenas à informação, mas também oferece funcionalidades mais complexas. 
 
 - Identificação de problemas: Foi analisados certos problemas como: Aparência visual e abordagem minimalista do design, Autonomia e liberdade do usuário, Adaptabilidade e eficácia na utilização e Acessibilidade e Assistência e informações de suporte
 
