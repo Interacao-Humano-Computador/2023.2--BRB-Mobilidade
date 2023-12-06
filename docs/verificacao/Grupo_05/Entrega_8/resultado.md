@@ -87,12 +87,16 @@ O artefato a ser verificado é:
 
 ## Correções
 <div style="text-align: justify">
-<p>Após uma análise aprofundada dos problemas identificados nos artefatos, procedemos com as correções necessárias para aprimorar a qualidade e a precisão do trabalho. As alterações efetuadas visam endereçar de maneira abrangente as questões apontadas durante a revisão. Para uma compreensão mais visual e elucidativa das modificações realizadas, convido você a acessar o vídeo que disponibilizamos abaixo: </p></div> 
+<p>Após uma análise aprofundada dos problemas identificados nos artefatos, procedemos com as correções necessárias para aprimorar a qualidade e a precisão do trabalho. As alterações efetuadas visam endereçar de maneira abrangente as questões apontadas durante a revisão. Para uma compreensão mais visual e elucidativa das modificações realizadas, convido você a acessar os vídeos que disponibilizamos abaixo: </p></div> 
 
-[vídeo](https://youtu.be/orBJh9imXaY)
+- [correção-1](https://youtu.be/orBJh9imXaY)
+
+- [revisão em par](https://youtu.be/3XPI6G6ErNM)
+
+- [correção-2](https://youtu.be/2gaIUrKf4Ns)
 
 <div style="text-align: justify">
-<p>Neste vídeo informativo, apresentamos detalhadamente as áreas específicas que foram revistas e as melhorias implementadas. É uma oportunidade para compreender não apenas as correções, mas também o contexto e a lógica por trás dessas ações. Acreditamos que essa abordagem transparente contribui para a compreensão holística do processo de revisão e correção dos artefatos, promovendo uma maior clareza e transparência no desenvolvimento do projeto.</p>
+<p>Nestes vídeos informativos, apresentamos detalhadamente as áreas específicas que foram revistas e as melhorias implementadas. É uma oportunidade para compreender não apenas as correções, mas também o contexto e a lógica por trás dessas ações. Acreditamos que essa abordagem transparente contribui para a compreensão holística do processo de revisão e correção dos artefatos, promovendo uma maior clareza e transparência no desenvolvimento do projeto.</p>
 </div>
 
 
