@@ -63,7 +63,7 @@ O método escolhido foi o de entrevista interativa, permitindo que o usuário pu
 
 **Responsáveis pela avaliação:**
 
-Os responsáveis por fazer a avaliação são os integrantes desse projeto (Lucas Andrade, Amanda Abreu, Arthur Jackson, Arthur Sousa, Juan Pablo, Fause e Felipe Hansen)
+Os responsáveis por fazer a avaliação são os integrantes desse projeto (Lucas Andrade, Amanda Abreu, Artur Jackson, Arthur Sousa, Juan Pablo, Fause e Felipe Hansen)
 Material a ser utilizado:
 
 1. O protótipo
