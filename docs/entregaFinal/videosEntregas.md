@@ -11,6 +11,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=rn-6kxlx5rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://www.youtube.com/watch?v=rn-6kxlx5rc">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
@@ -30,6 +35,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/z1MTTTUfaYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://youtu.be/z1MTTTUfaYU">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
@@ -50,6 +60,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/Dk47CFnf1pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://youtu.be/Dk47CFnf1pM">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
@@ -70,6 +85,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/PtNKCpDUTOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://youtu.be/PtNKCpDUTOU">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
@@ -90,6 +110,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/LkH3uo9EATE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://youtu.be/LkH3uo9EATE">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
@@ -110,6 +135,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/ZlqJqFgWjWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://youtu.be/ZlqJqFgWjWE">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
@@ -129,6 +159,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/k0sB_bqg3Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://youtu.be/k0sB_bqg3Rw">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
@@ -148,6 +183,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/kOkTDN6PXhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://youtu.be/kOkTDN6PXhA">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
@@ -167,6 +207,11 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 </summary>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=wnLg9bufeBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center">
+<a href="https://www.youtube.com/watch?v=wnLg9bufeBQ">Link do vídeo</a>
+</p>
+
 <h3>Participantes:</h3>
 
 <p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
