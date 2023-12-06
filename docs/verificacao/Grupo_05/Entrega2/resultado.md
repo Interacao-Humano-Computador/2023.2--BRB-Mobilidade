@@ -105,6 +105,8 @@ No vídeo que pode ser acessado por este [link](https://youtu.be/xii3Ud4_iYo) fo
 
 Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/mdtOm7T8b-0)
 
+e o video de correção com o autor do artefato pode ser acessado neste [vídeo](https://youtu.be/I5lKQWVs-BM)
+
 ## Bibliografia
 
 > ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. https://www.abnt.org.br/.
