@@ -1,11 +1,14 @@
 ## Introdução 
 
-Para garantir que as entregas da Etapa 4 que envolvem o **Storyboards**, **Planejamento da avaliação do Storyboard e Análise de tarefas**, **Planejamento do relato dos resultados da avaliação do Storyboard** e o **Planejamento do relato dos resultados da avaliação do Análise de tarefas** foram desenvolvidos de acordo com as necessidades do usuário, foi realizada uma verificação dos artefatos produzidos. Essa verificação foi realizada através de uma checklist e dos feedbacks do professor. O checklist foi desenvolvido com base no conteúdo apresentado em sala de aula e no livro de Barbosa e Silva (2010)
+<p style="text-align: justify">
+Para garantir que as entregas da Etapa 4 que envolvem o Storyboards, Planejamento da avaliação do Storyboard e Análise de tarefas, Planejamento do relato dos resultados da avaliação do Storyboard e o Planejamento do relato dos resultados da avaliação do Análise de tarefas foram desenvolvidos de acordo com as necessidades do usuário, foi realizada uma verificação dos artefatos produzidos. Essa verificação foi realizada através de uma checklist e dos feedbacks do professor. O checklist foi desenvolvido com base no conteúdo apresentado em sala de aula e no livro de Barbosa e Silva (2010)
+</p>
 
 ## Objetivo
 
+<p style="text-align: justify">
 O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 foram desenvolvidos de acordo com as necessidades do usuário e se cumprem o seu objetivo.
-
+</p>
 
 ### Checklist para Planejamento da Avaliação da Análise de Tarefas
 
@@ -27,6 +30,9 @@ O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 fo
 | 16 |O documento apresenta tarefas de como deve ser realizada a avaliação? | Sim |
 | 17 |Possui uma gravação do teste piloto? | Não |
 
+<div style= "text-align: center">
+    <p>Tabela 1: Checklist do Planejamento da Avaliação da Análise de Tarefas (Fonte: Arthur, 2023)</p> 
+</div>
 
 ### Checklist para Planejamento do Relato dos Resultados da Análise de Tarefas
 
@@ -41,6 +47,9 @@ O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 fo
 | 7 |O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo? | Sim |
 | 8 |O planejamento considera no resultado um planejamento para o reprojeto do sistema? | Não |
 
+<div style= "text-align: center">
+    <p>Tabela 2: Checklist do Planejamento do Relato dos Resultados da Análise de Tarefas (Fonte: Arthur, 2023)</p> 
+</div>
 
 ### Checklist para o Planejamento da Avaliação do Storyboard
 
@@ -63,9 +72,12 @@ O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 fo
 | 14 |O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? | Sim|
 | 15 |Os storyboards estão relacionados com o artefato da Análise de Tarefas? | Sim|
 
+<div style= "text-align: center">
+    <p>Tabela 3: Checklist do Checklist para o Planejamento da Avaliação do Storyboard (Fonte: Arthur, 2023)</p> 
+</div>
 
 
-### Checklist para o Planejamento do Relato dos Resultados do Storyboard.
+### Checklist para o Planejamento do Relato dos Resultados do Storyboard
 
 | Nº | Criterios | Status |
 |--- |--- |--- |
@@ -78,6 +90,10 @@ O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 fo
 | 7 |O planejamento define tópico para listar os principais resultados? | Sim |
 | 8 |O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo? | Sim |
 | 9 |O planejamento considera no resultado um planejamento para o reprojeto do sistema? | Sim |
+
+<div style= "text-align: center">
+    <p>Tabela 4: Checklist do Planejamento do Relato dos Resultados do Storyboard (Fonte: Arthur, 2023)</p> 
+</div>
 
 
 ### Checklist para os Storyboards
@@ -92,17 +108,28 @@ O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 fo
 | 6 |Ao finalizar a atividade, os storyboards demonstram a satisfação do usuário? | Sim |
 | 7 |Os storyboards foram feitos com base em um dos cenários criados para o projeto? | Sim |
 
+<div style= "text-align: center">
+    <p>Tabela 5: Checklist dos Storyboards (Fonte: Arthur, 2023)</p> 
+</div>
+
 
 ## Resultados Finais
 
+<p style="text-align: justify">
 Os artefatos da Etapa 4 passaram por uma rigorosa verificação, utilizando a metodologia de inspeção e uma checklist detalhada. Os planos de avaliação e relato de resultados para Storyboards e Análise de Tarefas foram considerados globalmente conformes, destacando-se pela clareza na definição de objetivos e métodos. Contudo, alguns pontos, como a abordagem de problemas nos resultados, demandam aprimoramentos. A avaliação dos Storyboards revelou consistência na representação de atividades e satisfação do usuário, alinhando-se aos cenários do projeto. Em resumo, os artefatos estão bem estruturados, refletindo boas práticas de design centrado no usuário e estão prontos para a próxima fase do desenvolvimento.
-
-No vídeo que pode ser acessado por este [link](https://youtu.be/jQLASrazYzo) foi realizada a verificação dos artefatos da Entrega 4.
-
+</p>
+<p style="text-align: justify">
+No vídeo que pode ser acessado por este <a href="https://youtu.be/jQLASrazYzo"> link </a> foi realizada a verificação dos artefatos da Entrega 4.
+</p>
 
 ## Correções
 
-Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/cs4RJEoXgnc)
+<p style="text-align: justify">
+Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste <a href="https://youtu.be/cs4RJEoXgnc"> link </a>.
+</p>
+<p style="text-align: justify">
+Com o autor do artefato Relato dos Resultados da Avaliação da Análise de Tarefas, foi identificado alguns pontos que seriam melhorados. O vídeo feito com o Juan pode ser acessado neste <a href="https://youtu.be/AQDRlEW2-eA"> link </a>. 
+</p>
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
@@ -113,3 +140,4 @@ Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas cor
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
 |    1.0   |   02/12/2023   |   Criação do documento |  [Arthur Sousa](https://github.com/arthurrsousa) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
+|    1.1   |   05/12/2023   |   Correção do documento |  [Arthur Sousa](https://github.com/arthurrsousa) | [Amanda Abreu](https://github.com/Amandaaaaabreu) |
