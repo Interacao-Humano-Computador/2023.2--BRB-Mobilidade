@@ -59,16 +59,18 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 
 **Observações:**
 
-- Características Gerais:
-  - 3.1 Título (Método de Avaliação)
-  - 3.2 Concordância na frase abaixo de (Escopo de Entrevista)
-  - 3.3 Acento em “sequencia”  1° tabela, item n° 4
-  - 3.4 item n3, "a que este faz referência”
-  - 3.5 Frase abaixo de (Cronograma) “de comos”
-  - 3.6 item n°5 - “Experiencia” - colocar o acento
+Características Gerais:
 
-- Pontos específicos:
-  - 2.1 Adicionar o link do vídeo
+- 3.1 Título (Método de Avaliação)
+- 3.2 Concordância na frase abaixo de (Escopo de Entrevista)
+- 3.3 Acento em “sequencia”  1° tabela, item n° 4
+- 3.4 item n3, "a que este faz referência”
+- 3.5 Frase abaixo de (Cronograma) “de comos”
+- 3.6 item n°5 - “Experiencia” - colocar o acento
+
+Pontos específicos:
+
+- 2.1 Adicionar o link do vídeo
 
 ### Relato dos resultados da Análise de Tarefas
 
@@ -101,18 +103,20 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 
 **Observações:**
 
-- Características Gerais:
-  - Colocar uma metodologia e objetivo para todas as entrevistas.
-  - Colocar um cronograma único para todas as entrevistas.
-  - 3.1 2° parágrafo, trocar desse por “este”
-  - 3.2 (Método de avaliação) - último período - trocar “desempenharão por - desempenham”
-  - 3.3 Termo de “Consentimento” está “Consetimento”
-  - 3.4 (Entrevista 2) - contém os mesmo erros citados anteriormente
-  - 3.5 (Entrevista 3) - “eficar” trocar por eficaz
+Características Gerais:
 
-- Pontos específicos:
-  - 2.1 Entrevistas sem link: entrevista 2, entrevista 3, entrevista 5
-Adicionar um tópico de análise dos resultados.
+- Colocar uma metodologia e objetivo para todas as entrevistas.
+- Colocar um cronograma único para todas as entrevistas.
+- 3.1 2° parágrafo, trocar desse por “este”
+- 3.2 (Método de avaliação) - último período - trocar “desempenharão por - desempenham”
+- 3.3 Termo de “Consentimento” está “Consetimento”
+- 3.4 (Entrevista 2) - contém os mesmo erros citados anteriormente
+- 3.5 (Entrevista 3) - “eficar” trocar por eficaz
+
+Pontos específicos:
+
+- 2.1 Entrevistas sem link: entrevista 2, entrevista 3, entrevista 5
+- Adicionar um tópico de análise dos resultados.
 
 ### Planejamento da Avaliação do Protótipo de Papel
 
@@ -144,12 +148,13 @@ Adicionar um tópico de análise dos resultados.
 
 **Observações:**
 
-- Características Gerais:
-  - Alguns tópicos do meio para final não estão justificados.
-  - Padronizar título e fonte das tabelas.
-  - Erro no acrônimo do DECIDE, avaliação dos dados, questões éticas, Corrigir nome Artur Jackson
+Características Gerais:
 
-- Pontos específicos:
+- Alguns tópicos do meio para final não estão justificados.
+- Padronizar título e fonte das tabelas.
+- Erro no acrônimo do DECIDE, avaliação dos dados, questões éticas, Corrigir nome Artur Jackson
+
+Pontos específicos:
 
 ### Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel
 
@@ -178,8 +183,8 @@ Adicionar um tópico de análise dos resultados.
 
 **Observações:**
 
-- Características Gerais:
-- Pontos específicos:
+Características Gerais:</br>
+Pontos específicos:
 
 ## Resultados Finais
 

@@ -35,7 +35,7 @@ Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção 
 |13/11/2023 |entrega 2 |Amanda Abreu|
 |13/11/2023|entrega 3 |Artur Jackson|
 |-|entrega 4 |-|
-|-|entrega 5 |-|
+|13/11/2023|entrega 5 |Lucas Andrade e Arthur Sousa|
 |-|entrega 7 |-|
 |-|entrega 8|-|
 

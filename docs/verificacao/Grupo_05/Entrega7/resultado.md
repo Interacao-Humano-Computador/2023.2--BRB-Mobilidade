@@ -53,14 +53,16 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 
 **Observações:**
 
-- Características Gerais:
-  - Muitas das tabelas possuem título, mas esses títulos são muitas vezes repetidos.
-  - Erros ortográficos: comos(cronograma); nao (alterar foto e item 12 das respostas); nome do site no tópico de seleção dos participantes; bsuca(tópico 3 reprojeto).
+Características Gerais:
 
-- Pontos específicos:
-  - O link dos vídeos das entrevistas do Juan e Arthur Sousa estão incorretos.
-  - Faltam algumas respostas na tabela do Fause e Arthur Sousa.
-  - Não possui o tópico de problemas e dificuldades encontrados, mas há uma síntese dos resultados no tópico de análise e interpretação dos resultados.
+- Muitas das tabelas possuem título, mas esses títulos são muitas vezes repetidos.
+- Erros ortográficos: comos(cronograma); nao (alterar foto e item 12 das respostas); nome do site no tópico de seleção dos participantes; bsuca(tópico 3 reprojeto).
+
+Pontos específicos:
+
+- O link dos vídeos das entrevistas do Juan e Arthur Sousa estão incorretos.
+- Faltam algumas respostas na tabela do Fause e Arthur Sousa.
+- Não possui o tópico de problemas e dificuldades encontrados, mas há uma síntese dos resultados no tópico de análise e interpretação dos resultados.
 
 ### Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
@@ -91,15 +93,17 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 
 **Observações:**
 
-- Características Gerais:
-  - 3.1 - Letra I do DECIDE - “avalição” -> avaliação
-  - 3.2 - (Perguntas Norteadoras) n°3 “dispozição -> disposição
-  - 3.3 - (Questões Éticas) trocar “concordando ao partipar” por “em participar”
-  - 3.4 - (Avaliação dos Dados) começar com letra maiúscula
-  - 3.5 - Último parágrafo “de forma a simular “o” teste”
+Características Gerais:
 
-- Pontos específicos:
-  - Falta o “i” do DECIDE.
+- 3.1 - Letra I do DECIDE - “avalição” -> avaliação
+- 3.2 - (Perguntas Norteadoras) n°3 “dispozição -> disposição
+- 3.3 - (Questões Éticas) trocar “concordando ao partipar” por “em participar”
+- 3.4 - (Avaliação dos Dados) começar com letra maiúscula
+- 3.5 - Último parágrafo “de forma a simular “o” teste”
+
+Pontos específicos:
+
+- Falta o “i” do DECIDE.
 
 ### Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
 
@@ -128,8 +132,8 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 
 **Observações:**
 
-- Características Gerais:
-- Pontos específicos:
+Características Gerais:</br>
+Pontos específicos:
 
 ## Resultados Finais
  
