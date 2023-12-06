@@ -1,6 +1,6 @@
 ## Introdução
 
-No começo do curso, os integrantes do grupo propuseram potenciais candidatos de plataforma para nosso projeto, expondo suas justificativas individuais para cada escolha. Depois, houve uma análise onde cada site foi avaliado com base em critérios específicos, visando alcançar um acordo coletivo. Este documento oferece uma análise mais detalhada das opções apresentadas pelos integrantes do grupo, bem como das avaliações das plataformas e razões para a seleção.
+No começo do curso, os 7 integrantes do grupo propuseram potenciais candidatos de plataforma para nosso projeto, expondo suas justificativas individuais para cada escolha. Depois, houve uma análise onde cada site foi avaliado com base em critérios específicos, visando alcançar um acordo coletivo. Este documento oferece uma análise mais detalhada das opções apresentadas pelos integrantes do grupo, bem como das avaliações das plataformas e razões para a seleção.
 
 ## Critério para escolha 
 
@@ -21,7 +21,7 @@ Entre os diferentes sites que foram analisados individualmente, optamos por foca
 
 - Identificação de problemas: Foi analisados certos problemas como: Aparência visual e abordagem minimalista do design, Autonomia e liberdade do usuário, Adaptabilidade e eficácia na utilização e Acessibilidade e Assistência e informações de suporte
 
-## Preâmbulo
+## Limitações
 
 Durante a fase de seleção do site, a avaliação de Interação Humano-Computador (IHC) realizada pelo grupo, seguindo o framework DECIDE e as heurísticas de Nielsen, identificou certas limitações, como por exemplo:
 

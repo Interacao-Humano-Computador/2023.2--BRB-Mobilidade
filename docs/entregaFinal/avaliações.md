@@ -1,7 +1,7 @@
 
 ## Introdução
 
-"Neste documento, é apresentada a síntese das avaliações dos protótipos desenvolvidos. A síntese será realizada ao combinar dados como os entrevistadores, quantidade de participantes e os nomes dos membros do grupo envolvidos na avaliação.
+Neste documento, é apresentada a síntese das avaliações dos protótipos desenvolvidos. A síntese será realizada ao combinar dados como os entrevistadores, quantidade de participantes e os nomes dos membros do grupo envolvidos na avaliação.
 
 No decorrer do projeto, foram conduzidas avaliações tanto dos protótipos quanto dos modelos conceituais. 
 
