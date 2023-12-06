@@ -1,0 +1,206 @@
+# Introdução
+
+Este documento tem como objetivo apresentar de forma sintetizada os vídeos das entregas de cada etapa do projeto e as respectivas pessoas que particaparam das gravações.
+
+# Apresentações
+
+<details>
+
+<summary>
+<h1>Etapa 1</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=rn-6kxlx5rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+<details>
+
+<summary>
+<h1>Etapa 2</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/z1MTTTUfaYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+
+<details>
+
+<summary>
+<h1>Etapa 3</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/Dk47CFnf1pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+
+<details>
+
+<summary>
+<h1>Etapa 4</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/PtNKCpDUTOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+
+<details>
+
+<summary>
+<h1>Etapa 5</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/LkH3uo9EATE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+
+<details>
+
+<summary>
+<h1>Etapa 6.1</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/ZlqJqFgWjWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+<details>
+
+<summary>
+<h1>Etapa 7</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/k0sB_bqg3Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+<details>
+
+<summary>
+<h1>Etapa 8</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/kOkTDN6PXhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+<details>
+
+<summary>
+<h1>Etapa 6.2</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=wnLg9bufeBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+<details>
+
+<summary>
+<h1>Etapa Final</h1>
+</summary>
+
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<h3>Participantes:</h3>
+
+<p><a href="https://github.com/Amandaaaaabreu">Amanda Gonçalves</a></p>
+<p><a href="https://github.com/arthurrsousa">Arthur Sousa</a></p>
+<p><a href="https://github.com/artur-jack">Artur Jackson</a></p>
+<p><a href="https://github.com/FauseSkyWalker">Fause Carlos</a></p>
+<p><a href="https://github.com/FHansen98">Felipe Hansen</a></p>
+<p><a href="https://github.com/Juan-Ricarte">Juan Pablo</a></p>
+<p><a href="https://github.com/lucaslobao-18">Lucas Lobão</a></p>
+
+</details>
+
+## Histórico de Versão
+
+| Versão | Data       | Modificação                             | Autor                         | Revisores                         |
+| ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
+|    1.0   |   06/12/2023   |   Criação do documento | [Artur Jackson](https://github.com/artur-jack)| []() |
