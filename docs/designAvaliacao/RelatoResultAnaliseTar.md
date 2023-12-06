@@ -24,15 +24,17 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 
 <center>
 
-
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 | [Arthur Sousa](https://github.com/arthurrsousa)|    <span style = "color: #FFC436">Yann Rodrigues</span>    |       07:30     |     07:35     | 05/11/2023 | Teams|
 
-*Fonte* - [Arthur Sousa](https://github.com/arthurrsousa)
+<div style = "text-align: center">
+    <p>Tabela 1: Cronograma da Entrevista 1 (Fonte: Arthur, 2023)</p>
+</div>
 </center>
 
 ### Conteúdo da Entrevista
+
 | Ordem | Pergunta | Opções de Resposta |Resposta|
 |--- |--- |---  |--- | 
 |  1 | Qual o seu nome? | Aberta |Yann Rodrigues|
@@ -41,6 +43,10 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 | 4 | Qual a sua ocupação? | Aberta | Gerente de Logística | 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta |  Emissão de 2° via e Verificar Saldo|
 |6| Ao observar o diagrama de Meus Acessos  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |Sim|
+
+<div style = "text-align: center">
+    <p>Tabela 2: Conteúdo da Entrevista 1 (Fonte: Arthur, 2023)</p>
+</div>
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](-).
@@ -67,8 +73,11 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Fause Carlos](https://github.com/FauseSkyWalker)|    <span style = "color: #FFC436">Ana Julia</span>    |       07:00      |     07:05     | 05/11/2023 | Teams|
 
-*Fonte* -  [Fause Carlos](https://github.com/FauseSkyWalker)
 </center>
+
+<div style = "text-align: center">
+    <p>Tabela 3: Cronograma da Entrevista 2 (Fonte: Fause, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
@@ -79,6 +88,10 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 | 4 | Qual a sua ocupação? | Aberta | Estudante| 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Utiliza o site a mais de 5 anos|
 |6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |Sim|
+
+<div style = "text-align: center">
+    <p>Tabela 4: Conteúdo da Entrevista 2 (Fonte: Fause, 2023)</p>
+</div>
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](-).
@@ -105,8 +118,11 @@ Utilizamos entrevistas e observação direta do usuário interagindo com a inter
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Amanda Abreu](https://github.com/Amandaaaaabreu) |    <span style = "color: #FFC436">Pedro Lucas</span>    |       12:00       |     12:03      | 04/11/2023 | Plataforma Teams |
 
-*Fonte* - [Amanda Abreu](https://github.com/Amandaaaaabreu)
 </center>
+
+<div style = "text-align: center">
+    <p>Tabela 5: Cronograma da Entrevista 3 (Fonte: Amanda, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
@@ -117,6 +133,10 @@ Utilizamos entrevistas e observação direta do usuário interagindo com a inter
 | 4 | Qual a sua ocupação? | Aberta | Estudante | 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Emissão do cartão, emissão de segunda via  |
 |6| Ao observar o diagrama de Extensão de acesso e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim |
+
+<div style = "text-align: center">
+    <p>Tabela 6: Conteúdo da Entrevista 3 (Fonte: Amanda, 2023)</p>
+</div>
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/16ag23Z9nV31g1UqMifcmaYTzZvhopcEL/view?usp=sharing).
@@ -148,8 +168,11 @@ Optamos por adotar uma abordagem abrangente na coleta de dados, empregando tanto
 |  [Lucas Lobão](https://github.com/lucaslobao-18)|    <span style = "color: #FFC436">Raquel Alves</span>    |       10:00       |     10:03      | 04/11/2023 | Casa Raquel(Samambaia Sul) |
 |[Lucas Lobão](https://github.com/lucaslobao-18)|<span style = "color: #FFC436">Rebeca Alves</span>   |12:00|12:02|03/11/2023|Casa da Raquel|
 
-*Fonte* -  [Lucas Lobão](https://github.com/lucaslobao-18)
 </center>
+
+<div style = "text-align: center">
+    <p>Tabela 7: Cronograma das Entrevistas 4.0 e 4.1 (Fonte: Lucas, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista 4.0
 | Ordem | Pergunta | Opções de Resposta |Resposta|
@@ -162,6 +185,10 @@ Optamos por adotar uma abordagem abrangente na coleta de dados, empregando tanto
 |6| Ao observar o diagrama do Liberar cartão  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim |
 |7|Teve dificuldade para entender a tarefa?|Fechada| Não|
 |8|Consegue identificar uma forma mais fácil de fazê-la?|Fechada|Não|
+
+<div style = "text-align: center">
+    <p>Tabela 8: Conteúdo da Entrevista 4.0 (Fonte: Lucas, 2023)</p>
+</div>
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1Qdga6ZaouZYieY9E5q61NrjyTXeg-Zm6/view).
@@ -181,6 +208,10 @@ Para assistir a apresentação clique [aqui](https://www.youtube.com/watch?v=8Sp
 |6| Ao observar o diagrama do Liberar cartão  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim |
 |7|Teve dificuldade para entender a tarefa?|Fechada| Não|
 |8|Consegue identificar uma forma mais fácil de fazê-la?|Fechada|Não|
+
+<div style = "text-align: center">
+    <p>Tabela 9: Conteúdo da Entrevista 4.1 (Fonte: Lucas, 2023)</p>
+</div>
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1EpW42cjK_qooDjSBymqcNb7MMBgup1I3/view).
@@ -213,8 +244,11 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 | [Juan Pablo](https://github.com/Juan-Ricarte) |    <span style = "color: #FFC436">Yuri Ricarte</span>    |       10:00      |     10:06     | 04/11/2023 | Casa do Juan(Ceilândia) |
 
-*Fonte* - [Juan Pablo](https://github.com/Juan-Ricarte) 
 </center>
+
+<div style = "text-align: center">
+    <p>Tabela 10: Cronograma da Entrevista 5 (Fonte: Juan, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
@@ -225,6 +259,10 @@ Optamos por uma estratégia abrangente na coleta de dados, incorporando tanto en
 | 4 | Qual a sua ocupação? | Aberta | Estudante e Assistente farmacêutico | 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Emissão do cartão|
 |6| Ao observar o diagrama da Trocar de endereço  e sua sequência de tarefas, o processo parece de acordo com a realidade?  | Fechada |Sim |
+
+<div style = "text-align: center">
+    <p>Tabela 11: Conteúdo da Entrevista 5 (Fonte: Juan, 2023)</p>
+</div>
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](-).
@@ -257,8 +295,11 @@ O método utilizado foi a entrevista e de observação da interação do usuári
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [Artur Jackson](https://github.com/artur-jack) |    <span style = "color: #FFC436">Guilherme</span>    |       13:00       |     13:06      | 04/11/2023 | Plataforma Teams |
 
-*Fonte* - [Artur Jackson](https://github.com/artur-jack) 
 </center>
+
+<div style = "text-align: center">
+    <p>Tabela 12: Cronograma da Entrevista 6 (Fonte: Artur, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
@@ -269,6 +310,10 @@ O método utilizado foi a entrevista e de observação da interação do usuári
 | 4 | Qual a sua ocupação? | Aberta | Estudante | 
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Começou a usar o site durante o ensino médio |
 |6| Ao observar o diagrama da Troca de instituição  e sua sequência de tarefas, o processo parece de acordo com a realidade?| Fechada |Sim |
+
+<div style = "text-align: center">
+    <p>Tabela 13: Conteúdo da Entrevista 6 (Fonte: Artur, 2023)</p>
+</div>
 
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/1GezAG5uUR6kqiIyuh2MQXEM9VQ70o7kd/view).
@@ -301,8 +346,11 @@ Optamos por uma abordagem multifacetada para a coleta de dados, utilizando a ent
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 | [Felipe Hansen](https://github.com/FHansen98) |    <span style = "color: #FFC436">Patrick Maximo Cordeiro</span>    |       13:30      |     13:36      | 04/11/2023 | Plataforma Teams |
 
-*Fonte* - [Felipe Hansen](https://github.com/FHansen98)
 </center>
+
+<div style = "text-align: center">
+    <p>Tabela 14: Cronograma da Entrevista 7 (Fonte: Felipe, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista
 | Ordem | Pergunta | Opções de Resposta |Resposta|
@@ -314,6 +362,10 @@ Optamos por uma abordagem multifacetada para a coleta de dados, utilizando a ent
 | 5 | Qual sua experiência com o BRB mobilidade? | Aberta | Emissão do cartão, emissão de segunda via, pagamento|
 |6| Ao observar o diagrama da Alteração de foto  e sua sequência de tarefas, o processo parece de acordo com a realidade? | Fechada |Sim |
 
+<div style = "text-align: center">
+    <p>Tabela 15: Conteúdo da Entrevista 7 (Fonte: Felipe, 2023)</p>
+</div>
+
 ### Termo de Consetimento:
 Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/15Q5CUUD-AzytOb0_J58Khz1HkkKOaksV/view?usp=sharing).
 
@@ -321,12 +373,9 @@ Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/
 Para assistir a apresentação clique [aqui](https://unbbr.sharepoint.com/sites/IHC-Grupo5/_layouts/15/stream.aspx?id=%2Fsites%2FIHC%2DGrupo5%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FMeeting%20in%20%5FGeneral%5F%2D20231104%5F162045%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 
-
 ## Planejamento de Reprojeto
 
-As recomendações de modificação e outras vicissitudes identificadas durante a análise do artefato especificado desempenham um papel crucial no planejamento do reprojeto. É imperativo ponderar minuciosamente essas mudanças, pois elas constituem insights valiosos para aprimorar a eficácia e a adaptabilidade do projeto. No entanto, é crucial ressaltar que o reprojeto deve ser executado com a premissa de preservar a integridade da base conceitual do projeto original. Assim, o objetivo central é implementar apenas as alterações estritamente necessárias para aprimorar a funcionalidade, sem comprometer a visão e a essência subjacentes ao projeto inicial. Esta abordagem cuidadosa visa não apenas corrigir deficiências identificadas, mas também garantir uma evolução alinhada com os princípios fundamentais que nortearam a concepção original do artefato.
-
-
+As recomendações de modificação e outros pontos de melhoria identificados durante a análise do artefato especificado desempenham um papel crucial no planejamento do reprojeto. É importante analisar bem essas mudanças, pois elas constituem insights valiosos para aprimorar a eficácia do projeto. No entanto, vale ressaltar que o reprojeto deve ser executado com a premissa de preservar a integridade da base conceitual do projeto original. Assim, o objetivo central é implementar apenas as alterações estritamente necessárias para aprimorar a funcionalidade, sem comprometer a visão e a essência projeto inicial. Esta abordagem cuidadosa visa não apenas corrigir problemas identificados, mas também garantir uma evolução alinhada com os princípios fundamentais que nortearam a concepção original do artefato.
 
 
 ## Histórico de Versões
@@ -334,3 +383,4 @@ As recomendações de modificação e outras vicissitudes identificadas durante 
 | Versão | Data       | Descrição                                     | Autor                                       | Revisor                                  |
 | ------ | ---------- | --------------------------------------------- | ------------------------------------------------ | ---------------------------------------------- |
 | 1.0  | 04/11/2023 | Adição das entrevistas |[Juan Pablo](https://github.com/Juan-Ricarte) |  [Felipe Hansen](https://github.com/FHansen98) | 
+| 1.1  | 05/12/2023 | Correção do artefato |[Arthur Sousa](https://github.com/arthurrsousa) |  [Juan Pablo](https://github.com/Juan-Ricarte) | 
