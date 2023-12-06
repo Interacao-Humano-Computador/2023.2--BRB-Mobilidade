@@ -8,9 +8,9 @@ Temos como objetivo verificar através de uma inspeção utilizando de checklist
 
 Os artefatos a serem verificados são:
 
-- [Relato dos resultados do protótipo de papel]()
-- [Planejamento da avaliação do Protótipo de alta fidelidade]()
-- [Planejamento do relato dos resultados do Protótipo de alta fidelidade]()
+- [Relato dos resultados do protótipo de papel](/docs/designAvaliacao/prototipo_papel/resultadoPrototipoBF.md)
+- [Planejamento da avaliação do Protótipo de alta fidelidade](/docs/designAvaliacao/prototipo_fidelidade/planejamento_ava.md)
+- [Planejamento do relato dos resultados do Protótipo de alta fidelidade](/docs/designAvaliacao/prototipo_fidelidade/planejamento_result.md)
 
 ## Checklists
 
@@ -45,7 +45,7 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 |1. É apresentada a data em que ocorreu a avaliação?| Sim|
 |2. O documento apresenta os vídeos das avaliações ou os links para elas?| Sim|
 |3. As respostas obtidas foram apresentadas ?| Sim|
-|4. Foi feita uma análise com base nos resultados?| Não|
+|4. Foi feita uma análise com base nos resultados?| Sim|
 
 <div style="text-align: center">
     <p> Tabela 2: Checklist Relato dos resultados do Protótipo de Papel (Fonte: Artur Jackson e Lucas, 2023).</p>
@@ -55,13 +55,12 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 
 - Características Gerais:
   - Muitas das tabelas possuem título, mas esses títulos são muitas vezes repetidos.
-  - Foi encontrado um erro ortográfico no nome do site no tópico de seleção dos participantes.
   - Erros ortográficos: comos(cronograma); nao (alterar foto e item 12 das respostas); nome do site no tópico de seleção dos participantes; bsuca(tópico 3 reprojeto).
 
 - Pontos específicos:
   - O link dos vídeos das entrevistas do Juan e Arthur Sousa estão incorretos.
   - Faltam algumas respostas na tabela do Fause e Arthur Sousa.
-  - Não possui o tópico de problemas e dificuldades encontrados e sumário, anteriormente planejados.
+  - Não possui o tópico de problemas e dificuldades encontrados, mas há uma síntese dos resultados no tópico de análise e interpretação dos resultados.
 
 ### Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
@@ -133,14 +132,14 @@ CHECKLIST EM CONJUNTO ARTUR E LUCAS:
 - Pontos específicos:
 
 ## Resultados Finais
-
+ 
 <div style="text-align: justify">
-  Após análise de todas as verificações realizadas, identificamos alguns aspectos no trabalho que podem ser aprimorados para elevar sua qualidade de entrega. Vale ressaltar que a maioria dos erros está associada a questões estruturais do documento, não comprometendo seu conteúdo. Nesse contexto, acreditamos que as correções dos itens destacados em cada verificação resultaram em melhorias bastante significativas.
+  Após análise de todas as verificações realizadas, identificamos alguns aspectos no trabalho que podem ser aprimorados para elevar sua qualidade de entrega. Vale ressaltar que a maioria dos erros está associada a questões estruturais do documento envolvendo sua completude como: tópicos faltando, erros ortográficos e alguns links para entrevistas faltando. Nesse contexto, acreditamos que as correções dos itens destacados em cada verificação resultaram em melhorias significativas.
 </div>
 
 ## Correções
 
-Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo]()
+Após a revisão dos problemas encontrados nos artefatos, foram feitas as devidas correções que podem ser acessadas neste [vídeo]()
 
 ## Histórico de Versão
 
