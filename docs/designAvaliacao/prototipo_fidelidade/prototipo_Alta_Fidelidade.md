@@ -545,6 +545,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
     <p>Tabela 28 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
 </div>
 
+### Feedback do Usuário
+
+A utilizadora acredita que o formato e o processo para emitir 2° via estava apropriado, e não enfrentou qualquer dificuldade.
+
 
 ### Entrevista 2 - Luiz Felipe
 
@@ -579,6 +583,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
     <p>Tabela 30 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
 </div>
 
+### Feedback do Usuário
+O usuário acredita que o formato e o processo para emitir 2° via estava apropriado, e não enfrentou qualquer dificuldade.
+
 ### Entrevista 3 - Fernanda Souza
 
 Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
@@ -609,12 +616,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
     <p>Tabela 32 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
 </div>
 
-### Feedbacks dos Usuários
+### Feedback do Usuário
+A usuária acredita que o formato e o processo para emitir 2° via estava apropriado, e não enfrentou qualquer dificuldade.
 
-<p style="text-align: justify">
-Alguns usuários relataram que tiveram uma pequena dificuldade na hora de selecionar o motivo da solicitação, pois não havia um indicativo claro de que o campo era uma caixa de seleção. Sugeriram que poderia ser mais explícito no protótipo
-
-</p>
 
 ## 6. Liberar cartão - Lucas Lobão
 
@@ -653,6 +657,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
 
 </br>
 
+
+### Feedback do Usuário
+A usuária acredita que o formato e o processo para liberar cartão estava apropriado, e não enfrentou qualquer dificuldade.
+
 ### Entrevista_2 - Carolina
 
 Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
@@ -688,6 +696,8 @@ Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
     <p>Tabela 36 - Diretrizes (Fonte - Lucas Lobão, 2023)</p>
 </div>
 
+### Feedback do Usuário
+A usuária acredita que o formato e o processo para liberar cartão estava apropriado, e não enfrentou qualquer dificuldade.
 </br>
 
 ### Entrevista 3 - Ana Karolina
@@ -723,14 +733,11 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
     <p>Tabela 38 - Diretrizes (Fonte - Lucas Lobão, 2023)</p>
 </div>
 
+### Feedback do Usuário
+A usuária acredita que o formato e o processo para liberar cartão estava apropriado, e não enfrentou qualquer dificuldade.
 
 </br>
 
-### Feedback dos Usuários
-
-<p  style="text-align: justify">
-Nenhuma das usuárias relatou ter encontrado problemas ou dificuldades para realizar a tarefa, muito pelo fato de ser uma tarefa simples e com interface intuitiva, que deixa claro os caminhos a serem seguidos. Nesse sentido, o feedback recebido foi que a tarefa de "Liberar Cartão" está adequada.
-</p>
 
 ## 7. Meus acessos - Arthur Sousa
 
