@@ -89,6 +89,10 @@ Neste processo abrangente de avaliação, dedicamos uma análise minuciosa à Ta
 
 [Diagrama HTA - 2° Via](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#2-via)
 
+<div style = "text-align: center">
+    <p>Tabela 3: Cronograma da Entrevista 2 (Fonte: Fause, 2023)</p>
+</div>
+
 ### Conteúdo da Entrevista
 
 <div style="text-align: center">
@@ -125,6 +129,10 @@ A avaliação teve como objetivo validar se a tarefa de Extensão de Acesso est�
 </div>
 
 [Diagrama HTA - Extensão de Acesso](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#extensao-de-acesso)
+
+<div style = "text-align: center">
+    <p>Tabela 5: Cronograma da Entrevista 3 (Fonte: Amanda, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista
 
@@ -168,6 +176,10 @@ Dessa maneira, essa avaliação aprofundada não só valida a integridade da rep
 </div>
 
 [Diagrama HTA - Liberar Cartão](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#liberar-cartao)
+
+<div style = "text-align: center">
+    <p>Tabela 7: Cronograma das Entrevistas 4.0 e 4.1 (Fonte: Lucas, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista 4.0
 
@@ -241,6 +253,10 @@ Assim, essa avaliação meticulosa não apenas valida a integridade da represent
 
 [Diagrama HTA - Trocar Endereço](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#trocar-Endereço)
 
+<div style = "text-align: center">
+    <p>Tabela 10: Cronograma da Entrevista 5 (Fonte: Juan, 2023)</p>
+</div>
+
 ### Conteúdo da Entrevista
 
 <div style="text-align: center">
@@ -281,6 +297,10 @@ Essa análise cuidadosa proporcionou insights valiosos para otimizar a represent
 </div>
 
 [Diagrama HTA - Troca de Instituição](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#troca-de-instituicao)
+
+<div style = "text-align: center">
+    <p>Tabela 12: Cronograma da Entrevista 6 (Fonte: Artur, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista
 
@@ -324,6 +344,10 @@ Assim, essa avaliação meticulosa proporcionou uma compreensão abrangente do c
 </div>
 
 [Diagrama HTA - Alterar Foto](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/analise_tarefas/hta/#alterar-foto)
+
+<div style = "text-align: center">
+    <p>Tabela 14: Cronograma da Entrevista 7 (Fonte: Felipe, 2023)</p>
+</div>
 
 ### Conteúdo da Entrevista
 

@@ -1,15 +1,22 @@
 ## Introdução
-
-Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de alta fidelidade. Portanto, serão abordados os tópicos referidos no Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade.
+<div style="text-align: justify">
+    <p> Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de alta fidelidade. Portanto, serão abordados os tópicos referidos no Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade.</p>
+</div>
 
 
 ## Metodologia
+<div style="text-align: justify">
+    <p> Os dados foram coletados por meio de entrevistas. No início de todas as entrevistas foi apresentado o termo de consentimento para que o entrevistado tenha noção que iremos usar os dados obtidos na entrevista para fim de análise dentro do projeto. Cada funcionalidade foi testada por 3 usuários distintos.</p>
+</div>
 
-Os dados foram coletados por meio de entrevistas. No início de todas as entrevistas foi apresentado o termo de consentimento para que o entrevistado tenha noção que iremos usar os dados obtidos na entrevista para fim de análise dentro do projeto. Cada funcionalidade foi testada por 3 usuários distintos.
 
 ## Seleção dos Participantes
+<div style="text-align: justify">
+    <p> Os participantes foram selecionados com base no perfil do usuário e que já têm experiência no uso do site do BrB Mobilidade.
+</p>
+</div>
 
-Os participantes foram selecionados com base no perfil do usuário e que já têm experiência no uso do site do BrB Mobilidade.
+
 
 ## Escopo da Entrevista 
 
@@ -30,7 +37,7 @@ Os participantes foram selecionados com base no perfil do usuário e que já tê
 
 ## Cronograma
 
-A seguir na tabela 2 é mostrado o cronograma executado e comos as entrevistas foram realizadas.
+A seguir na tabela 2 é mostrado o cronograma executado e como as entrevistas foram realizadas.
 
 | Entrevistador(a) | Entrevistados(as)| Data | Horário de início e fim | Local | 
 |-----|-----|-----|-----|-----|
@@ -86,8 +93,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/b-lLrUhpZa4).
 
 
 ### Feedback do Usuário
-
-A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
+<div style="text-align: justify">
+    <p> A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
+</p>
+</div>
 
 ### Entrevista 2 - Ana Karolina
 
@@ -122,8 +131,11 @@ Para assistir a entrevista clique [aqui](https://youtu.be/tevsh7nqCAM).
 </div>
 
 ### Feedback do Usuário
+<div style="text-align: justify">
+    <p> A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
+</p>
+</div>
 
-A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
 
 ### Entrevista 3 - Carolina
 
@@ -158,8 +170,11 @@ Para assistir a entrevista clique [aqui](https://youtu.be/S_1nbg2uU08).
 </div>
 
 ### Feedback do Usuário
+<div style="text-align: justify">
+    <p> A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
+</p>
+</div>
 
-A usuária considera que o formato e o procedimento para solicitar passes adicionais são adequados e não encontrou qualquer complicação.
 
 ## 2. Troca de Instituição - Artur Jackson
 
@@ -299,7 +314,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=IvT08kz
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     O usuário conseguiu finalizar o objetivo sem erros. | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou barreiras   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -336,7 +351,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=LQLsu2O
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |    O usuário conseguiu finalizar o objetivo sem erros.  | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -372,7 +387,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=p3Ux00o
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     O usuário conseguiu finalizar o objetivo sem erros.  | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário não encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -483,8 +498,7 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=GIAouVS
 | ID | Enunciado| Resposta| 
 | :---: | :----------------------------------------------------------: | :-----------------:|
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
-|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |     
-A utilizadora concluiu a funcionalidade com total eficácia, em menos de 5 minutos e sem cometer nenhum erro.   | 
+|   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |A utilizadora concluiu a funcionalidade com total eficácia, em menos de 5 minutos e sem cometer nenhum erro.   | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
 |   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    A usuária não encontrou barreiras   | 
@@ -523,13 +537,17 @@ Para assistir a entrevista clique [aqui](https://youtu.be/c01hP_XQQfs).
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |    O usuário conseguiu finalizar o objetivo sem erros.  | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
 <div style="text-align: center">
     <p>Tabela 28 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
 </div>
+
+### Feedback do Usuário
+
+A utilizadora acredita que o formato e o processo para emitir 2° via estava apropriado, e não enfrentou qualquer dificuldade.
 
 
 ### Entrevista 2 - Luiz Felipe
@@ -557,13 +575,16 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jpO3p1JaS5E).
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |    O usuário conseguiu finalizar o objetivo sem erros.  | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
 <div style="text-align: center">
     <p>Tabela 30 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
 </div>
+
+### Feedback do Usuário
+O usuário acredita que o formato e o processo para emitir 2° via estava apropriado, e não enfrentou qualquer dificuldade.
 
 ### Entrevista 3 - Fernanda Souza
 
@@ -587,7 +608,7 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
 |   1   |   O usuário conseguiu operar o sistema      |     Sim    | 
 |   2   |   Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?       |    O usuário conseguiu finalizar o objetivo sem erros.  | 
 |   3   |    Ele entendeu o que deveria ser feito em seguida?     |     Sim    | 
-|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve probelmas   | 
+|   4   |    Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?     |    Não houve problemas   | 
 |   5   |   Quais barreiras o usuário encontrou ao atingir seus objetivos?      |    O usuário encontrou empecilhos   | 
 |   6   |   Quantas vezes os usuários consultaram a ajuda on-line ou o manual de usuário?     |     Nenhuma vez    | 
 
@@ -595,12 +616,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/-B7sVMv2zxQ).
     <p>Tabela 32 - Diretrizes (Fonte - Fause Carlos, 2023)</p>
 </div>
 
-### Feedbacks dos Usuários
+### Feedback do Usuário
+A usuária acredita que o formato e o processo para emitir 2° via estava apropriado, e não enfrentou qualquer dificuldade.
 
-<p style="text-align: justify">
-Alguns usuários relataram que tiveram uma pequena dificuldade na hora de selecionar o motivo da solicitação, pois não havia um indicativo claro de que o campo era uma caixa de seleção. Sugeriram que poderia ser mais explícito no protótipo
-
-</p>
 
 ## 6. Liberar cartão - Lucas Lobão
 
@@ -639,6 +657,10 @@ Para assistir a entrevista clique [aqui](https://youtu.be/QRlXQZW1aak).
 
 </br>
 
+
+### Feedback do Usuário
+A usuária acredita que o formato e o processo para liberar cartão estava apropriado, e não enfrentou qualquer dificuldade.
+
 ### Entrevista_2 - Carolina
 
 Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
@@ -674,6 +696,8 @@ Para assistir a entrevista clique [aqui](https://youtu.be/4PWmokldulM).
     <p>Tabela 36 - Diretrizes (Fonte - Lucas Lobão, 2023)</p>
 </div>
 
+### Feedback do Usuário
+A usuária acredita que o formato e o processo para liberar cartão estava apropriado, e não enfrentou qualquer dificuldade.
 </br>
 
 ### Entrevista 3 - Ana Karolina
@@ -709,14 +733,11 @@ Para assistir a entrevista clique [aqui](https://youtu.be/jvbwwJJKchQ).
     <p>Tabela 38 - Diretrizes (Fonte - Lucas Lobão, 2023)</p>
 </div>
 
+### Feedback do Usuário
+A usuária acredita que o formato e o processo para liberar cartão estava apropriado, e não enfrentou qualquer dificuldade.
 
 </br>
 
-### Feedback dos Usuários
-
-<p  style="text-align: justify">
-Nenhuma das usuárias relatou ter encontrado problemas ou dificuldades para realizar a tarefa, muito pelo fato de ser uma tarefa simples e com interface intuitiva, que deixa claro os caminhos a serem seguidos. Nesse sentido, o feedback recebido foi que a tarefa de "Liberar Cartão" está adequada.
-</p>
 
 ## 7. Meus acessos - Arthur Sousa
 
@@ -753,15 +774,17 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=Dx_IjAM
 
 
 ### Feedback do Usuário
-
-A usuária não encontrou nenhum obstáculo para a realização da atividade proposta, assim como considerou a interface do protótipo satisfatória.
+<div style="text-align: justify">
+    <p>A usuária não encontrou nenhum obstáculo para a realização da atividade proposta, assim como considerou a interface do protótipo satisfatória.
+</p>
+</div>
 
 
 ## Análise e interpretação dos resultados
 
-- **Troca de Instituição:** Em geral os usuários não tiverem dificuldades para entender como deve ser feito as tarefas e realizaram as mesmas de forma eficiênte. Tendo um tempo médio de 36 segundos para realizar a solicitação de troca de intituição e 11 segundos de média para cancelar a solicitação feita anteriormente.
+- **Troca de Instituição:** Em geral os usuários não tiveram dificuldades para entender como devem ser feitas as tarefas e realizaram as mesmas de forma eficiente. Tendo um tempo médio de 36 segundos para realizar a solicitação de troca de instituição e 11 segundos de média para cancelar a solicitação feita anteriormente.
 
-- **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhor o design da página, deixando-a mais moderna.
+- **Troca de Endereço:** Os usuários entrevistados não tiveram dificuldade em realizar a tarefa, levando um tempo médio de 30 segundos, de modo que validaram o protótipo. Uma única sugestão foi de melhorar o design da página, deixando-a mais moderna.
 
 - **Meus Acessos:** A usuária considerou a tarefa simples e fácil de ser executada, embora alguns cliques em lugares errados possam sugerir uma breve dificuldade em certos pontos do protótipo, o que pode ser justificado pela falta de costume com o hardware disponibilizado para a utilização da interface.
 
@@ -769,16 +792,27 @@ A usuária não encontrou nenhum obstáculo para a realização da atividade pro
 
 - **Extensão de Acesso:** Das três usuárias entrevistadas, nenhuma demonstrou dificuldade ao realizar as tarefas descritas na funcionalidade. Cada uma delas levou menos de 3 minutos para concluir todas as etapas. Além disso, nenhuma delas identificou inconsistências ou erros na aplicação
 
-- **Liberar Cartão:** Com base nos dados coletados das entrevistas, ficou evidente que os usuários não enfrentaram problemas para compreender e nem para executar a tarefa proposta. Dito isso, algumas características que puderam ser observadas: O tempo médio para exucução da tarefa foi de 10 segundos, Todos os entrevistados conseguiram finalizar a tarefa (100%) e o total de erros registrados foi "0"
+- **Liberar Cartão:** Com base nos dados coletados das entrevistas, ficou evidente que os usuários não enfrentaram problemas para compreender e nem para executar a tarefa proposta. Dito isso, algumas características que puderam ser observadas: O tempo médio para execução da tarefa foi de 10 segundos, Todos os entrevistados conseguiram finalizar a tarefa (100%) e o total de erros registrados foi "0"
 
-- **Alteração de foto:** Em geral os usuários tiverem dificuldades quando não liam a página completa. Porém resolviam a tarefa e realizaram as mesmas de forma eficiênte. Tendo um tempo médio de 47 seg para realizar a alteração de foto.
+- **Alteração de foto:** Em geral os usuários tiveram dificuldades quando não liam a página completa. Porém resolviam a tarefa e realizaram as mesmas de forma eficiente. Tendo um tempo médio de 47 seg para realizar a alteração de foto.
 
 
 ## Planejamento de Reprojeto
-Replanejar o projeto com foco no design de protótipos de alta fidelidade envolve avaliar as interfaces existentes, estabelecer metas de design, criar protótipos detalhados inspirados em tendências atuais, testar a usabilidade, iterar com base no feedback, e implementar as mudanças gradualmente, comunicando-as efetivamente. A avaliação contínua e a documentação atualizada garantem o sucesso, proporcionando uma transição suave e aprimorando a experiência do usuário. Assim, deve-se focar no design das interfaces a fim de melhorar a experiência do usuário.
+<div style="text-align: justify">
+    <p>Replanejar o projeto com foco no design de protótipos de alta fidelidade envolve avaliar as interfaces existentes, estabelecer metas de design, criar protótipos detalhados inspirados em tendências atuais, testar a usabilidade, iterar com base no feedback, e implementar as mudanças gradualmente, comunicando-as efetivamente. A avaliação contínua e a documentação atualizada garantem o sucesso, proporcionando uma transição suave e aprimorando a experiência do usuário. Assim, deve-se focar no design das interfaces a fim de melhorar a experiência do usuário.
+
+
+</p>
+</div>
+
 
 ## Conclusão
-Os protótipos em suma foram acertivos, mas no geral os usuários cogitaram melhorar o design dos protótipos, trazendo interfaces mais "atualizadas" com relação ao design. Além disso, 95% do usuários julgaram as tarefas efetivas e fáceis de serem realizadas.
+<div style="text-align: justify">
+    <p> Os protótipos em suma foram acertivos, mas no geral os usuários cogitaram melhorar o design dos protótipos, trazendo interfaces mais "atualizadas" com relação ao design. Além disso, 95% do usuários julgaram as tarefas efetivas e fáceis de serem realizadas.
+
+</p>
+</div>
+
 
 ## Histórico de Versão
 

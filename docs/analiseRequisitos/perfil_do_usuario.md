@@ -21,9 +21,10 @@ Para realizar as entrevistas para formação do perfil do usuário levamos em co
 
 ## Resultados das Entrevistas
 
-Os resultados das entrevistas foram de bastante importância para o projeto. Durante essas entrevistas os usuários compartilharam suas experiências, pensamentos e opiniões de maneira aberta e franca proporcionando uma visão mais clara sobre o site do BRB Mobilidade.
+Os resultados das entrevistas foram de bastante importância para o projeto. Durante essas entrevistas os usuários compartilharam suas experiências, pensamentos e opiniões de maneira aberta e franca proporcionando uma visão mais clara sobre o site do BRB Mobilidade. Com o objetivo de alcançar um melhor resultado foram utilizado uma amostra de 6 pessoas entrevistadas, com o objetivo de trazer uma maior coleta de informações 
 
 Abaixo estão algumas perguntas que foram feitas durante a entrevista:
+
 
 #### 1. O resultado da entrevista acerca da idade encontra-se logo a seguir:
 

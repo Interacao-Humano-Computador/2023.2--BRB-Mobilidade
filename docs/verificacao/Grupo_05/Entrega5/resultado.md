@@ -12,10 +12,10 @@ Este artefato tem como objetivo relatar como foi realizado e o resultado da veri
 
 Os artefatos a serem verificados são:
 
-- [Relato dos resultados do Story Board]()
-- [Relato dos resultados da análise de tarefas]()
-- [Planejamento da avaliação do protótipo de papel]()
-- [Planejamento do relato dos resultados do protótipo de papel]()
+- [Relato dos resultados do Story Board](/docs/designAvaliacao/resultadoStoryBoard.md)
+- [Relato dos resultados da análise de tarefas](/docs/designAvaliacao/RelatoResultAnaliseTar.md)
+- [Planejamento da avaliação do protótipo de papel](/docs/designAvaliacao/prototipo_papel/planejamento_ava.md)
+- [Planejamento do relato dos resultados do protótipo de papel](/docs/designAvaliacao/prototipo_papel/planejamentoResult.md)
 
 ## Checklists
 

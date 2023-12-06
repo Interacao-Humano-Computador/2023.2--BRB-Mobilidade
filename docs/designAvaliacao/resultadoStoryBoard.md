@@ -140,6 +140,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/FQhMAjCb-S4).
 
 <center>
 
+Tabela 5 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
+
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
 | 1 | O Storyboard está condizente com a tarefa do usuário? | (X) SIM <br> () NÃO  |

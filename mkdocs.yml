@@ -111,7 +111,18 @@ nav:
       - Entrega 5:
         - Planejamento: verificacao/grupo_06/entrega_5/planejamento.md
         - Resultado: verificacao/grupo_06/entrega_5/resultado.md
-
+  - Entrega Final:
+    - Site selecionado: entregaFinal/siteSelecionado.md
+    - Ciclo de vida: entregaFinal/cicloVida.md
+    - Planejamento dos recursos e das entregas (Cronograma): entregaFinal/cronogramaFinal.md
+    - Execução do projeto: entregaFinal/execuçãoProjeto.md
+    - Resultados alcançados: entregaFinal/resultadosAlcançados.md
+    - Ferramentas utilizadas: entregaFinal/ferramentas.md
+    - Tecnicas utilizadas: entregaFinal/tecnicas.md
+    - Artefatos criados: entregaFinal/artefatos.md
+    - Avaliações: entregaFinal/avaliações.md
+    - Verificações: entregaFinal/verificações.md
+    - Videos das entregas: entregaFinal/videosEntregas.md
   - Encontros: reunioes.md
 
 markdown_extensions:
