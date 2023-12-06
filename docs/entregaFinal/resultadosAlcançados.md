@@ -1,6 +1,6 @@
 ## Introdução
 
-É possível adquirir uma compreensão abrangente dos resultados que foram obtidos em conjunto, proporcionando uma visão detalhada das realizações do grupo ao longo do projeto. Ao considerar esses resultados, esta seção se propõe a analisar os objetivos e as metas alcançadas que vão além de desenvolver os conhecimento acerca dos princípios teóricos e práticos de interação humano-computador. 
+É possível adquirir uma compreensão abrangente dos resultados que foram obtidas em conjunto, proporcionando uma visão das realizações do grupo ao longo do projeto. Ao considerar esses resultados, esta seção se propõe a analisar os objetivos e as metas alcançadas que vão além de desenvolver os conhecimento acerca dos princípios teóricos e práticos de interação humano-computador. 
 
 ## Resultados
 
@@ -12,7 +12,7 @@
 
  - Desenvolver uma compreensão aprofundada da diversidade e acessibilidade, reconhecendo a importância desses elementos em diferentes interfaces. Levar em consideração públicos diversos, considerando suas habilidades, conhecimentos e necessidades individuais;
 
- - Cultivar uma consciência ética, abordando questões como privacidade, segurança e impactos sociais associados ao desenvolvimento de interfaces. Essa perspectiva ética contribui para uma abordagem responsável e reflexiva no campo da interação humano-computador.
+ - Cultivar uma consciência ética, abordando questões como privacidade, segurança e impactos sociais associados ao desenvolvimento de interfaces. Essa perspectiva ética contribui para uma abordagem responsável e reflexiva.
 
 
 
