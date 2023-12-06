@@ -82,4 +82,4 @@ Após revisão e correção do artefato Guia de Usabilidade, foi realizado uma g
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   02/12/2023   |   Criação do documento |  [Amanda](https://github.com/Amandaaaaabreu)| [Lucas]()|
+|    1.0   |   02/12/2023   |   Criação do documento |  [Amanda](https://github.com/Amandaaaaabreu)| [Lucas](https://github.com/lucaslobao-18)|

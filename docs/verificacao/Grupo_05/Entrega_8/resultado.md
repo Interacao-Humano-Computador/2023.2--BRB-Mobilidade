@@ -104,7 +104,7 @@ O artefato a ser verificado é:
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   03/12/2023   |   Criação do documento |[Juan Pablo](https://github.com/Juan-Ricarte)  | []() |
+|    1.0   |   03/12/2023   |   Criação do documento |[Juan Pablo](https://github.com/Juan-Ricarte)  | [Lucas Lobão](https://github.com/lucaslobao-18)  |
 
 ## Bibliografia
 

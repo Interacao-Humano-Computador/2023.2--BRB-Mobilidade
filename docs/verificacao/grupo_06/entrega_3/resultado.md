@@ -156,5 +156,5 @@ Essas considerações finais visam ressaltar os pontos de destaque na verificaç
 
  Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   14/11/2023   |   Criação do documento |  [Artur Jackson](https://github.com/artur-jack)| [Lucas]()|
-|    1.1   |   14/11/2023   |   Erros identificado e considerações finais |  [Artur Jackson](https://github.com/artur-jack)| [Lucas]()|
+|    1.0   |   14/11/2023   |   Criação do documento |  [Artur Jackson](https://github.com/artur-jack)| [Lucas Lobão](https://github.com/lucaslobao-18) |
+|    1.1   |   14/11/2023   |   Erros identificado e considerações finais |  [Artur Jackson](https://github.com/artur-jack)| [Lucas Lobão](https://github.com/lucaslobao-18) |
