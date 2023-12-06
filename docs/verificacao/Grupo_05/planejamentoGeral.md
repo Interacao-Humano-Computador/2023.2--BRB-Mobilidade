@@ -31,7 +31,7 @@ Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção 
 
 |Data da veriicação|Documento|Avaliador|
 |------------------|---------|---------|
-|-|entrega 1 |-|
+|13/11/2023|entrega 1 |Felipe Hansen|
 |13/11/2023 |entrega 2 |Amanda Abreu|
 |13/11/2023|entrega 3 |Artur Jackson|
 |13/11/2023|entrega 4 |Fause Carlos e Juan Pablo|

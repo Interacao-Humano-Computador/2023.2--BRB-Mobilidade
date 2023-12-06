@@ -23,7 +23,7 @@ Para o desenvolvimento do projeto, é fundamental destacar as ferramentas que es
 | <img src="https://infograph.venngage.com/media/v2_img/logo_blue.svg" width=60>   | Venngage, ferramenta usada para criar gráficos. |
 
 <div style= "text-align: center">
-    <p>Tabela 1: Tabela de ferramentas utilizadas no projeto (Fonte: autor, 2023)</p> 
+    <p>Tabela 1: Tabela de ferramentas utilizadas no projeto (Fonte: Amanda, 2023)</p> 
 </div>
 <br>
 É importante ressaltar que essas são apenas algumas das ferramentas que utilizaremos ao longo do projeto. À medida que avançamos, avaliaremos continuamente as necessidades da equipe e do projeto, adaptando nossas escolhas de ferramentas para garantir uma execução eficaz e eficiente.

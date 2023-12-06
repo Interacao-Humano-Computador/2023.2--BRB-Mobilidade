@@ -60,12 +60,20 @@ Esta tarefa, liberar cartão, tem por objetivo permitir que o usuário libere o 
     <p>Figura 5: Diagrama CTT da tarefa de liberar cartão (Fonte: Lucas Andrade, 2023)</p>
 </div>
 
+## Extensão de acesso
+
+Esta tarefa, Extensão de acesso, tem por objetivo realizar uma solicitação para que o usuário obtenha um número maior de acessos por mês, e também para aumentar limite de acessos em um único dia.
+
+<div style="text-align: center">
+    <img src="https://github.com/Interacao-Humano-Computador/2023.2--BRB-Mobilidade/blob/main/docs/assets/diagramas_ctt/extensao_acesso_ctt.png?raw=true">
+    <p>Figura 6: Diagrama CTT da tarefa de Extensão de acesso (Fonte: Amanda, 2023)</p>
+</div>
+
 ## Histórico de versão
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- |-----------------------------------|
 |   1.0   |   15/10/2023   |   Adicionando introdução e diagramas | [Felipe Hansen](https://github.com/FHansen98) | [Arthur Sousa](https://github.com/arthurrsousa) |
-
 
 ## Bibliografia
 
