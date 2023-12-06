@@ -27,6 +27,8 @@ A tabela abaixo está contendo todas as perguntas necessárias para realizar a e
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (&emsp;) SIM <br> (&emsp;) NÃO |
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (&emsp;) SIM <br> (&emsp;) NÃO |
 
+Tabela 1 - Escopo Entrevista (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+
 ## Cronograma
 
 A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas foram realizadas.
@@ -42,6 +44,8 @@ A seguir na tabela 2 é mostrado o cronograma executado de comos as entrevistas 
 |Fause|Ana Julia|03/11/2023|13:30 - 13:33|Microsoft Teams|
 |Juan|Yuri Ricarte|04/11/2023|12:00-12:10|Casa do Juan(Ceilândia)|
 
+Tabela 2 - Cronograma (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+
 ## 1. Troca de Instituição - Artur Jackson
 
 Para assistir a entrevista clique [aqui](https://youtu.be/bgkajBIfjSo).
@@ -55,6 +59,8 @@ Para assistir a entrevista clique [aqui](https://youtu.be/bgkajBIfjSo).
 | 4 | Ocupação | Estudante |
 | 5 | Experiência com o BRB mobilidade | Já utilizava o passe estudantil, mas começou a usar o site no ensino médio |
 
+Tabela 3 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
 
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
@@ -64,6 +70,8 @@ Para assistir a entrevista clique [aqui](https://youtu.be/bgkajBIfjSo).
 | 3 | As ações realizadas na narrativa seguem uma sequencia lógica? | (X) SIM <br> (  ) NÃO |
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (X) SIM <br> (  ) NÃO|
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (X) SIM <br> (  ) NÃO |
+
+Tabela 4 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 
 ### Feedback do Usuário
@@ -85,6 +93,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/FQhMAjCb-S4).
 | 4 | Ocupação |  Estagiário |
 | 5 | Experiencia com o BrB Mobilidade | Emissão do cartão, emissão de segunda via |
 
+Tabela 5 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
+
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
 | 1 | O Storyboard está condizente com a tarefa do usuário? | (X) SIM <br> () NÃO  |
@@ -93,6 +104,8 @@ Para assistir a entrevista clique [aqui](https://youtu.be/FQhMAjCb-S4).
 | 4 | As ações realizadas na narrativa seguem uma sequencia lógica? | (X) SIM <br> (  ) NÃO |
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (X) SIM <br> (  ) NÃO|
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (X) SIM <br> (  ) NÃO |
+
+Tabela 6 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ### Feedback do Usuário
 
@@ -113,6 +126,8 @@ Para assistir a entrevista clique [aqui]().
 | 4 | Ocupação | Estudante e Assistente Farmacêutico  |
 | 5 | Experiência com o BrB Mobilidade | Emissão do cartão e extensão de acesso |
 
+Tabela 7 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
 
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
@@ -122,6 +137,9 @@ Para assistir a entrevista clique [aqui]().
 | 4 | As ações realizadas na narrativa seguem uma sequencia lógica? | (X) SIM <br> (  ) NÃO |
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (X) SIM <br> (  ) NÃO|
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (X) SIM <br> (  ) NÃO |
+
+Tabela 8 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
 
 ### Feedback do Usuário
 
@@ -140,6 +158,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/3NlSo9umfoY).
 | 4 | Ocupação |  Estudante |
 | 5 | Experiencia com o BrB Mobilidade |Emissão do cartão, emissão de segunda via, pagamento |
 
+Tabela 9 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
+
 
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
@@ -149,6 +170,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/3NlSo9umfoY).
 | 4 | As ações realizadas na narrativa seguem uma sequencia lógica? | (X) SIM <br> (  ) NÃO |
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (X) SIM <br> (  ) NÃO|
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (X) SIM <br> (  ) NÃO |
+
+Tabela 10 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
 
 ### Feedback do Usuário
 
@@ -168,6 +192,9 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=Yy1atzt
 | 4 | Ocupação | Estudante |
 | 5 | Experiencia com o BrB Mobilidade | Utiliza o site a mais de 5 anos |
 
+Tabela 11 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
+
 
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
@@ -177,6 +204,8 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=Yy1atzt
 | 4 | As ações realizadas na narrativa seguem uma sequencia lógica? | (X) SIM <br> (  ) NÃO |
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (X) SIM <br> (  ) NÃO|
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (X) SIM <br> (  ) NÃO |
+
+Tabela 12 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ###  Feedback do Usuário
 
@@ -191,7 +220,6 @@ Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/
 Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=SipOMmy-k10).
 
 
-
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
 | 1  | Nome  | Raquel Alves |
@@ -200,6 +228,8 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=SipOMmy
 | 4 | Ocupação | Estudante |
 | 5 | Experiência com o BRB mobilidade | Pedir 2°via do cartão |
 
+Tabela 13 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
 
 
 |   n°   | Pergunta | Resposta |
@@ -211,7 +241,9 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=SipOMmy
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (X) SIM <br> (  ) NÃO|
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (X) SIM <br> (  ) NÃO |
 
+Tabela 14 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
+###  Feedback do Usuário
 
 Ela fez uma observação sobre usuários com diferentes idades poderiam ter um raciocínio diferente
 
@@ -222,7 +254,6 @@ Para ver o termo de consentimento clique [aqui](https://drive.google.com/file/d/
 Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=fRzFckRCtn0).
 
 
-
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
 | 1  | Nome  | Rebeca Alves  |
@@ -230,6 +261,9 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=fRzFckR
 | 3  | Grau de escolaridade  | Graduação incompleta |
 | 4 | Ocupação | Bombeira Civil |
 | 5 | Experiência com o BRB mobilidade | Solicitar o cartão |
+
+Tabela 14 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
 
 ### Perguntas fechadas
 
@@ -241,6 +275,8 @@ Para assistir a entrevista clique [aqui](https://www.youtube.com/watch?v=fRzFckR
 | 4 | As ações realizadas na narrativa seguem uma sequencia lógica? | (X) SIM <br> (  ) NÃO |
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (X) SIM <br> (  ) NÃO|
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (X) SIM <br> (  ) NÃO |
+
+Tabela 15 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ### Feedback do Usuário
 
@@ -260,6 +296,9 @@ Para assistir a entrevista clique [aqui](https://youtu.be/AHf_bUVU_ps).
 |   | Ocupação |  Gerente de Logística |
 |   | Experiencia com o BrB Mobilidade | Emissão de 2° via e Verificar Saldo |
 
+Tabela 16 - Perguntas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+ <br> <br>
+
 |   n°   | Pergunta | Resposta |
 |--------|-----------|----------|
 | 2 | O Storyboard possui embasamento na realidade? | (X) SIM <br> (  ) NÃO |
@@ -267,6 +306,8 @@ Para assistir a entrevista clique [aqui](https://youtu.be/AHf_bUVU_ps).
 | 4 | As ações realizadas na narrativa seguem uma sequencia lógica? | (X) SIM <br> (  ) NÃO |
 | 5 | O storyboard permite a identificação de personagens, objetos e cenários? | (X) SIM <br> (  ) NÃO|
 | 6 | Os desenhos e o contexto são claros e de fácil compreensão? | (X) SIM <br> (  ) NÃO |
+
+Tabela 17 - Respostas (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 ### Feedback do Usuário
 

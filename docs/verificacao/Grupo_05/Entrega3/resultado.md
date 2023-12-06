@@ -14,6 +14,9 @@ O objetivo deste documento é apresentar a verificação dos artefatos produzido
 |  2 |São identificadas as limitações da plataforma? | Sim |
 |  3 |São identificadas as funcionalidades da plataforma ? | Sim |
 
+Tabela 1 - Checklist (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+
+
 
 ### Checklist para o artefato de Principios Gerais
 
@@ -27,6 +30,8 @@ O objetivo deste documento é apresentar a verificação dos artefatos produzido
 |  6 | Os princípios gerais do projeto contém projeto para erros?| Sim |
 |  7 | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?| Sim |
 |  8 | Os princípios gerais do projeto contém visibilidade e reconhecimento ?| Sim |
+
+Tabela 2 - Checklist (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 
 ### Checklist para o artefato Guia de Estilo 
@@ -44,6 +49,8 @@ O objetivo deste documento é apresentar a verificação dos artefatos produzido
 | 9 |Existe um tópico de Acessibilidade?| Sim|
 | 10 |Existe um tópico de Compatibilidade?| Sim|
 
+Tabela 3 - Checklist (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
+
 
 ### Checklist para o artefato de Metas de Usabilidade.
 | ID |  Criterios  | Status |
@@ -51,6 +58,8 @@ O objetivo deste documento é apresentar a verificação dos artefatos produzido
 |  1 | São apresentados quais fatores de qualidade de uso serão priorizados no projeto? | Sim|
 |  2 |As metas foram definidas através do perfil de usuário? | Não|
 |  3 |Foram definidas as usabilidades em 6 metas? | Sim|
+
+Tabela 4 - Checklist (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
 
 ## Resultados Finais 
@@ -63,6 +72,8 @@ No vídeo que pode ser acessado por este [link](https://youtu.be/wBa-bEDmB0E) fo
 ## Correções
 
 Após a revisão dos problemas encontrados nos artefatos, fizemos as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/rMQlnMOY-CU)
+
+Após revisão e correção do artefato Guia de Usabilidade, foi realizado uma gravação com o Lucas (responsável pelo artefato) apresentando o que faltava e as devidas correções. A gravação pode ser acessadada através deste [vídeo](https://youtu.be/GPeijIyNAr0)
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.

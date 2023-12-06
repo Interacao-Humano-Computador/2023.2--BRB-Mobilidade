@@ -32,7 +32,7 @@ Com base no que foi estudado em sala de aula, optamos por utilizar a inspeção 
 |Data da veriicação|Documento|Avaliador|
 |------------------|---------|---------|
 |-|entrega 1 |-|
-|-|entrega 2 |-|
+|13/11/2023 |entrega 2 |Amanda Abreu|
 |-|entrega 3 |-|
 |-|entrega 4 |-|
 |-|entrega 5 |-|
