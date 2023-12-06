@@ -767,7 +767,7 @@ As Tabelas 12 e 13 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>09/11/2023<br> 11/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -777,17 +777,17 @@ As Tabelas 12 e 13 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega2/planejamento/">Verificação etapa 2 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#historico-de-versoes">Verificação etapa 5 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_3/planejamento/">Verificação etapa 3 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_4/Planejamento1Artefato04/">Verificação etapa 4 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/planejamento/">Verificação etapa 1 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_4/Planejamento1Artefato04/">Verificação etapa 4 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/planejamento/">Verificação etapa 5 grupo 6</a>; <br></li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>11/11/2023<br> 12/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -798,12 +798,12 @@ As Tabelas 12 e 13 apresentam, respectivamente, o cronograma planejado e o execu
     <tr>
         <td>Atividade revisada(s).</td>
         <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega2/planejamento/">Verificação etapa 2 grupo 6</a>; <br></li><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_4/Planejamento1Artefato04/">Verificação etapa 4 grupo 6</a>; <br></li></ul></td>
         <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/planejamento/">Verificação etapa 5 grupo 6</a>; <br></li></ul></td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/planejamento/">Verificação etapa 1 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_3/planejamento/">Verificação etapa 3 grupo 6</a>; <br></li></ul></td>
     </tr>
 </table>
 
@@ -832,7 +832,7 @@ As Tabelas 12 e 13 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>09/11/2023<br> 11/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -842,17 +842,17 @@ As Tabelas 12 e 13 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega2/planejamento/">Verificação etapa 2 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#historico-de-versoes">Verificação etapa 5 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_3/planejamento/">Verificação etapa 3 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_4/Planejamento1Artefato04/">Verificação etapa 4 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/planejamento/">Verificação etapa 1 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_4/Planejamento1Artefato04/">Verificação etapa 4 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/planejamento/">Verificação etapa 5 grupo 6</a>; <br></li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>11/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -863,12 +863,12 @@ As Tabelas 12 e 13 apresentam, respectivamente, o cronograma planejado e o execu
     <tr>
         <td>Atividade revisada(s).</td>
         <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega2/planejamento/">Verificação etapa 2 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_4/Planejamento1Artefato04/">Verificação etapa 4 grupo 6</a>; <br></li><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/planejamento/">Verificação etapa 5 grupo 6</a>; <br></li></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/planejamento/">Verificação etapa 1 grupo 6</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_3/planejamento/">Verificação etapa 3 grupo 6</a>; <br></li></ul></td>
     </tr>
 </table>
 
@@ -902,7 +902,7 @@ As Tabelas 14 e 15 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>16/11/2023<br>18/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -912,17 +912,17 @@ As Tabelas 14 e 15 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/resultadoPrototipoBF/">Relato do resultado Protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/resultadoPrototipoBF/">Relato do resultado Protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_result/">Planejamento relato do resultado Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/">Planejamento avaliação Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/">Planejamento avaliação Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/">Planejamento avaliação Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_result/">Planejamento relato do resultado Protótipo de alta fidelidade</a>; <br></li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>18/11/2023<br>19/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -932,12 +932,12 @@ As Tabelas 14 e 15 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade revisada(s).</td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/">Planejamento avaliação Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_result/">Planejamento relato do resultado Protótipo de alta fidelidade</a>; <br></li></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/resultadoPrototipoBF/">Relato do resultado Protótipo de papel</a>; <br></li></ul></td>
         <td><ul></ul></td>
     </tr>
 </table>
@@ -967,7 +967,7 @@ As Tabelas 14 e 15 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>18/11/2023<br>21/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -977,17 +977,17 @@ As Tabelas 14 e 15 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/resultadoPrototipoBF/">Relato do resultado Protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/resultadoPrototipoBF/">Relato do resultado Protótipo de papel</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_result/">Planejamento relato do resultado Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/">Planejamento avaliação Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/">Planejamento avaliação Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/">Planejamento avaliação Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_result/">Planejamento relato do resultado Protótipo de alta fidelidade</a>; <br></li>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>21/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -997,12 +997,12 @@ As Tabelas 14 e 15 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade revisada(s).</td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/">Planejamento avaliação Protótipo de alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_result/">Planejamento relato do resultado Protótipo de alta fidelidade</a>; <br></li></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/resultadoPrototipoBF/">Relato do resultado Protótipo de papel</a>; <br></li></ul></td>
         <td><ul></ul></td>
     </tr>
 </table>
@@ -1036,7 +1036,7 @@ As Tabelas 16 e 17 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>23/11/2023<br>24/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1046,17 +1046,17 @@ As Tabelas 16 e 17 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>24/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1067,7 +1067,7 @@ As Tabelas 16 e 17 apresentam, respectivamente, o cronograma planejado e o execu
     <tr>
         <td>Atividade revisada(s).</td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
@@ -1101,7 +1101,7 @@ As Tabelas 16 e 17 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>24/11/2023<br>28/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1111,17 +1111,17 @@ As Tabelas 16 e 17 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>28/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1131,13 +1131,13 @@ As Tabelas 16 e 17 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade revisada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
+        <td><ul><td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/">Relato do resultado Protótipo de Alta fidelidade</a>; <br></li></ul></td>
     </tr>
 </table>
 
@@ -1170,7 +1170,7 @@ As Tabelas 18 e 19 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>28/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1180,17 +1180,17 @@ As Tabelas 18 e 19 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega4/resultado/">Verificação etapa 4</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/">Verificação etapa 5</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/">Verificação etapa 7</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega2/resultado/">Verificação etapa 2</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/">Verificação etapa 1</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega3/resultado/">Verificação etapa 3</a>; <br></li></ul></td>
         <td><ul></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>29/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1200,13 +1200,13 @@ As Tabelas 18 e 19 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade revisada(s).</td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega2/resultado/">Verificação etapa 2</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/">Verificação etapa 1</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega4/resultado/">Verificação etapa 4</a>; <br></li></ul></td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega3/resultado/">Verificação etapa 3</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/">Verificação etapa 5</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/">Verificação etapa 7</a>; <br></li></ul></td>
     </tr>
 </table>
 
@@ -1235,7 +1235,7 @@ As Tabelas 18 e 19 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>02/12/2023<br>03/12/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1245,17 +1245,17 @@ As Tabelas 18 e 19 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega3/resultado/">Verificação etapa 3</a>; <br></li><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega4/resultado/">Verificação etapa 4</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega3/resultado/">Verificação etapa 3</a>; <br></li><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega4/resultado/">Verificação etapa 4</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/">Verificação etapa 5</a>; <br></li><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/">Verificação etapa 7</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/">Verificação etapa 1</a>; <br></li><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega2/resultado/">Verificação etapa 2</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/">Verificação etapa 1</a>; <br></li><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega2/resultado/">Verificação etapa 2</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega_8/resultado/">Verificação etapa 8</a>; <br></li></ul></td>
+        <td><ul><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/">Verificação etapa 5</a>; <br></li><li><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/">Verificação etapa 7</a>; <br></li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>03/12/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1304,7 +1304,7 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td>-</td>
+        <td>30/11/2023<br>03/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1314,17 +1314,17 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li>Correção dos artefatos</li><li>Criação do documento final</li></ul></td>
+        <td><ul><li>Correção dos artefatos</li><li>Criação do documento final</li></ul></td>
+        <td><ul><li>Correção dos artefatos</li><li>Criação do documento final</li></ul></td>
+        <td><ul><li>Correção dos artefatos</li><li>Criação do documento final</li></ul></td>
+        <td><ul><li>Correção dos artefatos</li><li>Criação do documento final</li></ul></td>
+        <td><ul><li>Correção dos artefatos</li><li>Criação do documento final</li></ul></td>
+        <td><ul><li>Correção dos artefatos</li><li>Criação do documento final</li></ul></td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td>-</td>
+        <td>03/11/2023</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -1335,10 +1335,10 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
     <tr>
         <td>Atividade revisada(s).</td>
         <td><ul></ul></td>
+        <td><ul><li>Correção dos artefatos</li></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
-        <td><ul></ul></td>
-        <td><ul></ul></td>
+        <td><ul><li>Criação do documento final</li></ul></td>
         <td><ul></ul></td>
         <td><ul></ul></td>
     </tr>
@@ -1368,28 +1368,36 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
         <td><b><a href = "https://github.com/lucaslobao-18">Lucas Lobão</b></td>
     </tr>
     <tr>
-        <td><b>Execução</b></td>
+        <td><b>Período de Desenvolvimento</b></td>
         <td></td>
         <td></td>
         <td></td>
-        <td>Início: <b>01/07/2023</b></td>
-        <td>Fim: <br><b>03/07/2023</b></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
-        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <br> <a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a>; <br> <a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
-        <td><a href = "../site-selecionado">Site Selecionado</a>; <br> <a href = "../sintese-apresentacao">Síntese apresentações</a>.</td>
-        <td><a href = "../../verificacao/grupo/etapa5/prototipo-de-papel">Verificação Protótipo de Papel</a>; <br> <a href = "../ciclo-de-vida">Ciclo de vida</a>; <br> <a href = "../sintese-verificacoes">Síntese verificação</a>.</td>
-        <td><a href = "../sintese-avaliacao">Síntese das avaliações</a>; <a href = "../resultados-execucao">Resultados do projeto</a>.</td>
-        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>.</td>
-        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>.</td>
+        <td>Atividade realizada(s).</td>
+        <td><a href = "../site-selecionado">Site Selecionado</a>; <br><a href = "../sintese-avaliacao">Síntese das avaliações</a>;</td>
+        <td><a href = "../artefatos-criados">Artefatos criados</a>.<br></td>
+        <td><a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a></a>; <br> <a href = "../sintese-apresentacao">Síntese apresentações</a></td>
+        <td><a href = "../ciclo-de-vida">Ciclo de vida <a href = "../resultados-execucao">Resultados do projeto</a><br><a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
+        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> </td>
+        <td><a href = "../sintese-apresentacao">Síntese apresentações</a><br><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br></td>
+        <td><a href = "../execucao-projeto">Execução do Projeto</a>.</td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
         <td></td>
         <td></td>
         <td></td>
-        <td>Início: <b>02/07/2023</b></td>
-        <td>Fim: <br><b>04/07/2023</b></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>; <br> <a href = "../resultados-execucao">Resultados do projeto</a>; <br> <a href = "../sintese-avaliacao">Síntese das avaliações</a>.</td>
@@ -1409,7 +1417,7 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
 
 ## Conclusão
 
-Isso posto, pode-se inferir que, ao analisar o cronograma como um todo, as tarefas foram bem distribuídas entre todos os integrantes. Além disso, todos os integrantes participaram de ao menos um artefato em cada entrega. Por outra via, as etapas finais do projeto não apresentaram uma boa distribuição dos revisores.
+Pode concluir se que em relação ao cronograma planejado e o executado, ao analisar o cronograma como um todo, as tarefas foram bem distribuídas entre todos os integrantes. Além disso, todos os integrantes participaram de ao menos um artefato em cada entrega. Por outra lado, algumas vezes passamos dos limites planejados para o desenvolvimento dos artefatos.
 
 ## Histórico de Versão
 
