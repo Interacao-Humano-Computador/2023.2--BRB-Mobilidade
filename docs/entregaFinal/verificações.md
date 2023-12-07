@@ -40,11 +40,11 @@
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|   [Planejamento Verificação Etapa 1](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/) | [Felipe Hansen](https://github.com/FHansen98)|    |
-|   [Verificação do Cronograma](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/#checklist-para-o-artefato-dos-cronogramas)       |   [Felipe Hansen](https://github.com/FHansen98)     |            |
-|   [Verificação das Ferramentas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/#checklist-para-o-artefato-das-ferramentas/)       | [Felipe Hansen](https://github.com/FHansen98)       |      |
-|   [Verificação do Processo de Design](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/#checklist-para-o-artefato-do-processo-de-design)       | [Felipe Hansen](https://github.com/FHansen98)  |       |
-|   [Verificação do Site Escolhido](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/#checklist-para-os-artefatos-dos-sitios-avaliados)       | [Felipe Hansen](https://github.com/FHansen98)   |         |
+|   [Planejamento Verificação Etapa 1](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/) | [Felipe Hansen](https://github.com/FHansen98)| [Juan Pablo](https://github.com/Juan-Ricarte)   |
+|   [Verificação do Cronograma](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/#checklist-para-o-artefato-dos-cronogramas)       |   [Felipe Hansen](https://github.com/FHansen98)     |   [Juan Pablo](https://github.com/Juan-Ricarte)         |
+|   [Verificação das Ferramentas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/#checklist-para-o-artefato-das-ferramentas/)       | [Felipe Hansen](https://github.com/FHansen98)       | [Juan Pablo](https://github.com/Juan-Ricarte)     |
+|   [Verificação do Processo de Design](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/#checklist-para-o-artefato-do-processo-de-design)       | [Felipe Hansen](https://github.com/FHansen98)  | [Juan Pablo](https://github.com/Juan-Ricarte)      |
+|   [Verificação do Site Escolhido](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega1/resultado/#checklist-para-os-artefatos-dos-sitios-avaliados)       | [Felipe Hansen](https://github.com/FHansen98)   |    [Juan Pablo](https://github.com/Juan-Ricarte)     |
 
  **Tabela 1**- Síntese dos artefatos de verificação da Etapa 1
 
@@ -123,12 +123,12 @@ _Fonte: [Juan Pablo](https://github.com/Juan-Ricarte), 2023._
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|   [Planejamento Verificação Etapa 5](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/) |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |     |
-|   [Verificação do Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#planejamento-da-avaliacao-do-prototipo-de-papel)       |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |      |
-|   [Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#planejamento-do-relato-dos-resultados-da-avaliacao-do-prototipo-de-papel)      |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)   |     |
-|   [Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#relato-dos-resultados-da-analise-de-tarefas)       |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)  |         |
-|   [Verificação do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#relato-dos-resultados-do-storyboard)       |   [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)      |          |
-|   [Verificação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#link-para-os-videos-de-verificacao-e-documento-com-as-verificacao-individuais)       |  [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)     |       |
+|   [Planejamento Verificação Etapa 5](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/) |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |   [Juan Pablo](https://github.com/Juan-Ricarte)  |
+|   [Verificação do Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#planejamento-da-avaliacao-do-prototipo-de-papel)       |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |[Juan Pablo](https://github.com/Juan-Ricarte)      |
+|   [Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#planejamento-do-relato-dos-resultados-da-avaliacao-do-prototipo-de-papel)      |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)   |   [Juan Pablo](https://github.com/Juan-Ricarte)  |
+|   [Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#relato-dos-resultados-da-analise-de-tarefas)       |[Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)  |   [Juan Pablo](https://github.com/Juan-Ricarte)      |
+|   [Verificação do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#relato-dos-resultados-do-storyboard)       |   [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)      |    [Juan Pablo](https://github.com/Juan-Ricarte)      |
+|   [Verificação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega5/resultado/#link-para-os-videos-de-verificacao-e-documento-com-as-verificacao-individuais)       |  [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18)     |  [Juan Pablo](https://github.com/Juan-Ricarte)     |
 
 **Tabela 5**- Síntese dos artefatos de verificação Etapa 5
 
@@ -142,10 +142,10 @@ _Fonte: [Juan Pablo](https://github.com/Juan-Ricarte), 2023._
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|   [Planejamento Verificação Etapa 7](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/) |  [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |   |
-|   [Verificação do Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/#planejamento-da-avaliacao-do-prototipo-de-alta-fidelidade)       | [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |   |
-|   [Verificação do Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/#planejamento-do-relato-dos-resultados-da-avaliacao-do-prototipo-de-alta-fidelidade)      |  [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |   |
-|   [Verificação do Relato dos Resultados da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/#relato-dos-resultados-do-prototipo-de-papel)      |   [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |   |
+|   [Planejamento Verificação Etapa 7](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/) |  [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |[Juan Pablo](https://github.com/Juan-Ricarte)|
+|   [Verificação do Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/#planejamento-da-avaliacao-do-prototipo-de-alta-fidelidade)       | [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |[Juan Pablo](https://github.com/Juan-Ricarte)   |
+|   [Verificação do Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/#planejamento-do-relato-dos-resultados-da-avaliacao-do-prototipo-de-alta-fidelidade)      |  [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |  [Juan Pablo](https://github.com/Juan-Ricarte) |
+|   [Verificação do Relato dos Resultados da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/Grupo_05/Entrega7/resultado/#relato-dos-resultados-do-prototipo-de-papel)      |   [Artur Jackson](https://github.com/artur-jack) e [Lucas Lobão](https://github.com/lucaslobao-18) |  [Juan Pablo](https://github.com/Juan-Ricarte) |
 
 **Tabela 6**- Síntese dos artefatos de verificação Etapa 7
 
@@ -178,11 +178,11 @@ _Fonte: [Juan Pablo](https://github.com/Juan-Ricarte), 2023._
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|   [Planejamento Verificação Etapa 1](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/) |[Felipe Hansen](https://github.com/FHansen98) |     |
-|   [Verificação do Cronograma](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/#cronograma)       | [Felipe Hansen](https://github.com/FHansen98) |     |
-|   [Verificação das Ferramentas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/#ferramentas)    |[Felipe Hansen](https://github.com/FHansen98)|       |
-|   [Verificação do Processo de Design](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/#processo-de-design)       |[Felipe Hansen](https://github.com/FHansen98)|     |
-|   [Verificação do Site Escolhido](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/#sitios-avaliados)            | [Felipe Hansen](https://github.com/FHansen98)|     |
+|   [Planejamento Verificação Etapa 1](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/) |[Felipe Hansen](https://github.com/FHansen98) |   [Lucas Lobão](https://github.com/lucaslobao-18)     |
+|   [Verificação do Cronograma](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/#cronograma)       | [Felipe Hansen](https://github.com/FHansen98) |     [Lucas Lobão](https://github.com/lucaslobao-18)   |
+|   [Verificação das Ferramentas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/#ferramentas)    |[Felipe Hansen](https://github.com/FHansen98)|     [Lucas Lobão](https://github.com/lucaslobao-18)     |
+|   [Verificação do Processo de Design](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/#processo-de-design)       |[Felipe Hansen](https://github.com/FHansen98)|    [Lucas Lobão](https://github.com/lucaslobao-18)    |
+|   [Verificação do Site Escolhido](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_1/resultado/#sitios-avaliados)            | [Felipe Hansen](https://github.com/FHansen98)|    [Lucas Lobão](https://github.com/lucaslobao-18)    |
 
 **Tabela 8**- Síntese dos artefatos de verificação Etapa 1
 
@@ -252,11 +252,11 @@ _Fonte: [Juan Pablo](https://github.com/Juan-Ricarte), 2023._
 
 | Artefato | Autor(es) | Revisor(es) |
 |----------|-----------|-------------|
-|   [Planejamento Verificação Etapa 5](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/planejamento/) | [Lucas Lobão](https://github.com/lucaslobao-18)| []()|
-|   [Verificação do Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#resultado-da-inspecao)    |  [Lucas Lobão](https://github.com/lucaslobao-18)| []()|
-|   [Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#resultado-da-inspecao)      | [Lucas Lobão](https://github.com/lucaslobao-18)| []()|  
-|   [Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#resultado-da-inspecao)       |  [Lucas Lobão](https://github.com/lucaslobao-18)| []()|
-|   [Verificação do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#resultado-da-inspecao)       |   [Lucas Lobão](https://github.com/lucaslobao-18)| []()|
+|   [Planejamento Verificação Etapa 5](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/planejamento/) | [Lucas Lobão](https://github.com/lucaslobao-18)| [Fause Carlos](https://github.com/FauseSkyWalker)  |
+|   [Verificação do Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#resultado-da-inspecao)    |  [Lucas Lobão](https://github.com/lucaslobao-18)| [Fause Carlos](https://github.com/FauseSkyWalker)  |
+|   [Verificação do Planejamento do Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#resultado-da-inspecao)      | [Lucas Lobão](https://github.com/lucaslobao-18)| [Fause Carlos](https://github.com/FauseSkyWalker)  |  
+|   [Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#resultado-da-inspecao)       |  [Lucas Lobão](https://github.com/lucaslobao-18)| [Fause Carlos](https://github.com/FauseSkyWalker)  |
+|   [Verificação do Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/verificacao/grupo_06/entrega_5/resultado/#resultado-da-inspecao)       |   [Lucas Lobão](https://github.com/lucaslobao-18)| [Fause Carlos](https://github.com/FauseSkyWalker)  |
 
 **Tabela 12**- Síntese dos artefatos de verificação Etapa 5
 
@@ -274,7 +274,7 @@ _Fonte: [Juan Pablo](https://github.com/Juan-Ricarte), 2023._
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   06/12/2023   |   Criação do documento |[Juan Pablo](https://github.com/Juan-Ricarte)  | []() |
+|    1.0   |   06/12/2023   |   Criação do documento |[Juan Pablo](https://github.com/Juan-Ricarte)  | [Artur Jackson](https://github.com/artur-jack) |
 
 
 

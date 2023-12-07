@@ -13,7 +13,7 @@ A Tabela 1 abrange todas as avaliações realizadas ao longo do projeto
 | Avaliação do Storyboard|  Entrevista|Amanda, Artur Jackson, Arthur Rodrigues, Juan, Fause, Felipe  e Lucas|8|[Resultado Avaliação Storyboard](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/resultadoStoryBoard/)|
 | Avaliação Análise de Tarefas|Entrevista|Amanda, Artur Jackson, Arthur Rodrigues, Juan, Fause, Felipe  e Lucas|8|[Resultado da Avaliação Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/RelatoResultAnaliseTar/)|
 | Avaliação do Protótipo de Papel|Entrevista|Amanda, Artur Jackson, Arthur Rodrigues, Juan, Fause, Felipe  e Lucas|7|[Relato Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/resultadoPrototipoBF/)|
-|Avaliação do Protótipo de Alta Fidelidade |Teste de usabilidade|Amanda, Artur Jackson, Arthur Rodrigues, Juan, Fause, Felipe  e Lucas|9|[Relato Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/)|
+|Avaliação do Protótipo de Alta Fidelidade |Teste de usabilidade|Amanda, Artur Jackson, Arthur Rodrigues, Juan, Fause, Felipe  e Lucas|9|[Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/prototipo_Alta_Fidelidade/)|
 
 Tabela 1 - Síntese das avaliações (Fonte - [Amanda Abreu](https://github.com/Amandaaaaabreu) 2023)
 
