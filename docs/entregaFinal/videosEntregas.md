@@ -230,7 +230,7 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 <h1>Etapa Final</h1>
 </summary>
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/BEF4VuhxAfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <h3>Participantes:</h3>
 
@@ -248,4 +248,4 @@ Este documento tem como objetivo apresentar de forma sintetizada os vídeos das 
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   06/12/2023   |   Criação do documento | [Artur Jackson](https://github.com/artur-jack)| []() |
+|    1.0   |   06/12/2023   |   Criação do documento | [Artur Jackson](https://github.com/artur-jack)| [Juan Pablo](https://github.com/Juan-Ricarte) |

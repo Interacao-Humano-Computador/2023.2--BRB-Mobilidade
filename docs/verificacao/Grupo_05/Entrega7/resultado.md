@@ -143,7 +143,7 @@ Pontos específicos:
 
 ## Correções
 
-Após a revisão dos problemas encontrados nos artefatos, foram feitas as devidas correções que podem ser acessadas neste [vídeo]()
+Após a revisão dos problemas encontrados nos artefatos, foram feitas as devidas correções que podem ser acessadas neste [vídeo](https://youtu.be/U9grgMXa85k)
 
 ## Histórico de Versão
 

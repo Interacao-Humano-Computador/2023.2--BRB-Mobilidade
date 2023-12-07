@@ -1369,7 +1369,7 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td><b>Período de Desenvolvimento</b></td>
-        <td></td>
+        <td>06/12/2023</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1380,17 +1380,17 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
     </tr>
     <tr>
         <td>Atividade realizada(s).</td>
-        <td><a href = "../site-selecionado">Site Selecionado</a>; <br><a href = "../sintese-avaliacao">Síntese das avaliações</a>;</td>
-        <td><a href = "../artefatos-criados">Artefatos criados</a>.<br></td>
-        <td><a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a></a>; <br> <a href = "../sintese-apresentacao">Síntese apresentações</a></td>
-        <td><a href = "../ciclo-de-vida">Ciclo de vida <a href = "../resultados-execucao">Resultados do projeto</a><br><a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
-        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> </td>
-        <td><a href = "../sintese-apresentacao">Síntese apresentações</a><br><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br></td>
-        <td><a href = "../execucao-projeto">Execução do Projeto</a>.</td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/siteSelecionado/">Site Selecionado</a>; <br><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/avalia%C3%A7%C3%B5es/">Síntese das avaliações</a>;</td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/artefatos/">Artefatos criados</a>.<br></td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/cronogramaFinal/">Planejamento dos Recursos e das Entregas (Cronograma)</a></a>; <br> <a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/videosEntregas/">Síntese apresentações</a></td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/cicloVida/">Ciclo de vida <br><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/tecnicas/">Técnicas Utilizadas</a>.</td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/resultadosAlcan%C3%A7ados/">Resultados do projeto</a><br><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/ferramentas/">Ferramentas utilizadas</a>; <br> </td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/verifica%C3%A7%C3%B5es/">Síntese verificação</a><br><</td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/execu%C3%A7%C3%A3oProjeto/">Execução do Projeto</a>.</td>
     </tr>
     <tr>
         <td><b>Período de revisão</b></td>
-        <td></td>
+        <td>06/12/2023</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1400,12 +1400,14 @@ As Tabelas 20 e 21 apresentam, respectivamente, o cronograma planejado e o execu
         <td></td>
     </tr>
     <tr>
-        <td><a href = "../ferramentas-utilizadas">Ferramentas utilizadas</a>; <br> <a href = "../execucao-projeto">Execução do Projeto</a>; <br> <a href = "../artefatos-criados">Artefatos criados</a>; <br> <a href = "../resultados-execucao">Resultados do projeto</a>; <br> <a href = "../sintese-avaliacao">Síntese das avaliações</a>.</td>
-        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <br> <a href = "../ciclo-de-vida">Ciclo de vida</a>.</td>
-        <td>-</td>
-        <td><a href = "../execucao-projeto">Execução do Projeto</a>.</td>
-        <td><a href = "../sintese-apresentacao">Síntese apresentações</a>; <br> <br> <a href = "../sintese-verificacoes">Síntese verificação</a>; <br> <a href = "../site-selecionado">Site Selecionado</a>.</td>
-        <td><a href = "../cronograma-projeto">Planejamento dos Recursos e das Entregas (Cronograma)</a>; <br> <a href = "../tecnicas-utilizadas">Técnicas Utilizadas</a>.</td>
+        <td>Atividade revizada(s).</td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/artefatos/">Artefatos criados</a>; <br><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/avalia%C3%A7%C3%B5es/">Síntese das avaliações</a>.</td>
+        <td><a href = "../../verificacao/grupo/etapa4/verificacao-storyboard">Verificação Storyboard</a>; <br></td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/execu%C3%A7%C3%A3oProjeto/">Execução do Projeto</a>; <br> </td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/cronogramaFinal/">Planejamento dos Recursos e das Entregas (Cronograma)</a></td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/verifica%C3%A7%C3%B5es/#historico-de-versao">Síntese verificação</a>; <br></td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/videosEntregas/">Síntese apresentações</a>; <br></td>
+        <td><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/resultadosAlcan%C3%A7ados/">Resultados do projeto</a><br><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/ferramentas/">Ferramentas utilizadas</a>; <br> <a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/siteSelecionado/">Site Selecionado</a>.<br><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/cicloVida/">Ciclo de vida</a><br><a href = "https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/entregaFinal/tecnicas/">Técnicas Utilizadas</a></td>
     </tr>
 </table>
 
@@ -1423,4 +1425,4 @@ Pode concluir se que em relação ao cronograma planejado e o executado, ao anal
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   06/12/2023   |   Criação do documento | [Artur Jackson](https://github.com/artur-jack)| []() |
+|    1.0   |   06/12/2023   |   Criação do documento | [Artur Jackson](https://github.com/artur-jack)| [Fause Carlos](https://github.com/FauseSkyWalker) |
