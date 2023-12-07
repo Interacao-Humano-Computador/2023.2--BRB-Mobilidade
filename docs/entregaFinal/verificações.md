@@ -274,7 +274,7 @@ _Fonte: [Juan Pablo](https://github.com/Juan-Ricarte), 2023._
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
 | ------ | ---------- | --------------------------------------- | ----------------------------- | ----------------------------- |
-|    1.0   |   06/12/2023   |   Criação do documento |[Juan Pablo](https://github.com/Juan-Ricarte)  | []() |
+|    1.0   |   06/12/2023   |   Criação do documento |[Juan Pablo](https://github.com/Juan-Ricarte)  | [Artur Jackson](https://github.com/artur-jack) |
 
 
 
