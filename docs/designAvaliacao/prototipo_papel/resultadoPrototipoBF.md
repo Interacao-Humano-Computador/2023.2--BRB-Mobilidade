@@ -238,7 +238,6 @@ Tabela 8 - Respostas entrevista Meus acessos(Fonte - [Amanda Abreu](https://gith
 
 ## Análise e interpretação dos resultados
 
-<div style="text-align: justify">
 A maioria dos usuários teve uma boa experiência com o sistema do BRB Mobilidade, indicando uma usabilidade satisfatória. A maioria não apresentou muitas sugestões de melhoria, o que pode sugerir que o sistema atendeu às expectativas em termos de eficiência e clareza na execução das tarefas.
 
 No entanto, algumas áreas específicas foram apontadas para possíveis melhorias. Por exemplo, a necessidade de visualizar a foto antes de confirmar sua alteração foi destacada por um usuário. Isso sugere a oportunidade de aprimorar essa funcionalidade para proporcionar uma experiência mais intuitiva e sem obstáculos para o usuário.
@@ -253,10 +252,10 @@ Com base nos feedbacks dos usuários sobre o sistema BRB Mobilidade, podemos pla
 
 - Melhoria no processo de busca do formato do arquivo: Simplificar a busca ou indicar de forma mais clara os formatos aceitos para arquivos, visando facilitar a localização correta para a execução das tarefas.
 
+
 ## Conclusão
 
 Os feedbacks dos usuários do sistema BRB Mobilidade apontam para uma experiência geralmente positiva, destacando áreas específicas para melhorias. As sugestões, como a visualização prévia de fotos e ajustes na disposição dos botões, ressaltam a importância de aprimoramentos na usabilidade e na interface do usuário. O plano de reprojeto proposto visa implementar essas melhorias de forma iterativa, mantendo a comunicação com os usuários e priorizando a facilidade de uso
-</div>
 
 ## Referências Bibliográficas
 

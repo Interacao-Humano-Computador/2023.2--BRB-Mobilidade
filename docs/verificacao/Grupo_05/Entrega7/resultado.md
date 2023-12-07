@@ -8,9 +8,9 @@ Temos como objetivo verificar através de uma inspeção utilizando de checklist
 
 Os artefatos a serem verificados são:
 
-- [Relato dos resultados do protótipo de papel](/docs/designAvaliacao/prototipo_papel/resultadoPrototipoBF.md)
-- [Planejamento da avaliação do Protótipo de alta fidelidade](/docs/designAvaliacao/prototipo_fidelidade/planejamento_ava.md)
-- [Planejamento do relato dos resultados do Protótipo de alta fidelidade](/docs/designAvaliacao/prototipo_fidelidade/planejamento_result.md)
+- [Relato dos resultados do protótipo de papel](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_papel/resultadoPrototipoBF/#analise-e-interpretacao-dos-resultados)
+- [Planejamento da avaliação do Protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_ava/)
+- [Planejamento do relato dos resultados do Protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/designAvaliacao/prototipo_fidelidade/planejamento_result/)
 
 ## Checklists
 
