@@ -6,9 +6,11 @@ Há diversas formas de expressar visualmente interfaces gráficas, abrangendo di
 
 
 Com base nisso, nessa seção trataremos sobre como vamos avaliar os protótipos desenvolvidos, metodologia, objetivos, o que esperamos encontrar com a análise, entre outras coisas.
+</div>
 
 ## Metodologia
 
+<div style="text-align: justify">
 Para conduzir a avaliação dos protótipos, escolhemos adotar entrevistas interativas, nas quais os participantes serão convidados a interagir com os protótipos e responder a perguntas posteriormente. Para estruturar esse processo de avaliação, seguiremos o framework DECIDE, cujos detalhes foram previamente delineados ao longo deste trabalho.
 
 Só para relembrar os tópicos do framework:
@@ -76,11 +78,13 @@ Perguntas que o entrevistador deve fazer ao entrevistado:
 <div style="text-align: justify">
 
 O método utilizado nesta etapa foi o método de investigação, no qual o entrevistador busca informações do entrevistado seja por meio de entrevistas e/ou questionários.Esta escolha foi levada em conta tendo em vista a grande quantidade de informações que são coletadas durante o processo além de possibilitar o entrevistador se aprofundar ainda mais nas perguntas caso seja necessário e dessa forma ter uma melhor análise e interpretação das expectativas do usuário  mude minhas palavras
+</div>
 
 ### Questões Práticas da Avaliação - ( I )
 
 **Responsáveis pela avaliação:**
 
+<div style="text-align: justify">
 Os responsáveis por fazer a avaliação são os integrantes desse projeto (Lucas Andrade, Amanda Abreu, Artur Jackson, Arthur Sousa, Juan Pablo, Fause e Felipe Hansen)
 Material a ser utilizado:
 
@@ -95,25 +99,30 @@ O recrutamento será feito considerando o perfil do usuário do sistema, como fo
 A entrevista será feita de forma presencial, no local combinado entre o responsável pela avaliação e o entrevistado.
 
 A quantidade de entrevistados prevista é de 3 usuários por protótipo, onde serão 7 protótipos a serem avaliados, um para cada tarefa para a qual foi criada o protótipo.
+</div>
 
 ### Questões éticas - ( D )
 
+<div style="text-align: justify">
 Nesta etapa do projeto para lidar com as questões éticas, utilizaremos um <a href="https://interacao-humano-computador.github.io/2023.2--BRB-Mobilidade/analiseRequisitos/aspectos_eticos/" target= "_blank">termo de consentimento</a> como forma de informar os participantes da pesquisa sobre os detalhes essenciais do projeto e garantir que eles compreendam completamente o que estão concordando em participar. Além disso, esse termo de consentimento serve para proteger os direitos e a privacidade dos participantes, assegurando que sua participação seja voluntária e baseada em seu pleno entendimento.
+</div>
 
 ### Avaliação dos Dados - ( E )
 
+<div style="text-align: justify">
  Avaliação de dados durante o teste com protótipo de papel é um processo fundamental que envolve a coleta e documentação de informações de acordo com o comportamento do usuário durante o teste. Para garantir a qualidade dos dados, é essencial identificar e registrar detalhadamente quaisquer problemas ou desafios enfrentados pelos usuários, bem como analisar a capacidade de cumprir as funcionalidades da melhor forma. Além disso, é fundamental avaliar aspectos de usabilidade, funcionalidades ausentes e eventuais problemas de desempenho. Observações gerais relativas ao processo devem ser registradas para fornecer insights valiosos. Posteriormente, os dados coletados serão compartilhados com a equipe de desenvolvimento, permitindo o aproveitamento máximo das informações pertinentes para a melhoria contínua do site. Esse processo de coleta e análise é essencial para garantir que o site atenda às necessidades dos usuários de forma eficaz.
-
+</div>
 
 ## Teste Piloto
 
+<div style="text-align: justify">
 Um teste piloto desempenha um papel crucial em projetos e processos, pois oferece uma oportunidade para identificar problemas, avaliar o desempenho, coletar feedback e validar suposições antes da implementação completa. Ele permite ajustes e melhorias com base na experiência real, minimiza riscos ao detectar problemas precocemente e economiza recursos ao evitar correções onerosas após o lançamento. Além disso, o teste piloto auxilia na familiarização e treinamento das partes envolvidas, contribuindo para o sucesso global de um projeto ou sistema.
 
 A partir disso, o teste piloto foi executado pelos Integrantes Felipe Hansen e Lucas Lobão no dia 27/11 de forma a simular o teste do protótipo de alta fidelidade.
 
 O vídeo do teste piloto pode ser encontrado [neste link](https://youtu.be/wIJGIKpoY1Q)
-
 </div>
+
 ## Histórico de versionamento
 
 | Versão | Data       | Modificação                             | Autor                         | Revisores                         |
