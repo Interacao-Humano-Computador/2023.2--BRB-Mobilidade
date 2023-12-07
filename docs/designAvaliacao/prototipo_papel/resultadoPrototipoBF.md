@@ -2,16 +2,18 @@
 
 <div style="text-align: justify">
 Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de papel. Portanto, serão abordados os tópicos referidos no Planejamento do Relato dos Resultados do Protótipo de Papel.
-
+</div>
 
 ## Metodologia
 
+<div style="text-align: justify">
 Os dados foram coletados por meio de sete entrevistas. No início de todas as entrevistas foi apresentado o termo de consentimento para que o entrevistado tenha noção que iremos usar os dados obtidos na entrevista para fim de análise dentro do projeto. 
+</div>
 
 ## Seleção dos Participantes
 
+<div style="text-align: justify">
 Os participantes foram selecionados com base no perfil do usuário e que já têm experiência no uso do site do BRB Mobilidade.
-
 </div>
 
 ## Escopo da Entrevista 
@@ -238,12 +240,15 @@ Tabela 8 - Respostas entrevista Meus acessos(Fonte - [Amanda Abreu](https://gith
 
 ## Análise e interpretação dos resultados
 
+<div style="text-align: justify">
 A maioria dos usuários teve uma boa experiência com o sistema do BRB Mobilidade, indicando uma usabilidade satisfatória. A maioria não apresentou muitas sugestões de melhoria, o que pode sugerir que o sistema atendeu às expectativas em termos de eficiência e clareza na execução das tarefas.
 
 No entanto, algumas áreas específicas foram apontadas para possíveis melhorias. Por exemplo, a necessidade de visualizar a foto antes de confirmar sua alteração foi destacada por um usuário. Isso sugere a oportunidade de aprimorar essa funcionalidade para proporcionar uma experiência mais intuitiva e sem obstáculos para o usuário.
+</div>
 
 ## Planejamento de Reprojeto
 
+<div style="text-align: justify">
 Com base nos feedbacks dos usuários sobre o sistema BRB Mobilidade, podemos planejar o reprojeto da seguinte forma:
 
 - Integração da Visualização Prévia de Fotos: Implementar mudanças nos pontos identificados para aprimoramento, como a adição de uma funcionalidade de pré-visualização de fotos.
@@ -251,11 +256,13 @@ Com base nos feedbacks dos usuários sobre o sistema BRB Mobilidade, podemos pla
 - Ajustes no posicionamento dos botões: Reorganizar a disposição dos botões, conforme sugerido por alguns usuários, como unir o botão de cancelar com o de salvar, visando uma melhor fluidez na execução das tarefas.
 
 - Melhoria no processo de busca do formato do arquivo: Simplificar a busca ou indicar de forma mais clara os formatos aceitos para arquivos, visando facilitar a localização correta para a execução das tarefas.
-
+</div>
 
 ## Conclusão
 
+<div style="text-align: justify">
 Os feedbacks dos usuários do sistema BRB Mobilidade apontam para uma experiência geralmente positiva, destacando áreas específicas para melhorias. As sugestões, como a visualização prévia de fotos e ajustes na disposição dos botões, ressaltam a importância de aprimoramentos na usabilidade e na interface do usuário. O plano de reprojeto proposto visa implementar essas melhorias de forma iterativa, mantendo a comunicação com os usuários e priorizando a facilidade de uso
+</div>
 
 ## Referências Bibliográficas
 
