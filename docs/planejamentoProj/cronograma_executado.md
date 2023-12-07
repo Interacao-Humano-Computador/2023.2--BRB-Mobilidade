@@ -131,9 +131,41 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 | Edição da apresentação | 26/11 | 28/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 29/11 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
 
 <div style="text-align: center">
-    <p> Tabela 9: Cronograma da Entrega 8 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
+    <p> Tabela 8: Cronograma da Entrega 8 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
 </div>
 
+
+## Cronograma Entrega 6.2
+
+| Atividade | Período planejado para desenvolvimento | Realizado | Autores | Período de revisão | Revisores |
+|-----------|------------------|---------|---------|-----------|-----------|
+| [Verificação dos artefatos da Etapa 1]() | 28/11 | 02/12 - 03/12 | Felipe Hansen e Fause Carlos | 03/12 | Arthur Sousa |
+| [Verificação dos artefatos da Etapa 2]() | 28/11 | 02/12 - 03/12 | Felipe Hansen e Fause Carlos | 03/12 | Amanda |
+| [Verificação dos artefatos da Etapa 3]() | 28/11 | 02/12 - 03/12 | Amanda e Arthur | 03/12 | Felipe |
+| [Verificação dos artefatos da Etapa 4]() | 28/11 | 02/12 - 03/12 | Amanda e Arthur | 03/12 | Artur Jackson |
+| [Verificação dos artefatos da Etapa 5]() | 28/11 | 02/12 - 03/12 | Artur Jackson e Lucas | 03/12 | Juan |
+| [Verificação dos artefatos da Etapa 7]() | 28/11 | 02/12 - 03/12 | Artur Jackson e Lucas | 03/12 | Amanda |
+| [Verificação dos artefatos da Etapa 8]() | 28/11 | 02/12 - 03/12 | Juan Pablo | 03/12 | Arthur Sousa |
+| [Gravação da apresentação]() | 29/11 | 03/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+| Edição da apresentação | 29/11 | 03/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 03/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+
+<div style="text-align: center">
+    <p> Tabela 9: Cronograma da Entrega 6.2 (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
+</div>
+
+
+## Cronograma Entrega final
+
+| Atividade | Período planejado para desenvolvimento | Realizado | Autores | Período de revisão | Revisores |
+| ----------- | :---------: | ---------| --------- | :---------: | ----------- |
+| Correção dos artefatos | 30/11 - 03/12 | 06/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/12 | Arthur Sousa | 
+| Criação do documento final | 30/11 - 03/12 | 06/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/12 | Felipe | 
+| Gravação da apresentação | 03/11 - 04/11 | 06/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 
+| Edição da apresentação | 04/11 - 05/11 | 06/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas | 06/12 | Amanda, Arthur Sousa, Artur Jackson, Fause, Felipe, Juan, Lucas |
+
+<div style="text-align: center">
+    <p> Tabela 10: Cronograma da Entrega Final (Fonte: Arthur Sousa e Artur Jackson, 2023).</p>
+</div>
 
 ## Bibliografia
 
@@ -148,3 +180,4 @@ As entregas do projeto realizadas até aqui estão detalhadas no cronograma da t
 |    1.1   |   15/10/2023   |   Adicionando cronograma Entrega 2 |  [Arthur Sousa](https://github.com/arthurrsousa) e [Artur Jackson](https://github.com/artur-jack)| [Artur Jackson](https://github.com/artur-jack) |
 |    1.2   |   21/10/2023   |   Adicionando cronograma Entrega 3 |  [Artur Jackson](https://github.com/artur-jack)| [Amanda]() |
 |    1.3   |   21/11/2023   |   Adiciona cronograma Entrega 6.1 e 7 |  [Artur Jackson](https://github.com/artur-jack)| [Arthur Sousa](https://github.com/arthurrsousa) |
+|    1.4   |   06/12/2023   |   Finaliza adição de Cronogramas |  [Arthur Sousa](https://github.com/arthurrsousa)| [Artur Jackson](https://github.com/artur-jack) |
